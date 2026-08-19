@@ -232,7 +232,8 @@ button { color: inherit; }
 .content-wrap { max-width: 1180px; margin: 0 auto; padding: 48px 54px 70px; }
 .overview-grid { display: grid; grid-template-columns: 0.9fr 1.55fr; gap: 18px; }
 .narrative-card { padding: 25px 27px; border: 1px solid var(--line); border-radius: 14px; background: var(--card); box-shadow: 0 8px 34px rgba(42,52,47,0.04); }
-.narrative-card p:last-child { margin: 11px 0 0; color: #394d4c; font-size: 0.92rem; line-height: 1.85; }
+.narrative-card > p:last-child,
+.narrative-card > #scene-resolution { margin: 11px 0 0; color: #394d4c; font-size: 0.92rem; line-height: 1.85; }
 .card-label { color: var(--gold); }
 .conflict-card { border-top: 3px solid var(--red); }
 .resolution-card { grid-column: 1 / -1; border-left: 3px solid var(--teal-bright); }
