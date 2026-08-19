@@ -39,7 +39,7 @@ const dom = {
   scrim: document.querySelector('#sidebar-scrim'),
 }
 
-const state = { index: [], selected: null, bundle: null, activeType: 'aq' }
+const state = { index: [], links: {}, linkNodes: {}, selected: null, bundle: null, activeType: 'aq' }
 
 function element(tag, className, text) {
   const node = document.createElement(tag)
@@ -157,6 +157,37 @@ function renderMetrics(bundle) {
   replaceChildren('#scene-metrics', fragment)
 }
 
+function renderContinuity(sceneId) {
+  const card = document.querySelector('#continuity-card')
+  const note = document.querySelector('#scene-resolution-note')
+  const continuation = state.links[String(sceneId)]?.continuation ?? []
+  card.hidden = continuation.length === 0
+  note.hidden = continuation.length === 0
+  if (continuation.length === 0) {
+    replaceChildren('#continuity-list')
+    return
+  }
+
+  const fragment = document.createDocumentFragment()
+  for (const relationship of continuation) {
+    const followup = { ...(state.linkNodes[String(relationship.scene_id)] ?? {}), ...relationship }
+    const item = element('article', 'continuity-item')
+    const header = element('div', 'continuity-item-head')
+    const copy = element('div', 'continuity-title')
+    copy.append(element('span', '', followup.distance === 1 ? '直接承接' : `后续第 ${followup.distance} 篇`))
+    copy.append(element('h4', '', followup.full_title || followup.title))
+    const relation = element('span', `continuity-relation confidence-${followup.confidence}`, followup.relation_label)
+    header.append(copy, relation)
+    item.append(header, element('p', '', followup.resolution))
+    const button = element('button', 'continuity-link', '查看这篇剧情 →')
+    button.type = 'button'
+    button.addEventListener('click', () => selectScene(followup.scene_id))
+    item.append(button)
+    fragment.append(item)
+  }
+  replaceChildren('#continuity-list', fragment)
+}
+
 function contextMap(bundle) {
   return new Map(bundle.context_refs.map((ref) => [ref.id, ref]))
 }
@@ -257,6 +288,7 @@ function renderBundle(bundle) {
   setText('#scene-conflict', bundle.scene.central_conflict)
   setText('#scene-summary', bundle.scene.summary)
   setText('#scene-resolution', bundle.scene.resolution)
+  renderContinuity(bundle.scene.scene_id)
   replaceChildren('#scene-themes', ...bundle.scene.themes.map(chip))
   renderMetrics(bundle)
 
@@ -295,6 +327,10 @@ function renderBundle(bundle) {
 async function selectScene(sceneId, updateHash = true) {
   const scene = state.index.find((item) => item.scene_id === Number(sceneId))
   if (!scene) return
+  if (state.activeType !== 'all' && questTypeOf(scene) !== state.activeType) {
+    state.activeType = questTypeOf(scene)
+    renderTypeFilters()
+  }
   state.selected = scene.scene_id
   renderSceneList()
   closeMenu()
@@ -315,10 +351,17 @@ async function selectScene(sceneId, updateHash = true) {
 
 async function boot() {
   try {
-    const response = await fetch('data/index.json', { cache: 'no-store' })
+    const [response, links] = await Promise.all([
+      fetch('data/index.json', { cache: 'no-store' }),
+      fetch('data/story-links.json', { cache: 'no-store' })
+        .then((linksResponse) => linksResponse.ok ? linksResponse.json() : { scenes: {} })
+        .catch(() => ({ scenes: {} })),
+    ])
     if (!response.ok) throw new Error(`HTTP ${response.status}`)
     const index = await response.json()
     state.index = index.scenes ?? []
+    state.links = links.scenes ?? {}
+    state.linkNodes = links.nodes ?? {}
     const requested = Number(new URLSearchParams(location.hash.slice(1)).get('scene'))
     const requestedScene = state.index.find((scene) => scene.scene_id === requested)
     if (requestedScene) state.activeType = questTypeOf(requestedScene)

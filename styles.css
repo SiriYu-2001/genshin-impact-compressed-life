@@ -236,6 +236,20 @@ button { color: inherit; }
 .card-label { color: var(--gold); }
 .conflict-card { border-top: 3px solid var(--red); }
 .resolution-card { grid-column: 1 / -1; border-left: 3px solid var(--teal-bright); }
+.resolution-note { padding-top: 11px; border-top: 1px dashed var(--line); color: var(--muted) !important; font-size: .73rem !important; }
+.continuity-card { grid-column: 1 / -1; border-left: 3px solid var(--gold); }
+.continuity-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 20px; }
+.continuity-heading > span { color: var(--muted); font-size: .68rem; }
+.continuity-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin-top: 14px; }
+.continuity-item { padding: 17px 18px; border: 1px solid var(--line); border-radius: 10px; background: rgba(239, 235, 224, .34); }
+.continuity-item-head { display: flex; align-items: start; justify-content: space-between; gap: 14px; }
+.continuity-title > span { color: var(--gold); font-size: .64rem; font-weight: 700; letter-spacing: .08em; }
+.continuity-title h4 { margin: 5px 0 0; color: var(--ink); font: 600 1rem/1.45 Georgia, "Noto Serif SC", serif; }
+.continuity-relation { flex: 0 0 auto; padding: 4px 7px; border-radius: 999px; color: var(--teal); background: rgba(36,95,90,.08); font-size: .61rem; }
+.continuity-relation.confidence-medium { color: #8a672d; background: rgba(191,135,59,.1); }
+.continuity-item > p { margin: 12px 0 0; color: #465957; font-size: .8rem; line-height: 1.75; }
+.continuity-link { margin-top: 12px; padding: 0; border: 0; cursor: pointer; color: var(--teal); background: transparent; font-size: .72rem; font-weight: 700; }
+.continuity-link:hover { color: var(--gold); }
 
 .chapter-navigation, .context-panel { margin-top: 64px; }
 .section-heading { display: flex; align-items: end; justify-content: space-between; gap: 30px; margin-bottom: 22px; }
@@ -318,7 +332,9 @@ button { color: inherit; }
   .hero-content { padding: 48px 24px 42px; }
   .content-wrap { padding: 36px 20px 54px; }
   .overview-grid { grid-template-columns: 1fr; }
-  .resolution-card { grid-column: auto; }
+  .resolution-card, .continuity-card { grid-column: auto; }
+  .continuity-heading { align-items: start; flex-direction: column; gap: 5px; }
+  .continuity-list { grid-template-columns: 1fr; }
   .section-heading { align-items: start; flex-direction: column; gap: 9px; }
   .compact-heading > p { display: none; }
   .chapter-timeline::before { left: 18px; }
