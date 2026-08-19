@@ -1,0 +1,85 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 90001,
+    "slug": "90001_quest-editor-test",
+    "title": "任务编辑器测试$UNRELEASED",
+    "chapter_num": "",
+    "premise": "该隐藏且未发布的测试任务以验证任务表编辑器导出的数据能否正常接入数值发布流程为主要目标。",
+    "central_conflict": "测试关注数据接入是否成功，但正文只有一段空白结果对话，未明确给出验证结论。",
+    "summary": "该 scene 是一项隐藏且未发布的任务编辑器接入测试。任务通过唯一的剧情步骤触发琳的结果对话，以检查导出数据能否进入数值发布流程。琳的对话文本为空，流程随即进入 finish，没有提供实际叙事内容或测试反馈。由此，任务执行路径能够走到结束节点，但数据是否正常接入仍未获得文本层面的明确确认。",
+    "resolution": "空白结果对话直接结束了唯一的任务步骤。原文没有说明接入测试是否成功，也未留下明确的后续剧情。",
+    "themes": [
+      "编辑器测试",
+      "数据接入",
+      "隐藏内容",
+      "未发布内容"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 90001,
+      "title": "任务编辑器测试$UNRELEASED",
+      "summary": "本章以验证任务表编辑器导出数据能否正常接入数值发布流程为目标。唯一的隐藏测试步骤触发琳的结果对话，但对话没有文字内容并立即结束。流程完成了对话节点的收束，却没有明确公布接入测试的结果。",
+      "turning_point": "琳的空白结果对话被触发，并直接进入 finish。",
+      "outcome": "唯一的测试步骤结束，但任务编辑器数据是否成功接入数值发布流程仍未明确。",
+      "section_ids": [
+        "90001-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "该任务主要用于测试任务表编辑器导出的数据是否正常接入数值发布流程$UNRELEASED",
+      "is_hidden": true
+    }
+  ],
+  "sections": [
+    {
+      "id": "90001-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "琳的空白测试对话立即结束",
+      "narrative_role": "resolution",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "琳"
+      ],
+      "summary": "时间未明确，地点未明确，隐藏且未发布的测试步骤触发了琳的结果对话。对话文本为空并立即进入 finish，其用途是验证任务表编辑器导出的数据能否正常接入数值发布流程。正文没有提供测试成功或失败的明确反馈。",
+      "motivation": "通过触发结果对话来检验任务表编辑器导出数据与数值发布流程的接入情况。",
+      "outcome": "结果对话流程直接结束；接入测试是否成功，原文未明确。",
+      "keywords": [
+        "琳",
+        "空白对话",
+        "编辑器测试",
+        "数据接入",
+        "隐藏步骤"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 9000101,
+          "title": "接入成功？$UNRELEASED$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:41:18.534Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

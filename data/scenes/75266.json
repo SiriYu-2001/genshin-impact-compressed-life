@@ -1,0 +1,131 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 75266,
+    "slug": "75266_tea-party-re-invitation-citlali",
+    "title": "茶会的再邀·茜特菈莉",
+    "chapter_num": "",
+    "premise": "桑多涅前往烟谜主的茜特菈莉住所附近布置茶桌并落座，准备与茜特菈莉共度茶会时光。",
+    "central_conflict": "茶会临近尾声时，桑多涅需要决定继续静坐还是结束聚会，而茜特菈莉希望双方的交往不止于这一次由桑多涅请客的茶会。",
+    "summary": "桑多涅来到烟谜主的茜特菈莉住所附近，完成茶桌布置并落座，开启与茜特菈莉的茶会。两人安静共度一段时光后，茜特菈莉询问桑多涅的想法。桑多涅可以选择再坐一会儿，也可以直接表示茶会该结束了。两种选择都没有引发争执，并汇合到相同的回应。茜特菈莉接受桑多涅的决定，同时提议稍后一起去喝一杯。她以不能总让桑多涅请客为由表达回请之意，使本次茶会转化为下一次相聚的约定。",
+    "resolution": "茶会在轻松的气氛中收束，茜特菈莉主动提出回请桑多涅喝一杯。双方的相处因此获得延续，并留下新的聚会安排。",
+    "themes": [
+      "茶会相聚",
+      "陪伴",
+      "礼尚往来",
+      "再次邀约"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 75266,
+      "title": "茶会的再邀·茜特菈莉",
+      "summary": "桑多涅前往茜特菈莉住所附近布置茶桌并落座，与茜特菈莉共同享受茶会。茶会临近结束时，桑多涅可以选择继续停留或提出离席，两条回应均得到茜特菈莉平和的接受。茜特菈莉随后主动提出回请桑多涅喝一杯，使茶会以新的相聚约定告终。",
+      "turning_point": "茜特菈莉没有让茶会随着桑多涅的选择直接结束，而是主动提出回请，将告别转化为下一次相聚的邀请。",
+      "outcome": "本次茶会顺利结束，茜特菈莉与桑多涅约定稍后一起喝一杯。",
+      "section_ids": [
+        "75266-c00-s01",
+        "75266-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "前往烟谜主放置茶桌并使用桑多涅落座后，与茜特菈莉共度茶会时光吧…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "75266-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "桑多涅赴约布置茶桌",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "茶会开始前",
+      "locations": [
+        "烟谜主·茜特菈莉住所附近"
+      ],
+      "characters": [
+        "「木偶」",
+        "茜特菈莉"
+      ],
+      "summary": "茶会开始前，桑多涅前往烟谜主的茜特菈莉住所附近布置茶桌并落座。她以赴约相聚为目的完成准备，与茜特菈莉开启茶会。",
+      "motivation": "桑多涅希望按照邀约与茜特菈莉共度茶会时光。",
+      "outcome": "茶桌与座位准备完成，两人进入共同享受茶会的阶段。",
+      "keywords": [
+        "烟谜主",
+        "茶桌",
+        "落座",
+        "茶会开启"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7526601,
+          "title": "前往茜特菈莉的住所附近开启茶会",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7526602,
+          "title": "前往茜特菈莉的住所附近开启茶会",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "75266-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "茜特菈莉提出回请相聚",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "茶会临近结束时",
+      "locations": [
+        "烟谜主·茜特菈莉住所附近"
+      ],
+      "characters": [
+        "「木偶」",
+        "茜特菈莉"
+      ],
+      "summary": "茶会临近结束时，茜特菈莉询问桑多涅的想法，桑多涅可以选择再坐一会儿或表示茶会该结束了。无论桑多涅如何回答，茜特菈莉都平和接受，并提议稍后一起去喝一杯。她表示不能总让桑多涅请客，以回请延续双方的相聚。",
+      "motivation": "桑多涅需要决定是否结束当前茶会，茜特菈莉则希望以回请回应桑多涅的招待并继续相处。",
+      "outcome": "本次茶会得到友好收束，茜特菈莉主动促成了下一次共同喝酒的约定。",
+      "keywords": [
+        "茶会尾声",
+        "玩家选择",
+        "回请",
+        "再次相聚"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7526603,
+          "title": "享受茶会时光",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:30:36.670Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

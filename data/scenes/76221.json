@@ -1,0 +1,100 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 76221,
+    "slug": "76221_tea-party-re-invitation-tartaglia",
+    "title": "茶会的再邀·达达利亚",
+    "chapter_num": "",
+    "premise": "桑多涅前往月矩力试验设计局高处布置茶桌并落座，与「公子」共同享受茶会时光。",
+    "central_conflict": "本段没有明显的对抗性冲突，主要悬念在于众人是继续停留片刻，还是结束这场茶会并道别。",
+    "summary": "桑多涅来到月矩力试验设计局高处开启茶会，并与「公子」一同度过闲适时光。「公子」称赞这场茶会，感叹自己过去本应多参加几次，表明他认可这次相聚。茶会临近尾声时，桑多涅可以选择再坐一会儿，也可以直接宣布茶会结束。无论选择如何，短暂相聚最终都走向告别。「公子」爽快接受茶会结束，并约定下次再见。",
+    "resolution": "茶会在友好的道别中收束，「公子」对聚会留下积极印象，并以再次见面的约定保留后续重聚的可能。",
+    "themes": [
+      "茶会闲聚",
+      "短暂陪伴",
+      "友好道别",
+      "再次相约"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 76221,
+      "title": "茶会的再邀·达达利亚",
+      "summary": "桑多涅在月矩力试验设计局高处开启茶会，与「公子」共享休闲时光。「公子」对茶会表示赞赏，并流露出过去较少参与此类聚会的遗憾。茶会是否再延续片刻取决于桑多涅的选择，但最终双方仍以约定再见结束相聚。",
+      "turning_point": "桑多涅面临继续停留或结束茶会的选择，使相聚由享受当下转入告别阶段。",
+      "outcome": "茶会顺利结束，「公子」满意离席，并与桑多涅约定下次再见。",
+      "section_ids": [
+        "76221-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "前往月矩力实验设计局高处放置茶桌并使用桑多涅落座后，与众人共度茶会时光吧…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "76221-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "茶会相聚后约定再见",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "茶会进行至结束阶段",
+      "locations": [
+        "月矩力试验设计局高处"
+      ],
+      "characters": [
+        "桑多涅",
+        "「公子」"
+      ],
+      "summary": "桑多涅在月矩力试验设计局高处布置茶桌并落座，与「公子」享受茶会时光。「公子」称赞这场茶会，并感叹自己过去应该多参加几次。桑多涅无论选择再停留片刻还是结束茶会，双方最终都会友好道别，由「公子」提出下次再见。",
+      "motivation": "桑多涅希望与「公子」共度茶会时光，而「公子」因享受这次相聚而愿意表达认可并维持今后的往来。",
+      "outcome": "茶会在融洽气氛中结束，双方以再次见面的约定为这次相聚收尾。",
+      "keywords": [
+        "月矩力试验设计局",
+        "茶会",
+        "「公子」",
+        "道别",
+        "下次再见"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7622101,
+          "title": "前往月矩力试验设计局高处开启茶会",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7622102,
+          "title": "前往月矩力试验设计局高处开启茶会",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7622103,
+          "title": "享受茶会时光",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:36:43.616Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

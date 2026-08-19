@@ -1,0 +1,266 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 21019,
+    "slug": "21019_hidden-treasure-of-qingce",
+    "title": "轻策之藏(废弃）$UNRELEASED",
+    "chapter_num": "",
+    "premise": "轻策山中似乎隐藏着什么秘密，寻宝任务由此开启；目标是观察铭文、循着线索，最终找到并获得轻策山中隐藏的宝藏。",
+    "central_conflict": "宝藏隐藏于轻策山中，线索隐晦、需从铭文中解读，寻宝者必须经过多轮搜索逐步拼合线索才能定位宝藏；原文未交代是否存在阻挠寻宝的对立势力。",
+    "summary": "本 scene 是标注为“废弃/未发布”的寻宝任务《轻策之藏》，整个 scene 仅含一个章节。故事以轻策山中似乎隐藏着秘密为起点，任务开启后先观察铭文，进而展开多轮“寻找宝藏的线索”，最终获得宝藏。获得宝藏之后仍残留一个隐藏的“寻找宝藏的线索”步骤，提示原定流程可能并未完全收束。全章只有步骤标题，没有对话文本、步骤描述或 NPC 信息，具体情节大多未明确。该章节描述与已发布世界任务《古云有「螭」》(21021) 几乎一致，后者同样以解读铭文为开端并多次搜索宝藏，可视为本 scene 构思的正式对应形态（见 ctx-01）。因标注废弃且未发布，本 scene 未进入正式剧情线，对已发布剧情没有直接推动作用。",
+    "resolution": "寻宝行动循铭文与多轮线索最终获得轻策山中的宝藏，目标达成；但整章标注为废弃、未发布，结尾残留的隐藏寻宝步骤表明剧情未被完整实现。该构思的正式形态由已发布任务《古云有「螭」》(21021) 承接，本 scene 本身未进入正式剧情线。",
+    "themes": [
+      "寻宝",
+      "铭文解谜",
+      "轻策山传说",
+      "线索追踪",
+      "未发布内容"
+    ],
+    "context_ref_ids": [
+      "ctx-01"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 21019,
+      "title": "轻策之藏(废弃）$UNRELEASED",
+      "summary": "本章即整个 scene 的唯一章节，围绕轻策山中隐藏的秘密展开寻宝：任务开启后先观察铭文获取线索，随后进行多轮“寻找宝藏的线索”搜索，最终获得宝藏；收尾处残留一个隐藏的寻宝线索步骤。全章仅有步骤标题，无对话与步骤描述，整体标注为“废弃”与未发布。其章节描述与已发布任务《古云有「螭」》(21021) 几乎一致（见 ctx-01）。",
+      "turning_point": "剧情由观察铭文、搜索线索的铺垫阶段转入“获得宝藏”的达成环节，寻宝目标最终兑现。",
+      "outcome": "寻宝者获得轻策山中的宝藏；此后仅残留一个隐藏的“寻找宝藏的线索”步骤，整章以废弃、未发布状态结束，未进入正式剧情流程。",
+      "section_ids": [
+        "21019-c00-s01",
+        "21019-c00-s02",
+        "21019-c00-s03",
+        "21019-c00-s04",
+        "21019-c00-s05"
+      ],
+      "context_ref_ids": [
+        "ctx-01"
+      ],
+      "source_file": "chapter_00.json",
+      "source_description": "轻策山里，似乎隐藏着什么秘密…$UNRELEASED",
+      "is_hidden": true
+    }
+  ],
+  "sections": [
+    {
+      "id": "21019-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "任务开启并指向轻策山的秘密",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "轻策山"
+      ],
+      "characters": [
+        "原文未明确"
+      ],
+      "summary": "时间未明确，任务在轻策山开启，故事围绕“轻策山里，似乎隐藏着什么秘密”展开，寻宝目标随之确立。该开启步骤在数据中标注为隐藏。原文未交代任务发起者与具体起因。",
+      "motivation": "轻策山中似乎隐藏着秘密，构成展开寻宝行动的前提；具体委托动机原文未明确。",
+      "outcome": "任务正式开启并确立寻找轻策山宝藏的目标，为后续观察铭文、搜寻线索铺路。",
+      "keywords": [
+        "任务开启",
+        "轻策山",
+        "秘密",
+        "寻宝"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 2101901,
+          "title": "任务开启$UNRELEASED$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "21019-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "观察铭文以寻找宝藏线索",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "轻策山"
+      ],
+      "characters": [
+        "原文未明确"
+      ],
+      "summary": "任务推进至观察铭文阶段，寻宝者通过观察轻策山中的铭文获取与宝藏相关的线索。铭文的具体内容与解读结果原文未给出。这一步是从任务开启到实际寻宝的关键起点。",
+      "motivation": "铭文被视为定位宝藏的初始线索来源，需要先解读铭文才能继续寻宝。",
+      "outcome": "由铭文获得初步线索，寻宝由此转入寻找宝藏线索的阶段。",
+      "keywords": [
+        "铭文",
+        "观察",
+        "线索",
+        "解读"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 2101902,
+          "title": "观察铭文$UNRELEASED",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "21019-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "多次外出寻找宝藏的线索",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "轻策山"
+      ],
+      "characters": [
+        "原文未明确"
+      ],
+      "summary": "寻宝进入线索搜索阶段，连续进行了多轮“寻找宝藏的线索”行动，其中包含标注为隐藏的步骤。多步标题相同，说明搜索是分步持续推进的过程，但各步的具体地点与发现原文均未记载。",
+      "motivation": "依据铭文所得线索，在轻策山各处搜索以定位宝藏。",
+      "outcome": "通过多轮搜索累积线索，最终指向宝藏所在，推动剧情进入获得宝藏环节。",
+      "keywords": [
+        "寻宝",
+        "线索",
+        "搜索",
+        "轻策山"
+      ],
+      "source_step_keys": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 2101903,
+          "title": "寻找宝藏的线索$UNRELEASED$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 2101904,
+          "title": "寻找宝藏的线索$UNRELEASED",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 2101905,
+          "title": "寻找宝藏的线索$UNRELEASED",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 2101906,
+          "title": "寻找宝藏的线索$UNRELEASED",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "21019-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "沿线索最终获得宝藏",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "时间未明确",
+      "locations": [
+        "轻策山"
+      ],
+      "characters": [
+        "原文未明确"
+      ],
+      "summary": "循着此前铭文与多轮搜索所得的线索，寻宝者最终获得轻策山中隐藏的宝藏。宝藏的具体内容、数量与获得方式原文未明确。这是本章寻宝目标的达成节点。",
+      "motivation": "完成寻宝目标，兑现此前线索指向的结果。",
+      "outcome": "宝藏被成功获得，本章主流程就此收束；其后仍残留一个隐藏的寻宝线索步骤。",
+      "keywords": [
+        "宝藏",
+        "获得",
+        "目标达成"
+      ],
+      "source_step_keys": [
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 2101907,
+          "title": "获得宝藏$UNRELEASED",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "21019-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "获得宝藏后仍有寻宝步骤",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "轻策山"
+      ],
+      "characters": [
+        "原文未明确"
+      ],
+      "summary": "在获得宝藏之后，数据中仍存在一个标注为隐藏的“寻找宝藏的线索”步骤。该步骤位于获得宝藏之后，提示原定寻宝流程可能并未完全结束，或存在未实现的后续内容。其具体内容与结果原文未说明。",
+      "motivation": "原文未明确。",
+      "outcome": "作为废弃内容中的残留步骤，暗示寻宝故事在获得宝藏后仍有未完成的展开，整体以未发布状态告终。",
+      "keywords": [
+        "隐藏步骤",
+        "寻宝线索",
+        "未发布"
+      ],
+      "source_step_keys": [
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 2101908,
+          "title": "寻找宝藏的线索$UNRELEASED$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [
+    {
+      "id": "ctx-01",
+      "path": "21021_the-chi-of-yore/chapter_00.json",
+      "reason": "本 scene 标注“废弃/未发布”且仅有步骤标题，无法自证其剧情构思；21021 的章节描述与本 scene 几乎一致且为已发布任务，可说明本 scene 构思的正式对应形态，帮助理解观察铭文与寻宝流程的背景。",
+      "fact": "已发布的世界任务《古云有「螭」》(21021) 章节描述为“轻策山中，似乎藏匿着什么秘密…”，与本 scene 描述几乎相同；其剧情以解读“残缺的文字”铭文为开端，并包含多次“搜索宝藏”步骤。"
+    }
+  ],
+  "generated": {
+    "at": "2026-08-18T20:07:25.408Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

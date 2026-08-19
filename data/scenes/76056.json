@@ -1,0 +1,257 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 76056,
+    "slug": "76056_testhiddenhidden",
+    "title": "(test)隐藏$HIDDEN",
+    "chapter_num": "",
+    "premise": "在这段隐藏测试内容中，{NICKNAME}路过训练场时受到宝藏猎人特尔霍一行的切磋邀请。双方原本只想借比试打发时间，却因{NICKNAME}接连取胜而不断提高对抗强度。",
+    "central_conflict": "特尔霍一行既想维护宝藏猎人的颜面，又必须面对实力远超预期的过路者。轻松切磋由此升级为三人共同出战的正式挑战。",
+    "summary": "{NICKNAME}在训练场遇见特尔霍、彼伊列和英凯莉，并接受了彼伊列提出的三招之约。彼伊列落败后，特尔霍认可{NICKNAME}的实战能力，随即派英凯莉进行第二轮较量。剧情同时提供了暂时离开的路径，特尔霍允许{NICKNAME}日后再来，而其返回后挑战可以继续。英凯莉也被击败，使特尔霍一行意识到对手远比普通路人强大。为了挽回宝藏猎人的颜面，特尔霍发出正式挑战，并接受三人一同出战的提议。最终三人仍然败北，特尔霍坦然承认{NICKNAME}的强大，要求同伴加强训练，并以考虑退休、到瓦伊诺的训练场任职作结。",
+    "resolution": "特尔霍一行接受了正式挑战失败的结果，没有继续纠缠{NICKNAME}。本段以自我反省和退休玩笑收束，原文未明确留下必须延续的后续事件。",
+    "themes": [
+      "实力较量",
+      "荣誉心",
+      "坦然认输",
+      "训练成长",
+      "轻松诙谐"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 76056,
+      "title": "(test)隐藏$HIDDEN",
+      "summary": "{NICKNAME}在训练场接受特尔霍一行的切磋，先后击败彼伊列和英凯莉，也可以在第二轮前暂时离开并于返回后继续挑战。连续失利使原本用于打发时间的比试逐渐触及宝藏猎人的颜面，特尔霍于是把切磋升级为三人共同参加的正式对决。三人最终仍然落败，特尔霍承认对手实力，督促同伴训练，并以考虑退休的玩笑结束这次相遇。",
+      "turning_point": "英凯莉也被击败后，特尔霍不再把交手视为普通切磋，而是为维护宝藏猎人的颜面发出正式挑战。",
+      "outcome": "{NICKNAME}赢下逐步升级的全部较量，特尔霍一行接受失败并开始反思自身实力。",
+      "section_ids": [
+        "76056-c00-s01",
+        "76056-c00-s02",
+        "76056-c00-s03",
+        "76056-c00-s04",
+        "76056-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "(test)隐藏$HIDDEN",
+      "is_hidden": true
+    }
+  ],
+  "sections": [
+    {
+      "id": "76056-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "特尔霍邀过路者切磋",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "{NICKNAME}路过训练场时",
+      "locations": [
+        "训练场"
+      ],
+      "characters": [
+        "{NICKNAME}",
+        "特尔霍",
+        "彼伊列"
+      ],
+      "summary": "{NICKNAME}路过训练场时，特尔霍认为只打靶不够尽兴，主动邀请其与众人切磋。{NICKNAME}应下三招之约后，特尔霍派彼伊列首先出战，彼伊列自信能在三招内获胜。",
+      "motivation": "特尔霍一行想用人与人的较量打发时间，{NICKNAME}也愿意接受挑战。",
+      "outcome": "双方完成约战并准备开始第一轮比试，彼伊列成为首名对手。",
+      "keywords": [
+        "训练场",
+        "切磋邀请",
+        "三招之约",
+        "彼伊列"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7605601,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76056-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "首胜促成第二轮较量",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "第一轮比试结束后",
+      "locations": [
+        "训练场"
+      ],
+      "characters": [
+        "{NICKNAME}",
+        "特尔霍",
+        "彼伊列",
+        "英凯莉"
+      ],
+      "summary": "彼伊列败给{NICKNAME}后向特尔霍道歉，特尔霍并未责怪他，而是让他到一旁休息。特尔霍赞赏{NICKNAME}的身手，并在互通姓名后判断其拥有丰富实战经验。为了认真检验对手实力，他宣布刚才的比试不算，改派英凯莉进行第二轮较量。",
+      "motivation": "彼伊列的失利使特尔霍对{NICKNAME}的真实实力产生兴趣，促使他安排更强的同伴继续试探。",
+      "outcome": "轻松的首次交手升级为更认真的第二轮切磋，英凯莉接替彼伊列出战。",
+      "keywords": [
+        "彼伊列落败",
+        "实力认可",
+        "英凯莉",
+        "挑战升级"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7605602,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76056-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "暂别后重新接续挑战",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "第二轮切磋开始前的可选阶段",
+      "locations": [
+        "训练场"
+      ],
+      "characters": [
+        "{NICKNAME}",
+        "特尔霍",
+        "彼伊列"
+      ],
+      "summary": "剧情包含一条暂缓挑战的路径：{NICKNAME}以另有事情为由离开，特尔霍表示众人本就在打发时间，可以等其有空时再来。{NICKNAME}返回训练场后，特尔霍立即让彼伊列先上，并再次询问其是否准备好继续过招。",
+      "motivation": "{NICKNAME}可能需要先处理其他事情，而特尔霍仍希望日后完成尚未结束的切磋。",
+      "outcome": "挑战可以被暂时搁置，但返回后的对话让比试重新接续，不改变后续对抗方向。",
+      "keywords": [
+        "可选暂别",
+        "返回训练场",
+        "重新约战",
+        "挑战接续"
+      ],
+      "source_step_keys": [
+        "2",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7605603,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7605607,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76056-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "连胜引出三人正式挑战",
+      "narrative_role": "conflict",
+      "importance": 5,
+      "when": "英凯莉落败后",
+      "locations": [
+        "训练场"
+      ],
+      "characters": [
+        "{NICKNAME}",
+        "特尔霍",
+        "彼伊列",
+        "英凯莉"
+      ],
+      "summary": "英凯莉也败给{NICKNAME}，特尔霍承认自己轻敌，彼伊列则感叹众人意外遇到了强大对手。英凯莉提出不能让对方就此离开，一度引起{NICKNAME}对众人意图的怀疑，特尔霍随即澄清他们只是不能轻易认输。为了维护宝藏猎人的颜面，特尔霍郑重发起正式挑战，{NICKNAME}则要求三人一同出战。",
+      "motivation": "连续失败伤及特尔霍一行作为宝藏猎人的自尊，他们希望拿出真正实力挽回颜面。",
+      "outcome": "普通切磋正式升级为全力对决，特尔霍、彼伊列和英凯莉将共同迎战{NICKNAME}。",
+      "keywords": [
+        "英凯莉落败",
+        "宝藏猎人",
+        "正式挑战",
+        "三人出战"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7605603,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76056-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "三人败北后坦然收场",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "正式挑战结束后",
+      "locations": [
+        "训练场"
+      ],
+      "characters": [
+        "{NICKNAME}",
+        "特尔霍",
+        "彼伊列",
+        "英凯莉"
+      ],
+      "summary": "特尔霍三人在正式挑战中仍然败给{NICKNAME}，英凯莉和彼伊列对连续输给过路人的结果难以释怀。特尔霍坦然表示输了便无需多想，并直接称赞{NICKNAME}实力强大。他借此要求两名同伴加强训练，自己则开玩笑称应考虑早点退休，并打听瓦伊诺的训练场是否招人。",
+      "motivation": "败局已定后，特尔霍选择承认实力差距，并把失败转化为督促同伴成长的教训。",
+      "outcome": "双方的较量和平结束，特尔霍一行接受失败并反思训练不足，本段隐藏测试剧情随其退休玩笑收束。",
+      "keywords": [
+        "三人败北",
+        "承认强者",
+        "加强训练",
+        "退休玩笑"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7605606,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:33:43.158Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

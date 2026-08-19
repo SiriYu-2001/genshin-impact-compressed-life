@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73658,
+    "slug": "73658_kouroshs-sumeru-roses",
+    "title": "库洛什的鲜花需求",
+    "chapter_num": "",
+    "premise": "大巴扎的库洛什需要十支须弥蔷薇，旅行者前去满足他的鲜花需求。库洛什希望借新鲜美丽的花改善心情。",
+    "central_conflict": "旅行者必须备齐并一次性交付十支须弥蔷薇，才能完成库洛什的委托；未备齐时，交付无法继续。",
+    "summary": "时间未明确，旅行者在大巴扎与库洛什谈及须弥蔷薇。库洛什表示自己想用新鲜美丽的花换换心情，并确认旅行者是否已经备齐十支须弥蔷薇。旅行者完成准备后，将所需鲜花一并交给库洛什。库洛什认为这些花十分完美，并向旅行者致谢。鲜花的完美也使他联想到自己的下一次演出，希望届时同样能够无可挑剔。委托由此完成，库洛什的需求得到满足。",
+    "resolution": "库洛什收到十支须弥蔷薇并对其品质表示满意。故事以他对下一次演出的期许收束，没有留下明确的待办冲突。",
+    "themes": [
+      "委托与交付",
+      "鲜花慰藉",
+      "审美追求",
+      "演出期许"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73658,
+      "title": "库洛什的鲜花需求",
+      "summary": "旅行者在大巴扎回应库洛什对十支须弥蔷薇的需求，而库洛什希望以新鲜美丽的花改善心情。备齐鲜花是推进委托的必要条件，旅行者完成交付后，库洛什对花的完美品质表示感谢。他由此寄望自己的下一次演出也能同样无可挑剔，委托随之结束。",
+      "turning_point": "旅行者备齐十支须弥蔷薇并完成交付，使对话从确认准备情况转为库洛什的致谢与演出期许。",
+      "outcome": "库洛什收到了所需的十支须弥蔷薇，对其十分满意，并表达了对下一次演出的美好期望。",
+      "section_ids": [
+        "73658-c00-s01",
+        "73658-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "大巴扎的库洛什需要十支须弥蔷薇。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73658-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "库洛什确认十支蔷薇已备齐",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "时间未明确，鲜花交付前",
+      "locations": [
+        "大巴扎"
+      ],
+      "characters": [
+        "旅行者",
+        "库洛什"
+      ],
+      "summary": "旅行者在大巴扎与库洛什谈及须弥蔷薇，库洛什说明自己想看看新鲜美丽的花以改善心情。他要求旅行者备齐十支须弥蔷薇并一次性交付，只有完成准备才能继续委托。旅行者备齐所需鲜花后完成交付。",
+      "motivation": "库洛什希望借新鲜美丽的须弥蔷薇换换心情，旅行者则为完成他的委托而准备并交付鲜花。",
+      "outcome": "十支须弥蔷薇完成交付，库洛什得以检查并回应这些鲜花，委托进入致谢阶段。",
+      "keywords": [
+        "须弥蔷薇",
+        "十支鲜花",
+        "大巴扎",
+        "交付"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7365801,
+          "title": "将十支须弥蔷薇交给库洛什",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "73658-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "完美鲜花唤起演出期许",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确，鲜花交付后",
+      "locations": [
+        "大巴扎"
+      ],
+      "characters": [
+        "旅行者",
+        "库洛什"
+      ],
+      "summary": "收到鲜花后，库洛什感谢旅行者，并认为这些须弥蔷薇十分完美。鲜花的无可挑剔使他联想到下一次演出，他希望自己的表演届时也能达到同样的水准。",
+      "motivation": "库洛什因鲜花的完美品质受到触动，进而表达了追求完美演出的愿望。",
+      "outcome": "库洛什的鲜花需求得到满足，旅行者完成委托，故事以库洛什对下一次演出的期待收束。",
+      "keywords": [
+        "致谢",
+        "完美鲜花",
+        "下一次演出",
+        "期许"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7365802,
+          "title": "与库洛什对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:17:30.019Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

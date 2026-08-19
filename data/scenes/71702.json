@@ -1,0 +1,93 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71702,
+    "slug": "71702_herbalists-forage",
+    "title": "阿桂的药材需求",
+    "chapter_num": "",
+    "premise": "璃月港的阿桂需要三份琉璃袋，旅行者接受委托并为他搜集所需药材。故事聚焦于药材的交付与委托完成。",
+    "central_conflict": "阿桂急需三份符合要求的琉璃袋，而委托能否完成取决于旅行者是否已经备齐药材。",
+    "summary": "璃月港的阿桂发布委托，需要旅行者带来三份琉璃袋。旅行者前去询问琉璃袋一事，阿桂随即确认药材是否已经搜集齐全。若药材尚未备齐，阿桂催促旅行者搜集完成后尽快送来。旅行者备齐三份琉璃袋后将其交给阿桂，推动委托进入验收阶段。阿桂检查后确认琉璃袋品质不错，足以满足自己的需要。他随后向旅行者致谢并给出报酬，委托至此完成。",
+    "resolution": "阿桂收下三份品质合格的琉璃袋，并以谢礼回报旅行者的奔波。药材需求得到解决，没有留下明确的后续冲突。",
+    "themes": [
+      "受托助人",
+      "药材搜集",
+      "及时交付",
+      "劳动回报"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71702,
+      "title": "阿桂的药材需求",
+      "summary": "本章围绕向阿桂交付三份琉璃袋展开。阿桂先确认旅行者的搜集进度，并在药材未齐时要求其尽快补齐；旅行者完成搜集后交付药材，阿桂验明品质合格。最终，阿桂表达感谢并给出谢礼，委托顺利结束。",
+      "turning_point": "旅行者备齐并交出三份琉璃袋，使事件从等待搜集转入验收与完成阶段。",
+      "outcome": "阿桂获得足量且品质合格的琉璃袋，旅行者收到谢礼并完成委托。",
+      "section_ids": [
+        "71702-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月港的阿桂需要三份琉璃袋。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71702-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "琉璃袋交付完成阿桂委托",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "完成药材搜集后；具体时间未明确",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "旅行者",
+        "阿桂"
+      ],
+      "summary": "旅行者在璃月港就琉璃袋一事找到阿桂，阿桂询问三份药材是否已经搜集齐全；若尚未备齐，他要求旅行者搜集完成后尽快送来。旅行者备齐后交出三份琉璃袋，阿桂检查并确认其品质足以使用。阿桂随后向旅行者道谢并交付谢礼，药材委托由此完成。",
+      "motivation": "阿桂需要足量且可用的琉璃袋，旅行者则为履行委托而完成搜集和交付。",
+      "outcome": "三份琉璃袋通过阿桂的品质检查并被收下，旅行者获得谢礼，委托结束。",
+      "keywords": [
+        "琉璃袋",
+        "阿桂",
+        "药材交付",
+        "品质验收",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7170201,
+          "title": "将三份琉璃袋交给阿桂",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7170202,
+          "title": "与阿桂对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:03:15.909Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

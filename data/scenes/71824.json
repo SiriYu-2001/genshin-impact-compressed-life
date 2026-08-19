@@ -1,0 +1,353 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71824,
+    "slug": "71824_promises-remembered-as-lanterns-rise",
+    "title": "佳节赴旧约…？",
+    "chapter_num": "",
+    "premise": "节日期间，旅行者在望舒客栈得知小冥因无人陪伴而格外落寞，于是准备借霄灯向她传递关怀。旅行者还要赴小冥此前留下的玩耍之约。",
+    "central_conflict": "小冥渴望陪伴，却行踪难寻且只能在夜间的树林中设法接触；旅行者需要在不惊扰她的情况下兑现约定并送出节日心意。",
+    "summary": "节日期间，望舒客栈人手短缺，言笑独自忙碌，并因过去被小冥捉弄的经历而回避谈论她。旅行者转而向菲尔戈黛特询问，得知小冥虽然已经安分许多，却会在客栈越热闹时越感到落寞。菲尔戈黛特认为她只是渴望有人陪伴，并建议旅行者在夜晚把霄灯挂到客栈旁树林的树梢上。旅行者制作霄灯，等到夜间进入树林寻找小冥。小冥主动现身，提起此前的约定并邀请旅行者陪她玩捉迷藏，旅行者由此兑现旧约。游戏结束后，旅行者把霄灯挂上树梢并离开树林。返回客栈后，菲尔戈黛特确认礼物已经送到，并以小冥会许下什么愿望为这次节日探望留下温柔的悬念。",
+    "resolution": "旅行者通过陪小冥玩耍和挂起霄灯，缓解了她在节日中的孤独，也兑现了再次陪伴她的约定。菲尔戈黛特对送灯结果感到欣慰，而小冥的愿望仍未揭晓。",
+    "themes": [
+      "兑现约定",
+      "节日陪伴",
+      "童真愿望",
+      "孤独与关怀"
+    ],
+    "context_ref_ids": [
+      "ctx-01"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71824,
+      "title": "佳节赴旧约…？",
+      "summary": "旅行者从忙碌而紧张的言笑处追问小冥的近况，又经菲尔戈黛特得知她在节日期间渴望陪伴。为给难以寻见的小冥送上霄灯，旅行者完成制作并在夜间前往望舒客栈旁的树林。小冥现身邀请旅行者玩捉迷藏，使这次寻访转为对旧约的兑现；游戏结束后，旅行者挂起霄灯并向菲尔戈黛特回报。菲尔戈黛特确认小冥应当会因此高兴，同时留下她会许下何种愿望的悬念。",
+      "turning_point": "小冥在夜间的树林中主动现身，并以此前的约定邀请旅行者玩捉迷藏，使送灯行动成为一次真正的陪伴。",
+      "outcome": "旅行者陪小冥完成游戏并将霄灯留在树上，既送出了节日礼物，也兑现了再次陪她玩耍的约定。",
+      "section_ids": [
+        "71824-c00-s01",
+        "71824-c00-s02",
+        "71824-c00-s03",
+        "71824-c00-s04",
+        "71824-c00-s05",
+        "71824-c00-s06"
+      ],
+      "context_ref_ids": [
+        "ctx-01"
+      ],
+      "source_file": "chapter_00.json",
+      "source_description": "望舒客栈的言笑似乎正忙得不可开交…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71824-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "忙碌言笑回避小冥近况",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "节日期间",
+      "locations": [
+        "望舒客栈"
+      ],
+      "characters": [
+        "旅行者",
+        "言笑"
+      ],
+      "summary": "节日期间，旅行者在望舒客栈遇见因其他伙计返乡而独自承担大量工作的言笑。言笑感谢旅行者此前的帮助，但一听旅行者追问小冥便明显紧张，坚称自己不知情并让旅行者去询问客栈老板。",
+      "motivation": "旅行者想了解小冥的近况；言笑因害怕再次遭到捉弄而不愿继续谈论她。",
+      "outcome": "旅行者未能从言笑处获得具体消息，只得到向菲尔戈黛特询问的线索。",
+      "keywords": [
+        "节日忙碌",
+        "言笑",
+        "小冥近况",
+        "回避"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7182401,
+          "title": "与言笑对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71824-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "菲尔戈黛特说明孤独缘由",
+      "narrative_role": "revelation",
+      "importance": 4,
+      "when": "节日期间",
+      "locations": [
+        "望舒客栈"
+      ],
+      "characters": [
+        "旅行者",
+        "菲尔戈黛特",
+        "小冥"
+      ],
+      "summary": "旅行者向菲尔戈黛特询问小冥，得知她在上次事件后已经安分许多。菲尔戈黛特解释，小冥过去在节日里看见客栈越发热闹便越感孤独，捣乱吓人只是想找人陪伴。旅行者因此提出送她一盏霄灯，菲尔戈黛特则建议夜晚把灯挂在客栈旁树林的树梢上。",
+      "motivation": "旅行者想在节日里安慰孤独的小冥，菲尔戈黛特则希望以不惊扰她的方式让她收到心意。",
+      "outcome": "送霄灯的想法转化为明确计划，旅行者需要备好霄灯并在夜间前往树林。",
+      "keywords": [
+        "菲尔戈黛特",
+        "节日孤独",
+        "霄灯",
+        "树林"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7182402,
+          "title": "与菲尔戈黛特对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71824-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "旅行者备灯等候夜色降临",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "夜间19点至次日4点",
+      "locations": [
+        "望舒客栈旁的树林"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "旅行者为小冥制作霄灯，并等待夜间到来。到达适合寻找小冥的时段后，旅行者与派蒙前往望舒客栈旁的树林，准备按照菲尔戈黛特的建议送出霄灯。",
+      "motivation": "旅行者需要利用霄灯吸引行踪难寻的小冥，并为她送上节日祝福。",
+      "outcome": "霄灯和寻找条件均已备妥，旅行者进入树林展开与小冥的接触。",
+      "keywords": [
+        "制作霄灯",
+        "等待夜晚",
+        "小树林",
+        "寻访"
+      ],
+      "source_step_keys": [
+        "2",
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7182403,
+          "title": "制作霄灯",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7182414,
+          "title": "等待时间到晚上（19点~4点）",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7182404,
+          "title": "前往望舒客栈旁的树林",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71824-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "小冥现身邀约捉迷藏",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "夜间",
+      "locations": [
+        "望舒客栈旁的树林"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "小冥"
+      ],
+      "summary": "旅行者与派蒙在树林中寻找小冥时，小冥主动现身，并询问旅行者是否还记得她上次说过的话。她随即邀请旅行者玩捉迷藏，旅行者陪她完成了这场游戏，以实际陪伴回应了她的期待。",
+      "motivation": "小冥希望旅行者兑现再次陪她玩耍的约定；旅行者则想履约并缓解她在节日里的孤独。",
+      "outcome": "旅行者完成捉迷藏并兑现旧约，小冥获得了她所期待的陪伴，送灯行动进入收尾阶段。",
+      "keywords": [
+        "小冥",
+        "捉迷藏",
+        "旧约",
+        "陪伴"
+      ],
+      "source_step_keys": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "context_ref_ids": [
+        "ctx-01"
+      ],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 7182405,
+          "title": "陪小冥玩捉迷藏",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7182406,
+          "title": "陪小冥玩捉迷藏",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7182407,
+          "title": "陪小冥玩捉迷藏",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7182408,
+          "title": "陪小冥玩捉迷藏",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7182409,
+          "title": "陪小冥玩捉迷藏",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 7182410,
+          "title": "陪小冥玩捉迷藏",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71824-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "霄灯挂上树梢传递心意",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "夜间，捉迷藏结束后",
+      "locations": [
+        "望舒客栈旁的树林"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "小冥"
+      ],
+      "summary": "捉迷藏结束后，旅行者把准备好的霄灯挂在树上，使小冥能够看见这份节日礼物。旅行者与派蒙随后离开小树林，把陪伴和祝愿一并留给小冥。",
+      "motivation": "旅行者希望以霄灯为小冥补上一份节日的热闹与关怀。",
+      "outcome": "霄灯成功留在树林中，旅行者完成送礼并返回望舒客栈说明结果。",
+      "keywords": [
+        "挂霄灯",
+        "节日礼物",
+        "离开树林",
+        "祝愿"
+      ],
+      "source_step_keys": [
+        "11",
+        "12"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "11",
+          "id": 7182411,
+          "title": "将霄灯挂在树上",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 7182412,
+          "title": "离开小树林",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71824-c00-s06",
+      "chapter_index": 0,
+      "order": 6,
+      "title": "客栈回报留下愿望悬念",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "送灯并离开小树林后",
+      "locations": [
+        "望舒客栈"
+      ],
+      "characters": [
+        "旅行者",
+        "菲尔戈黛特",
+        "小冥"
+      ],
+      "summary": "旅行者回到望舒客栈，向菲尔戈黛特表示霄灯应该算是已经送到。菲尔戈黛特相信小冥会因此高兴，并开始猜想她面对霄灯时会许下什么愿望。",
+      "motivation": "菲尔戈黛特想确认送灯行动是否顺利，也关心小冥是否能从中得到慰藉。",
+      "outcome": "送灯行动得到确认，故事以小冥未明说的愿望收束，并保留对她内心期盼的想象。",
+      "keywords": [
+        "回报",
+        "菲尔戈黛特",
+        "愿望",
+        "收束"
+      ],
+      "source_step_keys": [
+        "13"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "13",
+          "id": 7182413,
+          "title": "与菲尔戈黛特对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [
+    {
+      "id": "ctx-01",
+      "path": "1101_of-the-land-amidst-monoliths/chapter_02.json",
+      "reason": "用于解释小冥所说的“上次说的话”以及本场景标题中的旧约。",
+      "fact": "小冥此前答应不再捉弄住店客人，并约旅行者下次再来陪她玩。"
+    }
+  ],
+  "generated": {
+    "at": "2026-08-19T10:06:51.269Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

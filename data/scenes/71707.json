@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71707,
+    "slug": "71707_smileys-selections",
+    "title": "言笑的食材需求",
+    "chapter_num": "",
+    "premise": "望舒客栈的言笑需要两份培根，受托者前去确认委托并交付食材。",
+    "central_conflict": "言笑正等着给一名被他称为“吃白食的”对象送饭，因此催促受托者尽快备齐培根。",
+    "summary": "受托者带着两份培根找到言笑，并提起培根委托。言笑确认这是自己的需求，随即询问两份培根是否已经备齐。若食材尚未准备好，他会因送饭之事催促受托者尽快完成；实际推进中，受托者确认已经备齐并完成交付。言笑检查后认为两份培根足够对方食用。食材需求得到满足后，他将约定的报酬交给受托者。",
+    "resolution": "言笑收下两份培根并支付报酬，委托就此完成。他随后可以继续为等待送饭的人准备餐食。",
+    "themes": [
+      "食材委托",
+      "及时交付",
+      "送餐责任",
+      "劳动报酬"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71707,
+      "title": "言笑的食材需求",
+      "summary": "受托者前往望舒客栈向言笑交付其所需的两份培根。言笑先确认食材是否备齐，并表明有人还在等他送饭。受托者完成交付后，言笑判断分量足够并支付报酬，委托随之结束。",
+      "turning_point": "受托者确认两份培根已经准备妥当，使对话从催促备料转入验收与结算。",
+      "outcome": "言笑取得足够的培根并向受托者支付报酬，食材委托完成。",
+      "section_ids": [
+        "71707-c00-s01",
+        "71707-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "望舒客栈的言笑需要两份培根。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71707-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "言笑确认培根是否备齐",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "受托者前来处理培根委托时",
+      "locations": [
+        "望舒客栈"
+      ],
+      "characters": [
+        "言笑",
+        "受托者"
+      ],
+      "summary": "受托者找到言笑并提起培根，言笑确认委托内容是两份培根。言笑询问食材是否已经备齐；若尚未备齐，他便催促受托者尽快送来，因为还有人等着他送饭。实际任务继续推进时，受托者确认两份培根已经准备妥当。",
+      "motivation": "言笑需要及时取得培根，为正在等待送饭的人准备餐食。",
+      "outcome": "两份培根的准备状态得到确认，受托者完成交付并进入言笑验收食材的阶段。",
+      "keywords": [
+        "培根委托",
+        "交付确认",
+        "催促备料",
+        "送饭"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7170701,
+          "title": "将两份培根交给言笑",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71707-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "言笑验收食材并支付报酬",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "两份培根交付后",
+      "locations": [
+        "望舒客栈"
+      ],
+      "characters": [
+        "言笑",
+        "受托者"
+      ],
+      "summary": "言笑验收两份培根后，判断这些食材足够等待送饭的人食用。他随后取出报酬交给受托者，使这项食材委托完成。",
+      "motivation": "言笑需要结清已经完成的食材委托，并继续处理送饭之事。",
+      "outcome": "言笑获得所需培根，受托者收到报酬，任务正式收束。",
+      "keywords": [
+        "食材验收",
+        "分量足够",
+        "支付报酬",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7170702,
+          "title": "与言笑对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:03:44.750Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

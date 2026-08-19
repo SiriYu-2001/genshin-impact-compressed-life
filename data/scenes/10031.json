@@ -1,0 +1,718 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 10031,
+    "slug": "10031_the-moon-bathed-deep",
+    "title": "月浴之渊",
+    "chapter_num": "",
+    "premise": "旅行者与派蒙受海祇岛珊瑚宫巫女露子之托，依古老石碑的提示前往「眼」「牙」「鳍」「尾」四处取得四颗「御灵珠」，以解除最后的「心」之封印、获取打开渊下宫入口的「渊之钥」。",
+    "central_conflict": "核心矛盾是依残缺难解的古老碑文逐一破解各处封印、抵御途中来袭之敌（包括守护地脉镇石与击退突然登场的愚人众），集齐「御灵珠」以取得开启渊下宫的钥匙，其背后牵涉大御神遗留的渊下宫秘密。",
+    "summary": "旅行者与派蒙受海祇岛珊瑚宫巫女露子之托，为取得打开渊下宫入口的「渊之钥」而收集四颗「御灵珠」。二人先后来到「眼」「牙」「鳍」「尾」四处所在，阅读古老石碑并依碑文与元素视野的提示逐一解开封印：「眼」处靠方位线索与元素视野解除神龛封印；「牙」处须保护地脉镇石、速战速决；「鳍」处须让鱼雕像两两配对朝向大盘中央；「尾」处须怀虔敬之心逐灯而进，却在封印解除时遭愚人众唐突登场阻挠，旅行者将其击退后取得最后一颗「御灵珠」。四珠集齐后返回珊瑚宫与露子会合，一同打开「海祇之心」的大门，解除刻有鱼纹的最终封印，取得「月浴渊之钥」。露子说明此钥由大御神之血铸成、是开启渊下宫入口的必备之物，待上报现人神巫女、灵脉流动正确后即可进入渊下宫，双方就此道别。",
+    "resolution": "本场景以取得「渊之钥」收束：四颗「御灵珠」集齐解除了「心」之封印，渊下宫入口的钥匙落入旅行者与露子手中。露子表示将上报现人神巫女并等待灵脉流动正确，渊下宫之行将在后续展开，为进入渊下宫留下直接伏笔。",
+    "themes": [
+      "海祇古史",
+      "大御神信仰",
+      "御灵珠",
+      "渊下宫",
+      "解谜探索"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72145,
+      "title": "「海祇之眼」",
+      "summary": "「海祇之眼」一章中，旅行者与派蒙前往「眼」之所在阅读古老石碑，碑文记载大御神神使「三瞳」之事并留下方位线索。依石碑提示与派蒙的建议，旅行者以元素视野寻找线索，解除了「眼」处神龛的封印，取得第一颗「御灵珠」，确立了依碑解谜、解除封印、取得灵珠的行动模式。",
+      "turning_point": "依石碑方位提示与元素视野找到并解除神龛封印，取得首颗「御灵珠」。",
+      "outcome": "取得第一颗「御灵珠」，开启四珠收集之旅。",
+      "section_ids": [
+        "10031-c00-s01",
+        "10031-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 72146,
+      "title": "「海祇之牙」",
+      "summary": "「海祇之牙」一章中，碑文揭示「海祇爪牙之道」：战衅起时须有所守护、速战速决方能取得明珠。旅行者据此在「牙」处保护地脉镇石、抵御来袭之敌，随后取得第二颗「御灵珠」。",
+      "turning_point": "从碑文得知守护镇石、速决取胜的试炼方式。",
+      "outcome": "保护镇石成功，取得第二颗「御灵珠」。",
+      "section_ids": [
+        "10031-c01-s01",
+        "10031-c01-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": 72147,
+      "title": "「海祇之鳍」",
+      "summary": "「海祇之鳍」一章中，碑文言及他乡臣子如鳞鳍股肱般两两相称、中心相望。派蒙推测需让鱼雕像两两配对、朝向大盘中央，旅行者依此解开「鳍」的封印，取得第三颗「御灵珠」。",
+      "turning_point": "派蒙从碑文推断出鱼雕像配对的解谜思路。",
+      "outcome": "取得第三颗「御灵珠」，四珠已得其三。",
+      "section_ids": [
+        "10031-c02-s01",
+        "10031-c02-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_02.json",
+      "source_description": "",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": 72148,
+      "title": "「海祇之尾」",
+      "summary": "「海祇之尾」一章中，碑文要求以虔敬哀寂之心缓行逐灯。旅行者依此解除「尾」处的封印，愚人众却唐突登场阻挠，旅行者将其击退后取得第四颗「御灵珠」。至此四颗「御灵珠」全部集齐。",
+      "turning_point": "愚人众突然出现，成为取珠途中唯一的正面冲突。",
+      "outcome": "击退愚人众并取得最后一颗「御灵珠」，四珠集齐。",
+      "section_ids": [
+        "10031-c03-s01",
+        "10031-c03-s02",
+        "10031-c03-s03",
+        "10031-c03-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_03.json",
+      "source_description": "",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": 72149,
+      "title": "「海祇之心」",
+      "summary": "「海祇之心」一章中，旅行者与派蒙返回珊瑚宫，向露子交付四颗「御灵珠」。露子带领二人打开「海祇之心」的大门，进入「心」之所在，解除刻有鱼纹的最终封印，取得「月浴渊之钥」（简称「渊之钥」）。露子说明此钥由大御神之血铸成、是开启渊下宫入口的必备之物，待上报现人神巫女并等灵脉流动正确后即可进入渊下宫，随后双方道别。",
+      "turning_point": "集齐四珠后解除「心」之封印，取得打开渊下宫入口的「渊之钥」。",
+      "outcome": "「渊之钥」到手，渊下宫之行进入待命阶段，本场景就此收束。",
+      "section_ids": [
+        "10031-c04-s01",
+        "10031-c04-s02",
+        "10031-c04-s03",
+        "10031-c04-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_04.json",
+      "source_description": "",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "10031-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "前往「眼」之所在并解读石碑",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "「眼」之所在"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "古老的石碑"
+      ],
+      "summary": "旅行者与派蒙为完成珊瑚宫巫女露子的委托，前往海祇岛「眼」之所在，阅读那里的古老石碑。碑文记载大御神神使「三瞳」分为「灵」「镜」「实」，并留下由南向北、盘桓西岗的方位线索，称三瞳威能令龙嗣怪异不敢为敌。派蒙读不懂碑文，便建议用「元素视野」在附近寻找线索。",
+      "motivation": "受托收集「御灵珠」，需从石碑中解读出解开封印的方法。",
+      "outcome": "获得石碑提示并确立以元素视野寻找线索的方向，为解除神龛封印作准备。",
+      "keywords": [
+        "海祇之眼",
+        "古老的石碑",
+        "三瞳",
+        "元素视野"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7214501,
+          "title": "前往「眼」之所在",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7214502,
+          "title": "阅读「眼」处的石碑",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10031-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "解除神龛封印取得首颗御灵珠",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "「眼」之所在"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "依石碑提示与元素视野的指引，旅行者解除了「眼」处神龛的封印，成功取得第一颗「御灵珠」。封印解除与取珠一气呵成，完成了「眼」之试炼。",
+      "motivation": "集齐四颗「御灵珠」以解除「心」之封印。",
+      "outcome": "取得第一颗「御灵珠」，确认了依石碑线索解谜取珠的行动模式。",
+      "keywords": [
+        "神龛",
+        "封印",
+        "御灵珠"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7214503,
+          "title": "解除神龛的封印",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7214507,
+          "title": "取得「御灵珠」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10031-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "前往「牙」之所在并解读石碑",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "「牙」之所在"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "古老的石碑"
+      ],
+      "summary": "旅行者与派蒙前往「牙」之所在，阅读那里的古老石碑。碑文言及战衅起时需有所守护、速战速决方能取得明珠，即所谓「海祇爪牙之道」。派蒙据此解读出此处的试炼与战斗和守护某物有关。",
+      "motivation": "继续收集「御灵珠」，从石碑中寻找「牙」处试炼的解法。",
+      "outcome": "得知「牙」处的试炼与战斗、守护有关，明确了下一步行动。",
+      "keywords": [
+        "海祇之牙",
+        "古老的石碑",
+        "爪牙之道",
+        "守护"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7214601,
+          "title": "前往「牙」之所在",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7214602,
+          "title": "阅读「牙」处的石碑",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10031-c01-s02",
+      "chapter_index": 1,
+      "order": 2,
+      "title": "保护地脉镇石并取得御灵珠",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "「牙」之所在"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "依碑文所示，旅行者在「牙」处保护地脉镇石，抵御来袭之敌并速战速决，随后取得第二颗「御灵珠」。守护镇石与取珠完成，「牙」之试炼告一段落。",
+      "motivation": "碑文要求战衅中守护某物并速决取胜，方可取得明珠。",
+      "outcome": "成功守住地脉镇石并取得第二颗「御灵珠」。",
+      "keywords": [
+        "海祇之牙",
+        "地脉镇石",
+        "守护",
+        "御灵珠"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7214603,
+          "title": "保护地脉镇石",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7214604,
+          "title": "取得「御灵珠」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10031-c02-s01",
+      "chapter_index": 2,
+      "order": 1,
+      "title": "前往「鳍」之所在并解读石碑",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "「鳍」之所在"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "古老的石碑"
+      ],
+      "summary": "旅行者与派蒙前往「鳍」之所在，阅读那里的古老石碑。碑文言及他乡臣子来投、如鳞鳍股肱般两两相称、中心相望以辅佐大御神殿陛之治。派蒙据此推测，或许要让来时遇到的鱼雕像两两配对、朝向大盘中央。",
+      "motivation": "从碑文中解读「鳍」处封印的解法。",
+      "outcome": "获得鱼雕像两两配对、朝向大盘中央的解谜思路。",
+      "keywords": [
+        "海祇之鳍",
+        "古老的石碑",
+        "鱼雕像",
+        "配对"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7214701,
+          "title": "前往「鳍」之所在",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7214702,
+          "title": "阅读「鳍」处的石碑",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10031-c02-s02",
+      "chapter_index": 2,
+      "order": 2,
+      "title": "解除「鳍」的封印并取得御灵珠",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "「鳍」之所在"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "旅行者依碑文与派蒙的推测解开「鳍」处的封印，取得第三颗「御灵珠」。至此四颗「御灵珠」已得其三，距最后的「心」之封印更近一步。",
+      "motivation": "集齐四颗「御灵珠」，推进露子的委托。",
+      "outcome": "取得第三颗「御灵珠」，四珠仅剩其一。",
+      "keywords": [
+        "海祇之鳍",
+        "封印",
+        "御灵珠",
+        "鱼雕像"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7214703,
+          "title": "解除「鳍」的封印",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7214704,
+          "title": "取得「御灵珠」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10031-c03-s01",
+      "chapter_index": 3,
+      "order": 1,
+      "title": "前往「尾」之所在并解读石碑",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "「尾」之所在"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "古老的石碑"
+      ],
+      "summary": "旅行者与派蒙前往「尾」之所在，阅读那里的古老石碑。碑文称圣觐者须身怀神恩、轻履慢行、逐灯而进，忌奔跃喧哗，须以哀寂之心感怀大御神之恩。派蒙认为此处需要怀着虔敬之心慢慢来，却又不知虔敬之心要如何衡量。",
+      "motivation": "解读「尾」处试炼的要求，完成最后一颗灵珠的收集。",
+      "outcome": "得知此处试炼要求以虔敬之心缓行逐灯。",
+      "keywords": [
+        "海祇之尾",
+        "古老的石碑",
+        "虔敬之心",
+        "逐灯而进"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7214801,
+          "title": "前往「尾」之所在",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7214802,
+          "title": "阅读「尾」处的石碑",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10031-c03-s02",
+      "chapter_index": 3,
+      "order": 2,
+      "title": "解除「尾」处的封印",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "「尾」之所在"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "依碑文所示，旅行者以虔敬缓慢之态逐灯而进，解除了「尾」处的封印。封印解除后，愚人众却唐突登场。",
+      "motivation": "依碑文要求完成「尾」之试炼。",
+      "outcome": "「尾」处封印解除，随即引来愚人众的阻挠。",
+      "keywords": [
+        "海祇之尾",
+        "封印",
+        "虔敬"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7214803,
+          "title": "解除「尾」处的封印",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10031-c03-s03",
+      "chapter_index": 3,
+      "order": 3,
+      "title": "击退唐突登场的愚人众",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "「尾」之所在"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "愚人众"
+      ],
+      "summary": "愚人众突然出现在「尾」处，阻挠「御灵珠」的取得。旅行者与派蒙迎战并将其击退，扫清了取珠路上的障碍。",
+      "motivation": "愚人众的阻挠威胁到「御灵珠」的获取。",
+      "outcome": "击退愚人众，得以继续完成取珠之事。",
+      "keywords": [
+        "愚人众",
+        "战斗",
+        "海祇之尾"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7214804,
+          "title": "击退唐突登场的愚人众",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10031-c03-s04",
+      "chapter_index": 3,
+      "order": 4,
+      "title": "取得第四颗「御灵珠」",
+      "narrative_role": "resolution",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "「尾」之所在"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "击退愚人众后，旅行者成功取得「尾」处的「御灵珠」。至此四颗「御灵珠」全部集齐，为解除最后的「心」之封印作好了准备。",
+      "motivation": "完成四珠收集，推进露子的委托。",
+      "outcome": "四颗「御灵珠」集齐，指向最后的「心」之封印。",
+      "keywords": [
+        "御灵珠",
+        "海祇之尾",
+        "集齐四珠"
+      ],
+      "source_step_keys": [
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 7214805,
+          "title": "取得「御灵珠」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10031-c04-s01",
+      "chapter_index": 4,
+      "order": 1,
+      "title": "返回珊瑚宫与露子会合",
+      "narrative_role": "transition",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "珊瑚宫"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "露子"
+      ],
+      "summary": "旅行者与派蒙返回珊瑚宫，见露子若有所思、似不宜打扰，随后露子迎上前来问明来意。派蒙报告四颗「御灵珠」已全部取得，露子深表感谢，称距解开最后的「心」之封印仅一步之遥，并请二人随她同行。旅行者应允后，一行人随即出发。",
+      "motivation": "向露子交付委托成果，推进最后的封印环节。",
+      "outcome": "确认四珠集齐，旅行者与露子一同前往「心」之所在。",
+      "keywords": [
+        "珊瑚宫",
+        "露子",
+        "御灵珠",
+        "委托"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7214901,
+          "title": "返回珊瑚宫与露子对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10031-c04-s02",
+      "chapter_index": 4,
+      "order": 2,
+      "title": "打开大门进入「心」之所在",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "「海祇之心」的大门",
+        "「心」之所在"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "露子"
+      ],
+      "summary": "在露子的带领下，旅行者一行打开「海祇之心」的大门，进入「心」之所在。最后的封印就在眼前，取钥之行进入最后阶段。",
+      "motivation": "前往最后的封印地点，完成委托的收官环节。",
+      "outcome": "顺利抵达「心」之所在，直面最后的封印。",
+      "keywords": [
+        "海祇之心",
+        "大门",
+        "心之所在"
+      ],
+      "source_step_keys": [
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7214902,
+          "title": "打开「海祇之心」的大门",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7214903,
+          "title": "进入「心」之所在",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10031-c04-s03",
+      "chapter_index": 4,
+      "order": 3,
+      "title": "解除最终封印获取渊之钥",
+      "narrative_role": "climax",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "「心」之所在"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "露子",
+        "「心」之封印"
+      ],
+      "summary": "「心」之封印是一道散发着磷光、图案为一条鱼的奇妙封印。旅行者将其解除后，成功获取「月浴渊之钥」（简称「渊之钥」），完成了委托的核心目标。",
+      "motivation": "解除最后的「心」之封印，以取得渊下宫的钥匙。",
+      "outcome": "取得「渊之钥」，打开渊下宫入口的钥匙到手。",
+      "keywords": [
+        "心之封印",
+        "渊之钥",
+        "月浴渊之钥",
+        "磷光鱼纹"
+      ],
+      "source_step_keys": [
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7214904,
+          "title": "解除最后的封印",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7214905,
+          "title": "获取「渊之钥」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10031-c04-s04",
+      "chapter_index": 4,
+      "order": 4,
+      "title": "与露子话别获知渊下宫之事",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "露子"
+      ],
+      "summary": "露子从沉思中回过神，感谢旅行者的帮助，并说明「渊之钥」是打开渊下宫入口的必备之物，传说由大御神之血铸结而成。她表示接下来需上报现人神巫女大人、等待灵脉流动正确，之后便可进入渊下宫；派蒙抱怨一直被支使，露子则称此行换来了珊瑚宫官方的长久友谊，并相信旅行者能给海祇岛带来转机。最后双方道别，露子预言还会再见面。",
+      "motivation": "交代委托成果的用途与后续安排，完成收尾。",
+      "outcome": "明确了「渊之钥」的用途与进入渊下宫的前置条件，为后续渊下宫之行埋下伏笔。",
+      "keywords": [
+        "渊之钥",
+        "渊下宫",
+        "大御神",
+        "现人神巫女",
+        "道别"
+      ],
+      "source_step_keys": [
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 7214906,
+          "title": "与露子对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-18T12:18:29.391Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

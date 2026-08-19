@@ -1,0 +1,84 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 74663,
+    "slug": "74663_meka-mess",
+    "title": "发条机关引起的混乱",
+    "chapter_num": "",
+    "premise": "时间与地点均未明确，发条机关正在作乱并引起混乱，行动者需要将其击退。",
+    "central_conflict": "发条机关持续作乱，而行动者必须通过正面应对制止其造成的混乱。",
+    "summary": "时间未明确，地点未明确，发条机关正在作乱并引发混乱。剧情由击退这些机关的目标直接展开。行动者的具体身份及作战经过均未在原文中说明。现有文本也没有呈现新的调查、人物互动或额外转折。核心推进集中在对发条机关的直接处置上。击退行动的实际完成情况及其后续影响原文未明确。",
+    "resolution": "本 scene 以“击退发条机关”作为唯一明确的处理目标，但原文未交代行动结果及是否彻底平息混乱。",
+    "themes": [
+      "机关作乱",
+      "制止混乱",
+      "正面冲突"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 74663,
+      "title": "发条机关引起的混乱",
+      "summary": "时间与地点均未明确，发条机关正在作乱，行动者面临击退它们的直接目标。本章没有提供具体战斗过程、关键转折或任务完成后的情形，因此剧情停留在明确冲突与处置目标的阶段。",
+      "turning_point": "原文未明确",
+      "outcome": "击退发条机关被确立为直接目标，但实际结果及后续影响原文未明确。",
+      "section_ids": [
+        "74663-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "发条机关正在作乱…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "74663-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "发条机关作乱待击退",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "发条机关",
+        "行动者（原文未具名）"
+      ],
+      "summary": "时间未明确，地点未明确，发条机关正在作乱并引起混乱。行动者需要击退这些机关，以制止当前骚乱。原文没有说明交战过程或击退行动是否完成。",
+      "motivation": "行动者需要制止发条机关作乱所造成的混乱。",
+      "outcome": "击退发条机关成为明确的行动目标，但直接结果及其对后续的推动原文未明确。",
+      "keywords": [
+        "发条机关",
+        "作乱",
+        "击退",
+        "混乱"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7466301,
+          "title": "击退发条机关",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:26:46.346Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

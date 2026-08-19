@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71705,
+    "slug": "71705_smileys-selections",
+    "title": "言笑的食材需求",
+    "chapter_num": "",
+    "premise": "望舒客栈的言笑急需两份香肠做菜，玩家角色需要备齐食材并交给他。",
+    "central_conflict": "言笑正等待食材应付逐渐失去耐心的客人，而委托能否推进取决于两份香肠是否已经备齐。",
+    "summary": "言笑发布委托，需要两份香肠用于做菜。玩家角色向他提起香肠时，他立即确认食材是否已经全部备妥。若准备尚未完成，言笑会催促玩家角色尽快取来，因为等候上菜的客人已经不耐烦。剧情的有效推进以玩家角色备齐并交付两份香肠为前提。言笑检查后认可香肠的品质和数量，确认这些食材足够完成菜品。随后他交付报酬，食材委托就此完成。",
+    "resolution": "言笑收下两份符合要求的香肠并支付报酬，解决了做菜所需食材不足的问题。原文未明确这一委托对后续剧情还有其他影响。",
+    "themes": [
+      "食材委托",
+      "及时交付",
+      "餐馆经营",
+      "劳动报酬"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71705,
+      "title": "言笑的食材需求",
+      "summary": "玩家角色围绕香肠委托向言笑反馈准备情况，并在备齐后交付两份香肠。言笑因客人等候而催促食材尽快送达，随后认可收到的香肠足以用于做菜。最终他支付报酬，完成这项食材需求委托。",
+      "turning_point": "玩家角色备齐并交付两份香肠，使委托从催促准备转入验收和结算。",
+      "outcome": "言笑获得足够做菜的香肠，玩家角色收到报酬，委托完成。",
+      "section_ids": [
+        "71705-c00-s01",
+        "71705-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "望舒客栈的言笑需要两份香肠。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71705-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "玩家角色备齐并交付香肠",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "香肠委托的食材交付阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "言笑",
+        "玩家角色"
+      ],
+      "summary": "在香肠委托的交付阶段，玩家角色向言笑提起所需食材，言笑随即确认两份香肠是否已经备齐。对话提供了已备齐和尚未备齐两种回答；尚未完成时，言笑会因客人久候而催促玩家角色尽快准备。委托的实际推进要求玩家角色备齐并交付两份香肠。",
+      "motivation": "言笑需要香肠做菜并尽快为等候的客人上菜，玩家角色则要完成他发布的食材委托。",
+      "outcome": "两份香肠被备齐并交付，委托进入言笑验收食材和支付报酬的阶段。",
+      "keywords": [
+        "两份香肠",
+        "食材交付",
+        "客人等候",
+        "言笑催促"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7170501,
+          "title": "将两份香肠交给言笑",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71705-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "言笑验收食材并支付报酬",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "两份香肠交付后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "言笑",
+        "玩家角色"
+      ],
+      "summary": "两份香肠交付后，言笑检查食材并认可其品质，确认数量足以用于做菜。随后他将约定的报酬交给玩家角色，使这项委托完成。",
+      "motivation": "言笑需要确认收到的食材能否满足做菜需求，并依约结算完成的委托。",
+      "outcome": "言笑取得足够的香肠，玩家角色获得报酬，食材需求得到解决。",
+      "keywords": [
+        "食材验收",
+        "香肠品质",
+        "支付报酬",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7170502,
+          "title": "与言笑对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:03:49.855Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

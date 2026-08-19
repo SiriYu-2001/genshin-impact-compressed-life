@@ -1,0 +1,173 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 79005,
+    "slug": "79005_a-trip-through-fog-and-wind",
+    "title": "雾与风的旅行",
+    "chapter_num": "",
+    "premise": "旅行者在金苹果群岛发现一幅奇怪的壁画，并开始寻找壁画所标记的地点。调查的主要目标是依据现场线索穿越迷雾，继续探索其后的区域。",
+    "central_conflict": "浓雾阻断了前进路线，旅行者必须找到相关笔记，并按照其中限定的正午时段突破迷雾。",
+    "summary": "旅行者在金苹果群岛发现奇怪壁画后，前往寻找其标记的地点。抵达目标范围后，旅行者四处搜索，并取得了能够指导后续行动的笔记。笔记把调查转化为一场受时间条件限制的航行，要求旅行者在10点至14点的正午时分突破迷雾。旅行者依照笔记持续推进，完成了穿越迷雾这一核心挑战。穿雾之后，旅行者在抵达的区域再次展开搜索。原文没有交代最后搜索到的具体事物或进一步结论。",
+    "resolution": "本 scene 收束于旅行者突破迷雾并在其后的区域四处搜索。最终发现及其后续影响在原文中未明确。",
+    "themes": [
+      "壁画线索",
+      "岛屿探索",
+      "正午航行",
+      "突破迷雾"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 79005,
+      "title": "雾与风的旅行",
+      "summary": "旅行者循着奇怪壁画的标记寻找目标地点，并通过现场搜索获得笔记。笔记揭示了突破迷雾所需的正午时间条件，使调查从寻找线索转入实际航行。旅行者依照指引穿过迷雾，随后在抵达区域继续搜索，但原文没有说明最终发现。",
+      "turning_point": "旅行者在搜索后获得笔记，并得知必须在10点至14点的正午时分突破迷雾。",
+      "outcome": "旅行者成功推进至迷雾之后的区域并展开新一轮搜索，具体搜索结果原文未明确。",
+      "section_ids": [
+        "79005-c00-s01",
+        "79005-c00-s02",
+        "79005-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在金苹果群岛中，你发现了一幅奇怪的壁画…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "79005-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "壁画标记引出实地搜寻",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "金苹果群岛"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "时间未明确，旅行者在金苹果群岛循着奇怪壁画提供的标记寻找目标地点。抵达相关区域后，旅行者四处搜索，并获得了后续步骤所依据的笔记。",
+      "motivation": "查明壁画标记所指向的地点，并寻找能够解释其意义或指示前路的线索。",
+      "outcome": "旅行者取得笔记，使下一阶段的行动获得明确的时间条件与穿雾指引。",
+      "keywords": [
+        "奇怪壁画",
+        "标记地点",
+        "现场搜索",
+        "笔记"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7900501,
+          "title": "寻找标记地点",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7900502,
+          "title": "四处搜索",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "79005-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "笔记指引正午穿越迷雾",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "正午时分（10点至14点）",
+      "locations": [
+        "金苹果群岛的迷雾区域"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "旅行者根据笔记内容，在10点至14点的正午时段尝试突破迷雾。连续两个同名任务步骤共同表现了这段穿雾过程的持续推进，旅行者最终抵达可以继续搜索的区域。",
+      "motivation": "遵循笔记提供的时间条件穿过阻碍前路的迷雾，以抵达其后的目的地。",
+      "outcome": "迷雾航程得到推进并完成，旅行者得以在穿雾后的区域继续调查。",
+      "keywords": [
+        "笔记指引",
+        "正午时分",
+        "迷雾",
+        "穿越"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7900503,
+          "title": "根据笔记内容，在正午时分（10点至14点）突破迷雾",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7900505,
+          "title": "根据笔记内容，在正午时分（10点至14点）突破迷雾",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "79005-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "穿雾之后展开再次搜索",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "突破迷雾后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "突破迷雾后，旅行者在抵达的区域四处搜索。原文只明确记录了搜索行动，没有说明找到的具体事物或得出的结论。",
+      "motivation": "调查迷雾之后的区域，寻找这段旅程所指向的目标或线索。",
+      "outcome": "旅程以再次搜索暂时收束，搜索的具体结果及后续影响原文未明确。",
+      "keywords": [
+        "穿雾之后",
+        "四处搜索",
+        "未知发现"
+      ],
+      "source_step_keys": [
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 7900507,
+          "title": "四处搜索",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:41:23.094Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

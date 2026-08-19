@@ -1,0 +1,602 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 10037,
+    "slug": "10037_orobashis-legacy",
+    "title": "远吕羽氏遗事",
+    "chapter_num": "",
+    "premise": "八酝岛的镇物遭到破坏后，「祟神」扩散并引发阴云、暴雨与居民流亡。为让离乡者有家可归，梶委托旅行者寻找缺失部件并修复岛上各处镇物。",
+    "central_conflict": "旅行者必须在「祟神」笼罩和战争余波仍未平息的八酝岛修复多座镇物，而镇物缺失的部件及无明砦的异变不断扩大任务范围。即使灾害得到遏制，幕府军与反抗军对岛屿的争夺仍不会随之结束。",
+    "summary": "梶向旅行者说明八酝岛的镇物遭人破坏，「祟神」由此扩散，矿工患病失常，居民也被迫离乡。为了让亲友和岛民将来能够回家，他请求旅行者从无想刃狭间附近的镇物着手调查。旅行者在派蒙的协助下确认镇物均缺少两个关键部件，并通过元素视野寻找线索，先后修复无想刃狭间、蛇神之首和蛇骨矿洞的镇物。随着修复推进，岛上的阴云和暴雨逐渐消退，但散布在大地上的「祟神」仍需时间消散。梶原本未能证明无明砦与镇物有关，遗迹却突然升出海面，使调查转向最后一座镇物。旅行者进入无明砦、补回缺失部件并完成修复，从而为背井离乡者恢复了一线归乡希望。梶承认停雨也可能使交战双方更积极地争夺八酝岛，但仍认为阻止环境继续恶化比放任不管更有意义。最终他交付报酬与八酝守名枪的图样，并准备前往幕府军友人处继续提供帮助。",
+    "resolution": "无明砦镇物修复后，梶以报酬和名枪图样答谢旅行者，随后离开并转往幕府军友人处。八酝岛的恶劣天气得到遏制，但残留「祟神」、战争威胁与居民能否真正返乡仍是未决后续。",
+    "themes": [
+      "家园修复",
+      "灾害与战争",
+      "责任担当",
+      "归乡希望",
+      "古老遗产"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72129,
+      "title": "远吕羽氏遗事·其一",
+      "summary": "旅行者观察无想刃狭间旁的镇物，发现它并非拒绝接近者，而是在索求两个缺失的关键部件。派蒙建议借助元素视野追查附近的元素痕迹，旅行者据此寻找部件并完成修复。云层明显消散后，梶确认自己的判断正确，又请旅行者修复蛇神之首和蛇骨矿洞的两座镇物，并约定之后在岛西侧会合。",
+      "turning_point": "首座镇物修复后云层明显消散，证明修复镇物确实能够缓解八酝岛的异变。",
+      "outcome": "旅行者完成首座镇物的修复，并接受继续处理蛇神之首与蛇骨矿洞镇物的请求；无明砦也被列为后续调查方向。",
+      "section_ids": [
+        "10037-c00-s01",
+        "10037-c00-s02",
+        "10037-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "一座磐柱静静伫立在无想刃狭间旁，默默等待着修补者的出现…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 72130,
+      "title": "远吕羽氏遗事·其二",
+      "summary": "旅行者前往蛇神之首寻找镇物，派蒙发现这里同样存在部件缺失的问题，并建议使用元素视野追踪线索。旅行者随后寻找两个关键部件并将其放回，使蛇神之首的镇物得到修复。",
+      "turning_point": "蛇神之首的镇物被确认与首座镇物存在相同的双部件缺失问题。",
+      "outcome": "蛇神之首的镇物完成修复，八酝岛镇物修复工作进一步推进。",
+      "section_ids": [
+        "10037-c01-s01",
+        "10037-c01-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "一座磐柱静静伫立在蛇神之首，默默等待着修补者的出现…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": 72131,
+      "title": "远吕羽氏遗事·其三",
+      "summary": "旅行者前往蛇骨矿洞寻找另一座受损镇物，并在派蒙提醒下调查其异常。确认镇物同样缺少两个关键部件后，旅行者寻找并归还部件，完成蛇骨矿洞镇物的修复。",
+      "turning_point": "旅行者确认蛇骨矿洞的镇物也能通过补回两个缺失部件恢复。",
+      "outcome": "蛇骨矿洞镇物得到修复，与蛇神之首相关的阶段性任务一并完成。",
+      "section_ids": [
+        "10037-c02-s01",
+        "10037-c02-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_02.json",
+      "source_description": "蛇骨矿洞的镇物亦遭破坏，亟需旅行者前去修复。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": 72132,
+      "title": "远吕羽氏遗事·其五",
+      "summary": "无明砦升出海面后，旅行者前往遗迹并调查内部，发现其中的镇物同样缺少两个关键部件。旅行者补回部件、修复镇物，随后向梶回报。梶肯定修复工作为离乡者带来了返乡希望，也指出停雨可能使战争重新加剧；他仍认为遏止岛屿恶化具有意义，并以报酬和名枪图样答谢旅行者。",
+      "turning_point": "旅行者修复无明砦镇物，完成梶所推动的整套镇物修复工作。",
+      "outcome": "梶交付约定报酬与八酝守名枪图样，随后准备前往幕府军友人处帮忙，双方就此告别。",
+      "section_ids": [
+        "10037-c03-s01",
+        "10037-c03-s02",
+        "10037-c03-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_03.json",
+      "source_description": "被称为「无明砦」的古城遗迹缓缓升出海面，鲸声浪迹之中隐藏着古老幽深的怨念…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": 72133,
+      "title": "远吕羽氏遗事·序",
+      "summary": "梶警告旅行者不要久留八酝岛，并说明镇物遭破坏后，「祟神」造成持续暴雨、矿工病倒失常和居民流亡。尽管家人已经撤往安全处，他仍选择留下，希望恢复家园，让亲友和岛民不必在外乡充当雇工。旅行者主动提出帮忙后，梶委托其调查并修复附近缺少部件的镇物。",
+      "turning_point": "旅行者主动提出协助，梶因此把原本独自承担的镇物难题交给旅行者处理。",
+      "outcome": "旅行者获知八酝岛灾变的成因与梶留下的动机，并接受修复首座镇物的委托。",
+      "section_ids": [
+        "10037-c04-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_04.json",
+      "source_description": "八酝岛深为「祟神」所困，仍然留在岛上的矿工梶先生似乎正在寻找抑制其增生的方法…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": 72134,
+      "title": "远吕羽氏遗事·其四",
+      "summary": "旅行者向梶报告阶段性成果，梶确认雨霁云散、空气转清，但残留「祟神」仍需时间消散。他原本认为无明砦或许与镇物无关，遗迹却在异响中突然升出海面。梶立即改变判断，催促旅行者抓住机会前去调查。",
+      "turning_point": "无明砦突然升出海面，推翻了梶对其可能无关的暂时判断。",
+      "outcome": "镇物修复任务由阶段性回报转向无明砦调查，并引出最后一座镇物。",
+      "section_ids": [
+        "10037-c05-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_05.json",
+      "source_description": "前往约好的地点，向梶回报情况吧。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "10037-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "镇物索求缺失部件",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "调查无想刃狭间旁镇物时",
+      "locations": [
+        "无想刃狭间旁"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "旅行者接触并观察镇物，感受到一股涌来的奇特能量，随后意识到镇物并非拒绝接近者，而是在索求缺少的东西。派蒙判断镇物缺失了部件，建议使用元素视野调查附近弥散的元素痕迹。",
+      "motivation": "旅行者需要查明镇物失灵的原因，并寻找可行的修复方法。",
+      "outcome": "镇物被确认缺少两个关键部件，调查目标转为追踪并找回这些部件。",
+      "keywords": [
+        "无想刃狭间",
+        "镇物",
+        "缺失部件",
+        "元素视野"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7212905,
+          "title": "观察镇物",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10037-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "首座镇物完成修复",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "确认镇物缺失部件后",
+      "locations": [
+        "无想刃狭间旁及附近区域"
+      ],
+      "characters": [
+        "旅行者",
+        "梶"
+      ],
+      "summary": "旅行者在附近寻找镇物缺失的部件，并把修复工作持续推进。梶在旅行者尚未完成时表示无需勉强，也提醒其不要在危险区域逗留过久；旅行者最终找回部件并修复镇物。",
+      "motivation": "旅行者需要补全镇物，以验证修复镇物能否缓解岛上的异变。",
+      "outcome": "无想刃狭间旁的镇物恢复，为梶验证异变成因及安排后续修复提供了依据。",
+      "keywords": [
+        "部件搜寻",
+        "镇物修复",
+        "梶",
+        "危险区域"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7212906,
+          "title": "寻找缺失部件修复镇物",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10037-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "梶追加两处委托",
+      "narrative_role": "transition",
+      "importance": 4,
+      "when": "首座镇物修复后",
+      "locations": [
+        "梶所在处"
+      ],
+      "characters": [
+        "旅行者",
+        "梶"
+      ],
+      "summary": "旅行者返回向梶报告，梶从明显消散的云层判断自己的猜测已经得到验证。他请求旅行者继续修复蛇神之首和蛇骨矿洞的镇物，并让旅行者完成后前往岛西侧找他，因为无明砦可能也与异变有关。",
+      "motivation": "梶希望继续削弱「祟神」造成的灾害，使流亡的亲友和居民更接近返乡之日。",
+      "outcome": "修复范围扩大到蛇神之首与蛇骨矿洞，无明砦也成为后续调查线索。",
+      "keywords": [
+        "云层消散",
+        "蛇神之首",
+        "蛇骨矿洞",
+        "无明砦"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7212911,
+          "title": "返回与梶对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10037-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "蛇神之首镇物受损",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "前往蛇神之首后",
+      "locations": [
+        "蛇神之首"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "旅行者在蛇神之首寻找镇物，派蒙发现它也缺少某些东西，建议继续使用元素视野追查。进一步接触后，旅行者确认这座镇物缺少两个关键部件。",
+      "motivation": "旅行者受梶所托，需要查明蛇神之首镇物的受损状况。",
+      "outcome": "修复条件得到确认，行动转入寻找两个缺失部件的阶段。",
+      "keywords": [
+        "蛇神之首",
+        "镇物调查",
+        "元素视野",
+        "双部件"
+      ],
+      "source_step_keys": [
+        "1",
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7213005,
+          "title": "寻找蛇神之首的镇物",
+          "is_hidden": false
+        },
+        {
+          "key": "0",
+          "id": 7213004,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10037-c01-s02",
+      "chapter_index": 1,
+      "order": 2,
+      "title": "蛇神之首镇物复原",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "确认蛇神之首镇物缺失部件后",
+      "locations": [
+        "蛇神之首及附近区域"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "旅行者在蛇神之首附近寻找镇物所需的缺失部件。两个关键部件被找回并用于修复，使这处镇物恢复。",
+      "motivation": "旅行者需要完成梶交付的第二处镇物修复任务。",
+      "outcome": "蛇神之首镇物完成修复，旅行者可以继续处理其余受损镇物。",
+      "keywords": [
+        "部件搜寻",
+        "蛇神之首",
+        "镇物复原"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7213006,
+          "title": "寻找缺失部件",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10037-c02-s01",
+      "chapter_index": 2,
+      "order": 1,
+      "title": "矿洞镇物等待补全",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "前往蛇骨矿洞后",
+      "locations": [
+        "蛇骨矿洞"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "旅行者在蛇骨矿洞寻找受损镇物，派蒙判断这里也缺少部件，并建议使用元素视野寻找线索。旅行者接触镇物后确认它同样缺失两个关键部件。",
+      "motivation": "旅行者需要完成梶所托的另一处镇物修复，并继续遏制岛上的异变。",
+      "outcome": "蛇骨矿洞镇物的修复条件得到确认，旅行者开始搜寻所需部件。",
+      "keywords": [
+        "蛇骨矿洞",
+        "镇物调查",
+        "元素视野",
+        "缺失部件"
+      ],
+      "source_step_keys": [
+        "1",
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7213105,
+          "title": "寻找蛇骨矿洞的镇物",
+          "is_hidden": false
+        },
+        {
+          "key": "0",
+          "id": 7213104,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10037-c02-s02",
+      "chapter_index": 2,
+      "order": 2,
+      "title": "蛇骨矿洞镇物修复",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "确认蛇骨矿洞镇物缺失部件后",
+      "locations": [
+        "蛇骨矿洞及附近区域"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "旅行者围绕蛇骨矿洞搜寻镇物所缺的部件，并将找到的关键部件归还原位。镇物由此得到修复，梶交付的两处后续修复任务均取得成果。",
+      "motivation": "旅行者需要补全蛇骨矿洞镇物，使岛上的镇物体系进一步恢复。",
+      "outcome": "蛇骨矿洞镇物完成修复，行动进入向梶集中回报的阶段。",
+      "keywords": [
+        "蛇骨矿洞",
+        "部件归还",
+        "镇物修复"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7213106,
+          "title": "修复镇物",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10037-c03-s01",
+      "chapter_index": 3,
+      "order": 1,
+      "title": "旅行者深入无明砦",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "无明砦升出海面后",
+      "locations": [
+        "无明砦"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "旅行者前往升出海面的无明砦，并进入遗迹内部展开调查。调查表明遗迹中的镇物也缺少两个关键部件，最后一轮修复的目标由此明确。",
+      "motivation": "无明砦的突然出现可能与八酝岛的镇物异变有关，旅行者需要查明遗迹内部状况。",
+      "outcome": "旅行者找到无明砦镇物并确认其损坏方式，行动转入最终修复阶段。",
+      "keywords": [
+        "无明砦",
+        "遗迹调查",
+        "镇物",
+        "缺失部件"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7213201,
+          "title": "前往无明砦",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7213202,
+          "title": "调查遗迹内部",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10037-c03-s02",
+      "chapter_index": 3,
+      "order": 2,
+      "title": "最后镇物完成修复",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "查明无明砦镇物受损状况后",
+      "locations": [
+        "无明砦"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "旅行者在无明砦继续寻找镇物所缺的关键部件，并将部件放回镇物。无明砦镇物随之恢复，贯穿八酝岛的镇物修复工作抵达高潮。",
+      "motivation": "旅行者需要完成最后一处已知镇物的修复，阻止八酝岛环境继续恶化。",
+      "outcome": "无明砦镇物完成修复，旅行者可以向梶提交整项工作的最终结果。",
+      "keywords": [
+        "最终修复",
+        "无明砦镇物",
+        "关键部件",
+        "任务完成"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7213204,
+          "title": "修复镇物",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10037-c03-s03",
+      "chapter_index": 3,
+      "order": 3,
+      "title": "梶谢别并转赴前线",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "无明砦镇物修复后",
+      "locations": [
+        "梶所在处"
+      ],
+      "characters": [
+        "旅行者",
+        "梶"
+      ],
+      "summary": "旅行者向梶回报后，梶感谢其为离乡居民恢复了返乡希望，同时承认停雨可能使幕府军与反抗军更积极地争夺八酝岛。他认为修复至少阻止了境况继续恶化，随后交出报酬和八酝守名枪的图样，并表示将前往幕府军友人处帮忙。",
+      "motivation": "梶希望兑现承诺、纪念喜多院的旧日功业，并在镇物问题解决后继续为岛上的人提供帮助。",
+      "outcome": "旅行者获得报酬与名枪图样，梶告别并转赴新的去处；镇物修复主线正式收束。",
+      "keywords": [
+        "返乡希望",
+        "战争隐忧",
+        "名枪图样",
+        "梶告别"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7213205,
+          "title": "向梶回报情况",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10037-c04-s01",
+      "chapter_index": 4,
+      "order": 1,
+      "title": "梶托付家园修复",
+      "narrative_role": "setup",
+      "importance": 5,
+      "when": "旅行者初次听取梶的委托时",
+      "locations": [
+        "八酝岛"
+      ],
+      "characters": [
+        "旅行者",
+        "梶"
+      ],
+      "summary": "梶警告旅行者，镇物遭到破坏后，「祟神」扩散到八酝岛各处，导致阴云暴雨、矿工病倒失常和居民流亡。他因这里是自己的家而选择独自留下，希望清理灾害，让家人与岛民能够回来。旅行者提出帮助后，梶说明附近镇物可能缺少部件，并委托旅行者尝试修复。",
+      "motivation": "梶希望保住故乡，使被迫离开的家人和居民不必永远寄居他乡；旅行者则主动回应他的困境。",
+      "outcome": "八酝岛异变的成因、梶坚守的理由和镇物修复目标得到说明，旅行者正式接下委托。",
+      "keywords": [
+        "祟神",
+        "八酝岛",
+        "居民流亡",
+        "家园",
+        "修复委托"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7213301,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10037-c05-s01",
+      "chapter_index": 5,
+      "order": 1,
+      "title": "无明砦破海而出",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "蛇神之首与蛇骨矿洞镇物修复后",
+      "locations": [
+        "岛西侧与梶约定的地点",
+        "无明砦"
+      ],
+      "characters": [
+        "旅行者",
+        "梶"
+      ],
+      "summary": "旅行者返回向梶报告，梶确认岛上已经雨霁云散、空气转清，但残留「祟神」仍需时间消散。他正因无明砦调查毫无结果而怀疑自己多虑时，异响传来，无明砦突然升出海面。梶立即抓住这一变化，催促旅行者前往调查。",
+      "motivation": "旅行者需要汇报镇物修复成果，梶则希望确认无明砦是否与岛上的异变有关。",
+      "outcome": "无明砦从被怀疑无关的遗迹变成明确的新调查目标，剧情被推向最后的镇物修复。",
+      "keywords": [
+        "雨霁云散",
+        "残留祟神",
+        "无明砦升起",
+        "最终调查"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7213401,
+          "title": "回去向梶报告",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:28:01.662Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 41148,
+    "slug": "41148_wanmin-fresh",
+    "title": "万民鲜食",
+    "chapter_num": "",
+    "premise": "万民堂收到一份已经付款的特别订单，卯师傅因需留店看守，请未标名角色把摩拉肉送到渌华池附近的子瑞手中。",
+    "central_conflict": "卯师傅无法亲自离店，而订单需要及时送往较远地点，且餐品不能沾染异物或因使用风之翼而被颠散。",
+    "summary": "卯师傅说明，子瑞预订了一份摩拉肉，并约定晚些时候送到渌华池附近。由于自己必须留在万民堂看店，他请求未标名角色代为跑一趟。未标名角色可以暂时拒绝，但实际推进委托时会接受送餐，并被叮嘱避免餐品沾染异物，也不要使用风之翼。送餐期间，子瑞因等待已久而显得焦急，说明订单已经有所延误。餐品最终被送到子瑞手中，他连声道谢，并准备吃饱后继续在附近寻找值得留意的石头。委托由此完成，子瑞后续的游览与寻石计划得以继续。",
+    "resolution": "摩拉肉最终完好送达，卯师傅的特别订单得到履行。子瑞在用餐后仍计划探察周围的石头，但其后续行动未在本场景中展开。",
+    "themes": [
+      "受托送餐",
+      "履行承诺",
+      "谨慎运输",
+      "旅途等待"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 41148,
+      "title": "万民鲜食",
+      "summary": "卯师傅因需要留守万民堂，将一份送往渌华池附近的摩拉肉订单托付给未标名角色，并提出不得沾染异物、不得使用风之翼的运输要求。未标名角色虽可选择暂不帮忙，但推进委托时会接下订单，赶往约定地点。等待已久的子瑞最终收到餐品并致谢，送餐任务顺利完成。",
+      "turning_point": "未标名角色接受卯师傅的委托，并在子瑞焦急等待后将摩拉肉实际送达。",
+      "outcome": "子瑞收到已经付款的摩拉肉，卯师傅的订单得到履行，子瑞得以在用餐后继续游览和寻石。",
+      "section_ids": [
+        "41148-c00-s01",
+        "41148-c00-s02",
+        "41148-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月港的万民堂里有一份特别订单正等待着派送…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "41148-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "卯师傅委托派送特别订单",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "接取特别订单时",
+      "locations": [
+        "万民堂"
+      ],
+      "characters": [
+        "卯师傅",
+        "未标名角色"
+      ],
+      "summary": "卯师傅说明，子瑞已经付款订购一份摩拉肉，并要求晚些时候送到渌华池附近。因为必须留在万民堂看店，他请未标名角色代为送餐；该角色可以选择暂不接单，而在推进委托的分支中会答应帮忙。卯师傅随后强调餐品不能沾染异物，也不能使用风之翼运送，以免肉馅被颠出。",
+      "motivation": "卯师傅需要在不离开店铺的情况下履行子瑞的订单，未标名角色则受托解决送餐人手不足的问题。",
+      "outcome": "未标名角色在推进委托的分支中接下订单，并明确了保护餐品和禁用风之翼的运输要求；若暂时拒绝，卯师傅会表示另找他人帮忙。",
+      "keywords": [
+        "特别订单",
+        "摩拉肉",
+        "送餐委托",
+        "运输限制"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 4114804,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 4114801,
+          "title": "与卯师傅对话",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 4114803,
+          "title": "与好奇的子瑞对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "41148-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "子瑞在约定地点焦急等待",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "送餐尚未抵达时",
+      "locations": [
+        "渌华池附近"
+      ],
+      "characters": [
+        "好奇的子瑞"
+      ],
+      "summary": "送餐尚未抵达时，好奇的子瑞在渌华池附近的约定地点等待。他抱怨已经过去很长时间，显露出对订单迟迟未到的焦急。",
+      "motivation": "子瑞已经付款并等待餐品，希望尽快用餐后继续自己的行程。",
+      "outcome": "子瑞的抱怨凸显了送餐的延误，使及时完成交付成为当前直接目标。",
+      "keywords": [
+        "等待",
+        "延误",
+        "子瑞",
+        "渌华池"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 4114802,
+          "title": "将餐品送给好奇的子瑞",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "41148-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "摩拉肉送达并完成委托",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "餐品送达时",
+      "locations": [
+        "渌华池附近"
+      ],
+      "characters": [
+        "好奇的子瑞",
+        "未标名角色"
+      ],
+      "summary": "未标名角色在渌华池附近把子瑞订购的餐品交给他。子瑞因终于收到摩拉肉而连声道谢，并表示吃饱后还要在周围逛逛。由于附近暂时没有多少能入眼的石头，他的寻石活动仍将继续。",
+      "motivation": "未标名角色需要完成卯师傅托付的订单，子瑞则希望用餐后继续考察周围的石头。",
+      "outcome": "摩拉肉成功交付，送餐委托直接完成；子瑞得以在用餐后继续游览和寻找石头。",
+      "keywords": [
+        "餐品送达",
+        "完成委托",
+        "致谢",
+        "寻找石头"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 4114803,
+          "title": "与好奇的子瑞对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:48:26.262Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

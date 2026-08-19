@@ -1,0 +1,243 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 20036,
+    "slug": "20036_whispers-in-the-wind",
+    "title": "愿风带走思念",
+    "chapter_num": "",
+    "premise": "双目失明的葛罗丽思念离城已久的西风骑士男友古德温，请求旅行者以蒲公英籽为媒，让风把她的心里话带给古德温。",
+    "central_conflict": "葛罗丽与恋人古德温相隔两地、音讯全无：她既担忧古德温的安危，又渴望让对方收到自己的思念，却找不到传递心声的途径。",
+    "summary": "故事始于双目失明的葛罗丽向旅行者倾诉对西风骑士男友古德温的思念：古德温离城已久、音讯全无，她担心其受伤，也怕他另遇他人。她想起母亲说蒲公英能承载思念随风远行，便请求旅行者前往风起地搜集三份蒲公英籽。旅行者带回种子后，葛罗丽对着种子说出恋人间的悄悄话，并托付旅行者将其带到风神像顶端撒入风中。旅行者登上风神像顶端，在呼啸的风中把蒲公英籽撒开，完成了这场托付。葛罗丽相信风会把她的思念带到古德温身边，向旅行者道谢并赠予谢礼，还表示之后会继续麻烦旅行者。故事在此收束，也为葛罗丽与古德温的后续留下伏笔。",
+    "resolution": "旅行者依嘱在风神像顶端将蒲公英籽撒入风中，葛罗丽相信风神会把思念带到古德温身边，向旅行者道谢并赠予谢礼，同时表示日后还会继续求助，为后续剧情留下伏笔。",
+    "themes": [
+      "思念",
+      "等待与期盼",
+      "风神信仰",
+      "善意帮助",
+      "离别与重逢"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 20036,
+      "title": "愿风带走思念",
+      "summary": "本章讲述双目失明的葛罗丽思念离城已久的西风骑士男友古德温的故事。她向旅行者倾诉担忧，并请旅行者前往风起地搜集三份蒲公英籽；旅行者带回后，葛罗丽对着种子说出心里话，托付旅行者将其带到风神像顶端撒入风中。旅行者依言完成播撒，葛罗丽相信风会把思念带到古德温身边，向旅行者道谢并赠予谢礼，还表示日后会继续求助，为后续留下伏笔。",
+      "turning_point": "葛罗丽决定把思念寄托于蒲公英籽，委托旅行者搜集并在风神像顶端撒入风中，从独自担忧转为主动传递心愿。",
+      "outcome": "蒲公英籽在风神像顶端随风散去，葛罗丽的心愿得到托付，任务完成，旅行者获得谢礼。",
+      "section_ids": [
+        "20036-c00-s01",
+        "20036-c00-s02",
+        "20036-c00-s03",
+        "20036-c00-s04",
+        "20036-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "双目失明的葛罗丽思念着远游的男友，正在寻找传递自己心愿的方式…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "20036-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "葛罗丽诉说思念并请求帮助",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "葛罗丽"
+      ],
+      "summary": "旅行者前往询问双目失明的葛罗丽，葛罗丽感谢风神带来远方旅人，随即倾诉对离城已久的西风骑士男友古德温的思念，担心他与丘丘人、深渊教团战斗时受伤，甚至怕他另遇温柔的女骑士。她想起母亲说蒲公英能承载思念随风远行，便请求旅行者去风起地搜集三份蒲公英籽。旅行者答应了这个请求。",
+      "motivation": "葛罗丽思念失联的恋人古德温，担忧其安危，渴望把心意传递给他。",
+      "outcome": "旅行者接下搜集三份蒲公英籽的委托，任务由此展开。",
+      "keywords": [
+        "葛罗丽",
+        "古德温",
+        "蒲公英籽",
+        "思念"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 2003601,
+          "title": "前往询问葛罗丽",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 2003602,
+          "title": "与葛罗丽对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20036-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "远赴风起地采集蒲公英籽",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "风起地"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "旅行者按葛罗丽的嘱托前往风起地，搜集三份蒲公英籽。集齐三份种子后，旅行者带着它们返回葛罗丽身边。",
+      "motivation": "履行对葛罗丽的承诺，帮她搜集寄托思念的蒲公英籽。",
+      "outcome": "集齐三份蒲公英籽，得以返回葛罗丽处交付。",
+      "keywords": [
+        "风起地",
+        "蒲公英籽",
+        "搜集"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 2003603,
+          "title": "寻找三份蒲公英籽",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20036-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "向葛罗丽交付蒲公英籽",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "葛罗丽"
+      ],
+      "summary": "旅行者回到葛罗丽身边，把蒲公英籽放到她手上，让她感受这些种子。葛罗丽确认足够后，对着种子说出想对古德温说的悄悄话，并请旅行者把种子带到风神像上撒入风中，希望风神将它们带到古德温身边。",
+      "motivation": "让风神把藏着心里话的蒲公英籽带到古德温身边。",
+      "outcome": "蒲公英籽交付完成，旅行者获得前往风神像顶端播撒种子的新目标。",
+      "keywords": [
+        "蒲公英籽",
+        "悄悄话",
+        "风神像",
+        "托付"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 2003604,
+          "title": "将蒲公英籽交给葛罗丽",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20036-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "风神像顶端播撒思念",
+      "narrative_role": "climax",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "风神像顶端"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "旅行者带着蒲公英籽登上风神像顶端，将种子撒入风中。风神像顶上的风很大，正好能让蒲公英飞得更远。",
+      "motivation": "完成葛罗丽的托付，让蒲公英与风把思念带给古德温。",
+      "outcome": "蒲公英籽在风中散开，葛罗丽的思念随其托付给风。",
+      "keywords": [
+        "风神像",
+        "播撒",
+        "随风而去"
+      ],
+      "source_step_keys": [
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 2003605,
+          "title": "前往风神像顶端播撒蒲公英籽",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20036-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "葛罗丽致谢并托付后续",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "葛罗丽"
+      ],
+      "summary": "旅行者完成播撒后回到葛罗丽身边，葛罗丽说风神像顶上的风大，蒲公英能飞得更远，古德温说不定能收到她说的话。她请旅行者伸出手，把谢礼放到旅行者手中，并表示还有很多话想对古德温说，之后说不定还要继续麻烦旅行者。",
+      "motivation": "感谢旅行者相助，并期待风把思念送达古德温。",
+      "outcome": "任务完成，旅行者获得谢礼；葛罗丽留下日后继续求助的伏笔。",
+      "keywords": [
+        "致谢",
+        "谢礼",
+        "再托付"
+      ],
+      "source_step_keys": [
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 2003606,
+          "title": "与葛罗丽对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-18T17:50:25.531Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

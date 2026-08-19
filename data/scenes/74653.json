@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 74653,
+    "slug": "74653_sylvies-beryl-conch-commission",
+    "title": "希尔维娅的苍晶螺需求",
+    "chapter_num": "",
+    "premise": "希尔维娅通过「人间百态」征集5只苍晶螺，一名委托响应者前来确认并完成她的需求。",
+    "central_conflict": "委托能否继续推进，取决于响应者是否已经备齐5只苍晶螺并完成交付。",
+    "summary": "时间与地点均未明确，委托响应者找到正在工作的希尔维娅，并提起苍晶螺需求。希尔维娅惊喜地确认「人间百态」确实带来了回应，随后询问对方是否已经备齐所需物品。若对方尚未准备好，她表示可以等其备齐后再来，不会取消委托。响应者确认准备完成后，交付条件得到满足。希尔维娅为获得苍晶螺而致谢，并解释自己看重它们古朴、优雅的外形，准备将其用作家庭装饰。委托由此完成，没有留下明确的后续冲突。",
+    "resolution": "希尔维娅收到所需的5只苍晶螺并向响应者道谢，委托顺利收束。原文未明确交付之后的进一步影响。",
+    "themes": [
+      "委托履行",
+      "物品收集",
+      "生活审美",
+      "互助"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 74653,
+      "title": "希尔维娅的苍晶螺需求",
+      "summary": "本章围绕向希尔维娅交付5只苍晶螺展开。她先确认委托获得响应，并询问物品是否已经备齐；未完成准备时，她允许响应者稍后再来。确认准备完成后，希尔维娅收到苍晶螺并说明其家庭装饰用途，以致谢结束委托。",
+      "turning_point": "委托响应者确认已经备齐5只苍晶螺，使任务从交付确认转入完成与致谢。",
+      "outcome": "希尔维娅获得用于家庭装饰的苍晶螺，委托完成。",
+      "section_ids": [
+        "74653-c00-s01",
+        "74653-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "希尔维娅需要5只苍晶螺。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "74653-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "希尔维娅确认苍晶螺准备情况",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "委托交付阶段，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "希尔维娅",
+        "委托响应者"
+      ],
+      "summary": "时间与地点均未明确，委托响应者向希尔维娅提起苍晶螺，希尔维娅惊喜地确认自己通过「人间百态」发布的收集需求得到了回应。她随即询问5只苍晶螺是否已经备齐；若尚未备齐，她允许对方准备好后再回来。剧情继续推进的条件是响应者确认已经完成准备。",
+      "motivation": "希尔维娅希望确认委托响应者能否交付她正在收集的5只苍晶螺，响应者则要通过备齐物品履行委托。",
+      "outcome": "响应者确认准备完成后，苍晶螺的交付条件得到满足，剧情转入希尔维娅收下物品并致谢的阶段。",
+      "keywords": [
+        "人间百态",
+        "苍晶螺",
+        "交付确认",
+        "委托"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7465301,
+          "title": "将5只苍晶螺交给希尔维娅",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "74653-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "希尔维娅收下苍晶螺并致谢",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "确认苍晶螺已经备齐后，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "希尔维娅",
+        "委托响应者"
+      ],
+      "summary": "确认交付完成后，希尔维娅高兴地向委托响应者道谢。她说明苍晶螺兼具古朴与优雅的外形，在她看来是理想的家庭装饰。她的收集需求得到满足，本次委托随之结束。",
+      "motivation": "希尔维娅收集苍晶螺，是因为欣赏其外形并希望将其用于家庭装饰。",
+      "outcome": "希尔维娅获得所需的苍晶螺并完成致谢，委托直接收束。",
+      "keywords": [
+        "致谢",
+        "家庭装饰",
+        "古朴优雅",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7465302,
+          "title": "与希尔维娅对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:26:08.659Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

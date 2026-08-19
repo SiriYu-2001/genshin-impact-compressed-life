@@ -1,0 +1,264 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71812,
+    "slug": "71812_tianqiu-treasure-trail",
+    "title": "天遒宝迹",
+    "chapter_num": "",
+    "premise": "岚姐正为某件事烦恼，旅行者随后卷入一条由魔物和藏宝图引出的寻宝线索。旅行者需要排除阻碍、破解提示并将发现带回冒险家协会。",
+    "central_conflict": "宝藏的位置被含混的文字线索所掩盖，沿途又有魔物阻拦，旅行者必须通过战斗和实地搜索还原藏宝地点。",
+    "summary": "旅行者首先击败阻拦寻宝行动的魔物，使调查得以继续。依照藏宝图展开搜索后，旅行者与派蒙发现一张纸条，派蒙从中辨认出大树下、道路中间和台阶下三处藏宝线索。旅行者在周围继续调查，并逐一前往线索所指的位置寻找宝藏。三处搜索完成后，散落的线索被转化为实际收获，寻宝行动取得突破。任务推进期间，岚姐表明冒险经验比钱财更重要，点明这次探索的价值并不只在所得财物。旅行者最终向岚姐展示在遁玉陵附近发现的陌生物件，令她意识到当地此前的搜索仍有遗漏。岚姐依照冒险家的规矩将物件交给旅行者并支付报酬，同时决定安排人手进一步复查遁玉陵。",
+    "resolution": "旅行者凭借线索完成寻宝并获得发现物与报酬，岚姐则接手后续调查。遁玉陵为何仍藏有未被发现的事物尚未得到解释，留下进一步搜索的可能。",
+    "themes": [
+      "寻宝解谜",
+      "冒险经验",
+      "实地探索",
+      "未知遗迹",
+      "线索追踪"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71812,
+      "title": "天遒宝迹",
+      "summary": "本章围绕藏宝图的追查展开，旅行者先清除魔物，再从纸条中解读出三处具体的藏宝位置。完成实地搜索后，旅行者带着在遁玉陵附近发现的陌生物件向岚姐回报。岚姐给予报酬并安排更细致的复查，使一次寻宝行动转化为对遁玉陵遗漏区域的新调查。",
+      "turning_point": "派蒙从纸条中辨认出大树下、道路中间和台阶下三处线索，使原本模糊的藏宝图转化为可以逐一验证的搜索目标。",
+      "outcome": "旅行者完成三处寻宝并保留发现的陌生物件，岚姐支付报酬并决定派人复查遁玉陵。",
+      "section_ids": [
+        "71812-c00-s01",
+        "71812-c00-s02",
+        "71812-c00-s03",
+        "71812-c00-s04",
+        "71812-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月港冒险家协会的岚姐似乎正在为了什么事而烦恼着…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71812-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "旅行者击败魔物开启寻宝",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "寻宝行动开始阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "魔物"
+      ],
+      "summary": "寻宝行动开始后，旅行者在地点未明确之处遭遇魔物阻拦。旅行者击败全部魔物，排除了继续追查藏宝线索的直接障碍。",
+      "motivation": "旅行者需要清除魔物，以便继续调查与宝藏有关的线索。",
+      "outcome": "魔物被全部击败，寻宝行动进入依据藏宝图展开调查的阶段。",
+      "keywords": [
+        "魔物",
+        "战斗",
+        "寻宝开端"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7181202,
+          "title": "打倒所有魔物",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71812-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "纸条揭示三处藏宝线索",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "击败魔物后",
+      "locations": [
+        "遁玉陵附近"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "击败魔物后，旅行者依照藏宝图在遁玉陵附近展开搜索，并在周围发现一张纸条。派蒙辨认出纸条提示宝藏分别藏在一棵特别大的树下、道路中间以及台阶下面，旅行者因而获得三个明确的调查方向。",
+      "motivation": "旅行者与派蒙希望破解藏宝图指向的地点，确认宝藏的具体位置。",
+      "outcome": "含混的藏宝图被补充为三条可执行的地点线索，后续搜索目标由此确定。",
+      "keywords": [
+        "藏宝图",
+        "纸条",
+        "三处线索",
+        "遁玉陵"
+      ],
+      "source_step_keys": [
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7181203,
+          "title": "根据藏宝图上的线索搜寻宝藏",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7181204,
+          "title": "在周围仔细搜索",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71812-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "旅行者依线索取得三份宝藏",
+      "narrative_role": "climax",
+      "importance": 4,
+      "when": "获得纸条线索后",
+      "locations": [
+        "大树下",
+        "道路中间",
+        "台阶下"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "获得纸条提示后，旅行者依次前往大树下、道路中间和台阶下搜寻宝藏。三处线索均得到追查，寻宝行动由解读提示进入取得实际发现的阶段。",
+      "motivation": "旅行者需要逐一验证纸条给出的三处位置，完成藏宝图所引导的寻宝。",
+      "outcome": "三处藏宝地点的搜索全部完成，旅行者取得可用于向岚姐回报的发现。",
+      "keywords": [
+        "大树",
+        "道路",
+        "台阶",
+        "三处宝藏"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7181206,
+          "title": "根据藏宝图上的线索搜寻宝藏",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7181207,
+          "title": "根据藏宝图上的线索搜寻宝藏",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7181208,
+          "title": "根据藏宝图上的线索搜寻宝藏",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71812-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "岚姐强调冒险经验更可贵",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "寻宝任务推进期间",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "岚姐"
+      ],
+      "summary": "寻宝任务推进期间，岚姐在地点未明确之处谈及自己对冒险的看法。她认为冒险经验比钱财更重要，因为旅途中大多数困境无法单靠钱解决。",
+      "motivation": "岚姐希望说明冒险经验对于应对未知处境的价值。",
+      "outcome": "岚姐点明本次探索除财物之外的意义，但原文未明确其言论对寻宝进程产生了新的直接结果。",
+      "keywords": [
+        "岚姐",
+        "冒险经验",
+        "钱财",
+        "冒险理念"
+      ],
+      "source_step_keys": [
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 7181205,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71812-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "岚姐听取回报并安排复查",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "完成寻宝后",
+      "locations": [
+        "璃月港冒险家协会"
+      ],
+      "characters": [
+        "旅行者",
+        "岚姐"
+      ],
+      "summary": "完成寻宝后，旅行者向岚姐回报，并展示在遁玉陵附近发现的陌生物件。岚姐从未见过这种东西，对多次搜索过的遁玉陵仍有遗漏感到意外。她依照冒险家的规矩将物件交给旅行者并支付报酬，同时决定尽快安排人手进行更细致的搜索。",
+      "motivation": "旅行者需要交代寻宝结果，岚姐则希望确认线索所指的发现并处理遁玉陵可能存在的遗漏。",
+      "outcome": "旅行者获得发现物与报酬，岚姐开始筹划对遁玉陵的后续复查，陌生物件的来历仍未明确。",
+      "keywords": [
+        "任务回报",
+        "陌生物件",
+        "遁玉陵",
+        "后续搜索",
+        "报酬"
+      ],
+      "source_step_keys": [
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 7181210,
+          "title": "向岚姐回报",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:05:05.913Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 20067,
+    "slug": "20067_adventurer-exam-taking-flight",
+    "title": "冒险家测验·起飞方式",
+    "chapter_num": "",
+    "premise": "蒙德城的安娜立志成为冒险家，为通过飞行执照考试，在模拟考失利后再次请旅行者辅导风之翼知识。",
+    "central_conflict": "安娜在杰克主持的模拟考试中不及格，对风之翼的理论与操纵掌握不足，需要通过答疑和实地演示补齐短板。",
+    "summary": "蒙德城的安娜想成为冒险家，此前经旅行者辅导后认真学习许久，却在杰克主持的模拟考试中不及格，于是再度向旅行者求助。旅行者答应后，安娜先后提出关于风之翼共用人数、起飞注意事项的测验问题，旅行者逐一作答。随后安娜认为光听理论不够，请旅行者实地演示风之翼的操纵方式，旅行者应允并完成演示。演示后安娜称赞旅行者手法厉害，透露是安柏小姐推荐她来请教，并自信能在辅导下通过飞行执照考试。安娜道谢并赠送谢礼后先行离开回去复习，同时思量自己风之翼要选什么颜色。至此理论答疑与实操演示全部完成，安娜对即将到来的考试重拾信心。",
+    "resolution": "旅行者完成全部理论答疑与风之翼操纵演示，安娜道谢赠礼后离开复习，对通过飞行执照考试重拾信心；故事留下安娜挑选风之翼颜色、继续备考的后续。",
+    "themes": [
+      "冒险家测验",
+      "风之翼",
+      "辅导与成长",
+      "重拾信心",
+      "蒙德城"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 20067,
+      "title": "冒险家测验·起飞方式",
+      "summary": "本章围绕安娜的飞行执照考试辅导展开：安娜模拟考失利后向旅行者求助，旅行者先解答了风之翼共用人数、起飞注意事项等理论问题，又应安娜之请实地演示风之翼的操纵方式。演示结束后安娜称赞并感谢旅行者，赠送谢礼后离开回去复习，对通过考试抱有信心。",
+      "turning_point": "剧情由理论答题转入实地演示：安娜表示光听理论不够，请求旅行者演示风之翼的操纵方式，随后演示获赞并收束。",
+      "outcome": "旅行者完成理论答疑与实操演示，安娜道谢赠礼后离开复习，辅导圆满收束，安娜对通过飞行执照考试重拾信心。",
+      "section_ids": [
+        "20067-c00-s01",
+        "20067-c00-s02",
+        "20067-c00-s03",
+        "20067-c00-s04",
+        "20067-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "蒙德城的安娜真的想要成为冒险家…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "20067-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "安娜模拟考受挫，向旅行者求助",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "蒙德城"
+      ],
+      "characters": [
+        "安娜",
+        "旅行者"
+      ],
+      "summary": "安娜因模拟考试失利而情绪低落，向旅行者倾诉自己的困惑。她提到上次接受旅行者辅导后又认真学习了很久，随后请杰克为自己做了模拟考试，结果仍然不及格。安娜请求旅行者再辅导自己一次。",
+      "motivation": "安娜希望成为冒险家并通过飞行执照考试，模拟考再次失利令她焦虑，因此向旅行者求助。",
+      "outcome": "旅行者答应再次辅导安娜，安娜随即开始提问，剧情进入测验答题环节。",
+      "keywords": [
+        "安娜",
+        "模拟考试",
+        "辅导",
+        "飞行执照"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 2006701,
+          "title": "与安娜对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20067-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "解答风之翼共用人数问题",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "蒙德城"
+      ],
+      "characters": [
+        "安娜",
+        "旅行者"
+      ],
+      "summary": "安娜提出第一个测验问题：飞行时最多可同时几人共用一架风之翼。旅行者就此作答，可选答案包括“一架风之翼只可由一人使用”“取决于操纵者的水平”“取决于操纵者的体重”等，实际只取其中一种。安娜听后回应“原来如此”，接受了这一回答。",
+      "motivation": "测验辅导需要逐一解答安娜关于风之翼的理论问题，帮助她掌握考试知识。",
+      "outcome": "第一问作答完成，安娜表示理解理论内容，为接下来请求实地演示作了铺垫。",
+      "keywords": [
+        "风之翼",
+        "测验问题",
+        "作答"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 2006701,
+          "title": "与安娜对话",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 2006702,
+          "title": "为安娜演示操纵风之翼的方法",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 2006703,
+          "title": "为安娜演示操纵风之翼的方法",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 2006704,
+          "title": "与安娜对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20067-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "安娜请求演示风之翼操纵",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "蒙德城"
+      ],
+      "characters": [
+        "安娜",
+        "旅行者"
+      ],
+      "summary": "安娜表示理论已经大致了解，但认为光听理论不够，请旅行者为她演示一下风之翼的操纵方式。旅行者应允后，安娜随即催促出发进行实地演示。",
+      "motivation": "安娜认为掌握飞行技巧不能只靠理论，希望看到实际操纵示范。",
+      "outcome": "旅行者同意演示，剧情从答题阶段转入实地演示阶段。",
+      "keywords": [
+        "演示",
+        "风之翼",
+        "实地操作"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 2006701,
+          "title": "与安娜对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20067-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "演示获赞，安娜道谢离去",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "蒙德城"
+      ],
+      "characters": [
+        "安娜",
+        "旅行者"
+      ],
+      "summary": "演示结束后，安娜称赞旅行者操纵风之翼的手法厉害，并提到正是安柏小姐推荐她来请教旅行者。安娜自信在旅行者的辅导下能通过飞行执照考试，道谢并赠送谢礼后先行离开回去复习，同时思量自己的风之翼要选什么颜色。",
+      "motivation": "安娜感激旅行者的辅导与演示，并表达对通过考试的信心。",
+      "outcome": "辅导与演示告一段落，安娜收下谢礼离开复习，对通过飞行执照考试重拾信心。",
+      "keywords": [
+        "演示",
+        "答谢",
+        "安柏",
+        "复习"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 2006704,
+          "title": "与安娜对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20067-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "第二问作答：起飞注意事项",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "蒙德城"
+      ],
+      "characters": [
+        "安娜",
+        "旅行者"
+      ],
+      "summary": "安娜提出第二个测验问题：使用风之翼起飞时需要注意什么。旅行者作答“需采取合理的起飞动作与起飞地点”，安娜听后回应“是这样吗”，接受了这一说法。测验辅导至此全部结束。",
+      "motivation": "测验辅导继续进行，需解答安娜的第二个飞行知识问题。",
+      "outcome": "第二问作答完成，本章的理论答疑内容全部收束，安娜的备考辅导告一段落。",
+      "keywords": [
+        "起飞",
+        "风之翼",
+        "测验",
+        "注意事项"
+      ],
+      "source_step_keys": [
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 2006705,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 2006706,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-18T18:35:08.788Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

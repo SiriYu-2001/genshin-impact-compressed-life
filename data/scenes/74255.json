@@ -1,0 +1,130 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 74255,
+    "slug": "74255_tea-party-re-invitation-tabletop-troupe",
+    "title": "茶会的再邀·桌上剧团",
+    "chapter_num": "",
+    "premise": "桑多涅受邀前往千织屋附近，以落座的方式开启茶会，并与众人体验「桌上剧团」。",
+    "central_conflict": "本段剧情没有明显的对抗性冲突，核心张力在于茶会体验结束后，桑多涅选择继续停留还是就此告别。",
+    "summary": "茶会开始前，桑多涅前往千织屋附近准备赴约。连续两个任务步骤都以开启茶会为目标，原文没有呈现其间更具体的事件。落座并共度一段茶会时光后，娜维娅询问桑多涅是否喜欢「桌上剧团」。桑多涅可以选择再坐一会儿，也可以宣布茶会时间结束。两种回应最终都汇合到相同结果，娜维娅欣然提出下次继续游玩。茶会由此在轻松的再会约定中收束。",
+    "resolution": "娜维娅以“下次接着玩”的邀约回应桑多涅，当前茶会随即结束。双方保留了再次相聚并继续体验「桌上剧团」的可能。",
+    "themes": [
+      "茶会重聚",
+      "轻松陪伴",
+      "去留选择",
+      "再次邀约"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 74255,
+      "title": "茶会的再邀·桌上剧团",
+      "summary": "桑多涅前往千织屋附近开启茶会，并在落座后与众人共度茶会时光。娜维娅随后询问她对「桌上剧团」的感受，使聚会进入收尾阶段。桑多涅虽可选择继续停留或结束茶会，但两条回应都促成娜维娅提出下次再玩的约定。",
+      "turning_point": "娜维娅询问桑多涅是否喜欢「桌上剧团」，桑多涅由此面对继续停留或结束茶会的选择。",
+      "outcome": "当前茶会结束，娜维娅与桑多涅约定下次继续游玩。",
+      "section_ids": [
+        "74255-c00-s01",
+        "74255-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "前往千织屋附近放置茶桌并使用桑多涅落座后，与众人共度茶会时光吧…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "74255-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "桑多涅赴约开启茶会",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "茶会开始前",
+      "locations": [
+        "千织屋附近"
+      ],
+      "characters": [
+        "桑多涅（「木偶」）"
+      ],
+      "summary": "茶会开始前，桑多涅依照任务指引前往千织屋附近。两个连续步骤都要求她在此开启茶会，原文未交代其间更具体的行动或阻碍。她的到场与落座为随后共度茶会时光创造了条件。",
+      "motivation": "桑多涅前往约定地点，是为了开启茶会并参与「桌上剧团」相关活动。",
+      "outcome": "茶会得以开启，剧情转入桑多涅与众人共度茶会时光的阶段。",
+      "keywords": [
+        "千织屋",
+        "桑多涅",
+        "开启茶会",
+        "赴约"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7425501,
+          "title": "前往千织屋附近开启茶会",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7425502,
+          "title": "前往千织屋附近开启茶会",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "74255-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "娜维娅邀约下次再聚",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "茶会进行至收尾阶段",
+      "locations": [
+        "千织屋附近"
+      ],
+      "characters": [
+        "娜维娅",
+        "桑多涅（「木偶」）"
+      ],
+      "summary": "共度茶会时光后，娜维娅询问桑多涅是否喜欢「桌上剧团」。桑多涅可以选择再坐一会儿，也可以表示茶会该结束了，这两种回答并非同时发生。无论选择哪种回应，娜维娅都会提议下次继续游玩，使本次茶会在再会约定中结束。",
+      "motivation": "娜维娅希望了解桑多涅的体验并延续共同游玩的机会；桑多涅则需要决定当前茶会是否继续。",
+      "outcome": "不同回应汇合到相同结局，娜维娅提出下次接着玩，当前任务随即完成。",
+      "keywords": [
+        "桌上剧团",
+        "娜维娅",
+        "去留选择",
+        "下次再聚"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7425503,
+          "title": "享受茶会时光",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:24:47.679Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 40095,
+    "slug": "40095_nilotpala-cup-beast-tamers-tournament",
+    "title": "「月莲杯驯兽师大赛」",
+    "chapter_num": "",
+    "premise": "一场奇妙的「月莲杯驯兽师大赛」在奥摩斯港拉开帷幕，未具名参赛者需要捕捉并培养用于比赛的蕈兽。",
+    "central_conflict": "参赛者必须依次完成蕈兽捕捉、潜能焕发和赛前特训，但原文未交代具体对手、阻碍或比赛结果。",
+    "summary": "「月莲杯驯兽师大赛」在奥摩斯港开幕，参赛者开始为比赛准备蕈兽。参赛者先前往捕捉区域并捕捉蕈兽，随后转移到下一个区域继续捕捉。完成捕捉后，参赛者前往「花花琼脂」摊位。参赛者在那里连续焕发蕈兽的潜能，使培养工作进入下一阶段。潜能培养完成后，参赛者转往「特训场地」，准备检验或提升蕈兽的战斗能力。目标文本至此结束，尚未呈现特训过程和大赛胜负。",
+    "resolution": "本段以蕈兽的捕捉和潜能培养完成、参赛者前往「特训场地」收束，并将后续重点转向赛前训练。比赛进程及最终结果仍未明确。",
+    "themes": [
+      "驯兽竞技",
+      "蕈兽捕捉",
+      "潜能培养",
+      "赛前准备"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 40095,
+      "title": "「月莲杯驯兽师大赛」",
+      "summary": "本章围绕大赛初期的蕈兽准备展开，参赛者先在不同捕捉区域获取蕈兽，再前往「花花琼脂」摊位焕发它们的潜能。培养完成后，任务目标转向「特训场地」，使流程从收集与培育过渡到赛前训练。原文未展示具体特训、正式对决或比赛结果。",
+      "turning_point": "参赛者结束捕捉并开始焕发蕈兽潜能，准备工作由获取蕈兽转入培养与训练阶段。",
+      "outcome": "参赛者完成当前阶段的捕捉和潜能焕发，并前往「特训场地」推进后续训练。",
+      "section_ids": [
+        "40095-c00-s01",
+        "40095-c00-s02",
+        "40095-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "一场奇妙的比赛在奥摩斯港拉开了帷幕…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "40095-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "参赛者连续捕捉蕈兽",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "大赛开始后的蕈兽捕捉阶段",
+      "locations": [
+        "捕捉区域",
+        "下一个捕捉区域"
+      ],
+      "characters": [
+        "参赛者（原文未具名）",
+        "蕈兽"
+      ],
+      "summary": "大赛开始后，未具名参赛者前往指定捕捉区域并捕捉蕈兽。参赛者随后转移到下一个捕捉区域，再次执行捕捉任务，为后续培养积累参赛用蕈兽。",
+      "motivation": "参赛者需要取得可供培养和参赛的蕈兽。",
+      "outcome": "两处捕捉区域的任务得到推进，参赛者获得蕈兽并转入潜能培养阶段。",
+      "keywords": [
+        "捕捉区域",
+        "蕈兽",
+        "连续捕捉",
+        "参赛准备"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 4009501,
+          "title": "前往捕捉区域",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 4009502,
+          "title": "捕捉蕈兽",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 4009503,
+          "title": "前往下个捕捉区域",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 4009504,
+          "title": "捕捉蕈兽",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "40095-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "花花琼脂焕发蕈兽潜能",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "完成捕捉后的潜能培养阶段",
+      "locations": [
+        "「花花琼脂」摊位"
+      ],
+      "characters": [
+        "参赛者（原文未具名）",
+        "蕈兽"
+      ],
+      "summary": "完成捕捉后，参赛者前往「花花琼脂」摊位。参赛者在那里连续焕发蕈兽的潜能，使新捕捉的蕈兽具备进入后续训练阶段的条件。原文未说明每次潜能焕发分别对应哪只蕈兽或产生何种具体能力。",
+      "motivation": "参赛者需要通过「花花琼脂」强化蕈兽，为后续特训和比赛做准备。",
+      "outcome": "当前要求的蕈兽潜能焕发任务全部完成，下一目标变为前往「特训场地」。",
+      "keywords": [
+        "花花琼脂",
+        "潜能焕发",
+        "蕈兽培养",
+        "能力强化"
+      ],
+      "source_step_keys": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 4009514,
+          "title": "前往「花花琼脂」摊位",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 4009505,
+          "title": "焕发蕈兽的潜能",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 4009506,
+          "title": "焕发蕈兽的潜能",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 4009507,
+          "title": "焕发蕈兽的潜能",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 4009508,
+          "title": "焕发蕈兽的潜能",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "40095-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "参赛者转往特训场地",
+      "narrative_role": "transition",
+      "importance": 3,
+      "when": "潜能培养完成后",
+      "locations": [
+        "「特训场地」"
+      ],
+      "characters": [
+        "参赛者（原文未具名）",
+        "蕈兽"
+      ],
+      "summary": "潜能培养完成后，参赛者带着蕈兽前往「特训场地」。这一行动将大赛准备流程从捕捉和培养推进到赛前训练，但原文未展示特训的具体内容。",
+      "motivation": "参赛者需要继续训练已经完成潜能焕发的蕈兽，以准备后续赛事。",
+      "outcome": "参赛者的行动目标转入特训阶段，后续训练过程及比赛结果仍待展开。",
+      "keywords": [
+        "特训场地",
+        "赛前训练",
+        "阶段转换",
+        "后续赛事"
+      ],
+      "source_step_keys": [
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "9",
+          "id": 4009513,
+          "title": "前往「特训场地」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:45:25.712Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

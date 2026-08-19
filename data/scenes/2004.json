@@ -1,0 +1,759 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 2004,
+    "slug": "2004_troublesome-work",
+    "title": "麻烦的工作",
+    "chapter_num": "沙漏之章 第一幕",
+    "premise": "旅行者与派蒙到图书馆拜访丽莎，并因想借阅《提瓦特游览指南》而陪她催收多本逾期图书。原本普通的催收工作因唐娜借阅的书失窃而转为元素追踪与夺回行动。",
+    "central_conflict": "丽莎必须从疏忽的借阅者和拒绝归还书本的深渊教团手中维护图书馆的馆藏。深渊法师还暗示失窃童话藏有秘密，使一本看似普通的书成为双方争夺的目标。",
+    "summary": "旅行者与派蒙在图书馆见到工作散漫的丽莎，并得知想借的《提瓦特游览指南》已经逾期未还。丽莎邀请两人协助催收，三人先后拜访玛乔丽、莎拉和唐娜，并在纪念品、用餐与赠花等插曲后处理各人的借阅问题。玛乔丽当场归还《温妮莎传奇》，莎拉则承诺下班后送还《野猪公主》，但唐娜坦白《白之公主与六侏儒》已经失窃。丽莎凭书上的元素标记确认偷窃痕迹，并与旅行者循线追到城外的地下遗迹。众人在遗迹中击败深渊教团的敌人，丽莎以压倒性的元素力惩戒拒绝归还书本的深渊法师，随后完整取回失书。回到图书馆后，丽莎将《白之公主与六侏儒》交由旅行者无限期保管，并以《提瓦特游览指南》和纪念品作为协助工作的酬劳。",
+    "resolution": "失窃馆藏完好取回，普通逾期书也得到归还或还书承诺，丽莎的催收工作由此完成。深渊法师所称的书中秘密没有得到解释，为《白之公主与六侏儒》的真实价值留下疑问。",
+    "themes": [
+      "责任与信任",
+      "失物追踪",
+      "守护知识",
+      "工作与陪伴",
+      "深渊谜团"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 10100,
+      "title": "麻烦的工作",
+      "summary": "旅行者与派蒙为借到《提瓦特游览指南》，陪丽莎依次向玛乔丽、莎拉和唐娜催收逾期图书。轻松的购物、用餐和赠花插曲之后，玛乔丽归还书本，莎拉承诺补还，唐娜却坦白自己的借书已经失窃。丽莎随即利用馆藏上的元素标记确认偷窃事实，并把催收工作转变为追踪偷书者的调查。",
+      "turning_point": "唐娜承认《白之公主与六侏儒》不见了，而元素痕迹进一步证明书被人带往城外。",
+      "outcome": "两本逾期书分别得到归还和还书承诺，丽莎、旅行者与派蒙则循着元素痕迹开始追查失窃书本。",
+      "section_ids": [
+        "2004-c00-s01",
+        "2004-c00-s02",
+        "2004-c00-s03",
+        "2004-c00-s04",
+        "2004-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "图书馆的管理员丽莎，似乎正在对工作上的一些事情感到恼火…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 10101,
+      "title": "遗失之书",
+      "summary": "丽莎、旅行者与派蒙循元素痕迹来到城外遗迹，并判断偷书者很可能来自深渊教团。众人突破封印和敌人阻拦后逼近藏书处，丽莎对拒绝归还书本的深渊法师施以惩戒，完好夺回《白之公主与六侏儒》。回到图书馆后，丽莎把失书交给旅行者保管，并兑现《提瓦特游览指南》及额外纪念品作为酬劳。",
+      "turning_point": "深渊法师拒绝最后通牒并声称书中关系到某个秘密，丽莎随即以强大元素力将其制服。",
+      "outcome": "失书被完整取回并转交旅行者无限期保管，旅行者也取得最初想借的《提瓦特游览指南》，但书中秘密仍未揭晓。",
+      "section_ids": [
+        "2004-c01-s01",
+        "2004-c01-s02",
+        "2004-c01-s03",
+        "2004-c01-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "有不少人借了图书馆的书却忘记归还，丽莎不得不去催讨。玛乔丽和莎拉都答应尽快还书，只有唐娜借的书似乎被偷走了。你们决定以丽莎留在书本上的元素标记为线索，追回丢失的书本。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "2004-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "丽莎召集同伴催收逾期图书",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "催收工作开始时",
+      "locations": [
+        "图书馆"
+      ],
+      "characters": [
+        "丽莎",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "旅行者与派蒙来到图书馆拜访丽莎，并向她询问适合旅行者阅读的书。丽莎推荐《提瓦特游览指南》，却查到该书和另外几本馆藏均已逾期未还。恼火的丽莎决定外出催收，并以尽快拿到指南为由邀请两人同行，首站定为荣光之风。",
+      "motivation": "旅行者与派蒙想借阅实用的旅行读物，丽莎则要追回图书馆的逾期馆藏。",
+      "outcome": "三人组成临时催收队伍，并前往第一名借阅者所在的纪念品商店。",
+      "keywords": [
+        "图书馆",
+        "逾期图书",
+        "提瓦特游览指南",
+        "催收"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 1010001,
+          "title": "去图书馆找丽莎",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 1010002,
+          "title": "与丽莎对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2004-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "纪念品商店归还首本逾期书",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "抵达第一处催收地点后",
+      "locations": [
+        "荣光之风纪念品商店"
+      ],
+      "characters": [
+        "丽莎",
+        "旅行者",
+        "派蒙",
+        "玛乔丽"
+      ],
+      "summary": "丽莎抵达荣光之风后暂缓谈论还书，让旅行者先替她挑选一件纪念品。相关隐藏测试分支提供多种礼品及丽莎的不同反馈，原文没有指定唯一的正式选择。随后丽莎向玛乔丽索要《温妮莎传奇》，玛乔丽在短暂误解后发现书一直带在身上并当场归还。",
+      "motivation": "丽莎想让枯燥的催收行程稍有乐趣，同时履行追回《温妮莎传奇》的职责。",
+      "outcome": "第一本逾期书被顺利收回，三人转往下一处催收地点。",
+      "keywords": [
+        "荣光之风",
+        "纪念品",
+        "温妮莎传奇",
+        "归还"
+      ],
+      "source_step_keys": [
+        "2",
+        "9",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 1010003,
+          "title": "与玛乔丽沟通还书的事",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 1010010,
+          "title": "给丽莎挑选纪念品",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 1010011,
+          "title": "(test)给丽莎挑选礼品（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 1010012,
+          "title": "(test)给丽莎挑选礼品（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 1010013,
+          "title": "(test)给丽莎挑选礼品（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 1010014,
+          "title": "(test)给丽莎挑选礼品（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 1010015,
+          "title": "(test)隐藏选项1解锁（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "17",
+          "id": 1010016,
+          "title": "(test)隐藏选项2解锁（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "18",
+          "id": 1010017,
+          "title": "(test)隐藏线索解锁（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "19",
+          "id": 1010018,
+          "title": "(test)隐藏线索完成（隐藏）$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2004-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "猎鹿人餐后确认还书承诺",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "催收途中用餐阶段",
+      "locations": [
+        "猎鹿人"
+      ],
+      "characters": [
+        "丽莎",
+        "旅行者",
+        "派蒙",
+        "莎拉"
+      ],
+      "summary": "三人来到猎鹿人后，丽莎坚持先用餐再处理麻烦的工作，并让旅行者依据她的喜好选择菜品。隐藏测试步骤列出多种菜品、询问莎拉所得的口味线索及不同反馈，但没有确定所有选项同时发生。餐后丽莎询问《野猪公主》，莎拉才想起自己因店务繁忙忘记还书，并承诺下班后亲自送回图书馆。",
+      "motivation": "丽莎希望在继续催收前享受用餐，旅行者则通过选择菜品配合她的安排；餐后众人仍需落实逾期书的去向。",
+      "outcome": "莎拉明确作出还书承诺，催收队伍继续前往最后一站。",
+      "keywords": [
+        "猎鹿人",
+        "用餐选择",
+        "野猪公主",
+        "还书承诺"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "10",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 1010004,
+          "title": "与莎拉沟通还书的事",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 1010005,
+          "title": "依据丽莎的喜好来点选菜品",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 1010006,
+          "title": "坐下与丽莎一同进餐",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 1010007,
+          "title": "与莎拉对话",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 1010029,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "20",
+          "id": 1010021,
+          "title": "(test)与丽莎一起吃下午茶（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "21",
+          "id": 1010022,
+          "title": "(test)与丽莎一起吃下午茶（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "22",
+          "id": 1010023,
+          "title": "(test)与丽莎一起吃下午茶（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "23",
+          "id": 1010024,
+          "title": "(test)与丽莎一起吃下午茶（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "24",
+          "id": 1010025,
+          "title": "(test)与丽莎一起吃下午茶（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "25",
+          "id": 1010026,
+          "title": "(test)隐藏选项1解锁（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "26",
+          "id": 1010027,
+          "title": "(test)隐藏选项2解锁（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "27",
+          "id": 1010028,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2004-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "花店赠花为催收铺垫",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "抵达当天最后一处催收地点时",
+      "locations": [
+        "花店"
+      ],
+      "characters": [
+        "丽莎",
+        "旅行者",
+        "派蒙",
+        "唐娜",
+        "芙萝拉"
+      ],
+      "summary": "丽莎把花店称为当天最后一站，并让旅行者在正式催收前替她挑选花束。隐藏测试分支包含向唐娜或芙萝拉打听喜好、选择不同花种以及丽莎的相应反馈，原文没有确立唯一的正式花束。短暂的赠花插曲结束后，众人准备向唐娜询问逾期馆藏。",
+      "motivation": "丽莎希望以赠花增添外出同行的情趣，旅行者则尝试根据线索挑选她可能喜欢的花。",
+      "outcome": "花束选择完成或被略过，谈话随即转向唐娜借阅的《白之公主与六侏儒》。",
+      "keywords": [
+        "花店",
+        "赠花",
+        "可选分支",
+        "唐娜"
+      ],
+      "source_step_keys": [
+        "35",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "35",
+          "id": 1010038,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "28",
+          "id": 1010031,
+          "title": "(test)给丽莎挑选花（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "29",
+          "id": 1010032,
+          "title": "(test)给丽莎挑选花（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "30",
+          "id": 1010033,
+          "title": "(test)给丽莎挑选花（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "31",
+          "id": 1010034,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "32",
+          "id": 1010035,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "33",
+          "id": 1010036,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "34",
+          "id": 1010037,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2004-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "遗失书本触发元素追踪",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "向唐娜催收图书时",
+      "locations": [
+        "花店及其附近"
+      ],
+      "characters": [
+        "丽莎",
+        "旅行者",
+        "派蒙",
+        "唐娜"
+      ],
+      "summary": "唐娜承认《白之公主与六侏儒》已经找不到，并说明书原本放在床头，可能被人拿走。丽莎认为唐娜若确实遭窃便没有过错，却明确要让偷书者付出代价。她说明每本馆藏都留有元素标记，旅行者随后借助元素视野确认偷窃痕迹，双方判断书已被带往城外。",
+      "motivation": "唐娜想解释失书经过，丽莎则必须保护馆藏并追究真正偷书者的责任。",
+      "outcome": "普通催收升级为失窃调查，丽莎、旅行者与派蒙开始沿元素痕迹追踪书本。",
+      "keywords": [
+        "白之公主与六侏儒",
+        "失窃",
+        "元素标记",
+        "元素视野"
+      ],
+      "source_step_keys": [
+        "7",
+        "8",
+        "11"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 1010008,
+          "title": "与唐娜对话，了解情况",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 1010009,
+          "title": "与丽莎一起分析线索",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 1010044,
+          "title": "寻找书籍留下的元素痕迹",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2004-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "元素痕迹指向城外遗迹",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "开始追踪失书后",
+      "locations": [
+        "蒙德城外",
+        "地下遗迹入口"
+      ],
+      "characters": [
+        "丽莎",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "丽莎、旅行者与派蒙循着书本留下的微弱元素痕迹向城外搜索，多个隐藏测试步骤记录了沿途抵达的追踪节点。痕迹最终指向一处地下遗迹，入口的元素封印使丽莎判断深渊教团最有作案嫌疑。她不费多少力气便突破封印，带领同伴进入藏身处。",
+      "motivation": "众人要确定偷书者的去向并追回《白之公主与六侏儒》。",
+      "outcome": "追踪目标由模糊的城外方向收束为深渊教团控制的地下遗迹。",
+      "keywords": [
+        "城外追踪",
+        "地下遗迹",
+        "元素封印",
+        "深渊教团"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "13",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 1010101,
+          "title": "搜索元素痕迹指向的方向",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 1010102,
+          "title": "(test)到达目标点1（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 1010103,
+          "title": "(test)到达目标点2（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 1010104,
+          "title": "(test)到达目标点3（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 1010105,
+          "title": "(test)到达目标点4（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 1010106,
+          "title": "(test)到达目标点5（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 1010114,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 1010107,
+          "title": "进入偷书者的藏身处",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2004-c01-s02",
+      "chapter_index": 1,
+      "order": 2,
+      "title": "遗迹探索逼近偷书者",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "进入偷书者藏身处后",
+      "locations": [
+        "地下遗迹"
+      ],
+      "characters": [
+        "丽莎",
+        "旅行者",
+        "派蒙",
+        "深渊教团敌人"
+      ],
+      "summary": "众人在地下遗迹中遭遇来袭敌人，并通过战斗继续向藏书地点推进。旅行者反复借助元素视野辨认痕迹和魔力流动，丽莎则凭实力处理深渊教团设置的阻碍。连续的战斗与搜索使众人逐步接近偷书者和失窃馆藏。",
+      "motivation": "深渊教团试图阻止入侵者深入，丽莎一行则要穿过遗迹并锁定失书位置。",
+      "outcome": "遗迹中的外围阻碍被清除，众人逼近深渊法师与藏书处。",
+      "keywords": [
+        "遗迹探索",
+        "敌人来袭",
+        "元素痕迹",
+        "魔力流动"
+      ],
+      "source_step_keys": [
+        "10",
+        "12",
+        "14",
+        "15",
+        "16"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "10",
+          "id": 1010111,
+          "title": "击败来袭的敌人",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 1010113,
+          "title": "击败深渊教团的敌人",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 1010117,
+          "title": "寻找元素痕迹",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 1010118,
+          "title": "寻找元素痕迹",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 1010119,
+          "title": "寻找元素痕迹",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2004-c01-s03",
+      "chapter_index": 1,
+      "order": 3,
+      "title": "丽莎惩戒深渊法师夺回书本",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "抵达遗迹深处后",
+      "locations": [
+        "地下遗迹深处"
+      ],
+      "characters": [
+        "丽莎",
+        "旅行者",
+        "派蒙",
+        "深渊法师"
+      ],
+      "summary": "深渊法师惊讶众人找到隐蔽据点，并暗示《白之公主与六侏儒》关系到某个秘密，因此拒绝丽莎的最后通牒。丽莎以强大的元素力直接惩戒对方，随后让旅行者沿附近清晰的魔力流动寻找书本。众人最终找到完好无损的失书，但深渊教团为何重视这本普通童话仍未得到解释。",
+      "motivation": "深渊法师想守住书中秘密，丽莎则坚持取回馆藏并惩罚不尊重图书管理规则的偷书者。",
+      "outcome": "深渊法师被制服，《白之公主与六侏儒》被完整夺回，同时留下关于书中秘密的悬念。",
+      "keywords": [
+        "深渊法师",
+        "最后通牒",
+        "元素力",
+        "夺回失书",
+        "秘密"
+      ],
+      "source_step_keys": [
+        "11",
+        "17",
+        "19",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "11",
+          "id": 1010112,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "17",
+          "id": 1010120,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "19",
+          "id": 1010116,
+          "title": "寻找藏匿的书籍",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 1010108,
+          "title": "(test)找到书本后的对话(隐藏)$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2004-c01-s04",
+      "chapter_index": 1,
+      "order": 4,
+      "title": "图书馆登记并兑现助手酬劳",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "夺回失书并返回图书馆后",
+      "locations": [
+        "图书馆"
+      ],
+      "characters": [
+        "丽莎",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "回到图书馆后，丽莎为《白之公主与六侏儒》办好手续，将旅行者登记为无限期保管人，以回应其对书本的兴趣与可靠表现。派蒙随后想起最初寻找的《提瓦特游览指南》，丽莎说明它只是期刊，并让旅行者从书架上取走一本。她还送出预先准备的纪念品，作为地下遗迹意外和助手工作的补偿。",
+      "motivation": "丽莎要完成馆藏登记并回报旅行者的协助，旅行者与派蒙则希望取得最初想借的指南。",
+      "outcome": "失书获得新的可信保管人，旅行者取得《提瓦特游览指南》和额外酬劳，本次工作正式结束。",
+      "keywords": [
+        "保管登记",
+        "提瓦特游览指南",
+        "助手酬劳",
+        "纪念品"
+      ],
+      "source_step_keys": [
+        "8",
+        "9",
+        "18"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "8",
+          "id": 1010109,
+          "title": "与丽莎对话",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 1010110,
+          "title": "(test)与丽莎对话（隐藏）$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "18",
+          "id": 1010115,
+          "title": "取得《提瓦特游览指南》",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:21:43.920Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

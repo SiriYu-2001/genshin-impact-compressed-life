@@ -1,0 +1,129 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70015,
+    "slug": "70015_mutual-exchange",
+    "title": "互通有无？",
+    "chapter_num": "",
+    "premise": "艾拉·马斯克陪同旅行者与另一个愿意交流的丘丘人接触，尝试通过理解其需求并交换物品建立友好关系。",
+    "central_conflict": "丘丘人的物品要求需要借助手册辨认，交付是否正确将直接决定这次跨语言交流的结果。",
+    "summary": "旅行者与艾拉·马斯克找到另一个愿意交流的丘丘人，并以丘丘语表明友好态度。丘丘人提出想要“lata boya sada”，艾拉判断它正在索要某种物品，但无法当场确定具体所指。她建议查阅手册，以便旅行者理解要求并准备交换物。旅行者随后向丘丘人交付自己判断的物品，交流结果随物品是否符合要求而变化。正确交付会使丘丘人认可旅行者为朋友，并告知“Unta mosi dada”这一信息；错误交付则令它质疑朋友的意义。派蒙在成功交流后提示查明新短语的含义，而在失败结果中则指出一次错误不应动摇对方对友谊的认识。",
+    "resolution": "这次物品交换以条件式结果收束：正确选择巩固双方的友好关系并带来一条待解读的信息，错误选择则暴露语言误判对互信的伤害。",
+    "themes": [
+      "跨语言交流",
+      "物品交换",
+      "理解与误解",
+      "友谊",
+      "文化沟通"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70015,
+      "title": "互通有无？",
+      "summary": "本章围绕满足一名友善丘丘人的物品要求展开。艾拉·马斯克先用丘丘语建立沟通，再引导旅行者查阅手册、辨认“lata boya sada”并交付物品。物品是否符合要求构成关键转折，并分别导向友谊得到确认、获得新短语线索，或因误解而使丘丘人质疑朋友关系的结果。",
+      "turning_point": "旅行者依照自己对“lata boya sada”的理解交付物品，交付是否正确使交流走向认可或失望。",
+      "outcome": "正确交付会让丘丘人认可这位朋友并提供“Unta mosi dada”的信息，错误交付则使它因交换失败而重新质疑朋友的意义。",
+      "section_ids": [
+        "70015-c00-s01",
+        "70015-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "与艾拉·马斯克一同前去与丘丘人交流，或许是一段新友谊的开始…？",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70015-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "友善丘丘人提出交换要求",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "与另一个愿意交流的丘丘人接触时",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "丘丘人",
+        "艾拉·马斯克",
+        "旅行者"
+      ],
+      "summary": "旅行者与艾拉·马斯克在地点未明确之处接触另一名愿意交流的丘丘人，艾拉以丘丘语回应对方的友好问候。丘丘人表示自己想要“lata boya sada”，艾拉听出它在索要物品，却无法立即确定所指。她因此建议查阅手册，以便弄清需求并完成交换。",
+      "motivation": "艾拉与旅行者希望理解丘丘人的要求，通过满足其需求继续建立友好交流。",
+      "outcome": "交换目标被明确为寻找并交付“lata boya sada”，旅行者需要根据手册判断具体物品。",
+      "keywords": [
+        "丘丘语",
+        "交换要求",
+        "lata boya sada",
+        "查阅手册"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7001501,
+          "title": "与另一个愿意交流的丘丘人对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70015-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "物品选择决定交流结果",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "辨认丘丘人的物品要求后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "丘丘人",
+        "旅行者",
+        "派蒙",
+        "艾拉·马斯克"
+      ],
+      "summary": "旅行者向丘丘人交付自己判断符合“lata boya sada”要求的物品，交付结果决定交流走向。若物品正确，丘丘人会认可旅行者为朋友并说出“Unta mosi dada”，旅行者可从两种回应中选择一种作答，派蒙则建议继续查明新短语的含义。若物品错误，丘丘人会因这次误解质疑朋友的意义，艾拉翻译其话语，派蒙则指出一次交错物品不必上升为对友谊的怀疑。",
+      "motivation": "旅行者试图以正确物品回应丘丘人的需求并维持友好关系；派蒙与艾拉则协助理解交流的结果。",
+      "outcome": "正确交付会巩固友谊并留下“Unta mosi dada”这一待解读信息，错误交付则造成失望并暴露误解对互信的冲击。",
+      "keywords": [
+        "物品交付",
+        "条件结果",
+        "Unta mosi dada",
+        "友谊考验",
+        "误解"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7001502,
+          "title": "向丘丘人交付物品",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:50:24.008Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,766 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 10071,
+    "slug": "10071_the-treasure-of-the-four-skerries",
+    "title": "四礁觅宝记",
+    "chapter_num": "",
+    "premise": "旅行者与派蒙发现赤穗百目鬼一众留下的藏宝图，得知秘宝线索被分成四份，分别藏在金苹果群岛四座主要岛屿附近的礁石上。两人决定集齐线索并找到秘宝。",
+    "central_conflict": "四份线索散落各处，取得它们既需要搜索礁石，也需要解决丘丘人、海上迷雾和岛屿形态谜题。线索汇合后仍须解读含混的测绘提示，才能确定秘宝位置。",
+    "summary": "寻宝开始时，派蒙从藏宝图文字中判断赤穗百目鬼一众把四份线索分别留在金苹果群岛四座大岛的礁石附近。旅行者与派蒙随后分别前往破破岛、双双岛、危危岛和布丁岛搜寻，其中在双双岛帮助夜鸦船长清理丘丘人，并依照其指引穿越迷雾。危危岛的线索要求他们沿星河方向航行，布丁岛的线索则需要逐步解读留书，并调整山体形态以显现正确路径。集齐四份线索后，两人把线索中的“心”理解为圆心，以船长所代表的船长为半径，在地图上画出四个圆。四圆共同覆盖的位置由此成为秘宝埋藏地，两人前往云阶取得赤穗百目鬼一众留下的秘宝。派蒙随后意识到云阶、布丁岛山体和夜鸦船长都与机器造成的异常有关，因此对海盗如何布置这场寻宝产生疑问。旅行者与派蒙推测，藏宝者希望秘宝被发现的念头可能受机器影响而化为现实，并最终收下秘宝。",
+    "resolution": "旅行者与派蒙成功集齐线索、解出四圆交汇之谜并取得秘宝。寻宝行动已经完成，但秘宝路线与群岛异常景象之间的关系仍未得到确证，只留下关于机器如何回应藏宝者愿望的推测。",
+    "themes": [
+      "海岛寻宝",
+      "线索解谜",
+      "互助交换",
+      "愿望具现",
+      "现实与幻象"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 79020,
+      "title": "秘宝所藏",
+      "summary": "旅行者与派蒙从藏宝图中确认四份秘宝线索分藏于金苹果群岛四座大岛的礁石附近，并以集齐它们为目标。四份线索到手后，两人将提示转化为地图上的四个圆，以共同覆盖区域锁定秘宝埋藏地。取得云阶上的秘宝后，他们发现寻宝路线利用了机器造成的异常景象，因而无法完全确认赤穗百目鬼一众布置线索的方式。",
+      "turning_point": "派蒙依照旅行者对“心”和“半径”的解释画出四个圆，四圆交汇处由此揭示秘宝位置。",
+      "outcome": "旅行者与派蒙取得秘宝，并将异常寻宝路线暂时解释为藏宝者希望秘宝被找到的念头受到机器影响。",
+      "section_ids": [
+        "10071-c00-s01",
+        "10071-c00-s02",
+        "10071-c00-s03",
+        "10071-c00-s04",
+        "10071-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "似乎有海盗在金苹果群岛的海域上藏起了宝藏，并且将线索一分为四，找到所有的线索，寻得宝藏吧！",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 79028,
+      "title": "宝藏线索·破破岛",
+      "summary": "旅行者与派蒙前往破破岛附近的礁石，以取得四份藏宝线索之一。两人在附近完成搜索，为集齐全部线索推进了一步。",
+      "turning_point": "旅行者与派蒙将搜索范围从破破岛附近的礁石收束到具体线索。",
+      "outcome": "破破岛一带的秘宝线索被纳入四份线索的收集进程。",
+      "section_ids": [
+        "10071-c01-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "前往破破岛的礁石附近，看看有没有海盗们留下的，关于宝藏的线索…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": 79029,
+      "title": "宝藏线索·双双岛",
+      "summary": "旅行者与派蒙在双双岛附近遇见夜鸦船长，并答应以清理其洞穴中的丘丘人为条件换取四分之一的藏宝线索。完成委托后，夜鸦船长指引两人从礁石出发，依次辨认航向并穿越海上迷雾。两人最终抵达目标岛屿，继续搜索并取得秘宝线索。",
+      "turning_point": "夜鸦船长在丘丘人被清理后兑现承诺，亲自提供穿越迷雾、寻找线索的航行方法。",
+      "outcome": "旅行者与派蒙依靠夜鸦船长的指示穿越迷雾，并取得双双岛路线对应的秘宝线索。",
+      "section_ids": [
+        "10071-c02-s01",
+        "10071-c02-s02",
+        "10071-c02-s03",
+        "10071-c02-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_02.json",
+      "source_description": "前往双双岛的礁石附近，看看有没有海盗们留下的，关于宝藏的线索…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": 79030,
+      "title": "宝藏线索·危危岛",
+      "summary": "旅行者与派蒙前往危危岛附近的礁石寻找藏宝信息，并从发现的指示中确认需要顺着天上银河的方向航行。两人按照「航路留书」给出的航向继续前进，最终找到这一带的秘宝线索。",
+      "turning_point": "派蒙将留书中的“星河”解释为天上的银河，从而明确了离开礁石后的航行方向。",
+      "outcome": "旅行者与派蒙沿正确航路找到危危岛路线对应的秘宝线索。",
+      "section_ids": [
+        "10071-c03-s01",
+        "10071-c03-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_03.json",
+      "source_description": "前往危危岛的礁石附近，看看有没有海盗们留下的，关于宝藏的线索…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": 79031,
+      "title": "宝藏线索·布丁岛",
+      "summary": "旅行者与派蒙在布丁岛附近找到「循路留书」，但起初无法理解“树叶全红之时”的指向。沿留书继续寻找后，他们得到“树叶红黄相间”“自西方登岛”“可见塔楼”等进一步提示，派蒙由此判断必须改变山体形态。两人按这一判断调整搜索条件，最终找到布丁岛路线对应的秘宝线索。",
+      "turning_point": "派蒙从塔楼与红黄树叶的组合提示中认出所需的山体形态，使含混的留书转化为可执行的搜索方法。",
+      "outcome": "旅行者与派蒙通过改变布丁岛山体形态完成循路搜索，并取得秘宝线索。",
+      "section_ids": [
+        "10071-c04-s01",
+        "10071-c04-s02",
+        "10071-c04-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_04.json",
+      "source_description": "前往布丁岛的礁石附近，看看有没有海盗们留下的，关于宝藏的线索…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "10071-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "藏宝图揭示四份礁石线索",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "寻宝开始时",
+      "locations": [
+        "金苹果群岛的礁石"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "寻宝开始时，派蒙把发现的图认作赤穗百目鬼一众留下的藏宝图，并从文字中确认存在秘宝。旅行者与派蒙结合“一分为四”和“四座大岛礁石之处”等提示，判断被拆分的是藏宝线索，另外三份应在其余大岛的礁石附近。",
+      "motivation": "派蒙对秘宝产生兴趣，旅行者与她需要先解释藏宝图，才能确定搜索目标。",
+      "outcome": "四座主要岛屿的礁石被确定为搜索范围，旅行者与派蒙决定寻找其余三处线索并集齐四份内容。",
+      "keywords": [
+        "藏宝图",
+        "赤穗百目鬼",
+        "四份线索",
+        "礁石"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7902012,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10071-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "四岛搜寻集齐秘宝线索",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "确定四处搜索范围后",
+      "locations": [
+        "金苹果群岛"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "确定线索被分为四份后，旅行者与派蒙在金苹果群岛展开跨岛搜寻。两人完成各处礁石及其延伸路线的调查，集齐了解读秘宝位置所需的四份线索。",
+      "motivation": "只有集齐被拆分的全部提示，旅行者与派蒙才能还原完整的藏宝信息。",
+      "outcome": "四份秘宝线索全部到手，寻宝目标从分散搜索转为集中解读。",
+      "keywords": [
+        "四岛搜寻",
+        "集齐线索",
+        "金苹果群岛"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7902007,
+          "title": "集齐四份秘宝的线索",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10071-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "四圆交汇锁定埋藏地点",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "集齐四份线索后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "集齐线索后，派蒙一度无法理解其中“以……为心”的说法，旅行者将其解释为以指定地点为圆心、依照距离画圆。两人参考曾在港口见过的大船估算“以船长为半径”的长度，派蒙据此在地图上画出四个圆。四个圆共同覆盖的区域由此被认定为秘宝埋藏地。",
+      "motivation": "四份线索仍不能直接指明地点，旅行者与派蒙必须把抽象的测绘用语转化为地图位置。",
+      "outcome": "秘宝位置被锁定，旅行者与派蒙可以前往四圆交汇区域寻找宝藏。",
+      "keywords": [
+        "圆心",
+        "半径",
+        "地图测绘",
+        "四圆交汇"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7902009,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10071-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "旅行者登上云阶取得秘宝",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "锁定秘宝埋藏地后",
+      "locations": [
+        "秘宝埋藏之地的云阶"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "锁定四圆共同覆盖的区域后，旅行者与派蒙找到秘宝埋藏之地，并继续前往实际存放秘宝的位置。两人登上云阶取得赤穗百目鬼一众留下的秘宝，完成寻宝行动的核心目标。",
+      "motivation": "地图解读已经给出目标区域，两人需要亲自抵达埋藏点并取回秘宝。",
+      "outcome": "秘宝被成功取得，但它被放置在云阶上的事实随即引出对藏宝过程真实性的疑问。",
+      "keywords": [
+        "埋藏之地",
+        "云阶",
+        "取得秘宝",
+        "赤穗百目鬼"
+      ],
+      "source_step_keys": [
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7902010,
+          "title": "找到秘宝的埋藏之地",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7902011,
+          "title": "前往埋藏之地获得秘宝",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10071-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "群岛异象引出藏宝疑问",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "取得秘宝后",
+      "locations": [
+        "秘宝埋藏之地的云阶"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "取得秘宝后，派蒙质疑旧日海盗是否有能力把宝物藏在云阶上，并联想到布丁岛山体和双双岛夜鸦船长同样源于机器影响。旅行者提出宝藏或许希望被找到，派蒙则推测藏宝者希望秘宝现世的念头可能被机器具现。两人没有查明真相，但仍决定收下已经找到的秘宝。",
+      "motivation": "寻宝路线依赖后来出现的异常景象，促使旅行者与派蒙重新审视秘宝与赤穗百目鬼一众之间的关系。",
+      "outcome": "秘宝正式归旅行者与派蒙所有，关于机器是否把藏宝者愿望化为寻宝路线的疑问则被保留下来。",
+      "keywords": [
+        "机器影响",
+        "群岛异象",
+        "藏宝者愿望",
+        "未解疑问"
+      ],
+      "source_step_keys": [
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 7902013,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10071-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "破破岛礁石搜索取得线索",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "四份线索搜集阶段",
+      "locations": [
+        "破破岛附近的礁石"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "四份线索搜集阶段，旅行者与派蒙前往破破岛附近的礁石。两人在周边展开搜索，并完成这一处藏宝线索的收集。",
+      "motivation": "旅行者与派蒙需要调查四座主要岛屿的礁石，以拼合完整的秘宝指示。",
+      "outcome": "破破岛路线对应的线索被取得，四份线索的收集进程得以推进。",
+      "keywords": [
+        "破破岛",
+        "礁石搜索",
+        "秘宝线索"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7902801,
+          "title": "前往破破岛附近的礁石",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7902802,
+          "title": "在附近寻找宝藏的线索",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10071-c02-s01",
+      "chapter_index": 2,
+      "order": 1,
+      "title": "夜鸦船长提出线索交易",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "抵达双双岛附近后",
+      "locations": [
+        "双双岛附近礁石的山洞口"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "夜鸦船长"
+      ],
+      "summary": "抵达双双岛附近后，旅行者与派蒙在山洞口遇见因丘丘人占据住处而叹气的夜鸦船长。夜鸦船长表示自己知道四分之一的海盗秘宝线索，并提出以清理洞内丘丘人为交换条件。派蒙为了取得线索答应了这项委托。",
+      "motivation": "夜鸦船长想夺回安静的歇息之处，旅行者与派蒙则需要他掌握的四分之一线索。",
+      "outcome": "双方达成互助约定，清理丘丘人成为获得双双岛线索指引的前置条件。",
+      "keywords": [
+        "夜鸦船长",
+        "丘丘人",
+        "条件交换",
+        "四分之一线索"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7902901,
+          "title": "前往双双岛附近的礁石",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10071-c02-s02",
+      "chapter_index": 2,
+      "order": 2,
+      "title": "清理丘丘人换得航行方法",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "与夜鸦船长达成约定后",
+      "locations": [
+        "双双岛附近礁石的山洞"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "夜鸦船长",
+        "丘丘人"
+      ],
+      "summary": "达成约定后，旅行者与派蒙进入山洞并清理占据其中的丘丘人，随后向夜鸦船长回报。夜鸦船长确认委托完成并表示感谢，继而兑现承诺，准备告诉两人穿越海上迷雾、找到线索的方法。",
+      "motivation": "旅行者与派蒙需要履行交换条件，夜鸦船长则要取回自己的歇息之处。",
+      "outcome": "丘丘人造成的阻碍被排除，夜鸦船长转而成为寻找线索的向导。",
+      "keywords": [
+        "清理丘丘人",
+        "兑现承诺",
+        "航行方法",
+        "迷雾"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7902906,
+          "title": "帮助夜鸦船长清理丘丘人",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7902907,
+          "title": "回报夜鸦船长",
+          "is_hidden": false
+        },
+        {
+          "key": "0",
+          "id": 7902908,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10071-c02-s03",
+      "chapter_index": 2,
+      "order": 3,
+      "title": "船长从礁石指明航向",
+      "narrative_role": "transition",
+      "importance": 3,
+      "when": "夜鸦船长兑现承诺后",
+      "locations": [
+        "双双岛附近礁石"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "夜鸦船长"
+      ],
+      "summary": "夜鸦船长让旅行者与派蒙到礁石另一边与他会合，并说明自己会先行前往沿途礁石提示正确航向。两人准备就绪后，他指出第一块作为航行目标的礁石，正式带领他们进入迷雾路线。",
+      "motivation": "海上迷雾使常规航行无法可靠抵达线索所在地，旅行者与派蒙必须依靠夜鸦船长逐段引路。",
+      "outcome": "第一段航向得到确认，寻找线索从岸上交涉转入海上导航。",
+      "keywords": [
+        "礁石会合",
+        "指明航向",
+        "迷雾航路"
+      ],
+      "source_step_keys": [
+        "2",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7902902,
+          "title": "在附近寻找宝藏的线索",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7902903,
+          "title": "与夜鸦船长对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10071-c02-s04",
+      "chapter_index": 2,
+      "order": 4,
+      "title": "穿越迷雾找到岛上线索",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "获得第一段航向后",
+      "locations": [
+        "双双岛附近海域",
+        "线索所在岛屿"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "夜鸦船长"
+      ],
+      "summary": "获得航向后，旅行者与派蒙遵循夜鸦船长沿途留下的指示穿越海上迷雾。两人抵达目标岛屿并继续搜索，最终找到这一航路对应的秘宝线索。",
+      "motivation": "旅行者与派蒙需要完成夜鸦船长指示的全部航程，才能取得藏在迷雾之后的四分之一线索。",
+      "outcome": "双双岛路线对应的秘宝线索被取得，四份线索的收集进程继续推进。",
+      "keywords": [
+        "穿越迷雾",
+        "海上导航",
+        "岛屿搜索",
+        "秘宝线索"
+      ],
+      "source_step_keys": [
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 7902904,
+          "title": "遵循夜鸦船长的指示穿越迷雾",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7902905,
+          "title": "在岛上寻找秘宝的线索",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10071-c03-s01",
+      "chapter_index": 3,
+      "order": 1,
+      "title": "星河提示确定危危岛航向",
+      "narrative_role": "revelation",
+      "importance": 3,
+      "when": "四份线索搜集阶段",
+      "locations": [
+        "危危岛附近的礁石"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "四份线索搜集阶段，旅行者与派蒙前往危危岛附近的礁石并搜索藏宝指示。派蒙把“顺着星河的方向”解释为朝天上银河所指的方向航行，并催促旅行者立即出发。",
+      "motivation": "两人需要解读礁石附近留下的航向提示，才能抵达真正存放线索的位置。",
+      "outcome": "含混的“星河”被转化为明确航向，后续海上搜索获得起点。",
+      "keywords": [
+        "危危岛",
+        "星河方向",
+        "航路留书",
+        "礁石"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7903001,
+          "title": "前往危危岛附近的礁石",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7903002,
+          "title": "在附近寻找宝藏的线索",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7903005,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10071-c03-s02",
+      "chapter_index": 3,
+      "order": 2,
+      "title": "沿航路留书找到秘宝线索",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "确定星河航向后",
+      "locations": [
+        "危危岛附近海域"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "确定航向后，旅行者与派蒙按照「航路留书」的指示在危危岛附近海域航行。两人沿正确路线完成搜索，找到这一带留下的秘宝线索。",
+      "motivation": "旅行者与派蒙需要遵循留书标明的航路，才能取得被藏在礁石以外的线索。",
+      "outcome": "危危岛路线对应的秘宝线索被取得，四份线索的收集进程继续推进。",
+      "keywords": [
+        "航路留书",
+        "海上航行",
+        "危危岛线索"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7903003,
+          "title": "按照「航路留书」的指示航行，找到秘宝的线索",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10071-c04-s01",
+      "chapter_index": 4,
+      "order": 1,
+      "title": "循路留书留下红叶谜题",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "四份线索搜集阶段",
+      "locations": [
+        "布丁岛附近的礁石"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "四份线索搜集阶段，旅行者与派蒙前往布丁岛附近的礁石搜寻秘宝线索。两人找到一份「循路留书」，但派蒙无法判断其中“树叶全红之时”究竟指向何处。",
+      "motivation": "旅行者与派蒙需要从布丁岛附近留下的文字中辨认通往秘宝线索的路线。",
+      "outcome": "第一层留书被发现，但红叶提示尚未得到解释，搜索转入逐步解谜。",
+      "keywords": [
+        "布丁岛",
+        "循路留书",
+        "红叶谜题",
+        "礁石"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7903101,
+          "title": "前往布丁岛附近的礁石",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7903102,
+          "title": "在附近寻找秘宝的线索",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7903105,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10071-c04-s02",
+      "chapter_index": 4,
+      "order": 2,
+      "title": "塔楼提示揭示山体形态",
+      "narrative_role": "revelation",
+      "importance": 4,
+      "when": "沿第一份循路留书搜索后",
+      "locations": [
+        "布丁岛"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "沿第一份「循路留书」搜索后，旅行者与派蒙得到进一步提示，却仍未直接找到秘宝线索。派蒙读出“树叶红黄相间之时，自西方登岛，可见塔楼”，并从塔楼这一特征判断必须把布丁岛的山变成对应形态。",
+      "motivation": "第一层指示没有直接通向线索，两人必须结合树叶颜色、登岛方向和塔楼特征识别正确环境。",
+      "outcome": "布丁岛山体形态成为解谜关键，旅行者与派蒙获得了继续搜索的具体方法。",
+      "keywords": [
+        "红黄树叶",
+        "西方登岛",
+        "塔楼",
+        "山体形态"
+      ],
+      "source_step_keys": [
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7903103,
+          "title": "根据「循路留书」寻找秘宝的线索",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7903106,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10071-c04-s03",
+      "chapter_index": 4,
+      "order": 3,
+      "title": "调整山体后找到最终线索",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "识别正确山体形态后",
+      "locations": [
+        "布丁岛"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "识别留书所指的山体形态后，旅行者与派蒙据此改变布丁岛的搜索条件，并继续按照「循路留书」前进。两人最终完成路线调查，找到这一岛屿对应的秘宝线索。",
+      "motivation": "只有让山体呈现红黄树叶与塔楼并存的状态，留书描述的路径才会成立。",
+      "outcome": "布丁岛路线对应的秘宝线索被取得，四份线索的拼合条件得到满足。",
+      "keywords": [
+        "调整山体",
+        "循路解谜",
+        "布丁岛线索"
+      ],
+      "source_step_keys": [
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 7903104,
+          "title": "根据「循路留书」寻找秘宝的线索",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:31:23.965Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 74657,
+    "slug": "74657_galathees-salt-solicitation",
+    "title": "伽拉蒂雅的盐需求",
+    "chapter_num": "",
+    "premise": "伽拉蒂雅为船队的一次短途航行征集10瓶盐，并向供盐者确认物资是否已经备齐。主要目标是满足船队的食盐储备需求。",
+    "central_conflict": "船队航行必须携带足量食盐，数量不足便无法满足伽拉蒂雅的要求；供盐者需要备齐10瓶盐才能获得她的认可。",
+    "summary": "时间未明确，供盐者在地点未明确处与伽拉蒂雅商谈食盐供应。伽拉蒂雅首先确认对方是否为此事而来，并追问所需盐是否已经备齐。她说明船队会带着一船人四处航行，因此每次出发前都必须准备充足的食盐。剧情以“尚未备齐”和“已经备齐”作为供应条件的分界，但没有把两种可选回答同时视为既成事实。完成10瓶盐的供应后，伽拉蒂雅判断这些盐足以支撑一次短途航行。她也因此认可供盐者的可靠性，并表示今后有同类需求时会优先联络对方。",
+    "resolution": "伽拉蒂雅的10瓶盐需求得到满足，船队获得了一次短途航行所需的食盐储备。供盐者由一次性交付者转变为她未来可能优先联系的供应对象。",
+    "themes": [
+      "物资筹备",
+      "航行补给",
+      "可靠合作",
+      "长期供需关系"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 74657,
+      "title": "伽拉蒂雅的盐需求",
+      "summary": "本章围绕为伽拉蒂雅的船队提供10瓶盐展开。她先核实供盐者的准备情况，并以船队航行需要充足食盐说明数量门槛。供应完成后，她确认这些盐足够一次短途航行，并因对方履约可靠而提出未来优先联络。",
+      "turning_point": "10瓶盐达到船队的补给要求，使双方的交涉从数量核验转为伽拉蒂雅对供盐者的认可。",
+      "outcome": "船队获得短途航行所需的食盐，供盐者也建立了获得伽拉蒂雅后续需求优先联络的合作基础。",
+      "section_ids": [
+        "74657-c00-s01",
+        "74657-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "伽拉蒂雅需要10瓶盐。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "74657-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "伽拉蒂雅核实食盐储备",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "商谈食盐供应时",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "伽拉蒂雅",
+        "供盐者"
+      ],
+      "summary": "商谈食盐供应时，伽拉蒂雅向供盐者确认来意，并询问是否已经准备好足量食盐。她说明船队载有多人且需四处航行，每次都必须预先储备充足的盐；若数量不足，便不能满足需求。原文提供“准备好了”与“还没有”两种可选回答，但两者不构成同时发生的事实。",
+      "motivation": "伽拉蒂雅需要确保船队在启程前拥有足以供全船人员使用的食盐储备。",
+      "outcome": "食盐数量是否充足成为完成供应的明确条件，剧情随后进入10瓶盐满足需求后的确认阶段。",
+      "keywords": [
+        "食盐供应",
+        "数量核实",
+        "船队补给",
+        "玩家选择"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7465701,
+          "title": "将10瓶盐交给伽拉蒂雅",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "74657-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "足量交付赢得后续信任",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "10瓶盐供应完成后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "伽拉蒂雅",
+        "供盐者"
+      ],
+      "summary": "10瓶盐供应完成后，伽拉蒂雅确认这批物资足以支持船队的一次短途航行。她据此评价供盐者值得信赖，并表示未来再有相关需求时会优先联络对方。",
+      "motivation": "伽拉蒂雅需要确认补给能否满足近期航行，同时希望保留可靠的食盐供应渠道。",
+      "outcome": "本次食盐需求得到解决，双方建立了可能延续至后续采购的信任关系。",
+      "keywords": [
+        "十瓶盐",
+        "短途航行",
+        "可靠供应",
+        "优先联络"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7465702,
+          "title": "与伽拉蒂雅对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:26:50.531Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

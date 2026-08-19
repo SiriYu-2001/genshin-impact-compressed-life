@@ -1,0 +1,433 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 23004,
+    "slug": "23004_project-baby",
+    "title": "宝贝计划",
+    "chapter_num": "",
+    "premise": "弄蛇人古拉布吉尔发现给宠物蛇调制的口粮全部不见了，因需留守看管蛇群，他委托旅行者按地图标注前往营地取回口粮。",
+    "central_conflict": "口粮遗失在古拉布吉尔不便抽身的营地中，营地已被蕈兽占据、还可能发生塌方或荒废，旅行者需击退蕈兽、几经搜寻才能取回失物；古拉布吉尔对营地异状的不安与对雨林旧日生活的怀念贯穿全程。",
+    "summary": "弄蛇人古拉布吉尔因宠物蛇口粮全部遗失而向旅行者求助，并因须留守看管蛇群，请旅行者按地图标注前往营地取回。旅行者与派蒙赶赴营地，击退占据营地的蕈兽，几经搜寻找回口粮并返回交还。古拉布吉尔确认失物无误，听派蒙讲述发现经过——或营地塌方、或口粮被小鸟叼上树、或正被蕈兽偷吃——并顺势谈起自己在雨林生活的旧事，随后支付报酬。旅行者还在营地找到表演用珠子、给小蛇做的彩色睡帽与蛇爬架等失物，古拉布吉尔一一认出并再次致谢。整段剧情以委托日常为主，借对话勾勒出古拉布吉尔与宠物蛇相伴的形象，以及他对旧日生活的淡淡怀念。",
+    "resolution": "口粮与额外失物全部物归原主，古拉布吉尔确认无误并支付报酬，委托圆满收束；留下的余韵是他对营地怪声的困惑和对雨林旧日生活的怀念。",
+    "themes": [
+      "委托互助",
+      "人与动物相伴",
+      "旧日怀念",
+      "日常温情"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 23004,
+      "title": "宝贝计划",
+      "summary": "弄蛇人古拉布吉尔因宠物蛇口粮全部遗失，委托旅行者前往地图标注的营地取回。旅行者与派蒙赶赴营地，击退偷吃口粮的蕈兽并寻回口粮，返回交还后，古拉布吉尔确认失物、听派蒙讲述发现经过，并在对话中流露出对离开已久的雨林生活的怀念，随后支付报酬。旅行者还将营地中找到的表演珠子、彩色睡帽与蛇爬架等失物一一归还，古拉布吉尔认领致谢。整章是一段轻松的委托日常，在答谢与闲谈中勾勒出弄蛇人与小蛇相伴的形象。",
+      "turning_point": "旅行者从营地顺利寻回口粮并交还，古拉布吉尔确认失而复得，委托由「寻找失物」转为「确认答谢」，营地异状也引出了他对旧日雨林生活的追忆。",
+      "outcome": "口粮与额外失物全部物归原主，古拉布吉尔支付报酬，本章以古拉布吉尔的答谢和对旧日生活的淡淡怀念收束。",
+      "section_ids": [
+        "23004-c00-s01",
+        "23004-c00-s02",
+        "23004-c00-s03",
+        "23004-c00-s04",
+        "23004-c00-s05",
+        "23004-c00-s06",
+        "23004-c00-s07"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "弄蛇人古拉布吉尔似乎遇到了点麻烦…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "23004-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "古拉布吉尔求助寻回蛇口粮",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "古拉布吉尔",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "弄蛇人古拉布吉尔发现给宠物蛇调制的口粮全部不见了，向旅行者求助。他解释因蛇进食吓到过孩子，已长期自制口粮喂养，如今蛇群不再自行觅食；他推测口粮落在了之前采草药时待过的营地，但因必须留守看管蛇群，只能请旅行者按地图标注去营地取回。若旅行者此前已完成「回不卜庐找七七」相关任务，派蒙会提起同样养蛇的白术与长生。",
+      "motivation": "宠物蛇的专属口粮全部遗失，蛇群已不再自行觅食，古拉布吉尔又须留守看管，只能委托旅行者代跑一趟。",
+      "outcome": "旅行者接下委托，古拉布吉尔在地图上标出营地位置，剧情转入前往营地的阶段。",
+      "keywords": [
+        "宠物蛇",
+        "口粮",
+        "委托",
+        "地图标注",
+        "古拉布吉尔"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 2300401,
+          "title": "与古拉布吉尔对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "23004-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "动身前往地图标注的营地",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "营地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "古拉布吉尔"
+      ],
+      "summary": "旅行者与派蒙按地图标注动身前往营地。古拉布吉尔询问是否已找到口粮，旅行者随即在营地一带开始搜寻。",
+      "motivation": "兑现对古拉布吉尔的承诺，尽快取回蛇口粮。",
+      "outcome": "旅行者抵达营地，遭遇营地中的异常状况，引出与蕈兽的冲突。",
+      "keywords": [
+        "前往营地",
+        "赶路",
+        "搜寻"
+      ],
+      "source_step_keys": [
+        "4",
+        "10",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 2300414,
+          "title": "前往营地",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 2300411,
+          "title": "前往营地",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 2300402,
+          "title": "前往营地",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "23004-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "击退营地中的蕈兽",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "营地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "蕈兽"
+      ],
+      "summary": "营地里出现了蕈兽，旅行者与派蒙出手将其全部打倒。清除障碍后，旅行者得以在营地中安心搜寻口粮。",
+      "motivation": "蕈兽占据营地并偷吃口粮，击败它们才能安全取回失物。",
+      "outcome": "营地中的蕈兽被全部清除，旅行者得以开始仔细搜寻蛇口粮。",
+      "keywords": [
+        "蕈兽",
+        "战斗",
+        "营地"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 2300403,
+          "title": "打倒所有蕈兽",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "23004-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "搜寻并找回蛇口粮",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "营地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "旅行者与派蒙在营地中仔细搜寻，最终找到了被落下的蛇口粮并带在身边。",
+      "motivation": "完成委托，把口粮完好地带回给等待中的古拉布吉尔。",
+      "outcome": "口粮失而复得，旅行者带着口粮踏上归途，准备向古拉布吉尔交差。",
+      "keywords": [
+        "寻找",
+        "蛇口粮",
+        "营地"
+      ],
+      "source_step_keys": [
+        "5",
+        "7",
+        "11"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 2300406,
+          "title": "寻找古拉布吉尔的蛇口粮",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 2300408,
+          "title": "寻找古拉布吉尔的蛇口粮",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 2300412,
+          "title": "寻找古拉布吉尔的蛇口粮",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "23004-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "返回交还找回的口粮",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "古拉布吉尔"
+      ],
+      "summary": "旅行者带着找回的口粮返回古拉布吉尔身边。古拉布吉尔询问是否找到口粮，旅行者出示口粮，等待他的确认。",
+      "motivation": "尽快把口粮交还给留守看管蛇群、不便亲自前往营地的古拉布吉尔。",
+      "outcome": "口粮顺利交到古拉布吉尔手中，进入确认与答谢环节。",
+      "keywords": [
+        "返回",
+        "交还",
+        "口粮"
+      ],
+      "source_step_keys": [
+        "12",
+        "21",
+        "22",
+        "3",
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "12",
+          "id": 2300413,
+          "title": "回报古拉布吉尔",
+          "is_hidden": false
+        },
+        {
+          "key": "21",
+          "id": 2300429,
+          "title": "回报古拉布吉尔",
+          "is_hidden": false
+        },
+        {
+          "key": "22",
+          "id": 2300430,
+          "title": "回报古拉布吉尔",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 2300404,
+          "title": "寻找古拉布吉尔的蛇口粮",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 2300410,
+          "title": "寻找古拉布吉尔的蛇口粮",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "23004-c00-s06",
+      "chapter_index": 0,
+      "order": 6,
+      "title": "确认口粮与交付报酬",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "古拉布吉尔"
+      ],
+      "summary": "古拉布吉尔确认找回的正是丢失的口粮，派蒙讲述发现经过——依所去的营地不同，口粮或被塌方的石块压住、或被小鸟叼到大树上、或正被蕈兽偷吃。古拉布吉尔也据营地状况谈起旧事：或疑惑营地为何突然塌方并想起夜里听见的怪声，或感慨自己离开雨林已久、旧营地多已荒废，并一度盘算起把口粮拿去出售的生意。他最终向旅行者道谢并支付报酬。",
+      "motivation": "确认失物无误，感谢旅行者远赴营地取回口粮；营地异状勾起的回忆促使他说出旧事。",
+      "outcome": "委托圆满完成，古拉布吉尔支付报酬；他对营地怪声与雨林旧日生活的感慨为剧情留下余韵。",
+      "keywords": [
+        "确认口粮",
+        "报酬",
+        "营地塌方",
+        "雨林往事"
+      ],
+      "source_step_keys": [
+        "6",
+        "8",
+        "13"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 2300407,
+          "title": "前往营地",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 2300409,
+          "title": "前往营地",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 2300416,
+          "title": "回报古拉布吉尔",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "23004-c00-s07",
+      "chapter_index": 0,
+      "order": 7,
+      "title": "归还营地的额外失物",
+      "narrative_role": "resolution",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "古拉布吉尔"
+      ],
+      "summary": "旅行者告知古拉布吉尔还在营地找到了别的东西。依带回的失物不同，古拉布吉尔认出表演用的珠子（小蛇曾顶着珠子随笛声舞蹈）、他曾给每条小蛇做的彩色睡帽，或是给小蛇解闷的蛇爬架玩具，并逐一为这些旧物道谢、支付报酬。",
+      "motivation": "把营地中发现的其他失物一并归还给主人古拉布吉尔。",
+      "outcome": "古拉布吉尔认领全部失物并再次致谢，整段委托圆满收束。",
+      "keywords": [
+        "表演珠子",
+        "睡帽",
+        "蛇爬架",
+        "归还"
+      ],
+      "source_step_keys": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "14",
+          "id": 2300419,
+          "title": "回报古拉布吉尔",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 2300420,
+          "title": "回报古拉布吉尔",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 2300421,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "17",
+          "id": 2300423,
+          "title": "回报古拉布吉尔",
+          "is_hidden": false
+        },
+        {
+          "key": "18",
+          "id": 2300424,
+          "title": "回报古拉布吉尔",
+          "is_hidden": false
+        },
+        {
+          "key": "19",
+          "id": 2300427,
+          "title": "回报古拉布吉尔",
+          "is_hidden": false
+        },
+        {
+          "key": "20",
+          "id": 2300428,
+          "title": "回报古拉布吉尔",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-18T23:12:21.851Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

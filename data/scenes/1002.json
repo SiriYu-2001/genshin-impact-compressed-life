@@ -1,0 +1,1932 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 1002,
+    "slug": "1002_for-a-tomorrow-without-tears",
+    "title": "为了没有眼泪的明天",
+    "chapter_num": "序章 第二幕",
+    "premise": "蒙德周边的元素循环恢复后，旅行者返回城内报告，并因能够净化特瓦林的泪滴而再次参与龙灾调查。众人逐步把目标确定为借助天空之琴唤回特瓦林的本性。",
+    "central_conflict": "拯救特瓦林的行动既受到愚人众觊觎风神力量、教会拒绝出借圣物和深渊教团腐蚀巨龙的阻挠，也受制于天空之琴力量枯竭。",
+    "summary": "旅行者回到蒙德时撞见琴与愚人众使节争论如何处置特瓦林，并向骑士团展示了受污染的龙泪结晶。旅行者随后追上曾与巨龙交流的温迪，得知结晶是特瓦林痛苦的眼泪，而天空之琴或许能唤回巨龙的本性。正式借琴失败后，旅行者为阻止特瓦林继续受苦而答应潜入教堂取琴，却被另一名闯入者抢先夺走圣物。迪卢克庇护旅行者和温迪，并促成他们与琴私下合作；众人由此确认愚人众窃取了天空之琴，继而闯入其藏身地夺回圣物。由于琴中风元素已经枯竭，旅行者、琴与迪卢克分头收集特瓦林散落的泪滴，再由旅行者净化结晶并使天空之琴恢复力量。众人在摘星崖尝试用琴声与特瓦林重逢，但深渊教团的介入使沟通失败，天空之琴也遭到严重破坏。迪卢克遂把行动目标转向腐蚀特瓦林的源头，众人开始追击深渊法师。",
+    "resolution": "众人完成了从查明龙泪性质、夺回天空之琴到恢复琴力的全部准备，却未能在摘星崖解除特瓦林的痛苦。失败揭示深渊教团才是必须清除的腐蚀源头，并将后续行动转向对其追踪和反击。",
+    "themes": [
+      "救赎与净化",
+      "信任与合作",
+      "自由与责任",
+      "外交角力",
+      "腐蚀与背叛"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 370,
+      "title": "阴影下的蒙德",
+      "summary": "旅行者返回蒙德后，目睹愚人众要求接管城防并主张消灭特瓦林，琴则坚持维护蒙德的独立与四风守护。旅行者把龙泪结晶交给琴和丽莎检查，众人发现其中的污秽会排斥神之眼持有者，却无法伤害旅行者。琴授予旅行者荣誉骑士称号，并请求其继续调查龙灾与结晶之谜。",
+      "turning_point": "丽莎确认旅行者能够接触受污染的结晶而不受伤害，使其成为调查和净化龙泪的关键人物。",
+      "outcome": "旅行者以荣誉骑士身份再次介入龙灾调查，并继续保管结晶。",
+      "section_ids": [
+        "1002-c00-s01",
+        "1002-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在你们的努力下，蒙德的元素流动终于回归了正常，是时候回到蒙德，向琴回报你们的进展了。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 371,
+      "title": "不期而遇",
+      "summary": "离开骑士团后，旅行者向派蒙说明自己隐瞒了曾与巨龙交流的绿色人物，并决定先自行调查。两人恰好发现此人，随即借助元素视野循着痕迹在蒙德城内追赶。",
+      "turning_point": "旅行者和派蒙认出眼前的绿衣路人正是低语森林中的神秘人物。",
+      "outcome": "两人沿脚印追上高处，继续寻找神秘人物。",
+      "section_ids": [
+        "1002-c01-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "你们回到蒙德城，偶然遇到了琴与「愚人众」的冲突。此后你向琴展示了在森林中发现的风龙泪滴，在琴的请求下，你又一次参与到了对风魔龙特瓦林的调查之中。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": 372,
+      "title": "那个绿色的家伙",
+      "summary": "旅行者和派蒙找到正在演奏的绿衣诗人，并依照其留下的提示把下一目的地锁定为“蒙德英雄的象征”。对方自称温迪，并以特瓦林的真名称呼风魔龙。旅行者展示已经被净化的结晶后，温迪揭示它是特瓦林因痛苦流下的眼泪。",
+      "turning_point": "温迪认出净化后的结晶，并说明其本质是特瓦林的泪水。",
+      "outcome": "旅行者首次获得龙泪性质的明确解释，并开始追问温迪与特瓦林的关系。",
+      "section_ids": [
+        "1002-c02-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_02.json",
+      "source_description": "正准备出发调查的你们，在骑士团总部的门外，见到了跟风魔龙对话的神秘家伙。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": 373,
+      "title": "听凭风引",
+      "summary": "旅行者追随温迪来到风起地，希望从他那里了解风神和特瓦林的往事。异常出现的敌人打断谈话，众人击退来袭者后察觉风向变化已经影响到巨龙以外的生物。温迪表现出与风元素的深厚联系，却仍未完整解释自己的身份和计划。",
+      "turning_point": "本不应出现在微风平原的敌人来袭，证明异常风向的影响正在扩大。",
+      "outcome": "众人击退敌人，旅行者继续跟随温迪调查特瓦林。",
+      "section_ids": [
+        "1002-c03-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_03.json",
+      "source_description": "这位神秘人自称吟游诗人温迪，你还没等到温迪解释清与巨龙的联系，他便自顾自离开了。追着他的脚步，你们来到了风起地的巨树下。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": 374,
+      "title": "温迪的计划",
+      "summary": "温迪说明天空之琴能够借琴声唤回特瓦林的本性，并邀请旅行者前往大教堂探查。他先以解救蒙德和自称风神为由向修女借琴，但遭到拒绝；旅行者随后凭荣誉骑士身份尝试，也因缺少正式文件而失败。",
+      "turning_point": "温迪和旅行者的两次正式借琴均告失败，正常取得天空之琴的途径被封死。",
+      "outcome": "众人确认天空之琴确实收藏在大教堂内，但必须另想取得圣物的办法。",
+      "section_ids": [
+        "1002-c04-s01",
+        "1002-c04-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_04.json",
+      "source_description": "终于停下脚步的温迪向你解释，他在低语森林中与特瓦林相见时，本想为它清除诅咒，却没能成功。现在，如果想要让特瓦林恢复本心，不得不依赖「天空之琴」的力量。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": 375,
+      "title": "温迪的新计划",
+      "summary": "温迪在借琴失败后提出“巧取”天空之琴，并认为具有荣誉骑士身份的旅行者更适合执行。旅行者虽然不愿偷窃，却为了救助特瓦林、避免再次面对分离而答应带回圣物。两人确认白天入口有人看守，遂改在夜间潜入教堂地下室。",
+      "turning_point": "旅行者明确决定承担风险，为温迪取回天空之琴。",
+      "outcome": "旅行者在夜间进入地下室并接近天空之琴，但行动随即发生意外。",
+      "section_ids": [
+        "1002-c05-s01",
+        "1002-c05-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_05.json",
+      "source_description": "温迪准备用花言巧语将天空之琴骗到手的计划毫不意外的失败了，于是温迪想了个新计划，这个新计划看来需要你的帮助。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": 376,
+      "title": "逃亡",
+      "summary": "旅行者即将取得天空之琴时，陌生闯入者抢先带走圣物，教堂守卫则把动静归咎于旅行者一行。旅行者与温迪逃出大教堂并躲进迪卢克的酒馆，迪卢克误导追兵后要求他们说明真相。听完温迪讲述特瓦林的遭遇和救援计划，迪卢克决定提供帮助并约定打烊后再会。",
+      "turning_point": "迪卢克在了解事情原委后从质问者转为庇护者，并主动提出牵线合作。",
+      "outcome": "旅行者和温迪暂时摆脱追捕，获得迪卢克的信任与协助。",
+      "section_ids": [
+        "1002-c06-s01",
+        "1002-c06-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_06.json",
+      "source_description": "你几乎完美地执行了温迪的计划，眼看天空之琴即将到手，一个陌生人突然出现拿走了天空之琴。而你们的动静也惊动了守卫，一行人只得仓皇逃出大教堂。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": 377,
+      "title": "幕后谈话",
+      "summary": "旅行者按约在第二天夜间等待酒馆打烊，随后发现迪卢克邀请来的合作者正是以私人身份行动的琴。琴相信特瓦林是受毒血和深渊法师腐蚀才失去本性，并解释自己因愚人众的外交压力无法公开表示善意。众人据此判断天空之琴落入愚人众之手，决定避开外交纠纷，伪装身份前往夺回圣物。",
+      "turning_point": "琴放下代理团长的公开立场，与迪卢克、温迪和旅行者组成私下合作的救龙队伍。",
+      "outcome": "众人确认愚人众是夺琴者，并获得进入其藏身地行动所需的情报和伪装。",
+      "section_ids": [
+        "1002-c07-s01",
+        "1002-c07-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_07.json",
+      "source_description": "从大教堂中逃出的你们慌不择路的逃进了迪卢克的酒馆，但是迪卢克意外的决定庇护并帮助你。于是，在迪卢克的引荐下，你们在打烊后的酒馆遇到了意想不到的人。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": 20101,
+      "title": "追逐暗影",
+      "summary": "旅行者一行进入愚人众藏身地，突破防御并从守卫口中确认天空之琴被锁在遗迹深处。众人通过交涉或战斗等可选路线搜寻钥匙，并赶在执行官“女士”获知情况前打开圣物存放处。输入中同时保留了大量标有“test”或“$HIDDEN”的交涉、触发器和进度记录步骤，这些内容属于未正式呈现的替代流程。最终众人取得天空之琴，守卫则在威胁后逃离。",
+      "turning_point": "众人取得钥匙并打开紧闭的大门，抵达天空之琴的存放处。",
+      "outcome": "被愚人众夺走的天空之琴回到众人手中，救助特瓦林的计划得以继续。",
+      "section_ids": [
+        "1002-c08-s01",
+        "1002-c08-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_08.json",
+      "source_description": "迪卢克带来的人正是骑士团的琴，众人一番交谈，发觉窃取天空之琴的是「愚人众」。为了拯救特瓦林，你们必须取回天空之琴。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": 379,
+      "title": "至宝的现状",
+      "summary": "众人把天空之琴带回酒馆，却发现琴中积存千年的风元素已经枯竭，暂时无法呼唤特瓦林。旅行者将净化后的龙泪滴在琴弦上，成功补充部分力量。温迪判断还需要更多泪滴，琴、迪卢克与旅行者遂决定分头搜寻。",
+      "turning_point": "第一枚净化龙泪成功恢复天空之琴的部分风元素，证明修复方案可行。",
+      "outcome": "众人从夺琴转入收集和净化更多风龙泪滴的阶段。",
+      "section_ids": [
+        "1002-c09-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_09.json",
+      "source_description": "你们历经战斗，终于从愚人众的手中取回了失窃的天空之琴。不知道为什么，温迪对天空之琴表现得甚为怀念。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": 380,
+      "title": "遗落之泪",
+      "summary": "旅行者、琴等人前往千风神殿寻找散落的龙泪，并通过挑战消灭守卫怪物。众人成功取得一枚风龙泪滴，继续为修复天空之琴积累材料。",
+      "turning_point": "守卫泪滴的怪物被消灭，结晶得以回收。",
+      "outcome": "众人获得一枚风龙泪滴。",
+      "section_ids": [
+        "1002-c10-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_10.json",
+      "source_description": "天空之琴的状态已经不如以往，但是通过风龙泪滴，你们成功地将风元素注入到天空之琴中。为了让天空之琴进一步恢复力量，你们需要更多的风龙泪滴。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": 381,
+      "title": "藏匿之泪",
+      "summary": "众人进入林中废墟，消灭守卫怪物后取得藏在其中的风龙泪滴。迪卢克提醒众人不能因收集成功而放松，因为特瓦林仍在受苦，愚人众也可能再次行动。他与琴的交谈进一步显露其虽不受骑士团制约，却始终以自己的方式对抗蒙德的威胁。",
+      "turning_point": "龙泪回收后，迪卢克把注意力重新拉回特瓦林和愚人众仍然存在的危险。",
+      "outcome": "众人取得另一枚风龙泪滴，并保持对愚人众后续行动的警戒。",
+      "section_ids": [
+        "1002-c11-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_11.json",
+      "source_description": "特瓦林的足迹遍布蒙德，其中一颗泪滴掉落在林中废墟。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": 382,
+      "title": "被夺之泪",
+      "summary": "旅行者前往达达乌帕谷的黑日族部落，寻找被丘丘人夺走的受污染龙泪。旅行者打开部落中的宝箱，成功取回结晶。",
+      "turning_point": "旅行者突破黑日族部落的阻碍并接触到存放泪滴的宝箱。",
+      "outcome": "被丘丘人占有的风龙泪滴得到回收。",
+      "section_ids": [
+        "1002-c12-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_12.json",
+      "source_description": "被污染的风龙泪滴甚至吸引了丘丘人，你不得不向丘丘人讨回泪滴。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": 383,
+      "title": "澄净之泪",
+      "summary": "众人在晨曦酒庄重新集合，温迪发现新收集的结晶污染更重，旅行者随即净化全部泪滴并将其注入天空之琴。琴中风元素由此恢复到充盈状态，呼唤特瓦林的准备完成。为避免失败波及蒙德城或酒庄，众人选择兼具高处之风和海风的摘星崖作为演奏地点。",
+      "turning_point": "净化后的泪滴使天空之琴恢复足以呼唤特瓦林的力量。",
+      "outcome": "众人确定摘星崖为行动地点，并约定在那里集合。",
+      "section_ids": [
+        "1002-c13-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_13.json",
+      "source_description": "泪滴收集完毕，你们一行人再度汇合。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": 384,
+      "title": "与巨龙重逢",
+      "summary": "旅行者、温迪、琴和迪卢克在摘星崖集合，温迪开始以修复后的天空之琴呼唤特瓦林。重逢因深渊教团的介入而失败，天空之琴严重损坏，特瓦林所受的腐蚀也未能解除。迪卢克判断只有击败腐蚀源头才能减轻巨龙的痛苦，并承诺利用自己的情报网追踪深渊法师。发现目标后，众人随即准备以武力反击。",
+      "turning_point": "天空之琴在重逢中损坏，众人的目标由琴声净化转为直接清除深渊教团的腐蚀源头。",
+      "outcome": "特瓦林仍未获救，众人锁定深渊法师并开始追击。",
+      "section_ids": [
+        "1002-c14-s01",
+        "1002-c14-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_14.json",
+      "source_description": "借助风龙泪滴的力量，天空之琴完全恢复了力量。净化风魔龙的准备已经完成。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "1002-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "愚人众施压并引出龙泪",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "蒙德周边元素循环恢复后",
+      "locations": [
+        "蒙德城"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "琴",
+        "安娜斯塔西娅"
+      ],
+      "summary": "旅行者回到蒙德城后，撞见琴与愚人众使节安娜斯塔西娅交涉。愚人众主张接管城防并消灭特瓦林，琴则拒绝把四风守护视作可以随意处置的野兽。旅行者随后提出让骑士团检查自己持有的神秘结晶，并随琴返回总部。",
+      "motivation": "旅行者需要汇报元素循环恢复的结果并查明结晶性质；琴需要抵御愚人众对蒙德城防和特瓦林处置权的干涉。",
+      "outcome": "愚人众觊觎特瓦林力量的嫌疑浮现，旅行者把调查线索带回骑士团总部。",
+      "keywords": [
+        "愚人众",
+        "外交压力",
+        "特瓦林",
+        "神秘结晶"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 37001,
+          "title": "回到蒙德城",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 37002,
+          "title": "听听琴和神秘人的对话",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 37004,
+          "title": "与琴一同回到骑士团总部",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "结晶排斥揭示旅行者特殊性",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "返回骑士团总部后",
+      "locations": [
+        "西风骑士团总部"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "琴",
+        "丽莎"
+      ],
+      "summary": "丽莎检查结晶后发现其中含有污秽杂质，并会与神之眼持有者体内的元素力相互排斥。旅行者同样能操纵元素，却可以安全保管结晶，这一异常使琴更加重视其作用。琴授予旅行者荣誉骑士称号，请其继续寻找龙灾与结晶背后的真相。",
+      "motivation": "琴和丽莎希望确认结晶与龙灾的关系，琴也需要能够安全接触结晶的人继续调查。",
+      "outcome": "旅行者成为荣誉骑士并保留结晶，承担起继续调查蒙德龙灾的责任。",
+      "keywords": [
+        "污秽杂质",
+        "元素排斥",
+        "荣誉骑士",
+        "调查委托"
+      ],
+      "source_step_keys": [
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 37005,
+          "title": "与琴对话",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 37003,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "元素视野追踪绿衣人物",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "离开骑士团总部后",
+      "locations": [
+        "蒙德城"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "温迪"
+      ],
+      "summary": "旅行者向派蒙说明自己刻意没有向骑士团提及低语森林中的绿衣人物，因为想先自行判断对方的立场。两人恰好在街上发现此人，追赶未果后借助元素视野沿脚印搜索。痕迹最终在墙边消失，两人遂从那里继续向高处追赶。",
+      "motivation": "旅行者认为绿衣人物未必是敌人，希望在骑士团介入前亲自查清其与特瓦林的关系。",
+      "outcome": "旅行者和派蒙沿线索逼近绿衣人物的所在。",
+      "keywords": [
+        "绿衣人物",
+        "元素视野",
+        "脚印",
+        "追踪"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 37101,
+          "title": "离开骑士团",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 37102,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 37103,
+          "title": "寻找可疑的人",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 37104,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 37105,
+          "title": "借助元素视野寻找可疑的人",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 37106,
+          "title": "借助元素视野寻找可疑的人",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 37107,
+          "title": "借助元素视野寻找可疑的人",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 37108,
+          "title": "借助元素视野寻找可疑的人",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 37109,
+          "title": "借助元素视野寻找可疑的人",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 37110,
+          "title": "借助元素视野寻找可疑的人",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 37111,
+          "title": "借助元素视野寻找可疑的人",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 37112,
+          "title": "借助元素视野寻找可疑的人",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 37113,
+          "title": "借助元素视野寻找可疑的人",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 37115,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c02-s01",
+      "chapter_index": 2,
+      "order": 1,
+      "title": "温迪道出结晶源自龙泪",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "追上绿衣人物后",
+      "locations": [
+        "蒙德城"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "温迪"
+      ],
+      "summary": "旅行者和派蒙找到演奏中的绿衣人物，并从“蒙德英雄的象征”这一提示判断他将前往风起地的巨树。对方自称吟游诗人温迪，又以“特瓦林”称呼风魔龙，显露出不同寻常的熟悉。看到已经变得澄澈的结晶后，温迪说明那是特瓦林在痛苦中流下的眼泪。",
+      "motivation": "旅行者希望查清温迪与巨龙的联系，温迪则因认出龙泪而回应结晶的来历。",
+      "outcome": "结晶与特瓦林的痛苦被直接关联，旅行者获得继续追随温迪的关键理由。",
+      "keywords": [
+        "温迪",
+        "风起地",
+        "特瓦林",
+        "龙泪"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 37201,
+          "title": "找到绿色的家伙",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 37202,
+          "title": "聆听吟游诗人的弹奏",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 37203,
+          "title": "与神秘的诗人对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c03-s01",
+      "chapter_index": 3,
+      "order": 1,
+      "title": "风起地异变打断追问",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "追随温迪来到风起地后",
+      "locations": [
+        "风起地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "温迪"
+      ],
+      "summary": "旅行者在风起地向温迪打听风神和特瓦林的情况，温迪反问世人如今如何看待风魔龙。谈话被不应出现在微风平原的敌人打断，众人将其击败。战斗后的风向异常显示龙灾的影响正在外溢，派蒙也注意到温迪与风元素关系极深。",
+      "motivation": "旅行者希望借温迪了解神与巨龙的过去；温迪需要先处理受异常风向影响而出现的威胁。",
+      "outcome": "敌人被击退，但温迪的身份与巨龙往事仍未完全说明。",
+      "keywords": [
+        "风起地",
+        "风向异变",
+        "来袭敌人",
+        "风元素"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 37301,
+          "title": "前往风起地",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 37302,
+          "title": "与温迪对话",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 37303,
+          "title": "击败来袭的敌人",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 37304,
+          "title": "与温迪对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c04-s01",
+      "chapter_index": 4,
+      "order": 1,
+      "title": "天空之琴成为救龙关键",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "风起地交谈后",
+      "locations": [
+        "前往蒙德大教堂的途中"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "温迪"
+      ],
+      "summary": "温迪说明天空之琴是风神巴巴托斯曾经弹奏的至宝，并声称能用它把特瓦林从噩梦中唤回。天空之琴被收藏在大教堂深处，温迪决定前去探查，旅行者则随行观察其计划。",
+      "motivation": "温迪希望以琴声恢复特瓦林的本性，旅行者也愿意尝试避免直接杀死巨龙的方案。",
+      "outcome": "众人把取得天空之琴确立为下一阶段的核心目标。",
+      "keywords": [
+        "天空之琴",
+        "巴巴托斯",
+        "唤回本性",
+        "大教堂"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 37407,
+          "title": "跟随温迪前往大教堂",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c04-s02",
+      "chapter_index": 4,
+      "order": 2,
+      "title": "两次正式借琴接连失败",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "抵达蒙德大教堂后",
+      "locations": [
+        "蒙德大教堂"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "温迪",
+        "歌特琳德"
+      ],
+      "summary": "温迪先向修女歌特琳德说明救龙用途，又自称巴巴托斯，但歌特琳德坚持应讨伐背离东风的特瓦林并拒绝借琴。温迪至少由此确认天空之琴确实藏在教堂，随后让荣誉骑士旅行者再试一次。旅行者同样因拿不出团长、主教和民众代表签署的正式文件而被拒绝。",
+      "motivation": "温迪和旅行者希望通过正规交涉取得圣物，歌特琳德则必须遵守教会的保管和出借制度。",
+      "outcome": "正规借琴途径被封死，众人需要制定新的取琴方案。",
+      "keywords": [
+        "借琴失败",
+        "歌特琳德",
+        "教会规定",
+        "正式文件"
+      ],
+      "source_step_keys": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 37401,
+          "title": "到温迪附近",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 37402,
+          "title": "观看温迪的借琴之道",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 37403,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 37404,
+          "title": "与温迪对话",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 37405,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 37406,
+          "title": "与修女对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c05-s01",
+      "chapter_index": 5,
+      "order": 1,
+      "title": "旅行者承担夜间取琴风险",
+      "narrative_role": "development",
+      "importance": 5,
+      "when": "两次借琴失败后",
+      "locations": [
+        "蒙德大教堂"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "温迪"
+      ],
+      "summary": "温迪提出既然“明借”不成便只能“巧取”，并以旅行者的荣誉骑士身份更容易得到宽宥为由劝其执行。旅行者不愿偷窃，却认为无论温迪是否真是风神，特瓦林都不应继续受苦。为救龙并避免再次经历分离，旅行者最终答应带回天空之琴。",
+      "motivation": "温迪迫切需要天空之琴净化特瓦林；旅行者因救助受苦者和抗拒分离而接受风险。",
+      "outcome": "旅行者正式加入取琴计划，行动从交涉转向秘密潜入。",
+      "keywords": [
+        "巧取",
+        "夜间计划",
+        "救助特瓦林",
+        "分离"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 37501,
+          "title": "与温迪对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c05-s02",
+      "chapter_index": 5,
+      "order": 2,
+      "title": "夜潜教堂逼近天空之琴",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "夜间18点至次日6点",
+      "locations": [
+        "蒙德大教堂",
+        "大教堂地下室"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "教堂守卫"
+      ],
+      "summary": "旅行者发现地下室入口整个白天都有守卫，因而等到夜间再悄悄进入教堂。旅行者潜入地下室深处并避开守卫，逐步接近存放天空之琴的位置。",
+      "motivation": "旅行者需要绕过白天的严密守卫，在不惊动教会的情况下取得圣物。",
+      "outcome": "旅行者抵达天空之琴附近，但尚未真正把圣物带走。",
+      "keywords": [
+        "夜间潜入",
+        "地下室",
+        "教堂守卫",
+        "天空之琴"
+      ],
+      "source_step_keys": [
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 37502,
+          "title": "在晚上进入教堂（18点~6点）",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 37503,
+          "title": "潜入地下室深处，取得天空之琴",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 37504,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c06-s01",
+      "chapter_index": 6,
+      "order": 1,
+      "title": "夺琴突变迫使众人逃亡",
+      "narrative_role": "conflict",
+      "importance": 5,
+      "when": "夜间取琴行动即将成功时",
+      "locations": [
+        "大教堂地下室",
+        "蒙德大教堂外",
+        "天使的馈赠"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "温迪",
+        "陌生闯入者"
+      ],
+      "summary": "旅行者几乎取得天空之琴时，一名陌生闯入者抢先将圣物带走，守卫随即被惊动。旅行者和温迪被迫逃出大教堂，借助风场拉开距离并躲进迪卢克的酒馆。",
+      "motivation": "陌生闯入者意在夺走天空之琴；旅行者和温迪则必须逃脱追捕并设法查清圣物去向。",
+      "outcome": "天空之琴落入第三方手中，旅行者与温迪成为被追查的嫌疑人。",
+      "keywords": [
+        "天空之琴被夺",
+        "教堂守卫",
+        "风场逃亡",
+        "酒馆"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 37601,
+          "title": "逃出大教堂",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 37602,
+          "title": "通过风场，远离大教堂",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 37604,
+          "title": "躲进酒馆",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c06-s02",
+      "chapter_index": 6,
+      "order": 2,
+      "title": "迪卢克庇护并决定牵线",
+      "narrative_role": "development",
+      "importance": 5,
+      "when": "逃入酒馆后",
+      "locations": [
+        "天使的馈赠"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "温迪",
+        "迪卢克",
+        "查尔斯",
+        "奥特",
+        "麦尔斯"
+      ],
+      "summary": "迪卢克让旅行者和温迪藏上二楼，并以错误方向支开追查天空之琴的守卫。待追兵离开后，他质问两人为何盗琴，并听温迪讲述特瓦林受腐蚀和需要净化的故事。迪卢克判断此事值得介入，决定寻找合作者并约定酒馆打烊后再会。",
+      "motivation": "迪卢克希望判断两人的行为是否真正有利于蒙德；旅行者和温迪需要洗清嫌疑并争取援助。",
+      "outcome": "迪卢克相信救龙计划并提供庇护，新的合作关系由此建立。",
+      "keywords": [
+        "迪卢克",
+        "庇护",
+        "真实故事",
+        "秘密合作"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 37605,
+          "title": "回答迪卢克的质问",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 37606,
+          "title": "躲到酒馆的楼上",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 37607,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 37608,
+          "title": "与迪卢克对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c07-s01",
+      "chapter_index": 7,
+      "order": 1,
+      "title": "众人等待打烊后再会",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "第二天夜间至酒馆0点后打烊时",
+      "locations": [
+        "蒙德城",
+        "天使的馈赠"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "温迪",
+        "迪卢克"
+      ],
+      "summary": "旅行者先离开酒馆，并依照约定在第二天夜间返回。众人等待酒馆打烊，以便避开公众视线展开秘密会谈。",
+      "motivation": "迪卢克需要在不引起教会、骑士团和愚人众注意的情况下召集可信合作者。",
+      "outcome": "秘密会面的条件具备，旅行者回到酒馆听取迪卢克的安排。",
+      "keywords": [
+        "第二天夜间",
+        "酒馆打烊",
+        "秘密会面"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 37701,
+          "title": "离开酒馆",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 37702,
+          "title": "在第二天的晚上前往酒馆$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 37703,
+          "title": "等待酒馆打烊（0~6点期间酒馆打烊）",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 37704,
+          "title": "回到酒馆",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c07-s02",
+      "chapter_index": 7,
+      "order": 2,
+      "title": "琴以私人身份加入救援",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "酒馆打烊后的秘密会谈中",
+      "locations": [
+        "天使的馈赠"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "温迪",
+        "迪卢克",
+        "琴"
+      ],
+      "summary": "迪卢克带来的合作者是暂时放下代理团长身份的琴，她相信特瓦林是在旧伤和深渊法师腐蚀下失去本性。琴说明愚人众的外交压力使骑士团无法公开善待风魔龙，并据此推断窃琴者正是觊觎风神力量的愚人众。迪卢克提供情报和伪装，众人决定前往愚人众藏身地夺回圣物。",
+      "motivation": "琴希望在不损害骑士团公开立场的前提下拯救特瓦林；迪卢克则要排除威胁蒙德的势力。",
+      "outcome": "四方形成私下联盟，并锁定天空之琴的夺回方向。",
+      "keywords": [
+        "私人身份",
+        "深渊腐蚀",
+        "愚人众",
+        "秘密联盟"
+      ],
+      "source_step_keys": [
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 37705,
+          "title": "与迪卢克对话",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 37706,
+          "title": "与迪卢克对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c08-s01",
+      "chapter_index": 8,
+      "order": 1,
+      "title": "藏身地多路线搜寻钥匙",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "秘密联盟成立后",
+      "locations": [
+        "愚人众藏身地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "迪卢克",
+        "愚人众守卫"
+      ],
+      "summary": "旅行者一行进入愚人众藏身地并突破防御，从守卫口中确认天空之琴锁在遗迹深处，钥匙由先遣队员掌握。众人通过搜查房间、战斗或交涉等路线取得钥匙，并在执行官“女士”收到消息前打开大门。输入同时保留大量标为“test”或“$HIDDEN”的触发、交涉和进度步骤，它们描述互斥的测试路线与可选回答，不代表这些选择同时发生。",
+      "motivation": "众人需要尽快找到钥匙并在愚人众增援前进入圣物存放处；守卫则试图保命、拖延或维护自身利益。",
+      "outcome": "通往天空之琴的紧闭大门被打开，测试与隐藏路线均汇合到取得钥匙的结果。",
+      "keywords": [
+        "愚人众藏身地",
+        "钥匙",
+        "交涉分支",
+        "测试内容",
+        "女士"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "60"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 2010102,
+          "title": "盘问守卫以获得线索",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 2010103,
+          "title": "盘问守卫以获得线索",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 2010104,
+          "title": "(test)踩中1号触发器$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 2010105,
+          "title": "(test)与1号房NPC对话$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 2010111,
+          "title": "(test)与NPC交涉破裂-战斗前触发$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 2010114,
+          "title": "(test)踩中2号触发器$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 2010115,
+          "title": "(test)与2号房NPC对话$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 2010121,
+          "title": "(test)与NPC2交涉破裂-战斗前触发$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 2010124,
+          "title": "(test)踩中3号触发器$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 2010131,
+          "title": "(test)与NPC3交涉破裂-战斗前触发$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 2010134,
+          "title": "(test)踩中4号触发器$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 2010136,
+          "title": "(test)踩中5号触发器$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 2010138,
+          "title": "(test)踩中6号触发器$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 2010141,
+          "title": "深入愚人众藏身地寻找钥匙",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 2010142,
+          "title": "打开紧闭的大门",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 2010143,
+          "title": "进入存放圣物的地方",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 2010145,
+          "title": "(test)1号房间-交涉成功、获得钥匙任务标记$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "17",
+          "id": 2010146,
+          "title": "(test)1号房间-战斗成功、获得钥匙任务标记$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "18",
+          "id": 2010147,
+          "title": "(test)2号房间-交涉成功、获得钥匙任务标记$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "19",
+          "id": 2010148,
+          "title": "(test)2号房间-战斗成功、获得钥匙任务标记$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "22",
+          "id": 2010100,
+          "title": "(test)判断玩家回到大世界 把酒馆里得人搞出来$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "23",
+          "id": 2010101,
+          "title": "进入愚人众的藏身地",
+          "is_hidden": false
+        },
+        {
+          "key": "24",
+          "id": 2010106,
+          "title": "(test)对NPC威胁$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "25",
+          "id": 2010107,
+          "title": "(test)对NPC贿赂$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "26",
+          "id": 2010108,
+          "title": "(test)对NPC宣战$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "27",
+          "id": 2010109,
+          "title": "(test)与NPC交涉成功-返回$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "28",
+          "id": 2010110,
+          "title": "(test)与NPC交涉失败-返回$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "29",
+          "id": 2010112,
+          "title": "(test)与NPC交涉失败-战斗环$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "30",
+          "id": 2010113,
+          "title": "(test)一号房间-完成标记任务$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "31",
+          "id": 2010116,
+          "title": "(test)对NPC2威胁$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "32",
+          "id": 2010117,
+          "title": "(test)对NPC2贿赂$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "33",
+          "id": 2010118,
+          "title": "(test)对NPC2宣战$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "34",
+          "id": 2010119,
+          "title": "(test)与NPC2交涉成功-返回$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "35",
+          "id": 2010120,
+          "title": "(test)与NPC2交涉失败-返回$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "36",
+          "id": 2010122,
+          "title": "(test)与NPC2交涉失败-战斗环$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "37",
+          "id": 2010123,
+          "title": "(test)2号房间-完成标记任务$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "38",
+          "id": 2010125,
+          "title": "(test)与3号房NPC对话$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "39",
+          "id": 2010126,
+          "title": "(test)对NPC3威胁$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "40",
+          "id": 2010127,
+          "title": "(test)对NPC3贿赂$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "41",
+          "id": 2010128,
+          "title": "(test)对NPC3宣战$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "42",
+          "id": 2010129,
+          "title": "(test)与NPC3交涉成功-返回$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "43",
+          "id": 2010130,
+          "title": "(test)与NPC3交涉失败-返回$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "44",
+          "id": 2010132,
+          "title": "(test)与NPC3交涉失败-战斗环$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "45",
+          "id": 2010133,
+          "title": "(test)3号房间-完成标记任务$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "46",
+          "id": 2010135,
+          "title": "(test)4号房间-战斗环&标记任务$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "47",
+          "id": 2010137,
+          "title": "(test)5号房间-战斗环&标记任务$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "48",
+          "id": 2010139,
+          "title": "(test)6号房间-战斗环&标记任务$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "49",
+          "id": 2010140,
+          "title": "(test)进度记录-三次记录$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "50",
+          "id": 2010144,
+          "title": "(test)来自关卡的开门回调-销毁钥匙$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "51",
+          "id": 2010149,
+          "title": "(test)3号房间-交涉成功、获得钥匙任务标记$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "52",
+          "id": 2010150,
+          "title": "(test)3号房间-战斗成功、获得钥匙任务标记$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "53",
+          "id": 2010153,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "54",
+          "id": 2010154,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "55",
+          "id": 2010155,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "56",
+          "id": 2010156,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "57",
+          "id": 2010157,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "58",
+          "id": 2010158,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "59",
+          "id": 2010159,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "60",
+          "id": 2010160,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c08-s02",
+      "chapter_index": 8,
+      "order": 2,
+      "title": "众人夺回失窃天空之琴",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "打开圣物存放处后",
+      "locations": [
+        "愚人众藏身地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "迪卢克",
+        "愚人众守卫"
+      ],
+      "summary": "众人进入存放圣物的区域并取得天空之琴，完成此次潜入的核心目标。此前威胁众人会遭“女士”制裁的守卫已经逃走，派蒙讽刺其言辞凶狠却不敢留下。",
+      "motivation": "旅行者一行需要夺回天空之琴，以继续唤醒特瓦林本性的计划。",
+      "outcome": "天空之琴被成功带离愚人众藏身地，行动转入检查和修复圣物的阶段。",
+      "keywords": [
+        "夺回圣物",
+        "天空之琴",
+        "守卫逃离"
+      ],
+      "source_step_keys": [
+        "20",
+        "21"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "20",
+          "id": 2010152,
+          "title": "取得天空之琴",
+          "is_hidden": false
+        },
+        {
+          "key": "21",
+          "id": 2010151,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c09-s01",
+      "chapter_index": 9,
+      "order": 1,
+      "title": "龙泪验证天空之琴修复法",
+      "narrative_role": "development",
+      "importance": 5,
+      "when": "夺回天空之琴后",
+      "locations": [
+        "天使的馈赠"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "温迪",
+        "琴",
+        "迪卢克"
+      ],
+      "summary": "众人把天空之琴带回酒馆，温迪却发现其中的风元素历经千年已经枯竭，尚不足以呼唤特瓦林。旅行者将净化后的龙泪滴在琴弦上，使圣物恢复部分力量。温迪确认还需要更多泪滴，琴和迪卢克也决定参与搜寻。",
+      "motivation": "众人必须让天空之琴重新充满风元素，才能通过琴声接触特瓦林。",
+      "outcome": "龙泪修复方案得到验证，队伍开始分头寻找更多结晶。",
+      "keywords": [
+        "琴力枯竭",
+        "龙泪修复",
+        "风元素",
+        "分头搜寻"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 37901,
+          "title": "将天空之琴带回酒馆",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 37902,
+          "title": "与温迪对话",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 37903,
+          "title": "将特瓦林的泪水结晶滴在天空之琴上",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 37904,
+          "title": "与琴对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c10-s01",
+      "chapter_index": 10,
+      "order": 1,
+      "title": "千风神殿取得遗落龙泪",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "搜集风龙泪滴期间",
+      "locations": [
+        "千风神殿"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "琴",
+        "迪卢克"
+      ],
+      "summary": "众人前往千风神殿寻找特瓦林遗落的泪滴，并完成挑战、消灭守卫怪物。取得结晶后，琴以自己的“搜寻技术”缓和紧张气氛，队伍继续执行收集计划。",
+      "motivation": "众人需要补足修复天空之琴所需的风元素。",
+      "outcome": "一枚遗落在千风神殿的风龙泪滴被回收。",
+      "keywords": [
+        "千风神殿",
+        "守卫怪物",
+        "风龙泪滴",
+        "搜寻"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 38001,
+          "title": "前往千风神殿",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 38002,
+          "title": "完成挑战，消灭守卫怪物",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 38003,
+          "title": "获得风龙泪滴",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 38004,
+          "title": "与琴对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c11-s01",
+      "chapter_index": 11,
+      "order": 1,
+      "title": "林中废墟回收藏匿龙泪",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "搜集风龙泪滴期间",
+      "locations": [
+        "林中废墟"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "琴",
+        "迪卢克"
+      ],
+      "summary": "众人进入林中废墟，消灭守卫怪物并取得藏匿其中的风龙泪滴。迪卢克警告特瓦林仍处于危险中，愚人众也可能采取新行动。琴提到迪卢克已被愚人众视作不受欢迎者，他则明确表示自己会以不受骑士团约束的方式对抗蒙德的威胁。",
+      "motivation": "队伍需要继续收集龙泪；迪卢克则始终把阻止愚人众危害蒙德视为个人责任。",
+      "outcome": "另一枚龙泪被回收，队伍同时提高了对愚人众的戒备。",
+      "keywords": [
+        "林中废墟",
+        "藏匿龙泪",
+        "愚人众",
+        "迪卢克"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 38101,
+          "title": "前往林中废墟",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 38102,
+          "title": "进入林中废墟",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 38103,
+          "title": "消灭守卫怪物",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 38104,
+          "title": "获得风龙泪滴",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 38105,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c12-s01",
+      "chapter_index": 12,
+      "order": 1,
+      "title": "黑日族部落取回被夺龙泪",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "搜集风龙泪滴期间",
+      "locations": [
+        "达达乌帕谷黑日族部落"
+      ],
+      "characters": [
+        "旅行者",
+        "丘丘人"
+      ],
+      "summary": "旅行者前往达达乌帕谷的黑日族部落，寻找被丘丘人夺走的受污染龙泪。旅行者突破部落阻碍并打开宝箱，取回其中的风龙泪滴。",
+      "motivation": "旅行者需要从丘丘人手中收回结晶，以完成天空之琴的修复。",
+      "outcome": "被夺走的风龙泪滴重新回到旅行者手中。",
+      "keywords": [
+        "达达乌帕谷",
+        "黑日族",
+        "丘丘人",
+        "被夺龙泪"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 38201,
+          "title": "前往达达乌帕谷的黑日族部落",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 38202,
+          "title": "打开宝箱，获得风龙泪滴",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c13-s01",
+      "chapter_index": 13,
+      "order": 1,
+      "title": "净化龙泪并选定摘星崖",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "泪滴收集完成后",
+      "locations": [
+        "晨曦酒庄"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "温迪",
+        "琴",
+        "迪卢克"
+      ],
+      "summary": "众人在晨曦酒庄会合，温迪发现收集来的龙泪污染更深，请旅行者将其全部净化。旅行者把净化结晶滴在天空之琴上，使琴中风元素恢复到充盈状态。为让歌声传得更远并避免失败波及城内，众人选择同时拥有海风和高处之风的摘星崖作为呼唤地点。",
+      "motivation": "众人需要完成天空之琴的修复，并选择能安全、有效呼唤特瓦林的场所。",
+      "outcome": "净化准备全部完成，队伍约定前往摘星崖与特瓦林重逢。",
+      "keywords": [
+        "晨曦酒庄",
+        "净化龙泪",
+        "琴力恢复",
+        "摘星崖"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 38301,
+          "title": "前往晨曦酒庄",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 38302,
+          "title": "与琴对话",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 38303,
+          "title": "将风龙泪滴滴在天空之琴上",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 38304,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c14-s01",
+      "chapter_index": 14,
+      "order": 1,
+      "title": "摘星崖重逢遭深渊破坏",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "天空之琴完全恢复后",
+      "locations": [
+        "摘星崖"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "温迪",
+        "琴",
+        "迪卢克",
+        "特瓦林",
+        "深渊法师"
+      ],
+      "summary": "旅行者、温迪、琴和迪卢克在摘星崖集合，温迪开始弹奏修复后的天空之琴，尝试唤回特瓦林。重逢受到深渊教团干扰，沟通未能成功，天空之琴也被严重破坏。琴显露出已经猜到温迪真实身份，迪卢克则把下一目标确定为腐蚀特瓦林的深渊法师。",
+      "motivation": "温迪希望用琴声解除特瓦林的敌意；深渊教团则要维持对巨龙的腐蚀和控制。",
+      "outcome": "琴声净化方案失败，众人决定直接清除腐蚀源头。",
+      "keywords": [
+        "摘星崖",
+        "命运重逢",
+        "深渊教团",
+        "天空之琴损坏"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 38402,
+          "title": "前往摘星崖",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 38403,
+          "title": "与温迪对话",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 38404,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1002-c14-s02",
+      "chapter_index": 14,
+      "order": 2,
+      "title": "迪卢克锁定深渊目标",
+      "narrative_role": "transition",
+      "importance": 4,
+      "when": "摘星崖重逢失败后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "迪卢克"
+      ],
+      "summary": "迪卢克利用自己的情报网和手段追踪深渊教团，随后众人发现了目标踪迹。迪卢克决定以直接的武力惩罚对方，为后续清除特瓦林所受腐蚀展开行动。",
+      "motivation": "众人只有击败腐蚀源头，才能减轻特瓦林的痛苦；迪卢克也要惩罚危害蒙德的深渊教团。",
+      "outcome": "深渊目标被发现，队伍进入直接反击阶段。",
+      "keywords": [
+        "情报追踪",
+        "深渊法师",
+        "腐蚀源头",
+        "反击"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 38406,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T08:54:16.517Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

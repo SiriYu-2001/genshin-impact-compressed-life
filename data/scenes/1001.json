@@ -1,0 +1,1664 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 1001,
+    "slug": "1001_the-outlander-who-caught-the-wind",
+    "title": "捕风的异乡人",
+    "chapter_num": "序章 第一幕",
+    "premise": "异乡人旅行者从沉眠中苏醒，与派蒙相遇结伴，踏上寻找被神带走的血亲之旅；两人计划从风神护佑之地蒙德开始调查，打探亲人的消息。",
+    "central_conflict": "蒙德正遭风魔龙（前「四风守护」东风之龙特瓦林）的龙灾肆虐，元素流动与地脉紊乱；旅行者与西风骑士团合作，须清除三座废弃的四风守护庙宇，以切断其暴风之源。",
+    "summary": "旅行者从沉睡中苏醒后与派蒙结伴，启程前往七天神像；触碰神像后意外获得风元素力，印证了其异乡人身份。两人前往蒙德途中在林中遭遇巨龙与神秘人的相会，并回收了一块神秘的红光石头。在蒙德城外，他们与侦察骑士安柏相识并获其护送，沿途清理丘丘人营地，最终抵达自由之都蒙德城，获赠风之翼。风魔龙随后直接袭击蒙德城，旅行者参与将其击退，因而受邀进入西风骑士团总部，与代理团长琴、图书管理员丽莎会面。骑士团定下计划：清除三座废弃的四风守护庙宇，以切断风魔龙的力量源头。旅行者先后与安柏、凯亚、丽莎探索西风之鹰、北风之狼、南风之狮三座庙宇，丽莎揭示风魔龙特瓦林因憎恨蒙德而化作魔龙的往事。三座庙宇清剿完毕，蒙德的地脉恢复在望，一阶段行动就此收束。",
+    "resolution": "三座四风守护庙宇的残留力量被清除，蒙德的元素流动与地脉循环开始恢复，一阶段行动收束（含标注隐藏的测试收尾章节）。风魔龙特瓦林本身的最终对决尚未在本 scene 内展开，留待后续；旅行者手中还留有神秘红石与百年前故事的文献等线索。",
+    "themes": [
+      "寻亲之旅",
+      "风与自由",
+      "龙灾与守护",
+      "异乡人的力量",
+      "神与信仰"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 351,
+      "title": "流浪者的足迹",
+      "summary": "旅行者从沉眠中苏醒，与派蒙相遇结伴，确定了前往「七天神像」的行程。派蒙讲解攀爬与体力等旅途常识，两人翻越岩台、崖壁并解锁传送锚点，正式开启提瓦特的探索之旅。",
+      "turning_point": "与派蒙相遇结伴，明确以「七天神像」为第一个目的地。",
+      "outcome": "旅行者与派蒙组成旅伴并启程，为后续接触风神像埋下伏笔。",
+      "section_ids": [
+        "1001-c00-s01",
+        "1001-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "神带走了你唯一的血亲，而你也被神封印，陷入沉眠。醒来后你先是独自流浪，后来又与奇妙的伙伴「派蒙」相遇，开启了提瓦特大陆的探索之旅…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 352,
+      "title": "鸟瞰风物",
+      "summary": "从坠星山谷启程，派蒙向旅行者介绍七天神像象征七神守护世界，眼前这座掌管「风」。派蒙道出带旅行者来风神领地的理由：语言与诗歌随风飘荡，其中或许会有血亲的消息。两人游过星落湖，抵达七天神像附近。",
+      "turning_point": "派蒙说明来风神领地的缘由——风中可能藏着旅行者血亲的消息。",
+      "outcome": "旅行者抵达七天神像，为触碰神像获取力量做准备。",
+      "section_ids": [
+        "1001-c01-s01",
+        "1001-c01-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "从坠星山谷启程，你和派蒙走走看看，一路前行。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": 353,
+      "title": "异常的权柄",
+      "summary": "在派蒙建议下，旅行者上前触碰七天神像，异常轻松地获得了风元素力，印证其异乡人身份。为熟悉力量，旅行者练习元素战技与元素爆发，并击败史莱姆完成实战验证。两人随后决定向西前往自由城邦蒙德，寄望城中的吟游诗人带来血亲的消息。",
+      "turning_point": "旅行者触碰神像直接获得风元素力，确立异乡人的特殊身份。",
+      "outcome": "旅行者掌握风元素战斗能力，行程指向蒙德城。",
+      "section_ids": [
+        "1001-c02-s01",
+        "1001-c02-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_02.json",
+      "source_description": "在你们前进的道路上，出现了一座奇特的「七天神像」。在派蒙的建议下，你上前查看。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": 355,
+      "title": "林间相会",
+      "summary": "前往蒙德的途中，派蒙对某种气息感到不安。两人在树林深处几乎被巨龙掀起的风暴吹飞，并目击了巨龙与神秘人的相会。随后他们发现并回收了一块闪着红光、来历不明且危险的神秘石头，随即离开现场。",
+      "turning_point": "林中遭遇巨龙与神秘人，并回收神秘红石。",
+      "outcome": "旅行者带着巨龙的威胁与神秘红石的疑团继续前往蒙德。",
+      "section_ids": [
+        "1001-c03-s01",
+        "1001-c03-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_03.json",
+      "source_description": "令人意外的是，七天神像中的风元素之力竟与你产生了呼应。你们决定，先从提瓦特七神中的风神开始调查，于是，你们的第一步，便是前往风神护佑之地：蒙德城。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": 354,
+      "title": "随风而来的骑士",
+      "summary": "在前往蒙德城的路上，西风骑士团侦察骑士安柏出现并盘问身份，随后因巨龙威胁提出护送。途中两人遭遇丘丘人，旅行者在安柏协助下消灭空中史莱姆。路上安柏问起来意，派蒙道出旅行者寻亲的处境，安柏答应任务完成后帮忙张贴寻人告示。",
+      "turning_point": "与侦察骑士安柏相遇并获其护送与协助。",
+      "outcome": "旅行者与安柏结伴同行，寻亲获得本地骑士的承诺助力。",
+      "section_ids": [
+        "1001-c04-s01",
+        "1001-c04-s02",
+        "1001-c04-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_04.json",
+      "source_description": "在前往蒙德城的路上，你们意外打搅了巨龙与神秘人的相会。在带着疑惑继续前行的你面前，一位轻盈的少女突然出现，挡住了你的去路。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": 360,
+      "title": "与轻风同行",
+      "summary": "安柏此行的任务是清理靠近城市的丘丘人营地，旅行者协助她消灭丘丘人并清理营地。战后安柏解释风魔龙之灾：果园被毁、商路受阻、风暴伤人，骑士团忙于防御，怪物活动范围因而逼近城市。随后安柏继续护送旅行者前往蒙德城。",
+      "turning_point": "通过与安柏并肩作战，旅行者了解到风魔龙之灾对蒙德的全面影响。",
+      "outcome": "丘丘人营地被清理，旅行者深入了解龙灾并继续进城。",
+      "section_ids": [
+        "1001-c05-s01",
+        "1001-c05-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_05.json",
+      "source_description": "少女名为安柏，身为侦察骑士的她提出护送你们前往蒙德。但是在那之前，她得先解决城外四处游荡的丘丘人，这是她此次出城的任务。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": 356,
+      "title": "自由之都",
+      "summary": "在安柏带领下，旅行者与派蒙抵达自由城邦蒙德城，得知全城正为风魔龙之事烦恼，代理团长琴守护着蒙德。作为谢礼，安柏在城区高处将「风之翼」赠予旅行者，讲解用法后，旅行者乘风之翼飞往喷泉广场。",
+      "turning_point": "抵达蒙德城，获赠风之翼并完成首次飞行。",
+      "outcome": "旅行者进入蒙德城，获得空中移动能力，为后续事件铺路。",
+      "section_ids": [
+        "1001-c06-s01",
+        "1001-c06-s02",
+        "1001-c06-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_06.json",
+      "source_description": "有了你们的帮助，麻烦很快解决。在安柏的带领下，你们来到了自由城邦——蒙德。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": 357,
+      "title": "龙灾",
+      "summary": "风魔龙突然直接袭击蒙德城内部，旅行者与众人合力将其击退。事后安柏介绍骑兵队长凯亚与旅行者相识，凯亚代表骑士团道谢，并转达代理团长琴的邀请——希望旅行者到骑士团总部一叙。旅行者随即前往骑士团总部。",
+      "turning_point": "风魔龙直接袭击蒙德城，旅行者参与击退巨龙，获得骑士团关注。",
+      "outcome": "旅行者受邀前往骑士团总部，正式进入蒙德主线事务。",
+      "section_ids": [
+        "1001-c07-s01",
+        "1001-c07-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_07.json",
+      "source_description": "本该宁静祥和的蒙德城中，巨龙突然来袭。它正是安柏提到的风魔龙，亦是你们先前在林中遇见的巨兽。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": 358,
+      "title": "西风骑士团",
+      "summary": "旅行者进入骑士团总部，与代理团长琴和图书管理员丽莎会面。丽莎说明风魔龙的肆虐已使蒙德的元素流动与地脉循环紊乱；琴提出作战计划，在丽莎的魔法侦测下锁定被废弃的四风守护庙宇为暴风源头，目标是其中三座，决定抢在龙灾扩大前行动。",
+      "turning_point": "骑士团确定清除三座废弃四风守护庙宇以切断风魔龙力量源头的计划。",
+      "outcome": "旅行者加入骑士团的讨伐行动，目标指向三座庙宇。",
+      "section_ids": [
+        "1001-c08-s01",
+        "1001-c08-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_08.json",
+      "source_description": "你们艰难击退了来袭的风魔龙。来自西风骑士团的凯亚目睹了这一过程，此后，你们受邀前往骑士团总部一叙。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": 306,
+      "title": "昔日的风",
+      "summary": "旅行者前往西风之鹰庙宇与安柏会合，得知风魔龙曾是「四风守护」之一。两人进入庙宇探索，清除残留力量后退出秘境。战后安柏提到可从丽莎处了解历史，并催促转往下一处目标。",
+      "turning_point": "得知风魔龙的昔日身份，并完成西风之鹰庙宇的清剿。",
+      "outcome": "第一座庙宇被清除，讨伐行动继续推进。",
+      "section_ids": [
+        "1001-c09-s01",
+        "1001-c09-s02",
+        "1001-c09-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_09.json",
+      "source_description": "为了消除风魔龙的威胁，你们需要消灭废墟中残留的力量。为此，你前往西风之鹰的庙宇，安柏正在庙宇门口等待你们。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": 307,
+      "title": "骑士的现场教习",
+      "summary": "旅行者与凯亚在北风之狼庙宇会合，凯亚指出庙宇内有史莱姆、丘丘人和风魔龙留下的魔力联结，并表示要展示骑士团的战法。两人进入庙宇探索清除后退出，凯亚称赞旅行者的身手，邀请其日后到骑士团总部聊天或去酒馆。",
+      "turning_point": "与凯亚共同清除北风之狼庙宇，凯亚认可旅行者的战斗能力。",
+      "outcome": "第二座庙宇被清除，旅行者与凯亚的关系加深。",
+      "section_ids": [
+        "1001-c10-s01",
+        "1001-c10-s02",
+        "1001-c10-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_10.json",
+      "source_description": "北风之狼的庙宇由骑士凯亚与你们一道探索。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": 308,
+      "title": "书页里的电火花",
+      "summary": "旅行者与丽莎在南风之狮庙宇会合，轻松交谈后进入庙宇清除残留力量。战后丽莎揭示四风守护的真相：东风之龙（特瓦林）、南风之狮、北风之狼、西风之鹰都是风神「巴巴托斯」的眷属；特瓦林因对蒙德的憎恨化作魔龙，只能借用三方之风是在燃尽自己，并将记录百年前故事的书籍交给旅行者。",
+      "turning_point": "丽莎揭示风魔龙特瓦林的身世与憎恨之源。",
+      "outcome": "第三座庙宇被清除，旅行者获得百年前故事的关键文献。",
+      "section_ids": [
+        "1001-c11-s01",
+        "1001-c11-s02",
+        "1001-c11-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_11.json",
+      "source_description": "丽莎负责与你们共同扫查南风之狮的庙宇。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": 311,
+      "title": "(test)一阶段结束$HIDDEN",
+      "summary": "标注隐藏的测试章节中，派蒙表示三座庙宇已全部处理完毕，蒙德的元素流动与地脉循环应会恢复正常。她提议回骑士团看看情况或先去做些有趣的事，并介绍「散失的风神瞳」的用途，建议旅行者前往风起地的七天神像一试，期待神明如何回应。",
+      "turning_point": "三座庙宇清剿完毕，蒙德地脉恢复在望（隐藏测试内容）。",
+      "outcome": "一阶段行动收束，旅行者后续可回骑士团或前往风起地七天神像。",
+      "section_ids": [
+        "1001-c12-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_12.json",
+      "source_description": "一阶段结束后，与派蒙对话的隐藏任务$HIDDEN",
+      "is_hidden": true
+    }
+  ],
+  "sections": [
+    {
+      "id": "1001-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "苏醒结伴，启程前往七天神像",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "旅行者自沉眠中苏醒（据章节描述，其血亲被神带走，自身也曾被神封印），独自流浪后与派蒙相遇结伴。派蒙讲解攀爬会消耗体力并约定路线，宣布目的地是「七天神像」，猜测旅行者要找的是七神中的哪一位。两人随即踏上前往七天神像的行程。",
+      "motivation": "旅行者寻找被神带走、失散的血亲；派蒙主动担任向导。",
+      "outcome": "旅行者与派蒙正式结伴，确定了前往七天神像的第一步行程。",
+      "keywords": [
+        "苏醒",
+        "结伴",
+        "派蒙",
+        "七天神像"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 35100,
+          "title": "到派蒙附近",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 35101,
+          "title": "跟随派蒙",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 35102,
+          "title": "爬上岩台",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "翻越岩台，解锁传送锚点",
+      "narrative_role": "transition",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "旅行者沿路线继续前行，攀上岩台、下到崖壁下方，借助攀爬穿越地形。在崖壁附近，旅行者解锁了一处传送锚点，为后续往返提供了便利。",
+      "motivation": "前往七天神像的既定路线需翻越岩壁地带。",
+      "outcome": "传送锚点被解锁，前往七天神像的路程继续推进。",
+      "keywords": [
+        "攀爬",
+        "传送锚点",
+        "行进"
+      ],
+      "source_step_keys": [
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 35105,
+          "title": "到崖壁下方",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 35106,
+          "title": "解锁传送锚点",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "派蒙讲解七天神像与风神领地",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "坠星山谷"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "从坠星山谷启程后，派蒙向旅行者介绍「七天神像」：神灵的造像散布在大陆上，象征七神守护世界，眼前这一位掌控的是「风」。派蒙说明带旅行者来风神领地是有理由的——语言与诗歌随风飘荡，其中或许会有旅行者血亲的消息。",
+      "motivation": "派蒙希望借风神领地与风中流传的诗语，帮旅行者寻找失散的血亲。",
+      "outcome": "旅行者理解了七天神像的来历，对寻亲抱有希望，继续向神像进发。",
+      "keywords": [
+        "七天神像",
+        "风神",
+        "寻亲",
+        "坠星山谷"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 35200,
+          "title": "继续前进",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 35201,
+          "title": "到派蒙附近",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 35202,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 35203,
+          "title": "跟随派蒙",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c01-s02",
+      "chapter_index": 1,
+      "order": 2,
+      "title": "游过星落湖，抵达七天神像",
+      "narrative_role": "transition",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "星落湖"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "在派蒙提示可以直接游过去后，旅行者游过星落湖继续前进，抵达七天神像附近，此处神像随之解锁（数据中该步骤标注为隐藏步骤）。",
+      "motivation": "按既定路线穿越星落湖以抵达七天神像。",
+      "outcome": "七天神像解锁，为触碰神像、获取风元素力做好准备。",
+      "keywords": [
+        "星落湖",
+        "七天神像",
+        "游泳"
+      ],
+      "source_step_keys": [
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 35204,
+          "title": "游过星落湖",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 35205,
+          "title": "七天神像1解锁$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c02-s01",
+      "chapter_index": 2,
+      "order": 1,
+      "title": "触碰神像，获得风元素力",
+      "narrative_role": "revelation",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "七天神像前"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "派蒙注意到旅行者似乎能感受到这个世界的「元素」，只需触碰神像就能获得「风」的元素力。旅行者依言触碰神像，果然异常轻松地获得了风元素力；派蒙解释这是因为旅行者本来就不是这个世界的人。两人随后决定向西前往自由城邦「蒙德」，寄望城中的吟游诗人能带来血亲的消息。",
+      "motivation": "派蒙引导旅行者尝试触碰神像；旅行者渴望借助神的力量寻找血亲。",
+      "outcome": "旅行者获得风元素力，确立了前往蒙德城的行程。",
+      "keywords": [
+        "七天神像",
+        "风元素力",
+        "异乡人",
+        "蒙德"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 35301,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c02-s02",
+      "chapter_index": 2,
+      "order": 2,
+      "title": "练习战技并击败史莱姆",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "史莱姆"
+      ],
+      "summary": "为熟悉新获得的力量，旅行者依次练习轻按与长按元素战技、使用元素爆发，并连续击败多只史莱姆。派蒙指出这正是从七天神像获得的风元素力，并羡慕旅行者帅气的战斗方式。（数据中还包含标注隐藏的「离开区域失败回滚」测试步骤，不属于正式主线剧情。）",
+      "motivation": "验证并掌握新获得的风元素战斗能力。",
+      "outcome": "旅行者熟练运用风元素力完成实战，战斗能力得到确认。",
+      "keywords": [
+        "元素战技",
+        "元素爆发",
+        "史莱姆",
+        "风元素"
+      ],
+      "source_step_keys": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 35302,
+          "title": "轻按元素战技",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 35303,
+          "title": "长按元素战技",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 35304,
+          "title": "使用元素爆发",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 35309,
+          "title": "击败史莱姆",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 35310,
+          "title": "击败史莱姆",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 35311,
+          "title": "击败史莱姆",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 35312,
+          "title": "离开区域失败回滚$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c03-s01",
+      "chapter_index": 3,
+      "order": 1,
+      "title": "林中遭遇巨龙与神秘人",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "树林深处"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "风魔龙",
+        "神秘人"
+      ],
+      "summary": "前往蒙德的途中，派蒙对某种气息感到不安，提醒小心。两人向树林深处前进时几乎被巨龙掀起的风暴吹飞；派蒙惊魂未定，怀疑与龙说话的神秘人与此有关，旅行者也对这个世界存在龙感到意外。随后派蒙注意到一块大石上闪着红光的东西，提议靠近查看。",
+      "motivation": "前往蒙德的行程与巨龙、神秘人的相会意外冲突。",
+      "outcome": "两人确认了巨龙的威胁，并发现了神秘的红光物体。",
+      "keywords": [
+        "巨龙",
+        "神秘人",
+        "风暴",
+        "红光"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 35501,
+          "title": "前往蒙德",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 35502,
+          "title": "向树林的深处前进",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 35503,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c03-s02",
+      "chapter_index": 3,
+      "order": 2,
+      "title": "回收神秘的红光石头",
+      "narrative_role": "investigation",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "树林深处"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "旅行者上前调查派蒙发现的东西——一块从未见过的石头，只能判断它很危险。派蒙建议先将其保管起来，两人回收完毕后迅速离开现场。",
+      "motivation": "不明物体可能蕴含危险，须回收保管以免留下隐患。",
+      "outcome": "神秘红石被旅行者收起带走，成为后续调查的线索。",
+      "keywords": [
+        "神秘石头",
+        "调查",
+        "回收"
+      ],
+      "source_step_keys": [
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 35504,
+          "title": "调查派蒙发现的东西",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 35505,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c04-s01",
+      "chapter_index": 4,
+      "order": 1,
+      "title": "与侦察骑士安柏相识",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "前往蒙德城的路上"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "安柏"
+      ],
+      "summary": "在前往蒙德城的路上，一位轻盈的少女突然出现拦住去路。她自报是西风骑士团侦察骑士安柏，要求旅行者说明身份；旅行者报上姓名后，安柏提醒城外有巨龙出没，提议由她护送两人进城。",
+      "motivation": "安柏出于骑士职责盘查外来者，并因巨龙威胁提出护送。",
+      "outcome": "旅行者与安柏结识，获得护送进城的承诺。",
+      "keywords": [
+        "安柏",
+        "侦察骑士",
+        "护送",
+        "身份盘查"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 35401,
+          "title": "继续前往蒙德城",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 35402,
+          "title": "与轻盈的少女对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c04-s02",
+      "chapter_index": 4,
+      "order": 2,
+      "title": "协力追剿丘丘人与空中史莱姆",
+      "narrative_role": "conflict",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "前往蒙德城的路上"
+      ],
+      "characters": [
+        "旅行者",
+        "安柏",
+        "丘丘人",
+        "史莱姆"
+      ],
+      "summary": "前往安柏指示的地点途中，两人遭遇丘丘人，安柏提醒不要放跑它。旅行者在安柏的协助下消灭空中的史莱姆，化解了这场遭遇战。",
+      "motivation": "清除路上的怪物威胁，保证进城道路安全。",
+      "outcome": "遭遇战顺利解决，护送行程继续。",
+      "keywords": [
+        "丘丘人",
+        "史莱姆",
+        "战斗"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 35403,
+          "title": "前往安柏指示的地点",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 35404,
+          "title": "使用安柏消灭空中的史莱姆",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c04-s03",
+      "chapter_index": 4,
+      "order": 3,
+      "title": "安柏得知寻亲之事",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "前往蒙德城的路上"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "安柏"
+      ],
+      "summary": "途中安柏问起旅行者来蒙德的缘由，派蒙代为说明：旅行者在非常遥远的旅途中与血亲失散，自己正陪其寻找。安柏听后表示，等解决了手上的任务，可以帮他们在城里张贴寻人告示。（该环节的数据步骤标注为隐藏技术步骤，对话内容为正式剧情。）",
+      "motivation": "安柏出于关心与骑士的责任感，想帮助这位寻亲的旅行者。",
+      "outcome": "安柏承诺协助张贴寻人告示，旅行者的寻亲获得本地助力。",
+      "keywords": [
+        "寻亲",
+        "寻人告示",
+        "安柏"
+      ],
+      "source_step_keys": [
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 35405,
+          "title": "出隐藏触发器开始开车$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c05-s01",
+      "chapter_index": 5,
+      "order": 1,
+      "title": "协力清理丘丘人营地",
+      "narrative_role": "conflict",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "蒙德城外"
+      ],
+      "characters": [
+        "旅行者",
+        "安柏",
+        "丘丘人"
+      ],
+      "summary": "安柏说明自己此行的任务，是清理靠近城市的怪物营地。旅行者协助她消灭游荡的丘丘人，并清理了附近的丘丘人营地。",
+      "motivation": "执行安柏清除城外丘丘人营地的骑士任务。",
+      "outcome": "丘丘人营地被清理，安柏的任务顺利完成。",
+      "keywords": [
+        "丘丘人营地",
+        "清理",
+        "安柏"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 36001,
+          "title": "消灭游荡的丘丘人",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 36003,
+          "title": "清理附近的丘丘人营地",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c05-s02",
+      "chapter_index": 5,
+      "order": 2,
+      "title": "战后了解风魔龙之灾",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "蒙德城外"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "安柏"
+      ],
+      "summary": "战后安柏向旅行者道谢，并解释丘丘人异常靠近城市的原因：风魔龙频繁出现，果园被摧毁、商路受影响，风暴爆发时还常有人受伤，骑士团不得不分心防御，怪物的活动范围因此越来越近。交谈结束后，安柏继续护送旅行者进城。",
+      "motivation": "向旅行者说明龙灾背景，解释蒙德当前的困境。",
+      "outcome": "旅行者对蒙德的龙灾有了全面认识，继续随安柏前往蒙德城。",
+      "keywords": [
+        "风魔龙",
+        "龙灾",
+        "骑士团",
+        "商路"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 36004,
+          "title": "与安柏对话",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 36005,
+          "title": "继续前往蒙德城",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c06-s01",
+      "chapter_index": 6,
+      "order": 1,
+      "title": "抵达自由之都蒙德城",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "蒙德城"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "安柏"
+      ],
+      "summary": "在安柏带领下，旅行者与派蒙抵达自由城邦蒙德城。安柏介绍代理团长琴是蒙德的守护者，派蒙则注意到城中居民精神不佳，安柏说明是因为全城都在为风魔龙的事烦恼。作为谢礼，安柏许诺带两人去城区的高处，并请派蒙吃蒙德特色的蜜酱胡萝卜煎肉。",
+      "motivation": "安柏兑现护送承诺，并准备酬谢旅行者。",
+      "outcome": "旅行者进入蒙德城，被引向城区高处。",
+      "keywords": [
+        "蒙德城",
+        "自由之都",
+        "琴",
+        "蜜酱胡萝卜煎肉"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 35601,
+          "title": "与安柏对话",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 35602,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c06-s02",
+      "chapter_index": 6,
+      "order": 2,
+      "title": "登临高处获赠风之翼",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "蒙德城城区高处"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "安柏"
+      ],
+      "summary": "在城区高处，安柏将说好的谢礼——「风之翼」赠予旅行者。她说明这是侦察骑士在天空行动的装备，蒙德的市民也很常用，因为「风」是蒙德的灵魂，并叮嘱旅行者操作虽简单但一定要听她指示。",
+      "motivation": "感谢旅行者协助清理丘丘人营地的酬劳。",
+      "outcome": "旅行者获得风之翼，准备学习飞行。",
+      "keywords": [
+        "风之翼",
+        "赠礼",
+        "安柏"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 35603,
+          "title": "前往安柏指示的地点",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 35604,
+          "title": "与安柏对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c06-s03",
+      "chapter_index": 6,
+      "order": 3,
+      "title": "乘风之翼飞往喷泉广场",
+      "narrative_role": "transition",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "蒙德城",
+        "喷泉广场"
+      ],
+      "characters": [
+        "旅行者",
+        "安柏"
+      ],
+      "summary": "按照安柏的指示，旅行者展开风之翼从高处飞往喷泉广场，实际体验了风之翼的飞行性能。",
+      "motivation": "实际体验风之翼的操作，前往蒙德城的下一处地点。",
+      "outcome": "旅行者完成首次滑翔飞行，抵达喷泉广场。",
+      "keywords": [
+        "风之翼",
+        "飞行",
+        "喷泉广场"
+      ],
+      "source_step_keys": [
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 35606,
+          "title": "飞往喷泉广场",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c07-s01",
+      "chapter_index": 7,
+      "order": 1,
+      "title": "风魔龙袭击蒙德城",
+      "narrative_role": "climax",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "蒙德城"
+      ],
+      "characters": [
+        "旅行者",
+        "安柏",
+        "风魔龙"
+      ],
+      "summary": "风魔龙突然直接袭击蒙德城内部，它正是此前在林中遇见的巨兽。旅行者参与迎击，与众人合力将风魔龙击退。（数据中该环节包含标注隐藏的测试步骤。）",
+      "motivation": "抵御风魔龙的直接袭击，守护蒙德城。",
+      "outcome": "风魔龙被击退，旅行者的战斗力得到在场者见证。",
+      "keywords": [
+        "风魔龙",
+        "龙灾",
+        "击退",
+        "蒙德城"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 35721,
+          "title": "(test)风龙来袭$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 35722,
+          "title": "击退风魔龙",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c07-s02",
+      "chapter_index": 7,
+      "order": 2,
+      "title": "与凯亚相识并受邀前往骑士团",
+      "narrative_role": "transition",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "蒙德城"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "安柏",
+        "凯亚"
+      ],
+      "summary": "战后安柏介绍骑兵队长凯亚与旅行者相识。凯亚代骑士团向旅行者道谢，并表示代理团长琴希望与旅行者在骑士团总部一叙。旅行者随后动身前往骑士团总部。",
+      "motivation": "骑士团感谢旅行者抵御魔龙，代理团长琴有意结识。",
+      "outcome": "旅行者获邀前往骑士团总部，正式进入骑士团视野。",
+      "keywords": [
+        "凯亚",
+        "骑兵队长",
+        "骑士团总部",
+        "邀请"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 35723,
+          "title": "(test)与安柏对话$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 35724,
+          "title": "前往骑士团总部",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c08-s01",
+      "chapter_index": 8,
+      "order": 1,
+      "title": "随派蒙进入骑士团总部",
+      "narrative_role": "transition",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "西风骑士团总部"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "旅行者与派蒙抵达西风骑士团，派蒙确认这里就是骑士团后，两人进入总部。",
+      "motivation": "应代理团长琴的邀请前往骑士团会面。",
+      "outcome": "旅行者进入骑士团总部，准备与琴会面。",
+      "keywords": [
+        "骑士团总部",
+        "抵达",
+        "派蒙"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 35800,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 35801,
+          "title": "进入骑士团总部",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c08-s02",
+      "chapter_index": 8,
+      "order": 2,
+      "title": "与琴和丽莎会面并定下讨伐计划",
+      "narrative_role": "revelation",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "西风骑士团总部"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "琴",
+        "丽莎",
+        "凯亚"
+      ],
+      "summary": "凯亚向琴汇报经过后，代理团长琴与图书管理员丽莎接待了旅行者。丽莎说明风魔龙的肆虐已使蒙德的元素流动与地脉循环紊乱；琴提出作战计划：在丽莎的魔法侦测下，暴风的源流锁定为被废弃的四风守护庙宇，目标为其中三座，要在龙灾扩大之前抢先行动。",
+      "motivation": "阻止风魔龙之灾扩大，从源头切断其暴风力量。",
+      "outcome": "骑士团确立清除三座废弃庙宇的行动方案，旅行者参与其中。",
+      "keywords": [
+        "琴",
+        "丽莎",
+        "四风守护庙宇",
+        "作战计划",
+        "地脉"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 35802,
+          "title": "与琴对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c09-s01",
+      "chapter_index": 9,
+      "order": 1,
+      "title": "庙宇前得知风魔龙昔日身份",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "西风之鹰庙宇门口"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "安柏"
+      ],
+      "summary": "旅行者前往被废弃的西风之鹰庙宇与安柏会合。安柏介绍这些庙宇已荒废多年、无人祭拜，并透露风魔龙曾经也是「四风守护」之一，这让她很不愿接受。她还提醒旅行者，庙宇里的「风」有些不对劲，要小心龙的力量正在影响这里。",
+      "motivation": "执行骑士团清除四风守护庙宇残留力量的行动。",
+      "outcome": "旅行者得知风魔龙的昔日身份，准备进入庙宇调查。",
+      "keywords": [
+        "西风之鹰",
+        "四风守护",
+        "废弃庙宇",
+        "安柏"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 30600,
+          "title": "在庙宇门口跟安柏见面",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 30601,
+          "title": "与安柏对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c09-s02",
+      "chapter_index": 9,
+      "order": 2,
+      "title": "探索西风之鹰庙宇",
+      "narrative_role": "conflict",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "西风之鹰庙宇内部"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "安柏"
+      ],
+      "summary": "旅行者与安柏进入庙宇，一路深入探索，清除庙宇中残留的力量（数据中的实际战斗以「探索庙宇深处」「退出秘境」等步骤概括），随后退出秘境。",
+      "motivation": "清除庙宇内被风魔龙借用的残余力量，切断暴风源头。",
+      "outcome": "西风之鹰庙宇清剿完成，第一座庙宇目标达成。",
+      "keywords": [
+        "庙宇探索",
+        "清剿",
+        "秘境"
+      ],
+      "source_step_keys": [
+        "2",
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 30602,
+          "title": "进入庙宇",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 30603,
+          "title": "探索庙宇深处",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 30604,
+          "title": "退出秘境",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c09-s03",
+      "chapter_index": 9,
+      "order": 3,
+      "title": "战后交谈与清剿收束",
+      "narrative_role": "transition",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "西风之鹰庙宇外"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "安柏"
+      ],
+      "summary": "战后安柏表示能为琴团长分担一些辛劳，并转述丽莎常说的话：「风向变了，我们的策略也会作出相应的变化。」她建议想了解四风守护过往历史可以去问图书管理员丽莎，随后催促尽快前往庙宇继续行动。（数据中该环节包含标注隐藏的对话步骤。）",
+      "motivation": "为琴分担辛劳，继续推进清剿行动。",
+      "outcome": "第一座庙宇的行动收束，旅行者获得查阅历史线索并转往下一处目标。",
+      "keywords": [
+        "战后交谈",
+        "历史线索",
+        "丽莎",
+        "转场"
+      ],
+      "source_step_keys": [
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 30610,
+          "title": "(test)与安柏对话$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 30612,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c10-s01",
+      "chapter_index": 10,
+      "order": 1,
+      "title": "与凯亚在北风之狼庙宇会合",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "北风之狼庙宇门口"
+      ],
+      "characters": [
+        "旅行者",
+        "凯亚"
+      ],
+      "summary": "旅行者来到北风之狼的庙宇与凯亚会合。凯亚指出庙宇里发生了一些事——有史莱姆、丘丘人，以及风魔龙留下的魔力联结，并感叹「北风之狼」的庙宇如今竟被这样打扰，随后邀旅行者一同进入清理。",
+      "motivation": "执行清剿第二座庙宇的任务，凯亚将展示骑士团的战法。",
+      "outcome": "旅行者与凯亚达成同行，准备进入庙宇。",
+      "keywords": [
+        "北风之狼",
+        "凯亚",
+        "庙宇",
+        "魔力联结"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 30700,
+          "title": "在庙宇门口跟凯亚见面",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 30701,
+          "title": "与凯亚对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c10-s02",
+      "chapter_index": 10,
+      "order": 2,
+      "title": "与凯亚同探北风之狼庙宇",
+      "narrative_role": "conflict",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "北风之狼庙宇内部"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "凯亚"
+      ],
+      "summary": "旅行者与凯亚进入庙宇，一路探索深处并清除敌人（数据中的实际战斗以「探索庙宇深处」「退出秘境」等步骤概括）。凯亚随后表示要展示骑士团的战法（该环节含标注隐藏的凯亚过场步骤）。",
+      "motivation": "清除庙宇中的敌人与残留力量，完成讨伐任务。",
+      "outcome": "北风之狼庙宇清剿完成，第二座庙宇目标达成。",
+      "keywords": [
+        "庙宇探索",
+        "凯亚",
+        "清剿"
+      ],
+      "source_step_keys": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 30702,
+          "title": "进入庙宇",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 30703,
+          "title": "探索庙宇深处",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 30704,
+          "title": "退出秘境",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 30710,
+          "title": "与凯亚对话",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 30713,
+          "title": "(test)凯亚cutscene$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c10-s03",
+      "chapter_index": 10,
+      "order": 3,
+      "title": "战后凯亚称赞并邀约",
+      "narrative_role": "resolution",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "北风之狼庙宇外"
+      ],
+      "characters": [
+        "旅行者",
+        "凯亚"
+      ],
+      "summary": "战后凯亚称赞旅行者是一位训练有素的战士，庙宇中的战斗令人大开眼界，并预言其拯救蒙德的英姿会传遍整座自由之城。他邀请旅行者日后到骑士团总部聊天，或一起去一家不错的酒馆。（数据中该环节为标注隐藏的测试对话步骤。）",
+      "motivation": "凯亚对旅行者战斗能力的认可与结交之意。",
+      "outcome": "旅行者与凯亚的关系拉近，收到骑士团与酒馆的邀约。",
+      "keywords": [
+        "凯亚",
+        "称赞",
+        "邀约",
+        "酒馆"
+      ],
+      "source_step_keys": [
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 30715,
+          "title": "(test)与凯亚对话$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c11-s01",
+      "chapter_index": 11,
+      "order": 1,
+      "title": "与丽莎在南风之狮庙宇会合",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "南风之狮庙宇门口"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "丽莎"
+      ],
+      "summary": "旅行者来到南风之狮的庙宇与丽莎会合。丽莎以轻松的语气与旅行者交谈，表示这段时间有什么不明白的都可以来问姐姐，并希望大家多信任她一些。",
+      "motivation": "执行清剿第三座庙宇的任务，与负责的丽莎会合。",
+      "outcome": "旅行者与丽莎建立信任，准备进入庙宇。",
+      "keywords": [
+        "南风之狮",
+        "丽莎",
+        "庙宇"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 30800,
+          "title": "在庙宇门口跟丽莎见面",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 30801,
+          "title": "与丽莎对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c11-s02",
+      "chapter_index": 11,
+      "order": 2,
+      "title": "与丽莎同探南风之狮庙宇",
+      "narrative_role": "conflict",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "南风之狮庙宇内部"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "丽莎"
+      ],
+      "summary": "旅行者与丽莎进入庙宇，一路探索深处并清除残留力量（数据中的实际战斗以「探索庙宇深处」「退出秘境」等步骤概括）。丽莎随后表示自己也要稍微认真一下。",
+      "motivation": "清除庙宇中的残留力量，完成第三座庙宇的讨伐。",
+      "outcome": "南风之狮庙宇清剿完成，第三座庙宇目标达成。",
+      "keywords": [
+        "庙宇探索",
+        "丽莎",
+        "清剿"
+      ],
+      "source_step_keys": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 30802,
+          "title": "进入庙宇",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 30803,
+          "title": "探索庙宇深处",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 30804,
+          "title": "退出秘境",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 30810,
+          "title": "与丽莎对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c11-s03",
+      "chapter_index": 11,
+      "order": 3,
+      "title": "丽莎讲述特瓦林的往事",
+      "narrative_role": "revelation",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "南风之狮庙宇外"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "丽莎"
+      ],
+      "summary": "战后丽莎讲述四风守护的真相：东风之龙、南风之狮、北风之狼、西风之鹰是蒙德四方之风的守护者，也是风神「巴巴托斯」的眷属；风魔龙的真名是特瓦林，曾是「东风之龙」，因对蒙德的憎恨化作魔龙，只能借用三方之风，是在燃尽自己。她将记录着百年前故事的书籍交给旅行者，让他自己去看。（数据中该环节为标注隐藏的测试对话步骤。）",
+      "motivation": "解释特瓦林化作魔龙的原因，解开旅行者的疑惑。",
+      "outcome": "旅行者获得风魔龙身世的关键信息与百年前的文献。",
+      "keywords": [
+        "特瓦林",
+        "四风守护",
+        "巴巴托斯",
+        "憎恨",
+        "百年前的故事"
+      ],
+      "source_step_keys": [
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 30814,
+          "title": "(test)与丽莎对话$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1001-c12-s01",
+      "chapter_index": 12,
+      "order": 1,
+      "title": "一阶段收束与风神瞳之约",
+      "narrative_role": "resolution",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "在标注隐藏的测试章节中，派蒙表示三座庙宇已经全部处理完毕，蒙德的元素流动与地脉循环应能恢复正常。她提议回骑士团看看情况，或先去做些有趣的事，并介绍庙宇中得到的「散失的风神瞳」——拥有神之眼的人会收集它供奉给七天神像换取赐福；旅行者超脱世界常理，或许也能一试，派蒙期待神明会如何回应。",
+      "motivation": "收束一阶段行动，并为旅行者指明后续可探索的方向。",
+      "outcome": "一阶段行动宣告收束；旅行者后续可回骑士团或前往风起地的七天神像。",
+      "keywords": [
+        "一阶段结束",
+        "风神瞳",
+        "七天神像",
+        "地脉恢复"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 31101,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-18T09:12:44.338Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 75238,
+    "slug": "75238_a-small-token",
+    "title": "小小的心意",
+    "chapter_num": "",
+    "premise": "「木偶」吉约丹来到茜特菈莉的住所附近参加茶会，借此探望旧识，并感谢她在千灵节期间接下工作。她还准备了一份礼物，希望为部下过去造成的不快表达歉意。",
+    "central_conflict": "「木偶」送出的珍藏版轻小说本应传达谢意与歉意，却因礼物是由{NICKNAME}协助挑选，使茜特菈莉在欣喜之余产生强烈的别扭与不满。",
+    "summary": "白天的茶会上，「木偶」询问茜特菈莉是否满意茶水，并说明自己远赴纳塔是为了探望过去的同伴和感谢她的帮助。谈及伊涅芙相关的旧事后，「木偶」承认自己的部下曾给茜特菈莉等人带来不快，随即送上礼物表达心意。茜特菈莉发现礼物是符合自己喜好的珍藏版轻小说，起初惊喜万分。得知{NICKNAME}不仅透露了她的喜好，还与「木偶」一同认真选书后，她的高兴迅速转为羞恼和嫉妒般的别扭。听到「木偶」打算下次继续请{NICKNAME}帮忙时，茜特菈莉断然拒绝再有下次，使送礼话题在错愕中收住。她随后暗自盘算要找{NICKNAME}算账，而茶会最终随着天色已晚而结束。",
+    "resolution": "茜特菈莉收下礼物并接受了「木偶」的心意，两人的茶会平稳结束。礼物的来历却加深了她对{NICKNAME}的复杂情绪，并留下她准备日后追究此事的余波。",
+    "themes": [
+      "谢意与补偿",
+      "赠礼",
+      "旧怨和解",
+      "含蓄情感",
+      "误会与嫉妒"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 75238,
+      "title": "小小的心意",
+      "summary": "「木偶」在茜特菈莉住所附近举办茶会，以探望旧识、感谢千灵节期间的协助，并为部下过去造成的不快致歉。她送出的珍藏版轻小说令茜特菈莉十分欣喜，但{NICKNAME}参与选礼的事实触发了茜特菈莉的羞恼，使原本温和的答谢出现情绪转折。茜特菈莉拒绝「木偶」下次再与{NICKNAME}共同选书，随后暗自决定找{NICKNAME}算账，茶会则在天色已晚时结束。",
+      "turning_point": "茜特菈莉得知心仪的礼物是由{NICKNAME}向「木偶」提供建议并一同挑选后，从惊喜和感谢转为强烈的别扭与羞恼。",
+      "outcome": "茜特菈莉收下礼物，「木偶」完成答谢与致歉；两人结束茶会，而茜特菈莉将不满转向了未在场的{NICKNAME}。",
+      "section_ids": [
+        "75238-c00-s01",
+        "75238-c00-s02",
+        "75238-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "前往烟谜主放置茶桌并使用桑多涅落座后，与茜特菈莉共度茶会时光吧…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "75238-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "茶会上重提旧日芥蒂",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "白天的茶会期间",
+      "locations": [
+        "茜特菈莉的住所附近"
+      ],
+      "characters": [
+        "「木偶」",
+        "茜特菈莉"
+      ],
+      "summary": "白天的茶会上，「木偶」询问茜特菈莉对茶水是否满意，并说明自己来到纳塔是为探望过去的同伴，也为感谢她在千灵节期间接下工作。话题继而转向与伊涅芙有关的旧事，「木偶」主动承认自己的部下曾给茜特菈莉等人带来不快。茜特菈莉没有继续追究，反而以昔日敌友关系可能变化回应此事。",
+      "motivation": "「木偶」希望借茶会探望旧识、感谢茜特菈莉的协助，并正面处理部下留下的旧日芥蒂。",
+      "outcome": "双方平静谈开旧事，为「木偶」以礼物进一步表达谢意和歉意作出铺垫。",
+      "keywords": [
+        "茶会",
+        "千灵节",
+        "伊涅芙",
+        "旧日芥蒂"
+      ],
+      "source_step_keys": [
+        "0",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7523801,
+          "title": "前往茜特菈莉的住所附近开启茶会",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7523803,
+          "title": "享受茶会时光",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "75238-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "赠礼惊喜转为羞恼",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "茶会进行期间",
+      "locations": [
+        "茜特菈莉的住所附近"
+      ],
+      "characters": [
+        "「木偶」",
+        "茜特菈莉"
+      ],
+      "summary": "「木偶」送出珍藏版轻小说聊表心意，茜特菈莉因礼物正合喜好而惊喜不已。得知{NICKNAME}向「木偶」透露她的喜好并一同认真选书后，茜特菈莉既高兴又别扭，并暗自希望{NICKNAME}能亲自送礼。当「木偶」提出下次仍可与{NICKNAME}一起挑选时，茜特菈莉情绪爆发，明确拒绝再有下次。",
+      "motivation": "「木偶」希望用合乎茜特菈莉喜好的礼物补偿旧事并表达谢意；茜特菈莉的反应则源于对礼物的喜爱以及对{NICKNAME}参与方式的复杂在意。",
+      "outcome": "茜特菈莉收下并感谢礼物，却因其挑选过程而羞恼，送礼话题以她的强硬拒绝和「木偶」的错愕告终。",
+      "keywords": [
+        "珍藏版轻小说",
+        "礼物",
+        "{NICKNAME}",
+        "羞恼",
+        "拒绝"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7523801,
+          "title": "前往茜特菈莉的住所附近开启茶会",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "75238-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "天色已晚茶会收场",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "茶会临近结束且天色已晚时",
+      "locations": [
+        "茜特菈莉的住所附近"
+      ],
+      "characters": [
+        "「木偶」",
+        "茜特菈莉"
+      ],
+      "summary": "赠礼风波后，茜特菈莉暗自表示下次要找{NICKNAME}算账。「木偶」决定是否再坐片刻，茶会随后因天色已晚而进入尾声。茜特菈莉向吉约丹小姐道别，并叮嘱她回程小心。",
+      "motivation": "茜特菈莉仍介意{NICKNAME}将她的喜好告知他人，而天色渐晚则促使双方结束茶会。",
+      "outcome": "茶会正式结束，「木偶」完成此次探访与赠礼，茜特菈莉对{NICKNAME}的不满成为后续余波。",
+      "keywords": [
+        "茶会结束",
+        "天色已晚",
+        "道别",
+        "秋后算账"
+      ],
+      "source_step_keys": [
+        "1",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7523802,
+          "title": "前往茜特菈莉的住所附近开启茶会",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7523804,
+          "title": "享受茶会时光",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:30:27.722Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

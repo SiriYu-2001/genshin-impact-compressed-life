@@ -1,0 +1,125 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71711,
+    "slug": "71711_geris-gastro-nostalgia",
+    "title": "杰里的蒙德城美食回忆",
+    "chapter_num": "",
+    "premise": "杰里身在璃月港，却怀念蒙德城的庄园烤松饼，因此委托旅行者准备并交付两份成品。",
+    "central_conflict": "杰里的怀旧食欲能否得到满足，取决于旅行者是否已经备齐两份庄园烤松饼。",
+    "summary": "时间未明确，旅行者在璃月港就庄园烤松饼的委托与杰里交谈。杰里确认旅行者是否已经准备好两份松饼，并流露出许久未能品尝这道食物的怀念。旅行者尚未备齐时，杰里会请其准备妥当后尽快送来；备齐后，旅行者将两份庄园烤松饼交给他。杰里闻到松饼的香气后十分满意，准备认真品尝。他又想到购买一份杏仁豆腐，以便将璃月与蒙德的食物对比着吃。最后，杰里向旅行者道谢并交付谢礼，委托就此完成。",
+    "resolution": "杰里如愿获得两份庄园烤松饼，并以谢礼回报旅行者。他对杏仁豆腐的临时念头延续了其比较两地美食的兴趣，但原文未明确形成新的委托。",
+    "themes": [
+      "思乡怀旧",
+      "地方美食",
+      "委托互助",
+      "饮食比较"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71711,
+      "title": "杰里的蒙德城美食回忆",
+      "summary": "旅行者在璃月港回应杰里的委托，确认并交付两份庄园烤松饼，满足了他重温蒙德风味的愿望。收到松饼后，杰里从期待转为满意，并打算另买杏仁豆腐进行口味比较。最终他向旅行者致谢并送出谢礼，完成此次委托。",
+      "turning_point": "旅行者备齐并交付两份庄园烤松饼，使杰里的怀念从等待转入实际品尝。",
+      "outcome": "杰里取得想念已久的庄园烤松饼，旅行者获得他的感谢与谢礼，委托完成。",
+      "section_ids": [
+        "71711-c00-s01",
+        "71711-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月港的杰里需要两份庄园烤松饼。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71711-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "旅行者交付两份庄园烤松饼",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确，委托交付阶段",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "杰里",
+        "旅行者"
+      ],
+      "summary": "时间未明确，旅行者在璃月港向杰里提起庄园烤松饼的委托，杰里随即确认两份松饼是否已经备齐。若尚未准备好，杰里会催请旅行者备齐后尽快送来，并透露自己已有一段时间没有吃过这道食物；备齐后，旅行者完成交付。",
+      "motivation": "杰里希望再次品尝许久未吃的庄园烤松饼，旅行者则要完成受托的食物交付。",
+      "outcome": "两份庄园烤松饼准备妥当后被交给杰里，剧情转入他验收食物并表达谢意的阶段。",
+      "keywords": [
+        "庄园烤松饼",
+        "食物交付",
+        "蒙德风味",
+        "怀念"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7171101,
+          "title": "将两份庄园烤松饼交给杰里",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71711-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "杰里品评香气并致谢",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确，松饼交付后",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "杰里",
+        "旅行者"
+      ],
+      "summary": "收到松饼后，杰里称赞两份庄园烤松饼闻起来很不错，并准备好好品尝。他又想到购买一份杏仁豆腐与松饼对比着吃，随后想起向旅行者致谢并送出谢礼。",
+      "motivation": "杰里想重温庄园烤松饼的味道，并借杏仁豆腐比较璃月与蒙德的不同风味。",
+      "outcome": "杰里对交付成果表示满意并回报旅行者，此次委托正式收束。",
+      "keywords": [
+        "品尝",
+        "杏仁豆腐",
+        "美食比较",
+        "感谢",
+        "谢礼"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7171102,
+          "title": "与杰里对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:03:44.550Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

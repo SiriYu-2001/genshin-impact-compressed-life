@@ -1,0 +1,86 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 75650,
+    "slug": "75650_toward-red-hot-adventure",
+    "title": "朝着炽热的冒险！",
+    "chapter_num": "",
+    "premise": "旅行者来到纳塔的冒险家协会，与凯瑟琳办理委托登记，以便在当地自由接取委托。",
+    "central_conflict": "本段没有明显的对抗性冲突，主要障碍是完成当地委托资格的登记，并为即将面对的危险与未知做好准备。",
+    "summary": "旅行者在纳塔再次见到凯瑟琳，并询问委托事宜。凯瑟琳着手完成登记，说明登记后旅行者即可在当地自由接取委托。她介绍纳塔遍布强敌与尚未探究的遗迹，既充满挑战，也蕴藏机遇。凯瑟琳以勇气和信心鼓励旅行者把握这些机会、成就新的事迹。随着登记完成和勉励结束，旅行者获得了在纳塔展开冒险活动的明确起点。",
+    "resolution": "凯瑟琳完成委托资格登记，并以冒险家协会的口号为旅行者送行。故事由此收束于正式开启纳塔委托与遗迹探索的准备阶段。",
+    "themes": [
+      "冒险启程",
+      "勇气与信心",
+      "挑战与机遇",
+      "未知探索"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 75650,
+      "title": "朝着炽热的冒险！",
+      "summary": "旅行者在纳塔的冒险家协会向凯瑟琳询问委托，并等待她完成当地登记。凯瑟琳介绍纳塔的强敌、遗迹和潜在机遇，鼓励旅行者凭借勇气与信心投入新的冒险。登记完成后，旅行者具备了自由接取纳塔委托的条件。",
+      "turning_point": "凯瑟琳完成登记，使旅行者从询问委托转入可以在纳塔自由接取委托的新阶段。",
+      "outcome": "旅行者取得纳塔当地的委托资格，并在凯瑟琳的鼓励下准备探索强敌与未知遗迹并存的国度。",
+      "section_ids": [
+        "75650-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在纳塔，你又遇见了凯瑟琳小姐…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "75650-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "凯瑟琳完成纳塔委托登记",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "旅行者来到纳塔并准备接取当地委托时",
+      "locations": [
+        "纳塔的冒险家协会"
+      ],
+      "characters": [
+        "旅行者",
+        "凯瑟琳"
+      ],
+      "summary": "旅行者在纳塔的冒险家协会向凯瑟琳询问委托，凯瑟琳随即为其办理登记，使其能够自由接取当地委托。她说明纳塔遍布强敌和未被探究的遗迹，同时也充满机遇，并鼓励旅行者怀抱勇气与信心继续前进。登记与勉励结束后，旅行者具备了在纳塔展开新冒险的条件。",
+      "motivation": "旅行者希望取得接取纳塔委托的资格；凯瑟琳则履行冒险家协会的登记职责，并鼓励旅行者迎接当地的挑战与机遇。",
+      "outcome": "委托登记完成，旅行者可以在纳塔自由接取委托，后续探索强敌与未知遗迹的冒险由此开启。",
+      "keywords": [
+        "委托登记",
+        "冒险家协会",
+        "纳塔",
+        "未知遗迹",
+        "勇气"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7565001,
+          "title": "与凯瑟琳对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:30:55.244Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

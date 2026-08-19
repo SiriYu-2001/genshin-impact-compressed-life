@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73656,
+    "slug": "73656_houseins-harra-fruits",
+    "title": "侯赛因的香辛果需求",
+    "chapter_num": "",
+    "premise": "须弥城的侯赛因通过阿芬迪发布委托，需要十个香辛果来尝试经营香料生意。委托接取者前来确认供货并完成交付。",
+    "central_conflict": "侯赛因希望找到可靠的供货伙伴，因此要求委托接取者先拿出十个香辛果，以证明其供货诚意与能力。",
+    "summary": "委托接取者在须弥城找到需要香辛果的侯赛因，并提起相关委托。侯赛因确认委托由自己通过阿芬迪发布，并认为这一渠道确实为他带来了潜在合伙人。他询问对方是否已备齐十个香辛果，将实际供货能力视为合作的基本条件。若材料尚未备齐，侯赛因会要求对方准备充分后再谈供货；推进委托的选择则确认材料已经准备完成。收到香辛果后，侯赛因表示感谢，并将这次交付视为未来合作的起点。",
+    "resolution": "十个香辛果完成交付，侯赛因获得了开展香料生意所需的首批货物。他提出若生意能够顺利做起来，双方将成为生意合作伙伴。",
+    "themes": [
+      "委托履行",
+      "商业尝试",
+      "供货合作",
+      "信任建立"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73656,
+      "title": "侯赛因的香辛果需求",
+      "summary": "侯赛因通过阿芬迪寻找能够供应香辛果的人，并要求委托接取者以十个香辛果证明供货能力。材料未备齐时合作无法推进，而完成准备并交付后，侯赛因对这次供货表示感谢。双方由一次委托关系发展出未来成为生意合作伙伴的可能。",
+      "turning_point": "委托接取者确认已经备齐十个香辛果，使商谈从供货资格确认转入实际交付。",
+      "outcome": "侯赛因收到十个香辛果，并提出在香料生意成功后与供货者建立长期合作关系。",
+      "section_ids": [
+        "73656-c00-s01",
+        "73656-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "须弥城的侯赛因需要十个香辛果。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73656-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "侯赛因核验香辛果供货",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "须弥城"
+      ],
+      "characters": [
+        "侯赛因",
+        "委托接取者"
+      ],
+      "summary": "委托接取者在须弥城向侯赛因提起香辛果委托，侯赛因确认自己通过阿芬迪发布了需求，并把来人视为潜在的供货伙伴。他要求对方备齐十个香辛果，以实际供货能力证明合作诚意；若尚未准备完成，他会要求对方备货后再来。推进委托的选择确认材料已经备齐，从而使供货进入交付阶段。",
+      "motivation": "侯赛因想尝试经营香料生意，需要确认潜在合作者能够提供足量香辛果；委托接取者则为履行已接取的供货委托而前来。",
+      "outcome": "十个香辛果的准备情况得到确认，备货完成后交付条件成立，并触发侯赛因的后续答谢。",
+      "keywords": [
+        "香辛果",
+        "阿芬迪",
+        "供货资格",
+        "备货确认"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7365601,
+          "title": "将十个香辛果交给侯赛因",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "73656-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "交付促成潜在商业合作",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "香辛果交付后",
+      "locations": [
+        "须弥城"
+      ],
+      "characters": [
+        "侯赛因",
+        "委托接取者"
+      ],
+      "summary": "收到十个香辛果后，侯赛因向委托接取者表示感谢。他把这次供货与自己的香料生意计划联系起来，并表示若生意能够做成，双方就会成为生意合作伙伴。",
+      "motivation": "侯赛因希望借助稳定供货推动香料生意，并保留与可靠供货者继续合作的可能。",
+      "outcome": "本次香辛果委托完成，双方建立了初步信任，未来的商业合作被作为可能的后续发展提出。",
+      "keywords": [
+        "完成交付",
+        "香料生意",
+        "合作伙伴",
+        "初步信任"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7365602,
+          "title": "与侯赛因对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:17:34.247Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

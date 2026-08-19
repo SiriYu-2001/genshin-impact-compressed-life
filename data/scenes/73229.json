@@ -1,0 +1,93 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73229,
+    "slug": "73229_trees-and-dreams",
+    "title": "梦境与树",
+    "chapter_num": "",
+    "premise": "与兰拉迦交谈后，行动者感受到某个神秘存在的呼唤与牵引，并循着指引前往指定地点。",
+    "central_conflict": "行动者需要追寻来源与目的均未明确的神秘召唤，而原文没有揭示沿途地点及呼唤者的身份。",
+    "summary": "故事开始于行动者与兰拉迦交谈之后，其感知到某种神秘存在的呼唤与牵引。为查明或回应这股召唤，行动者开始前往指定地点。追寻过程由两个连续的移动步骤构成，二者共同服务于接近神秘存在的目标。原文未交代两处地点的名称，也没有提供途中对话、冲突或新发现。行动推进至第二个指定地点，但呼唤的来源、意义及最终影响仍未揭晓。",
+    "resolution": "本 scene 以行动者连续追随神秘牵引收束，将其引向后续地点。神秘存在的身份与召唤目的仍作为后续悬念保留。",
+    "themes": [
+      "神秘呼唤",
+      "梦境牵引",
+      "未知探索",
+      "追寻"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73229,
+      "title": "梦境与树",
+      "summary": "本章以兰拉迦交谈后出现的神秘呼唤为起点，行动者依照牵引连续前往两个指定地点。剧情的关键变化是行动者从感受到召唤转为实际追寻，但地点、呼唤者身份及抵达后的发现均未被原文说明。",
+      "turning_point": "行动者感受到神秘存在的呼唤与牵引，并开始循着指引前行。",
+      "outcome": "行动者依次前往两个指定地点，使追寻神秘存在的进程得以继续，但具体结果原文未明确。",
+      "section_ids": [
+        "73229-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "与兰拉迦交谈后，感到了某种神秘存在的呼唤与牵引。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73229-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "循着神秘牵引连续前行",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "与兰拉迦交谈后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "兰拉迦",
+        "行动者（原文未具名）"
+      ],
+      "summary": "与兰拉迦交谈后，行动者感受到某个神秘存在的呼唤与牵引。行动者为回应或追查这股召唤，依次前往两个未具名的指定地点。原文没有记载途中发生的具体事件，也未揭示抵达后的发现。",
+      "motivation": "神秘存在的呼唤与牵引促使行动者循着指定路线继续追寻。",
+      "outcome": "行动者的追寻连续推进至第二个指定地点，呼唤的来源与后续影响仍未明确。",
+      "keywords": [
+        "兰拉迦",
+        "神秘存在",
+        "呼唤",
+        "指定地点",
+        "追寻"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7322901,
+          "title": "前往指定地点",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7322902,
+          "title": "前往指定地点",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:14:12.588Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70669,
+    "slug": "70669_ascension-challenge-iv",
+    "title": "牌手等级突破·四",
+    "chapter_num": "",
+    "premise": "牌手协会认定{NICKNAME}已具备第四次等级突破资格，{NICKNAME}因此前往「猫尾酒馆」，以赢得突破牌局并晋升「传说牌手」为目标。",
+    "central_conflict": "{NICKNAME}必须在高等级突破试炼中证明自己的牌技；若挑战失利，便需要调整状态并重新尝试。",
+    "summary": "获得第四次牌手等级突破资格后，{NICKNAME}前往「猫尾酒馆」申请进行试炼。「小王子」确认其挑战资格，并通知恕筠准备突破试炼所用的牌局，同时提醒其谨慎应对。{NICKNAME}随后参加突破对局，以牌技争取「传说牌手」的资格。若对局未能成功，「小王子」会劝其调整后再来，并肯定其拥有完成试炼的实力。最终，{NICKNAME}通过突破试炼，得到「小王子」的正式祝贺，成为「传说牌手」。「小王子」在认可这一头衔的同时勉励其继续精进牌技，并希望其始终感受到「七圣召唤」的乐趣。",
+    "resolution": "第四次牌手等级突破试炼以{NICKNAME}获胜并晋升「传说牌手」收束。新的头衔标志着本次晋级目标完成，而「小王子」的勉励将后续方向落在继续磨炼牌技与享受牌局之上。",
+    "themes": [
+      "等级突破",
+      "实力证明",
+      "坚持挑战",
+      "牌技精进",
+      "游戏乐趣"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70669,
+      "title": "牌手等级突破·四",
+      "summary": "{NICKNAME}前往「猫尾酒馆」申请第四次牌手等级突破，「小王子」确认资格并安排恕筠准备试炼牌局。突破对局构成本章的核心考验，失利时可在「小王子」的鼓励下调整再战，而最终结果表明{NICKNAME}成功通过试炼。「小王子」据此宣布其成为「传说牌手」，并以继续精进牌技、享受「七圣召唤」作为勉励。",
+      "turning_point": "{NICKNAME}完成突破牌局，从接受高等级试炼的挑战者转变为获得认可的「传说牌手」。",
+      "outcome": "第四次牌手等级突破成功完成，{NICKNAME}取得「传说牌手」头衔，并得到继续提升牌技的期许。",
+      "section_ids": [
+        "70669-c00-s01",
+        "70669-c00-s02",
+        "70669-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "「七圣召唤」的牌手协会认定你已经具有了进行等级突破试炼的资格。赢下突破挑战的牌局，成为「传说牌手」吧！希望你能感受到「七圣召唤」的乐趣！",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70669-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "小王子筹备突破试炼",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "获得第四次牌手等级突破资格后",
+      "locations": [
+        "猫尾酒馆"
+      ],
+      "characters": [
+        "{NICKNAME}",
+        "「小王子」",
+        "恕筠"
+      ],
+      "summary": "获得挑战资格后，{NICKNAME}前往「猫尾酒馆」提出进行牌手等级突破挑战。「小王子」确认其已经具备资格，随即让恕筠准备试炼牌局，并提醒{NICKNAME}谨慎应对。",
+      "motivation": "{NICKNAME}希望通过突破挑战提升牌手等级；「小王子」则依照已确认的资格安排正式试炼。",
+      "outcome": "突破牌局进入准备阶段，{NICKNAME}即将接受决定能否晋升的对局考验。",
+      "keywords": [
+        "猫尾酒馆",
+        "挑战资格",
+        "试炼筹备",
+        "恕筠"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7066902,
+          "title": "前往「猫尾酒馆」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70669-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "牌手迎战第四次突破牌局",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "突破试炼牌局进行阶段",
+      "locations": [
+        "猫尾酒馆"
+      ],
+      "characters": [
+        "{NICKNAME}",
+        "「小王子」"
+      ],
+      "summary": "{NICKNAME}与「小王子」进行决定牌手等级突破结果的对局。若挑战未能成功，「小王子」会提醒其更加小心、先行调整再来挑战，并明确表示相信其具备完成试炼的实力；最终结果则由后续祝贺确认{NICKNAME}已经通过试炼。",
+      "motivation": "{NICKNAME}需要以对局证明自己的牌技，从而取得最高等级的牌手资格；「小王子」的鼓励为可能的再次挑战提供推动。",
+      "outcome": "{NICKNAME}最终完成突破试炼，使牌手等级认定进入正式确认与授予头衔的阶段。",
+      "keywords": [
+        "突破对局",
+        "等级试炼",
+        "调整再战",
+        "实力证明"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7066903,
+          "title": "与「小王子」进行突破对局",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70669-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "胜者晋升传说牌手",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "成功通过突破试炼后",
+      "locations": [
+        "猫尾酒馆"
+      ],
+      "characters": [
+        "{NICKNAME}",
+        "「小王子」"
+      ],
+      "summary": "{NICKNAME}通过试炼后与「小王子」交谈，获其正式祝贺并被宣布成为「传说牌手」。「小王子」强调这一头衔意义非凡，勉励{NICKNAME}继续精进牌技，成为配得上该头衔的优秀牌手。最后，「小王子」再次表达希望{NICKNAME}能够感受到「七圣召唤」乐趣的愿望。",
+      "motivation": "「小王子」希望在确认晋升结果的同时，鼓励{NICKNAME}继续成长并保持对「七圣召唤」的热爱。",
+      "outcome": "{NICKNAME}正式取得「传说牌手」头衔，本次等级突破任务完成，后续目标转为持续磨炼牌技并享受牌局。",
+      "keywords": [
+        "试炼成功",
+        "传说牌手",
+        "继续精进",
+        "七圣召唤"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7066904,
+          "title": "与「小王子」对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:56:05.464Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70061,
+    "slug": "70061_forest-boar-pauses-for-the-bloom",
+    "title": "山有林猪粗嗅花",
+    "chapter_num": "",
+    "premise": "风车镇的花田屡遭一只林猪破坏，莉奥波汀因无法按期交花而向荣誉骑士求助。旅行者需要采集风息花、追查林猪并将其赶走。",
+    "central_conflict": "林猪不仅啃食、翻滚破坏花田，还会在居民靠近时迅速逃跑，甚至险些撞伤路人。旅行者必须利用它对花的兴趣找到并驱离它。",
+    "summary": "时间未明确，旅行者在风车镇混乱的花田周围遇见为交花期限发愁的莉奥波汀。莉奥波汀说明，一只狡猾的林猪近期反复破坏花田，并在有人靠近时逃入山谷。她认出旅行者是荣誉骑士后请求帮助，并提出采集风息花引诱林猪的办法。旅行者先采集风息花，随后沿途寻找林猪的踪迹并检查洞穴。检查结束后，旅行者等待至第二天八点，待林猪出现便将其赶跑。旅行者返回花田报告结果，莉奥波汀支付酬劳，并开始期待重新修整花田。",
+    "resolution": "林猪被成功赶离，莉奥波汀得以着手修整受损花田，并以酬劳答谢旅行者。她仍担忧今后可能再有其他家伙前来捣乱。",
+    "themes": [
+      "守护花田",
+      "追踪野兽",
+      "劳动与报酬",
+      "居民互助"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70061,
+      "title": "山有林猪粗嗅花",
+      "summary": "旅行者从莉奥波汀处得知林猪反复破坏花田，并接受了驱赶它的委托。旅行者依照建议采集风息花，追踪林猪留下的踪迹并检查洞穴，随后等到第二天早晨将现身的林猪赶跑。返回花田后，旅行者向莉奥波汀报告结果并获得酬劳，使她能够开始修整花田。",
+      "turning_point": "旅行者完成追踪与洞穴检查后等待至第二天八点，终于等到林猪现身并将其赶跑。",
+      "outcome": "破坏花田的林猪被赶离，莉奥波汀向旅行者支付酬劳，并准备重新修整花田。",
+      "section_ids": [
+        "70061-c00-s01",
+        "70061-c00-s02",
+        "70061-c00-s03",
+        "70061-c00-s04",
+        "70061-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "…在风车镇混乱的花田周围，看到了对着花田唉声叹气的女性，打听得知，原来是有一只林猪破坏了花田…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70061-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "莉奥波汀请求驱赶林猪",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "风车镇花田周围"
+      ],
+      "characters": [
+        "莉奥波汀",
+        "荣誉骑士（旅行者）"
+      ],
+      "summary": "时间未明确，旅行者在风车镇混乱的花田周围发现唉声叹气的莉奥波汀。她说明林猪近期反复啃花、在花田里翻滚，还会逃避围堵并威胁路人，导致鲜花无法按期交付。认出旅行者是荣誉骑士后，她请求旅行者前往山谷驱赶林猪，并建议采集风息花将其引出。",
+      "motivation": "莉奥波汀希望阻止林猪继续破坏花田，以便恢复鲜花交付并避免路人受伤；旅行者接受请求，决定出手相助。",
+      "outcome": "旅行者接受驱赶林猪的委托，并获得了林猪逃往山谷以及可用风息花诱引它的线索。",
+      "keywords": [
+        "受损花田",
+        "林猪",
+        "委托",
+        "风息花"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7006111,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70061-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "旅行者采集诱引用风息花",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "接受委托后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "荣誉骑士（旅行者）"
+      ],
+      "summary": "接受委托后，旅行者采集风息花。莉奥波汀此前判断林猪会被花吸引，因此这些花成为寻找并诱出目标的准备。",
+      "motivation": "旅行者需要按照莉奥波汀的建议准备风息花，以提高引出狡猾林猪的可能性。",
+      "outcome": "旅行者取得风息花，为随后追踪并驱赶林猪做好准备。",
+      "keywords": [
+        "风息花",
+        "采集",
+        "诱引准备"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7006109,
+          "title": "采集风息花",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70061-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "旅行者追踪林猪并检查洞穴",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "采集风息花后",
+      "locations": [
+        "山谷",
+        "洞穴"
+      ],
+      "characters": [
+        "荣誉骑士（旅行者）",
+        "林猪"
+      ],
+      "summary": "采集风息花后，旅行者前往林猪逃入的山谷，连续寻找它留下的踪迹。追踪最终指向一处洞穴，旅行者随即对洞穴进行检查，以确认林猪可能出现的位置。",
+      "motivation": "旅行者需要通过连续踪迹锁定善于逃跑的林猪，才能实施诱引和驱赶。",
+      "outcome": "旅行者完成多阶段追踪并检查洞穴，将行动推进到等待林猪现身的阶段。",
+      "keywords": [
+        "山谷",
+        "踪迹",
+        "洞穴",
+        "追踪"
+      ],
+      "source_step_keys": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7006103,
+          "title": "寻找林猪的踪迹",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7006104,
+          "title": "寻找林猪的踪迹",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7006110,
+          "title": "寻找林猪的踪迹",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7006105,
+          "title": "检查洞穴",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70061-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "林猪现身后被旅行者赶跑",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "第二天八点",
+      "locations": [
+        "洞穴附近"
+      ],
+      "characters": [
+        "荣誉骑士（旅行者）",
+        "林猪"
+      ],
+      "summary": "检查洞穴后，旅行者等待至第二天八点，让行动进入守候阶段。林猪出现后，旅行者立即采取行动，将这只破坏花田的林猪赶跑。",
+      "motivation": "旅行者守候林猪现身，是为了阻止它再次返回花田造成破坏或威胁路人。",
+      "outcome": "林猪被成功赶离，旅行者可以返回向莉奥波汀报告委托完成的消息。",
+      "keywords": [
+        "守候",
+        "第二天八点",
+        "林猪现身",
+        "驱赶"
+      ],
+      "source_step_keys": [
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 7006113,
+          "title": "等待林猪出现（等待至第二天八点）",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7006106,
+          "title": "赶跑破坏花田的林猪",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70061-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "莉奥波汀酬谢旅行者",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "林猪被赶跑后",
+      "locations": [
+        "风车镇花田周围"
+      ],
+      "characters": [
+        "莉奥波汀",
+        "荣誉骑士（旅行者）"
+      ],
+      "summary": "林猪被赶跑后，旅行者返回花田，将成功驱赶它的消息告知莉奥波汀。莉奥波汀表示感谢，并认为付出劳动理应获得报酬，因此向旅行者支付酬劳。她准备重新修整花田，同时希望今后不再有其他家伙前来捣乱。",
+      "motivation": "旅行者需要向委托人确认任务结果，莉奥波汀则希望答谢旅行者的劳动并恢复花田。",
+      "outcome": "委托正式完成，旅行者获得酬劳，莉奥波汀得以开始重新修整花田，但仍保留对未来侵扰的担忧。",
+      "keywords": [
+        "报告结果",
+        "酬劳",
+        "修整花田",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "8"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "8",
+          "id": 7006107,
+          "title": "告知莉奥波汀林猪被赶跑的消息",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:51:39.837Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

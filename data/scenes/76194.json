@@ -1,0 +1,130 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 76194,
+    "slug": "76194_mineral-research-rainbowdrop-crystals",
+    "title": "矿物调查·虹滴晶",
+    "chapter_num": "",
+    "premise": "调查者为矿物调查迅速做好准备，并前往希汐岛东端寻找值得研究的事物。主要目标是采集当地发现的虹滴晶。",
+    "central_conflict": "调查者需要在缺乏明确线索的情况下确认调查对象，并借助对当地生态的认识推进采集。",
+    "summary": "调查者迅速完成调查准备，随后前往希汐岛东端的指定地点。抵达后，调查者注意到附近存在值得调查的事物。由于莉奈娅十分了解本地生态，调查者认为她的相关知识或许能帮助取得收获。这一判断将调查方向集中到当地矿物与生态线索上。调查者最终找到并采集虹滴晶，完成本次矿物取样。",
+    "resolution": "虹滴晶被成功采集，本次调查以取得目标样本告一段落。原文未明确交代样本的后续研究结果。",
+    "themes": [
+      "矿物调查",
+      "生态知识",
+      "实地采集",
+      "虹滴晶"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 76194,
+      "title": "矿物调查·虹滴晶",
+      "summary": "调查者做好准备后前往希汐岛东端，在指定地点搜寻值得研究的对象。调查者想到可借助莉奈娅对本地生态的了解来获取线索，继而将调查落实为虹滴晶采集。最终目标矿物被采集，本章的实地调查完成。",
+      "turning_point": "调查者抵达指定地点并意识到莉奈娅的本地生态知识可能有助于调查，搜索由泛泛观察转向明确的矿物采集。",
+      "outcome": "调查者成功采集虹滴晶，取得本次矿物调查的目标样本。",
+      "section_ids": [
+        "76194-c00-s01",
+        "76194-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在希汐岛东端发现了虹滴晶…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "76194-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "调查者赴希汐岛东端勘察",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "调查开始阶段",
+      "locations": [
+        "希汐岛东端"
+      ],
+      "characters": [
+        "调查者",
+        "莉奈娅"
+      ],
+      "summary": "调查开始阶段，调查者迅速做好准备并前往希汐岛东端的指定地点。调查者发现附近似乎存在值得研究的事物，并想到十分了解本地生态的莉奈娅或许能帮助调查取得收获。",
+      "motivation": "调查者希望借助实地观察与莉奈娅掌握的本地生态知识，确认值得研究的对象。",
+      "outcome": "调查者完成前期准备并锁定调查区域，为随后采集虹滴晶建立方向。",
+      "keywords": [
+        "希汐岛东端",
+        "调查准备",
+        "生态知识",
+        "莉奈娅"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7619401,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7619402,
+          "title": "前往指定地点开启调查",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76194-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "调查者采集虹滴晶样本",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "实地调查后期",
+      "locations": [
+        "希汐岛东端"
+      ],
+      "characters": [
+        "调查者"
+      ],
+      "summary": "实地调查后期，调查者在希汐岛东端执行虹滴晶采集。调查者取得目标矿物样本，使本次调查任务得以完成。",
+      "motivation": "调查者需要采集虹滴晶，以完成本次矿物调查的既定目标。",
+      "outcome": "虹滴晶被成功采集，本次实地调查告一段落；样本的后续用途原文未明确。",
+      "keywords": [
+        "虹滴晶",
+        "矿物样本",
+        "实地采集",
+        "调查完成"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7619403,
+          "title": "采集虹滴晶",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:35:54.806Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

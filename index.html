@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light" />
+    <meta name="description" content="安伯计划剧情的 scene、chapter 与 section 分层可视化" />
+    <title>Amber Story Atlas</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="剧情目录">
+        <header class="brand">
+          <div class="brand-mark" aria-hidden="true">C</div>
+          <div>
+            <p class="brand-kicker">Genshin Impact</p>
+            <h1>压缩人生</h1>
+          </div>
+        </header>
+
+        <label class="search-box">
+          <span aria-hidden="true">⌕</span>
+          <input id="scene-search" type="search" placeholder="搜索 scene、主题…" autocomplete="off" />
+          <kbd>/</kbd>
+        </label>
+
+        <div id="type-filters" class="type-filters" aria-label="任务类型筛选"></div>
+        <div id="catalog-stats" class="catalog-stats" aria-live="polite"></div>
+        <nav id="scene-list" class="scene-list" aria-label="Scene 列表"></nav>
+
+        <footer class="sidebar-footer">
+          <span class="status-dot"></span>
+          <span>Project Amber · 分层剧情档案</span>
+        </footer>
+      </aside>
+
+      <main class="main-view">
+        <div class="mobile-bar">
+          <button id="menu-button" type="button" aria-label="打开剧情目录">☰</button>
+          <span>Amber Story Atlas</span>
+        </div>
+
+        <section id="loading-view" class="state-view">
+          <div class="loader" aria-hidden="true"></div>
+          <p>正在整理剧情脉络…</p>
+        </section>
+
+        <section id="empty-view" class="state-view" hidden>
+          <p class="state-symbol">◇</p>
+          <h2>还没有可展示的剧情</h2>
+          <p>先运行 scene 总结脚本，索引会自动出现在这里。</p>
+        </section>
+
+        <section id="error-view" class="state-view" hidden>
+          <p class="state-symbol">!</p>
+          <h2>剧情数据加载失败</h2>
+          <p id="error-message"></p>
+        </section>
+
+        <article id="story-view" hidden>
+          <header class="scene-hero">
+            <div class="hero-grid"></div>
+            <div class="hero-content">
+              <div class="hero-topline">
+                <span id="scene-number" class="scene-number"></span>
+                <span id="quest-type-badge" class="quest-type-badge"></span>
+                <span id="chapter-number" class="chapter-number"></span>
+                <span id="region-name" class="region-name"></span>
+              </div>
+              <h2 id="scene-title"></h2>
+              <p id="scene-premise" class="scene-premise"></p>
+              <div id="scene-themes" class="chip-row"></div>
+              <dl id="scene-metrics" class="scene-metrics"></dl>
+            </div>
+          </header>
+
+          <div class="content-wrap">
+            <section class="overview-grid" aria-label="Scene 总览">
+              <article class="narrative-card conflict-card">
+                <p class="card-label">核心冲突</p>
+                <p id="scene-conflict"></p>
+              </article>
+              <article class="narrative-card">
+                <p class="card-label">Scene 总结</p>
+                <p id="scene-summary"></p>
+              </article>
+              <article class="narrative-card resolution-card">
+                <p class="card-label">收束与后续</p>
+                <p id="scene-resolution"></p>
+              </article>
+            </section>
+
+            <section class="chapter-navigation" aria-label="Chapter 快速导航">
+              <div class="section-heading compact-heading">
+                <div>
+                  <p class="eyebrow">Narrative map</p>
+                  <h3>章节轨迹</h3>
+                </div>
+                <p>按已有 chapter 展开，再沿时间线阅读自动发现的 section。</p>
+              </div>
+              <div id="chapter-tabs" class="chapter-tabs"></div>
+            </section>
+
+            <section id="chapter-timeline" class="chapter-timeline" aria-label="剧情时间线"></section>
+
+            <section id="context-panel" class="context-panel" hidden>
+              <div class="section-heading">
+                <div>
+                  <p class="eyebrow">Supporting context</p>
+                  <h3>跨章节补充</h3>
+                </div>
+                <p>这些内容只用于解释前因后果，不参与目标 scene 的 section 边界。</p>
+              </div>
+              <div id="context-list" class="context-list"></div>
+            </section>
+
+            <footer class="story-footer">
+              <span id="generated-at"></span>
+              <span>结构：scene → chapter → section</span>
+            </footer>
+          </div>
+        </article>
+      </main>
+    </div>
+    <div id="sidebar-scrim" class="sidebar-scrim" hidden></div>
+    <script type="module" src="app.js"></script>
+    <script type="module">await window.__amberReady</script>
+  </body>
+</html>

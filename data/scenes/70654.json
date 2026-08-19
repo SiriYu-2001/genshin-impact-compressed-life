@@ -1,0 +1,85 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70654,
+    "slug": "70654_floral-freefall",
+    "title": "风中万花",
+    "chapter_num": "",
+    "premise": "风花节期间，蒙德城周围举办了多种趣味活动，西风骑士团的莉兹准备向旅行者介绍其中的「风中万花」。当前主要目标是与莉兹交谈并了解这项活动。",
+    "central_conflict": "原文未呈现明确冲突；剧情的当前推进点是旅行者需要通过莉兹的介绍接触「风中万花」。",
+    "summary": "风花节期间，蒙德城周围开展了各种趣味活动。西风骑士团的莉兹希望隆重介绍其中的「风中万花」。旅行者因此需要与莉兹交谈，使叙事焦点从整体节庆转向这项具体活动。输入未包含实际对话、活动规则或参与过程，因此交谈结果与后续发展均未明确。",
+    "resolution": "本scene以“与莉兹交谈”作为唯一明确的推进目标。由于原文未收录交谈内容，活动介绍及其后续影响尚未明确。",
+    "themes": [
+      "风花节",
+      "节庆活动",
+      "风中万花",
+      "活动引介"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70654,
+      "title": "风中万花",
+      "summary": "风花节期间，蒙德城周围举办多种趣味活动，莉兹准备向旅行者重点介绍「风中万花」。本章将与莉兹交谈设为唯一明确目标，但未提供对话内容或任务完成后的结果。",
+      "turning_point": "莉兹将「风中万花」从诸多节庆活动中提出，使其成为旅行者当前需要了解的具体项目。",
+      "outcome": "旅行者获得了与莉兹交谈的任务目标；实际介绍内容及后续发展原文未明确。",
+      "section_ids": [
+        "70654-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "风花节期间，蒙德城周围举办了各种各样的趣味活动。西风骑士团的莉兹想要隆重为你介绍其中之一，「风中万花」。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70654-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "莉兹准备介绍风中万花",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "风花节期间",
+      "locations": [
+        "蒙德城周围"
+      ],
+      "characters": [
+        "莉兹",
+        "旅行者"
+      ],
+      "summary": "风花节期间，蒙德城周围举办了各种趣味活动。西风骑士团的莉兹准备向旅行者隆重介绍其中的「风中万花」，与她交谈成为当前任务目标。原文未提供实际交谈内容。",
+      "motivation": "莉兹希望向旅行者介绍风花节活动「风中万花」，旅行者需要通过交谈了解该活动。",
+      "outcome": "剧情明确了与莉兹交谈的下一步目标，但交谈结果和活动详情原文未明确。",
+      "keywords": [
+        "莉兹",
+        "风花节",
+        "风中万花",
+        "交谈"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7065401,
+          "title": "与莉兹交谈",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:54:46.931Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

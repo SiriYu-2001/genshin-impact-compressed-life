@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70703,
+    "slug": "70703_connors-brew",
+    "title": "康纳的酿酒材料需求",
+    "chapter_num": "",
+    "premise": "晨曦酒庄的康纳急需三份蒲公英籽用于酿酒，旅行者接受委托并负责搜集材料。",
+    "central_conflict": "康纳的酿酒工作受材料短缺影响，委托能否完成取决于旅行者是否集齐并交付三份蒲公英籽。",
+    "summary": "康纳在晨曦酒庄等待旅行者回应蒲公英籽委托，并确认三份材料是否已经集齐。若材料尚未备齐，他会说明自己急着用它们酿酒，催促旅行者尽快完成搜集。旅行者最终集齐三份蒲公英籽并将其交给康纳，使材料短缺的问题得到解决。康纳判断这些蒲公英籽足够使用一段时间，酿酒工作因而可以继续。他随后向旅行者致谢，并请对方收下谢礼，委托至此完成。",
+    "resolution": "康纳收到足量的蒲公英籽，暂时满足了酿酒所需，并以致谢和赠礼结束委托。原文未说明这批材料对后续事件还有其他影响。",
+    "themes": [
+      "材料搜集",
+      "酿酒需求",
+      "受托互助",
+      "劳动回报"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70703,
+      "title": "康纳的酿酒材料需求",
+      "summary": "本章围绕为康纳筹集三份酿酒用蒲公英籽展开。康纳确认搜集进度，并在材料不足时强调需求的紧迫性；旅行者最终完成搜集并交付材料。康纳确认所得材料足够使用一段时间，随后致谢并给予谢礼。",
+      "turning_point": "旅行者确认已经集齐三份蒲公英籽并完成交付，使委托从材料搜集阶段转入完成后的确认与答谢。",
+      "outcome": "康纳暂时获得足够的酿酒材料，旅行者得到他的感谢和谢礼，本次委托完成。",
+      "section_ids": [
+        "70703-c00-s01",
+        "70703-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "晨曦酒庄的康纳需要三份蒲公英籽。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70703-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "康纳确认蒲公英籽的搜集进度",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "材料搜集与交付阶段，具体时间未明确",
+      "locations": [
+        "晨曦酒庄"
+      ],
+      "characters": [
+        "康纳",
+        "旅行者"
+      ],
+      "summary": "旅行者在晨曦酒庄向康纳回应有关蒲公英籽的委托，康纳询问三份材料是否已经集齐。若搜集尚未完成，康纳会说明自己急着用这些材料酿酒，并请旅行者集齐后尽快送来。旅行者最终确认材料已经备齐，从而完成交付条件。",
+      "motivation": "康纳急需三份蒲公英籽继续酿酒，旅行者则为履行委托而搜集并交付材料。",
+      "outcome": "三份蒲公英籽最终完成搜集和交付，康纳得以进一步确认材料是否满足使用需求。",
+      "keywords": [
+        "蒲公英籽",
+        "材料搜集",
+        "进度确认",
+        "酿酒"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7070301,
+          "title": "将三份蒲公英籽交给康纳",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70703-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "康纳收下材料并向旅行者致谢",
+      "narrative_role": "resolution",
+      "importance": 2,
+      "when": "蒲公英籽交付后，具体时间未明确",
+      "locations": [
+        "晨曦酒庄"
+      ],
+      "characters": [
+        "康纳",
+        "旅行者"
+      ],
+      "summary": "收到蒲公英籽后，康纳判断这些材料足够自己使用一段时间。材料需求得到满足后，他感谢旅行者提供帮助，并请旅行者收下谢礼。",
+      "motivation": "康纳希望确认交付数量能够满足酿酒需要，并回报旅行者的帮助。",
+      "outcome": "康纳的材料短缺暂时解除，旅行者获得感谢和谢礼，本次委托正式收束。",
+      "keywords": [
+        "材料交付",
+        "需求满足",
+        "感谢",
+        "谢礼"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7070302,
+          "title": "与康纳对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:56:41.488Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

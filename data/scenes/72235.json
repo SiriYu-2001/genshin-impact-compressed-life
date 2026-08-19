@@ -1,0 +1,263 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72235,
+    "slug": "72235_collection-of-dragons-and-snakes",
+    "title": "龙蛇藏归辑录",
+    "chapter_num": "",
+    "premise": "受托者在图书馆内与残影接触，并决定帮助绘真找回五本丢失的图书。任务的主要目标是集齐图书、交由绘真查看并放回书架。",
+    "central_conflict": "五本图书散失在外，阻碍了藏书归还。图书重新上架后，画框又发生变化，使原本的寻书任务转向对异常现象的调查。",
+    "summary": "任务开始时，受托者在图书馆内与残影对话，获知绘真需要找回五本丢失的图书。随后，受托者进入搜集阶段，依次完成五本图书的寻回，但原文没有记载各书名称、所在地点或取得经过。集齐图书后，受托者将它们展示给绘真，使寻书成果得到确认。受托者继而前往书架，将五本图书正式归还。藏书归位后，附近画框出现变化，任务目标随之从整理藏书转为调查异常。受托者最终着手检查画框，但调查所得及其进一步影响在原文中未明确。",
+    "resolution": "五本丢失的图书完成寻回、展示和归架，绘真的藏书委托得到落实。变化的画框构成最后的转折，但其具体秘密和后续影响没有在目标文本中说明。",
+    "themes": [
+      "寻回失物",
+      "藏书归还",
+      "受托协助",
+      "异常调查"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72235,
+      "title": "龙蛇藏归辑录",
+      "summary": "本章围绕帮助绘真找回五本丢失图书展开：受托者先与图书馆内的残影对话，随后完成全部图书的搜集，并将成果展示给绘真。五本图书被放回书架后，画框发生变化，任务由藏书归还转入异常调查。受托者着手检查画框，但原文未交代调查发现。",
+      "turning_point": "五本图书归还书架后画框发生变化，使任务重点从寻书与归还转向调查异常。",
+      "outcome": "五本丢失图书经过展示后重新归架，受托者进一步调查发生变化的画框；调查的具体结论原文未明确。",
+      "section_ids": [
+        "72235-c00-s01",
+        "72235-c00-s02",
+        "72235-c00-s03",
+        "72235-c00-s04",
+        "72235-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "你决定帮助绘真找回五本丢失的图书…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72235-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "与图书馆残影建立委托",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "任务开始阶段",
+      "locations": [
+        "图书馆内"
+      ],
+      "characters": [
+        "受托者",
+        "绘真的残影"
+      ],
+      "summary": "任务开始阶段，受托者在图书馆内与残影对话。结合本章说明，受托者由此决定帮助绘真找回五本丢失的图书，寻书目标随之确立。",
+      "motivation": "受托者决定帮助绘真解决五本图书丢失的问题。",
+      "outcome": "五本丢失图书成为后续行动的明确搜集目标。",
+      "keywords": [
+        "图书馆",
+        "残影",
+        "绘真",
+        "寻书委托"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7223501,
+          "title": "与图书馆内的残影对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "72235-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "寻回五本遗失图书",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "图书搜集阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "受托者"
+      ],
+      "summary": "图书搜集阶段，受托者围绕同一目标连续寻找五本丢失的图书。原文仅将五次进展分别列为搜集步骤，没有说明图书名称、取得地点、搜集顺序或途中遭遇。",
+      "motivation": "集齐绘真所缺失的五本图书，以便完成后续核验和归还。",
+      "outcome": "五本图书的搜集目标全部完成，任务得以推进到向绘真展示图书。",
+      "keywords": [
+        "五本图书",
+        "搜集",
+        "遗失藏书"
+      ],
+      "source_step_keys": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7223502,
+          "title": "收集丢失的五本图书",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7223503,
+          "title": "收集丢失的五本图书",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7223504,
+          "title": "收集丢失的五本图书",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7223505,
+          "title": "收集丢失的五本图书",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7223506,
+          "title": "收集丢失的五本图书",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "72235-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "绘真核验寻回图书",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "五本图书集齐后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "受托者",
+        "绘真"
+      ],
+      "summary": "五本图书集齐后，受托者向绘真展示寻回的藏书。展示过程使搜集成果得到确认，并为将图书正式放回书架做好准备。",
+      "motivation": "让绘真查看已经寻回的图书，并完成归架前的确认。",
+      "outcome": "图书展示完成，下一步行动转为在书架处归还藏书。",
+      "keywords": [
+        "绘真",
+        "展示图书",
+        "成果确认"
+      ],
+      "source_step_keys": [
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 7223507,
+          "title": "向绘真展示图书",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "72235-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "五本图书重归书架",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "图书展示完成后",
+      "locations": [
+        "书架处"
+      ],
+      "characters": [
+        "受托者"
+      ],
+      "summary": "图书展示完成后，受托者来到书架处归还寻回的藏书。五本图书由搜集物转为重新入架的馆藏，使最初的寻书目标得到落实。",
+      "motivation": "将已经找回并展示过的图书正式归还原有藏书体系。",
+      "outcome": "五本图书完成归架，随后出现的画框变化引出新的调查目标。",
+      "keywords": [
+        "书架",
+        "归还图书",
+        "藏书归位"
+      ],
+      "source_step_keys": [
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 7223508,
+          "title": "在书架处归还图书",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "72235-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "变化画框引出调查",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "图书归还书架后",
+      "locations": [
+        "发生变化的画框处"
+      ],
+      "characters": [
+        "受托者"
+      ],
+      "summary": "图书归还书架后，画框发生变化，现场出现新的异常。受托者转而调查这幅画框，但原文没有记载画框变化的具体形态、调查发现或进一步结果。",
+      "motivation": "查明图书归架后画框发生变化的原因及含义。",
+      "outcome": "任务以调查变化画框作为最后推进；调查结论及其后续影响原文未明确。",
+      "keywords": [
+        "画框变化",
+        "异常现象",
+        "调查",
+        "后续悬念"
+      ],
+      "source_step_keys": [
+        "8"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "8",
+          "id": 7223509,
+          "title": "调查发生变化的画框",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:08:08.246Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72196,
+    "slug": "72196_fate-of-a-fighter",
+    "title": "武者的宿命",
+    "chapter_num": "",
+    "premise": "附近的海贼再次蠢蠢欲动，稻叶久藏提醒旅行者注意安全，并要求其用实际行动证明自己能够应付威胁。旅行者接受挑战，与他立下驱逐海贼后再行回报的约定。",
+    "central_conflict": "海贼威胁与旅行者的自信构成直接矛盾，稻叶久藏坚持以实际结果检验旅行者的能力。剧情最终指向稻叶久藏的“宿命”，但原文没有展开其具体内容。",
+    "summary": "稻叶久藏察觉附近的海贼再次开始活动，主动警告旅行者不要掉以轻心。旅行者表示海贼并非自己的对手，稻叶久藏则以其尚未驱逐敌人为由质疑这份自信。面对稻叶久藏的挑战，旅行者答应将海贼驱逐干净，双方就此立下约定。剧情随后进入向稻叶久藏回报情况的阶段，使最初的口头约定转向结果确认。最终任务目标转为见证稻叶久藏的宿命，将故事焦点从海贼威胁移向武者本人。目标文本没有提供回报内容、宿命的具体表现或最终结局。",
+    "resolution": "本 scene 以旅行者见证稻叶久藏的宿命这一目标收束，但原文未交代具体经过与结果。稻叶久藏此后的处境及事件影响仍未明确。",
+    "themes": [
+      "海贼威胁",
+      "实力证明",
+      "武者之约",
+      "个人宿命"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72196,
+      "title": "武者的宿命",
+      "summary": "稻叶久藏警告旅行者提防附近重新活跃的海贼，却因旅行者自信的回应而提出以驱逐行动证明实力。双方立下约定后，剧情依次转入向稻叶久藏回报情况和见证其宿命的阶段。由于后两个步骤只有任务标题，本章没有明确展示回报内容以及稻叶久藏宿命的具体经过。",
+      "turning_point": "旅行者接受稻叶久藏的挑战，双方约定以驱逐海贼的实际结果证明旅行者的能力。",
+      "outcome": "海贼威胁引发的约定进入回报阶段，随后故事焦点转向稻叶久藏的宿命，但其具体结局原文未明确。",
+      "section_ids": [
+        "72196-c00-s01",
+        "72196-c00-s02",
+        "72196-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72196-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "稻叶久藏警告海贼威胁",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "任务开始时，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "稻叶久藏",
+        "旅行者"
+      ],
+      "summary": "稻叶久藏发现附近的海贼再次蠢蠢欲动，提醒正在附近活动的旅行者小心。旅行者自信地表示海贼并非自己的对手，稻叶久藏则要求其先把敌人驱逐干净。旅行者接受挑战，双方立下一言为定的约定。",
+      "motivation": "稻叶久藏希望旅行者警惕海贼，并以实际行动证明自己的自信；旅行者则愿意接受驱逐海贼的挑战。",
+      "outcome": "海贼威胁被确立为当前问题，旅行者与稻叶久藏约定在驱逐敌人后再确认结果。",
+      "keywords": [
+        "稻叶久藏",
+        "海贼",
+        "实力证明",
+        "约定"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7219607,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "72196-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "旅行者回报行动情况",
+      "narrative_role": "transition",
+      "importance": 3,
+      "when": "警告与约定之后，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "稻叶久藏",
+        "旅行者"
+      ],
+      "summary": "剧情目标转为由旅行者向稻叶久藏回报情况，使先前的约定进入结果确认阶段。原文没有提供回报的具体内容、对话或稻叶久藏的反应。",
+      "motivation": "旅行者需要向稻叶久藏说明约定所涉行动的情况。",
+      "outcome": "故事从应对海贼威胁过渡到稻叶久藏个人命运的后续阶段，但回报产生的直接影响原文未明确。",
+      "keywords": [
+        "回报",
+        "行动情况",
+        "约定",
+        "过渡"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7219613,
+          "title": "向稻叶久藏回报情况。",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "72196-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "旅行者见证武者宿命",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "回报情况之后，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "稻叶久藏",
+        "旅行者"
+      ],
+      "summary": "任务最终要求旅行者见证稻叶久藏的宿命，剧情焦点由海贼威胁转向稻叶久藏本人。原文没有说明这场宿命的具体表现、发生过程或最终结局。",
+      "motivation": "原文未明确。",
+      "outcome": "本章在见证稻叶久藏宿命的阶段收束，其具体结果及对后续的影响原文未明确。",
+      "keywords": [
+        "稻叶久藏",
+        "武者",
+        "宿命",
+        "见证"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7219611,
+          "title": "见证稻叶久藏的宿命。",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:07:56.482Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

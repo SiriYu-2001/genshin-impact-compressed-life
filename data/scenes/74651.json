@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 74651,
+    "slug": "74651_bruneaus-flower-request",
+    "title": "布吕诺的鲜花需求",
+    "chapter_num": "",
+    "premise": "布吕诺曾向报纸投稿，希望有人送给他5支虹彩蔷薇。一名来访者因这则愿望与他接洽，并准备帮助他取得所需鲜花。",
+    "central_conflict": "布吕诺能否实现愿望，取决于来访者是否已经备齐5支虹彩蔷薇；若尚未准备妥当，交付便需要延后。",
+    "summary": "来访者就虹彩蔷薇一事询问布吕诺，布吕诺确认自己曾向报纸投稿征求一束鲜花。布吕诺得知对方可能愿意实现这个愿望后，对其带来的花充满期待。来访者可以表示尚需时间，布吕诺则耐心允诺等待，并感谢对方愿意帮忙。随着5支虹彩蔷薇准备完成并交给布吕诺，他的鲜花需求得到满足。布吕诺为此向来访者致谢，并表示美好的鲜花能够带给人生活的信心。事件最终以他的祝福收束，没有留下明确的未决冲突。",
+    "resolution": "布吕诺收到了所需的5支虹彩蔷薇，并以感谢和祝福回应来访者。其投稿所表达的愿望就此实现，原文未明确说明进一步影响。",
+    "themes": [
+      "善意互助",
+      "愿望实现",
+      "鲜花慰藉",
+      "耐心等待"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 74651,
+      "title": "布吕诺的鲜花需求",
+      "summary": "本章围绕帮助布吕诺获得5支虹彩蔷薇展开。布吕诺先确认自己曾通过报纸表达愿望，并耐心等待来访者备妥鲜花；交付完成后，他以鲜花能给予生活信心为由表达由衷感谢。整章最终以愿望实现和相互祝福收束。",
+      "turning_point": "来访者备齐并交出5支虹彩蔷薇，使布吕诺的愿望由等待转为实现。",
+      "outcome": "布吕诺收到所需鲜花并向来访者致谢，鲜花需求得到满足。",
+      "section_ids": [
+        "74651-c00-s01",
+        "74651-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "布吕诺需要5支虹彩蔷薇。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "74651-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "布吕诺确认报纸征花愿望",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "来访者回应报纸投稿并准备交付鲜花时",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "布吕诺",
+        "来访者"
+      ],
+      "summary": "来访者向布吕诺提起虹彩蔷薇，布吕诺确认自己曾向报纸投稿，希望有人送来一束这种鲜花。他询问来访者是否愿意实现愿望，并期待对方带来的花。来访者若尚未准备完成，可以请求稍候，布吕诺则表示愿意耐心等待；备妥5支虹彩蔷薇后，交付流程随之推进。",
+      "motivation": "布吕诺希望获得虹彩蔷薇，实现自己通过报纸公开表达的愿望；来访者则出于帮助他的目的准备所需鲜花。",
+      "outcome": "布吕诺的具体愿望和等待态度得到确认，来访者备齐并交付5支虹彩蔷薇后进入最终答谢阶段。",
+      "keywords": [
+        "虹彩蔷薇",
+        "报纸投稿",
+        "鲜花交付",
+        "耐心等待"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7465101,
+          "title": "将5支虹彩蔷薇交给布吕诺",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "74651-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "鲜花带来信心与祝福",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "5支虹彩蔷薇交付完成后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "布吕诺",
+        "来访者"
+      ],
+      "summary": "收到5支虹彩蔷薇后，布吕诺向来访者表达感谢。他认为美好的鲜花能够给人带来生活的信心，并祝愿来访者拥有美好的一天。布吕诺的需求至此得到满足。",
+      "motivation": "布吕诺因愿望实现而表达感激，并希望以自己的生活感悟和祝福回应来访者的善意。",
+      "outcome": "鲜花请求圆满完成，双方的交流以感谢和祝福直接收束。",
+      "keywords": [
+        "感谢",
+        "生活信心",
+        "美好祝福",
+        "愿望实现"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7465102,
+          "title": "与布吕诺对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:26:31.907Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

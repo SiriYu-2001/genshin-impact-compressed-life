@@ -1,0 +1,208 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72184,
+    "slug": "72184_pizza-from-another-land",
+    "title": "异国的披萨",
+    "chapter_num": "",
+    "premise": "木南杏奈为「木南料亭」的披萨经营问题所困扰，旅行者受托了解顾客反馈并协助改良口味。主要目标是让这种异国料理更符合稻妻当地人的饮食习惯。",
+    "central_conflict": "披萨本身味道不错，却因不符合当地人的饮食习惯而难以被顾客接受。木南杏奈需要在保留披萨形式的同时融入稻妻本地食材。",
+    "summary": "旅行者在任务开始时与正为某事困扰的木南杏奈交谈，并由此开始了解披萨的顾客反响。梨绘表示披萨味道不错，但自己不太吃得惯，建议加入堇瓜等稻妻本地食材以提高接受度。旅行者把这一反馈转告木南杏奈，她随即构思本地化的披萨配方。由于店里的堇瓜不足，木南杏奈请旅行者带回一个堇瓜，并说明其他材料已有存货。旅行者交付食材后，木南杏奈完成了加入本地食材的披萨，并对成品外观表示认可。她感谢旅行者并给予报酬，准备进一步品尝成品；若味道理想，这款披萨便可能很快作为新品推出。",
+    "resolution": "木南杏奈在旅行者的调查和食材支援下做出了本地化披萨，经营难题获得了初步解决。成品尚待她仔细品尝，能否正式成为新品仍取决于最终味道。",
+    "themes": [
+      "异国料理本地化",
+      "顾客反馈",
+      "饮食文化适应",
+      "协作改良"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72184,
+      "title": "异国的披萨",
+      "summary": "旅行者为解决木南杏奈的困扰，向梨绘了解顾客对披萨的真实感受，并获得加入堇瓜等本地食材的建议。木南杏奈采纳反馈后着手调整配方，又请旅行者补充短缺的堇瓜。食材送达后，她完成了本地化披萨，并决定在品尝确认味道后考虑将其作为新品推出。",
+      "turning_point": "梨绘指出披萨虽好吃却不合当地饮食习惯，并提出加入稻妻本地食材的建议，使问题从收集意见转向实际改良配方。",
+      "outcome": "木南杏奈完成了加入本地食材的披萨并向旅行者致谢；这款成品进入试吃确认阶段，具备了成为正式新品的可能。",
+      "section_ids": [
+        "72184-c00-s01",
+        "72184-c00-s02",
+        "72184-c00-s03",
+        "72184-c00-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "「木南料亭」的木南杏奈小姐似乎正在被什么事困扰…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72184-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "木南杏奈显露经营困扰",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "任务开始时",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "木南杏奈"
+      ],
+      "summary": "任务开始时，旅行者与「木南料亭」的木南杏奈交谈，发现她正受到某件事情困扰。原文未收录此次交谈的具体内容，但后续行动转向了解顾客对披萨的反馈。",
+      "motivation": "旅行者希望了解并协助解决木南杏奈面临的困扰。",
+      "outcome": "旅行者随后找到梨绘，开始调查披萨的顾客反响。",
+      "keywords": [
+        "木南料亭",
+        "披萨",
+        "经营困扰"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7218401,
+          "title": "与木南杏奈对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "72184-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "梨绘提出本地食材建议",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "征求顾客反馈阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "梨绘"
+      ],
+      "summary": "征求顾客反馈时，旅行者向梨绘询问「木南料亭」的披萨。梨绘认为披萨味道不错，但自己不太吃得惯，并建议加入堇瓜等稻妻本地食材，使其更容易受到当地人欢迎。",
+      "motivation": "旅行者需要查明顾客对披萨的真实感受，梨绘则希望披萨更贴合当地口味。",
+      "outcome": "旅行者获得了明确的口味问题和改良方向，可以向木南杏奈回报。",
+      "keywords": [
+        "顾客反馈",
+        "梨绘",
+        "堇瓜",
+        "本地口味"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7218402,
+          "title": "与梨绘对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "72184-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "木南杏奈采纳改良方向",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "反馈回报阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "木南杏奈"
+      ],
+      "summary": "旅行者向木南杏奈转述顾客反馈后，她接受了用堇瓜制作披萨的思路，并继续考虑加入其他本地材料。她检查存货后发现堇瓜不足，于是请旅行者带回一个堇瓜，同时说明其余材料已有存货。",
+      "motivation": "木南杏奈希望根据顾客意见改良披萨，旅行者则主动协助她补齐短缺食材。",
+      "outcome": "本地化配方进入实际制作准备阶段，旅行者接下了取得一个堇瓜的任务。",
+      "keywords": [
+        "配方改良",
+        "食材准备",
+        "木南杏奈",
+        "堇瓜"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7218403,
+          "title": "向木南杏奈回报",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "72184-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "本地化披萨完成待试吃",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "食材交付与制作阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "木南杏奈"
+      ],
+      "summary": "旅行者将堇瓜带回后，木南杏奈确认食材已经足够，并完成了加入稻妻本地食材的披萨。她认为成品看起来不错，向旅行者表示感谢并给予报酬。木南杏奈准备稍后仔细品尝，若味道理想便会尽快将其作为新品推出。",
+      "motivation": "旅行者要帮助木南杏奈完成配方试制，木南杏奈则希望验证本地化披萨能否成为正式商品。",
+      "outcome": "改良披萨顺利制成并进入最终品尝阶段，为日后作为新品推出留下可能。",
+      "keywords": [
+        "食材交付",
+        "披萨完成",
+        "新品试制",
+        "报酬"
+      ],
+      "source_step_keys": [
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7218404,
+          "title": "将堇瓜带回给木南杏奈",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7218405,
+          "title": "与木南杏奈对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:07:57.629Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

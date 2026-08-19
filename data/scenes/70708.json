@@ -1,0 +1,126 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70708,
+    "slug": "70708_alfreds-bouquet",
+    "title": "阿尔弗雷德的花束",
+    "chapter_num": "",
+    "premise": "阿尔弗雷德委托玩家角色收集并交付三朵塞西莉亚花，以便将这些花送给女儿。",
+    "central_conflict": "任务能否推进取决于三朵塞西莉亚花是否已经备齐，而阿尔弗雷德还担心采下的花在送达前凋谢。",
+    "summary": "时间与地点均未明确，玩家角色前去回应阿尔弗雷德关于三朵塞西莉亚花的委托。阿尔弗雷德询问花是否已经收集齐全，并在尚未备齐的分支中催促玩家角色尽快带来，以免花朵凋谢。玩家角色备齐并交付三朵花后，委托进入完成阶段。阿尔弗雷德说明这些塞西莉亚花是为女儿准备的，相信女儿会喜欢它们。他随后向玩家角色致谢并交付谢礼，使这次送花委托得到收束。",
+    "resolution": "三朵塞西莉亚花最终交到阿尔弗雷德手中，他得以为女儿准备花束，并以谢礼回报玩家角色。原文未明确交付之后的进一步影响。",
+    "themes": [
+      "亲情",
+      "委托履行",
+      "赠花",
+      "及时交付"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70708,
+      "title": "阿尔弗雷德的花束",
+      "summary": "玩家角色回应阿尔弗雷德的委托，需要备齐并交付三朵塞西莉亚花。阿尔弗雷德先确认收集进度，并强调应在花朵凋谢前尽快送达。花朵交付后，他透露这是为女儿准备的礼物，随后致谢并给出谢礼。",
+      "turning_point": "玩家角色完成三朵塞西莉亚花的交付，使对话从催促收集转为阿尔弗雷德说明赠花对象并表达感谢。",
+      "outcome": "阿尔弗雷德获得了为女儿准备的三朵塞西莉亚花，玩家角色收到谢礼，委托完成。",
+      "section_ids": [
+        "70708-c00-s01",
+        "70708-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "蒙德城的阿尔弗雷德需要三朵塞西莉亚花。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70708-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "阿尔弗雷德确认花朵进度",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确，交付塞西莉亚花的委托阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "阿尔弗雷德",
+        "玩家角色"
+      ],
+      "summary": "时间未明确，地点未明确，玩家角色就塞西莉亚花的委托与阿尔弗雷德交谈。阿尔弗雷德确认三朵花是否已经收集齐全；若玩家角色尚未备齐，他便要求尽快带来，以免花朵凋谢。任务只有在三朵花备齐并交付后才会继续推进。",
+      "motivation": "阿尔弗雷德希望及时取得三朵状态良好的塞西莉亚花，玩家角色则要完成其收集与交付委托。",
+      "outcome": "备齐花朵成为推进委托的明确条件；完成交付后，剧情进入阿尔弗雷德致谢的阶段。",
+      "keywords": [
+        "塞西莉亚花",
+        "收集进度",
+        "及时交付",
+        "防止凋谢"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7070801,
+          "title": "将三朵塞西莉亚花交给阿尔弗雷德",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70708-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "花束送达并揭示赠花对象",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "三朵塞西莉亚花交付后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "阿尔弗雷德",
+        "玩家角色",
+        "阿尔弗雷德的女儿"
+      ],
+      "summary": "三朵塞西莉亚花交付后，阿尔弗雷德表示自己的女儿一定会喜欢这些花，从而说明了收集花朵的用途。他感谢玩家角色的帮助，并将谢礼交给对方。",
+      "motivation": "阿尔弗雷德想用塞西莉亚花取悦女儿，也希望回报玩家角色为此付出的劳动。",
+      "outcome": "阿尔弗雷德取得送给女儿的花朵，玩家角色获得谢礼，委托随之完成。",
+      "keywords": [
+        "女儿",
+        "花束",
+        "感谢",
+        "谢礼",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7070802,
+          "title": "与阿尔弗雷德对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:56:46.838Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

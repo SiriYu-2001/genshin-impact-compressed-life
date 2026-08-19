@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73661,
+    "slug": "73661_jahans-sugar",
+    "title": "贾汉的调味料需求",
+    "chapter_num": "",
+    "premise": "时间未明确，须弥城的贾汉需要五罐糖，旅行者前去确认并完成交付。",
+    "central_conflict": "任务能否推进取决于旅行者是否备齐五罐糖；若尚未备齐，贾汉便继续等待。",
+    "summary": "时间未明确，旅行者在须弥城找到需要五罐糖的贾汉。贾汉询问五罐糖是否已经准备妥当，将物资齐备作为完成委托的条件。若旅行者尚未备齐，他表达了对甜食的喜爱，同时提醒旅行者不要因嗜甜而蛀牙，交付因此暂缓。旅行者备齐五罐糖后完成交付，贾汉的调味料需求得到满足。收到糖的贾汉随即期待在下一餐中使用它们，任务就此收束。",
+    "resolution": "五罐糖完成交付后，贾汉确认下一餐又能加糖，委托直接结束。原文未说明这次交付产生更长期的后续影响。",
+    "themes": [
+      "物资交付",
+      "甜食喜好",
+      "委托履行",
+      "健康提醒"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73661,
+      "title": "贾汉的调味料需求",
+      "summary": "旅行者在须弥城回应贾汉对五罐糖的需求，贾汉先核验物资是否已经备齐。物资不足时，任务停留在准备阶段；备齐后，旅行者完成交付。贾汉因下一餐可以加糖而欣喜，委托随之结束。",
+      "turning_point": "旅行者从尚未满足交付条件转为备齐并交出五罐糖，使委托得以完成。",
+      "outcome": "贾汉获得所需的五罐糖，并准备将糖用于下一餐。",
+      "section_ids": [
+        "73661-c00-s01",
+        "73661-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "须弥城的贾汉需要五罐糖。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73661-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "贾汉核验五罐糖的准备情况",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确，五罐糖交付前",
+      "locations": [
+        "须弥城"
+      ],
+      "characters": [
+        "旅行者",
+        "贾汉"
+      ],
+      "summary": "时间未明确，旅行者在须弥城与贾汉谈及五罐糖，贾汉询问物资是否已经全部备齐。若旅行者尚未准备完成，贾汉会继续等待，并在表达嗜甜喜好的同时提醒旅行者注意蛀牙；备齐物资则可完成本次交付。该核验将五罐糖是否齐备确立为委托推进的直接条件。",
+      "motivation": "贾汉想获得足量的糖用于饮食，旅行者则需要备齐五罐糖以履行委托。",
+      "outcome": "五罐糖未备齐时交付暂缓；备齐后，旅行者完成交付并推动任务进入贾汉确认收货的阶段。",
+      "keywords": [
+        "五罐糖",
+        "物资核验",
+        "交付条件",
+        "蛀牙提醒"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7366101,
+          "title": "将五罐糖交给贾汉",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "73661-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "贾汉期待下一餐再次添糖",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确，五罐糖交付后",
+      "locations": [
+        "须弥城"
+      ],
+      "characters": [
+        "贾汉",
+        "旅行者"
+      ],
+      "summary": "时间未明确，五罐糖交付完成后，贾汉在须弥城高兴地表示下一餐又能放糖。糖的用途由此得到直接说明，他的调味料需求也已满足。",
+      "motivation": "贾汉喜爱甜味，希望在下一餐中使用刚收到的糖。",
+      "outcome": "贾汉确认获得糖并期待将其用于下一餐，本次委托随之结束。",
+      "keywords": [
+        "确认收货",
+        "下一餐",
+        "甜食",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7366102,
+          "title": "与贾汉对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:17:30.654Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

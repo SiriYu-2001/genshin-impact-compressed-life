@@ -1,0 +1,85 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70652,
+    "slug": "70652_the-path-of-the-treasure-seeker-part-i",
+    "title": "寻宝的方法之一",
+    "chapter_num": "",
+    "premise": "旅行者在野外遇见自称「寻宝者」的乌尔曼，并与他展开对话。乌尔曼正在寻找一名实力足够的合作伙伴。",
+    "central_conflict": "乌尔曼需要以实力作为合作条件，但原文没有呈现旅行者是否符合要求，也未交代合作能否成立。",
+    "summary": "时间未明确，旅行者在野外遇见了名叫乌尔曼的「寻宝者」。双方展开对话，乌尔曼说明自己正在物色合作伙伴。他要求对方具备足够的实力，表明寻宝合作存在一定门槛。现有文本没有进一步说明宝藏的线索、合作任务或实力验证过程，也没有形成明确的高潮或转折。故事因此停留在双方初次接触和合作意向尚待确认的阶段，并为后续可能展开的寻宝行动留下空间。",
+    "resolution": "本段以乌尔曼说明招募强力合作伙伴的需求收束。旅行者是否加入、双方将寻找何种宝藏以及后续行动均未明确。",
+    "themes": [
+      "寻宝",
+      "合作邀约",
+      "实力门槛",
+      "初次相遇"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70652,
+      "title": "寻宝的方法之一",
+      "summary": "旅行者在野外遇见「寻宝者」乌尔曼，并通过对话得知他正在寻找合作伙伴。乌尔曼以足够的实力作为合作条件，但本章没有呈现具体的考验、寻宝线索或合作结果。故事由此完成双方相遇与需求说明，并将实际合作留待后续发展。",
+      "turning_point": "乌尔曼表明自己并非独自寻宝，而是在寻找一名实力足够的合作伙伴。",
+      "outcome": "旅行者获知了乌尔曼的合作需求，但双方是否结成伙伴以及下一步行动均未明确。",
+      "section_ids": [
+        "70652-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在野外遇见了一位名叫乌尔曼的「寻宝者」，他说自己正在寻找一位有足够实力的「合作伙伴」…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70652-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "乌尔曼寻觅强力伙伴",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "时间未明确，双方初次相遇阶段",
+      "locations": [
+        "野外"
+      ],
+      "characters": [
+        "旅行者",
+        "乌尔曼"
+      ],
+      "summary": "时间未明确，旅行者在野外遇见名叫乌尔曼的「寻宝者」，并与他展开对话。乌尔曼说明自己正在寻找一名实力足够的合作伙伴，为可能的寻宝合作提出了基本条件。原文没有交代双方是否达成合作。",
+      "motivation": "乌尔曼希望找到具备足够实力的人与自己合作寻宝；旅行者参与对话的具体动机原文未明确。",
+      "outcome": "旅行者得知了乌尔曼正在招募强力伙伴，但合作关系、寻宝目标与后续行动尚未确定。",
+      "keywords": [
+        "乌尔曼",
+        "寻宝者",
+        "合作伙伴",
+        "实力条件"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7065201,
+          "title": "与乌尔曼对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:55:00.782Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

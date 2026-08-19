@@ -1,0 +1,131 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73357,
+    "slug": "73357_tea-party-re-invitation-hat-guy",
+    "title": "茶会的再邀·阿帽",
+    "chapter_num": "",
+    "premise": "「木偶」前往兰巴德酒馆附近布置茶桌并以桑多涅的身份落座，希望邀请阿帽共度一段茶会时光。",
+    "central_conflict": "阿帽以疏离的态度质疑「木偶」为何如此清闲，而「木偶」需要决定是继续停留片刻还是结束这场短暂茶会。",
+    "summary": "「木偶」来到兰巴德酒馆附近，放置茶桌并落座开启茶会。阿帽应邀出现，却用“有闲时间”评价「木偶」的举动，显露出一贯的冷淡与揶揄。「木偶」随后可以表达继续小坐的意愿，也可以直接宣布茶会结束，两种选择代表其对相处时长的不同决定。无论选择如何，阿帽都接受安排，没有将言语上的疏离发展成真正冲突。茶会最终在双方互道保重后结束，这次再邀以克制而短暂的相处收束。",
+    "resolution": "阿帽接受「木偶」对茶会进程的决定，并以“各自保重”结束会面。两人没有进一步交心，但完成了一次平静而疏离的茶会相聚。",
+    "themes": [
+      "短暂相聚",
+      "克制陪伴",
+      "疏离关系",
+      "茶会邀约"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73357,
+      "title": "茶会的再邀·阿帽",
+      "summary": "本章围绕「木偶」邀请阿帽共度茶会展开：「木偶」先在兰巴德酒馆附近布置茶桌并落座，阿帽赴约后则以揶揄口吻评价这份闲情。「木偶」可以选择继续停留片刻或结束茶会，阿帽均接受其决定。最终，两人在没有激化分歧的情况下互道保重，完成这场短暂会面。",
+      "turning_point": "「木偶」决定继续小坐或结束茶会，而阿帽对任一选择都予以接受，使会面由短暂交谈转入告别。",
+      "outcome": "茶会平静结束，阿帽与「木偶」各自离开，双方完成了一次克制而短暂的相聚。",
+      "section_ids": [
+        "73357-c00-s01",
+        "73357-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "前往兰巴德酒馆附近放置茶桌并使用桑多涅落座后，与阿帽共度茶会时光吧…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73357-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "木偶在酒馆附近布置茶会",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "茶会开始前",
+      "locations": [
+        "兰巴德酒馆附近"
+      ],
+      "characters": [
+        "桑多涅（「木偶」）"
+      ],
+      "summary": "茶会开始前，「木偶」前往兰巴德酒馆附近放置茶桌，并以桑多涅的身份落座。她以实际准备开启邀约，为与阿帽共度茶会创造了条件。",
+      "motivation": "「木偶」希望依照邀约安排茶会，与阿帽共度一段闲暇时光。",
+      "outcome": "茶桌与座位准备完成，茶会得以开启，并为阿帽赴约后的交谈作好铺垫。",
+      "keywords": [
+        "兰巴德酒馆",
+        "茶桌",
+        "桑多涅",
+        "茶会准备"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7335701,
+          "title": "前往兰巴德酒馆附近开启茶会",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7335702,
+          "title": "前往兰巴德酒馆附近开启茶会",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "73357-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "阿帽短暂赴约后与木偶告别",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "茶会进行期间",
+      "locations": [
+        "兰巴德酒馆附近"
+      ],
+      "characters": [
+        "阿帽",
+        "「木偶」"
+      ],
+      "summary": "茶会进行期间，阿帽以揶揄口吻指出「木偶」颇有闲暇，显露出疏离但并未拒绝相处的态度。「木偶」可以选择再坐一会儿，也可以宣布茶会结束；无论作何选择，阿帽都接受安排并以“各自保重”告别。会面由此平静收束。",
+      "motivation": "阿帽以冷淡的言辞回应邀约，而「木偶」根据自身意愿决定茶会是否继续。",
+      "outcome": "阿帽接受「木偶」对相处时长的决定，双方互道保重，茶会随之结束。",
+      "keywords": [
+        "阿帽",
+        "闲暇",
+        "玩家选择",
+        "告别",
+        "各自保重"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7335703,
+          "title": "享受茶会时光",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:15:22.103Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

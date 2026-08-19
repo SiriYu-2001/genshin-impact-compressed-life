@@ -1,0 +1,2741 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 10204,
+    "slug": "10204_in-the-footsteps-of-the-chosen-of-dragons",
+    "title": "龙选者的旅迹",
+    "chapter_num": "",
+    "premise": "旅行者与派蒙陪伴小嵴锋龙在纳塔各处探索，让它通过寻宝、交友、救助同类和对抗龙贩子逐渐认识外界。旅途也使三名伙伴建立起近似家人的深厚感情。",
+    "central_conflict": "龙伙伴渴望成长并帮助其他生灵，却不断面对沟通隔阂、受伤或受困的龙、利用龙的恶人以及终将独立的命运。旅行者与派蒙必须在保护它的同时，给予它自行选择和成长的空间。",
+    "summary": "旅程从一次龙遗物挖掘开始，龙伙伴宁愿珍藏自己找到的小物件，也不愿用它换取摩拉，显露出独立的喜好与价值判断。此后，它尝试结交绵驮兽和嵴锋龙，参与钓鱼、拍摄映影、种植种子与交换礼物，并在一次次共同生活中深化了与旅行者、派蒙的亲密关系。面对生病、受伤、受骗或遭囚禁的龙，它担任沟通者和行动者，帮助咕噜噜服药、救治绒翼龙、照顾「大椰子」，也让一只异乡膨膨兽恢复自由。龙贩子使用易碎弹头袭击龙伙伴的阴谋成为旅途中最直接的外部冲突，三名伙伴侦察并捣毁据点，还留下营地和告示牌供巡逻防范余党。隐藏房间中的休眠龙蛋、迟迟不发芽的种子以及数次短暂相逢，使等待、生命与离别逐渐成为旅程的内在线索。高潮处，诅咒已经解除的龙伙伴借合影保存共同回忆，并向旅行者和派蒙表达独自冒险的决定。三名伙伴在初见之地共享告别餐、整理纪念品并约定互相援助，幼龙最终坚定地踏上自己的道路。其后的温泉事件仍延续了这段旅迹中帮助人与龙的日常：旅行者一行找回堵住燃素喷口的小鳍游龙，也以一场滑稽的修行事故为整个合集留下轻快余韵。",
+    "resolution": "龙伙伴在获得健康、经验和情感支持后离开旅行者与派蒙，开始属于自己的冒险，但双方约定未来仍会重逢并彼此相助。龙贩子的威胁受到重创却仍需部族警戒，而龙蛋、种子及沿途结识的朋友则保留了继续成长与再会的可能。",
+    "themes": [
+      "伙伴成长",
+      "人与龙的信任",
+      "守护生命",
+      "独立与离别",
+      "友谊与回忆"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 75009,
+      "title": "宝物和收藏家",
+      "summary": "旅行者、派蒙和龙伙伴支付入场费，在龙遗物挖掘场寻找宝物。龙伙伴发现一件纹路独特的小物件，收藏家奎皮亚愿意溢价收购，但它选择亲自保留。伙伴们尊重它的意愿，也由此确认它已形成自己的收藏兴趣。",
+      "turning_point": "奎皮亚开出一万摩拉后，龙伙伴仍明确拒绝出售自己的发现。",
+      "outcome": "龙伙伴保留了亲手找到的物件，并得到奎皮亚作为收藏家的认可。",
+      "section_ids": [
+        "10204-c00-s01",
+        "10204-c00-s02",
+        "10204-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在龙遗物挖掘场碰碰运气吧！",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 75010,
+      "title": "特别的朋友",
+      "summary": "龙伙伴想与牧场中的绵驮兽交朋友，却接连遭遇冷淡、戒备和无视。它最终发现一只受困的胆小绵驮兽，并通过搭路救援赢得对方的亲近。瓦达娜得知结果后表示祝贺，也答应让「半熟蛋」加强照看。",
+      "turning_point": "屡次受挫的龙伙伴没有放弃，而是通过救助受困绵驮兽建立了真正的友谊。",
+      "outcome": "胆小的绵驮兽成为龙伙伴的新朋友，瓦达娜还赠予它绵驮兽玩具。",
+      "section_ids": [
+        "10204-c01-s01",
+        "10204-c01-s02",
+        "10204-c01-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "你的龙伙伴想交新朋友了…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": 75015,
+      "title": "今天是吃鱼的心情！",
+      "summary": "为了让龙伙伴尝到鱼，派蒙承担钓鱼任务，旅行者则先清理浅水海滩。漫长等待后，大鱼脱钩逃走，旅行者只得将它追回岸边。众人最终烤鱼聚餐，派蒙也从失败的垂钓中分享了成功感。",
+      "turning_point": "派蒙终于钓到大鱼却因拉力过强使其脱钩，任务由垂钓转为追捕。",
+      "outcome": "逃跑的鱼被带回并做成烤鱼，三名伙伴共同饱餐一顿。",
+      "section_ids": [
+        "10204-c02-s01",
+        "10204-c02-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_02.json",
+      "source_description": "为了让龙伙伴吃到鱼，这次就由派蒙出手钓鱼吧！",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": 75018,
+      "title": "龙医生的困境",
+      "summary": "旅行者一行制服袭击玛兹嘉的绒翼龙「咕噜噜」，继而得知它因不信任人类而拒绝治疗。龙伙伴承担劝药任务，虽然不同药剂会使咕噜噜消沉或再度暴躁，至少成功让它服下了药。玛兹嘉据此获得调整配方的依据，也称赞了龙伙伴在人与龙之间建立联系的能力。",
+      "turning_point": "咕噜噜首次在龙伙伴劝说下吃药，使原本停滞的治疗出现进展。",
+      "outcome": "咕噜噜被带回玛兹嘉处继续治疗，玛兹嘉能够根据它的实际反应改良药物。",
+      "section_ids": [
+        "10204-c03-s01",
+        "10204-c03-s02",
+        "10204-c03-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_03.json",
+      "source_description": "遇到了正在袭击人的绒翼龙，但其中似乎另有隐情…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": 75022,
+      "title": "谎言与约定",
+      "summary": "一只匿叶龙堵住藏有宝箱的洞口，旅行者一行误以为喂饱它便能换取通路。匿叶龙吃完食物仍装睡挡路，龙伙伴遂钻入洞中取出宝箱，却只找到原主留下的纸条。瓦伊纳认出这是离族罪人遗弃的伙伴，并决定由部族继续照料它。",
+      "turning_point": "宝箱中的纸条揭示，匿叶龙不是单纯骗食，而是被不负责任的原主用谎言留在此处等待。",
+      "outcome": "「悬木人」接手匿叶龙的供养，原主利用他人与龙的骗局也被揭穿。",
+      "section_ids": [
+        "10204-c04-s01",
+        "10204-c04-s02",
+        "10204-c04-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_04.json",
+      "source_description": "发现了将宝藏堵在身后的匿叶龙，能想办法让它离开吗…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": 75023,
+      "title": "来拍映影吧！",
+      "summary": "阿卡坦加邀请龙伙伴出演映影，旅行者一行布置木桶和元素诱饵，并配合危险的爆炸场面完成拍摄。第一次拍摄因留影机放反而只录下导演本人，众人的劳动几乎白费。龙伙伴仍愿继续，第二次拍摄终于成功，并获得画片作为纪念。",
+      "turning_point": "众人回看素材时发现留影机方向错误，原定主角和爆炸场面全未入镜。",
+      "outcome": "重新拍摄后得到满意成片，龙伙伴留下了自己作为映影主角的画片。",
+      "section_ids": [
+        "10204-c05-s01",
+        "10204-c05-s02",
+        "10204-c05-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_05.json",
+      "source_description": "和龙伙伴一起拍映影吧！",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": 75024,
+      "title": "爱龙人的平凡生活",
+      "summary": "旅行者一行发现伊卡尤被三只龙围住，并从日志中掌握它们各自的习性。众人用酸汁腌鱼和龙伙伴分别引开「小波」与「翡翠」，与不肯退让的「金盏花」交战后救出伊卡尤。伊卡尤解释三只龙只是因久别而过度热情，并赠送食谱表达谢意。",
+      "turning_point": "伊卡尤醒来后说明三只龙并非袭击者，而是因担心和思念将他围住。",
+      "outcome": "误会得到澄清，伊卡尤准备安抚落败的「金盏花」，旅行者一行获得酸汁腌鱼食谱。",
+      "section_ids": [
+        "10204-c06-s01",
+        "10204-c06-s02",
+        "10204-c06-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_06.json",
+      "source_description": "在野外遇到被三只龙团团围住的人...",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": 75025,
+      "title": "嵴锋龙躲猫猫",
+      "summary": "龙伙伴在嵴锋龙聚集地与同类玩耍，却迟迟没有归来。旅行者和派蒙逐一寻找附近的小嵴锋龙，在多次认错后发现它只是玩累睡着了。众人与照看小龙的大嵴锋龙告别，并安慰因同伴离去而寂寞的龙伙伴。",
+      "turning_point": "漫长寻找最终证明龙伙伴没有遇险，只是在外面安心睡着了。",
+      "outcome": "龙伙伴安全回归，并在告别同类后确认旅行者和派蒙仍陪伴在它身边。",
+      "section_ids": [
+        "10204-c07-s01",
+        "10204-c07-s02",
+        "10204-c07-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_07.json",
+      "source_description": "在路上遇到了许多的嵴锋龙，你的龙伙伴与它们玩耍，却没有回来…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": 75028,
+      "title": "沉重的翅膀",
+      "summary": "旅行者一行赶走两名龙贩子后，发现一只虚弱且不信任人的绒翼龙。龙伙伴主动寻找烬芯花，众人据此尝试治疗。绒翼龙恢复到能够自行飞行后离开，伙伴们接受了帮助未必立刻换来信任或感谢。",
+      "turning_point": "龙伙伴找到了可能有效的烬芯花，使绒翼龙从无力状态恢复飞行能力。",
+      "outcome": "受伤的绒翼龙靠自己的力量离开，龙伙伴的无条件善意得到旅行者和派蒙肯定。",
+      "section_ids": [
+        "10204-c08-s01",
+        "10204-c08-s02",
+        "10204-c08-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_08.json",
+      "source_description": "在野外发现了受伤的龙…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": 75035,
+      "title": "赠礼与回礼",
+      "summary": "龙伙伴回到曾经生活的空间，将珍藏的树枝、石头等物送给旅行者和派蒙。派蒙以宝石回礼，但担心它遗失，众人遂前往「回声之子」寻找工匠加工。宝石和工具一度被鸟抢走，找回后由库拉霍免费雕琢，两天后龙伙伴获得了加工完成的首饰。",
+      "turning_point": "鸟同时抢走宝石和库拉霍的工具，使简单的加工委托变成追回失物的行动。",
+      "outcome": "宝石被制成龙伙伴喜爱的首饰，彼此交换的礼物成为伙伴关系的纪念。",
+      "section_ids": [
+        "10204-c09-s01",
+        "10204-c09-s02",
+        "10204-c09-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_09.json",
+      "source_description": "你的龙伙伴送给了你它收集而来的宝物，该拿什么作为回礼呢…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": 75036,
+      "title": "待种子萌出新芽",
+      "summary": "龙伙伴在荒地挖出一颗种子，旅行者和派蒙决定重新种下并注入燃素。燃素蜜虫和怪物不断夺走养分、干扰培育，众人清除威胁后再次尝试。种子没有立即发芽，伙伴们选择停止打扰并留待日后观察。",
+      "turning_point": "种子吸收燃素后仍毫无变化，使众人从催促萌芽转为承认成长需要时间。",
+      "outcome": "种子被留在土中继续生长，龙伙伴保留了等待新芽的希望。",
+      "section_ids": [
+        "10204-c10-s01",
+        "10204-c10-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_10.json",
+      "source_description": "你的龙伙伴挖出了奇怪的种子…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 11,
+      "chapter_id": 75094,
+      "title": "名为夜的孤岛",
+      "summary": "旅行者一行在夜岛深处的隐藏房间完成调查，从留下的手记得知勇敢的往事，并发现一颗休眠龙蛋及孵化器。击退来袭怪物后，众人反复启动设备并长久等待，龙蛋仍未破壳。派蒙最终提议带走龙蛋，以外界的故事和照料等待它自行选择出生的时机。",
+      "turning_point": "多次孵化均告失败后，众人不再把无反应简单视为终结，而决定改变环境并继续照料。",
+      "outcome": "休眠龙蛋被带离隐藏房间，未来是否孵化仍未明确。",
+      "section_ids": [
+        "10204-c11-s01",
+        "10204-c11-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_11.json",
+      "source_description": "你们在夜岛的深处发现了一间被隐藏起来的房间…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 12,
+      "chapter_id": 75107,
+      "title": "石子、椰子、龙贩子",
+      "summary": "旅行商人卡克斯的龙伙伴「大椰子」无明显外伤却无法行动，旅行者一行搭建营地并在他寻医期间照顾它。次日出现伤势相似的绒翼龙，龙伙伴协助理解两只伤龙的只言片语，指出袭击来自山上的恶人。众人侦察后确认龙贩子使用易碎弹头击昏龙，随即破坏装备并捣毁据点。回到营地后，他们得知两只龙都已接受治疗，并把营地改造成巡逻休息点和警示据点。",
+      "turning_point": "两只龙透露自己遭山上恶人以高速「石子」袭击，意外受伤由此转化为针对龙贩子的调查与反击。",
+      "outcome": "龙贩子据点被摧毁，「大椰子」和绒翼龙得到救治，卡克斯还通过告示牌和部族巡逻建立持续防范。",
+      "section_ids": [
+        "10204-c12-s01",
+        "10204-c12-s02",
+        "10204-c12-s03",
+        "10204-c12-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_12.json",
+      "source_description": "在「花羽会」领地边界的偏僻处，一位旅行商人和他的龙伙伴遭遇了神秘的麻烦…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 13,
+      "chapter_id": 75108,
+      "title": "火与水的好友",
+      "summary": "旅行者一行击败可疑营地中的龙贩子，并释放被囚禁的动物。龙伙伴与一只虚弱的异乡膨膨兽迅速亲近，旅行者遂制作薄荷酱烤鱼为它们补充体力。膨膨兽恢复元气后返回海中，龙伙伴虽有不舍，却相信彼此已经成为朋友。",
+      "turning_point": "获救的膨膨兽与龙伙伴跨越物种和故乡差异一起玩耍，建立了意外的友谊。",
+      "outcome": "被囚动物重获自由，膨膨兽恢复体力回到海中，并留下未来再会的期待。",
+      "section_ids": [
+        "10204-c13-s01",
+        "10204-c13-s02",
+        "10204-c13-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_13.json",
+      "source_description": "途径「花羽会」领地西界某处时，你和派蒙发现了一个可疑的营地，意外解救了一只膨膨兽，它似乎能与你们的龙伙伴成为好朋友…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 14,
+      "chapter_id": 75177,
+      "title": "终有独行之日",
+      "summary": "龙伙伴借来留影机，邀请旅行者和派蒙在初见之地拍下共同的画片。它随后表达开始独自冒险的愿望，派蒙虽难舍，仍与旅行者一起接受它已经长大的选择。三名伙伴共享告别餐、整理旅途纪念品并约定互相帮助，幼龙最终独自离去。",
+      "turning_point": "拍完纪念画片后，龙伙伴明确表示自己要离开同行者，开始属于自己的冒险。",
+      "outcome": "旅行者和派蒙给予祝福与约定，龙伙伴带着共同回忆坚定踏上独行之路。",
+      "section_ids": [
+        "10204-c14-s01",
+        "10204-c14-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_14.json",
+      "source_description": "你的龙伙伴似乎有什么话想要跟你说…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 15,
+      "chapter_id": 75178,
+      "title": "「烈度」，有用吗",
+      "summary": "旅行者和派蒙寻找号称「沃陆之邦最强」的马范，却发现他正依据《烈泉道》在冰冷泉水中修行。调查显示温泉变冷是小鳍游龙堵住燃素喷口所致，照看它们的莉娜夏请求众人同时找回走失幼龙。喷口恢复后泉水骤热，马范误以为自己的「烈度」成功，最终因过热晕倒。",
+      "turning_point": "莉娜夏现身说明小鳍游龙把燃素喷口当作玩耍之处，揭开温泉失温的真正原因。",
+      "outcome": "走失的小鳍游龙被找回，温泉恢复热度；马范没有受重伤，但他的「最强」修行仍有待提升。",
+      "section_ids": [
+        "10204-c15-s01",
+        "10204-c15-s02",
+        "10204-c15-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_15.json",
+      "source_description": "击败「冰冷」的，究竟是「烈度」还是其他？",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "10204-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "三名伙伴进入挖掘场",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "旅途中",
+      "locations": [
+        "龙遗物挖掘场入口"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "奎皮亚"
+      ],
+      "summary": "旅行者一行来到龙遗物挖掘场，奎皮亚说明入场需支付三百摩拉，且这里多是怀抱发财梦想的访客。龙伙伴表现出强烈兴趣，派蒙因此付费让三名伙伴一起碰碰运气。",
+      "motivation": "龙伙伴想探索挖掘场，派蒙也期待以低廉入场费换取发现宝物的机会。",
+      "outcome": "三名伙伴获准进入挖掘场并开始寻宝。",
+      "keywords": [
+        "入场费",
+        "龙遗物",
+        "寻宝"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7500901,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7500908,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "龙伙伴发现独特物件",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "进入挖掘场后",
+      "locations": [
+        "龙遗物挖掘场"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴"
+      ],
+      "summary": "三名伙伴在挖掘场连续探索，龙伙伴跑在前方并发现一个像零件的小球。派蒙虽然不能确定其价值，仍决定离场时请奎皮亚鉴定。",
+      "motivation": "龙伙伴希望找到自己感兴趣的宝物，派蒙则想确认发现物是否属于珍贵龙遗物。",
+      "outcome": "众人带着龙伙伴找到的小物件返回入口鉴定。",
+      "keywords": [
+        "探索",
+        "小球",
+        "鉴定"
+      ],
+      "source_step_keys": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7500903,
+          "title": "在挖掘场碰碰运气",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7500904,
+          "title": "跟上龙伙伴",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7500905,
+          "title": "在挖掘场继续探索",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7500902,
+          "title": "查看龙伙伴找到的「宝物」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "龙伙伴拒绝出售收藏",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "结束挖掘后",
+      "locations": [
+        "龙遗物挖掘场入口"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "奎皮亚"
+      ],
+      "summary": "奎皮亚判断小物件市价约五千摩拉，却因喜爱其独特纹路而愿出一万摩拉收购。龙伙伴明确不愿出售，旅行者与派蒙尊重它保留亲手所得之物的决定。奎皮亚认可它的收藏兴趣，并邀请众人日后交流。",
+      "motivation": "奎皮亚受收藏欲驱使提出溢价，龙伙伴则珍视自己发现的物件胜过摩拉。",
+      "outcome": "物件由龙伙伴保留，它也得到奎皮亚作为收藏家的认可。",
+      "keywords": [
+        "收藏",
+        "溢价",
+        "自主选择",
+        "伙伴"
+      ],
+      "source_step_keys": [
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 7500906,
+          "title": "回去问问奎皮亚",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "牧场误会转成交友愿望",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "旅途中",
+      "locations": [
+        "瓦达娜看管绵驮兽的牧场"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "瓦达娜",
+        "「半熟蛋」",
+        "绵驮兽"
+      ],
+      "summary": "龙伙伴靠近牧场时引起匿叶龙「半熟蛋」戒备，瓦达娜出面安抚并解释它正在看管绵驮兽。误会解除后，龙伙伴表达了结交动物朋友的强烈愿望。瓦达娜提醒友谊无法勉强，旅行者与派蒙则鼓励它自行尝试。",
+      "motivation": "龙伙伴平时很少接触动物同伴，希望主动建立新的友谊。",
+      "outcome": "龙伙伴获得在牧场尝试交友的机会。",
+      "keywords": [
+        "牧场",
+        "误会",
+        "交朋友",
+        "尝试"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7501013,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7501001,
+          "title": "让匿叶龙冷静下来",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7501002,
+          "title": "与冷静下来的匿叶龙对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c01-s02",
+      "chapter_index": 1,
+      "order": 2,
+      "title": "多次交友尝试接连受挫",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "开始尝试交友后",
+      "locations": [
+        "绵驮兽牧场"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "活泼的绵驮兽",
+        "呆呆的绵驮兽",
+        "贪吃的绵驮兽"
+      ],
+      "summary": "龙伙伴依次接近不同绵驮兽，却遭到生气、无视或因打扰进食而被拒绝。派蒙不断安慰它，将失败归因于误会和时机不佳，并鼓励它继续寻找机会。",
+      "motivation": "龙伙伴不愿因首次受挫放弃交友，派蒙则希望保护它的信心。",
+      "outcome": "普通搭话没有成功，但龙伙伴继续探索并发现一只处境异常的绵驮兽。",
+      "keywords": [
+        "受挫",
+        "拒绝",
+        "鼓励",
+        "坚持"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7501004,
+          "title": "和绵驮兽聊聊看吧",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7501005,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7501006,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7501007,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c01-s03",
+      "chapter_index": 1,
+      "order": 3,
+      "title": "救援赢得胆小伙伴信任",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "多次交友失败后",
+      "locations": [
+        "牧场低洼处",
+        "瓦达娜所在处"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "胆小的绵驮兽",
+        "瓦达娜"
+      ],
+      "summary": "龙伙伴发现一只被困在低处的胆小绵驮兽，众人用木板搭出道路并将它救上来。绵驮兽没有害怕热情靠近的龙伙伴，反而以鼻尖轻触回应善意。瓦达娜得知后答应加强照看，还赠送绵驮兽玩具作为祝贺。",
+      "motivation": "龙伙伴想帮助受困者，而救援行动也提供了用实际善意建立友谊的机会。",
+      "outcome": "龙伙伴真正交到绵驮兽朋友，并获得一件纪念礼物。",
+      "keywords": [
+        "救援",
+        "木板",
+        "信任",
+        "新朋友"
+      ],
+      "source_step_keys": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 7501011,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7501010,
+          "title": "看看龙伙伴发现了什么",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7501014,
+          "title": "用木板搭一条路",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 7501015,
+          "title": "用木板搭一条路",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 7501016,
+          "title": "解救胆小的绵驮兽",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 7501012,
+          "title": "向瓦达娜回报",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c02-s01",
+      "chapter_index": 2,
+      "order": 1,
+      "title": "派蒙垂钓却让大鱼脱逃",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "旅途中休息时",
+      "locations": [
+        "浅水海滩"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴"
+      ],
+      "summary": "为了给龙伙伴准备鱼，派蒙答应亲自垂钓，旅行者先清理水面杂物。派蒙漫长等待后先钓到漂流瓶，继而钩住一条力气巨大的鱼，却在三名伙伴合力拉扯时让它脱钩。眼看大鱼仍在水面挑衅，旅行者随即动身追赶。",
+      "motivation": "派蒙想为龙伙伴做点事情，也想证明自己能够钓到一条大鱼。",
+      "outcome": "垂钓失败转化为追回逃鱼的行动。",
+      "keywords": [
+        "钓鱼",
+        "清理水域",
+        "脱钩",
+        "追鱼"
+      ],
+      "source_step_keys": [
+        "1",
+        "2",
+        "3",
+        "0",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7501506,
+          "title": "与龙伙伴对话",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7501502,
+          "title": "清理附近的水域",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7501505,
+          "title": "等待派蒙钓鱼",
+          "is_hidden": false
+        },
+        {
+          "key": "0",
+          "id": 7501501,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7501503,
+          "title": "追回逃跑的鱼",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c02-s02",
+      "chapter_index": 2,
+      "order": 2,
+      "title": "追回大鱼共享烤鱼宴",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "大鱼脱钩后",
+      "locations": [
+        "浅水海滩岸边"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴"
+      ],
+      "summary": "旅行者把逃跑的大鱼带回岸边，并将它烤制成料理。三名伙伴共同饱餐，派蒙把成果归功于自己的垂钓，也约定龙伙伴下次必须参与劳动。",
+      "motivation": "众人想完成为龙伙伴准备鱼料理的最初目标。",
+      "outcome": "大鱼成为烤鱼，三名伙伴在轻松的聚餐中结束这次垂钓。",
+      "keywords": [
+        "追回",
+        "烤鱼",
+        "聚餐"
+      ],
+      "source_step_keys": [
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 7501504,
+          "title": "将鱼带回岸边",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c03-s01",
+      "chapter_index": 3,
+      "order": 1,
+      "title": "暴躁绒翼龙拒绝治疗",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "旅途中",
+      "locations": [
+        "玛兹嘉照看伤病龙的野外区域"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "玛兹嘉",
+        "「咕噜噜」"
+      ],
+      "summary": "旅行者一行制服正在袭击玛兹嘉的绒翼龙「咕噜噜」，它随即飞走。玛兹嘉解释自己是龙医生，咕噜噜因极度不信任人类而抗拒吃药，并担心它在挣扎中加重旧伤。她把疗效较好但难吃和较可口但疗效较弱的两种药交给众人，请龙伙伴协助劝服。",
+      "motivation": "玛兹嘉想治疗咕噜噜却无法取得信任，龙伙伴则能够以同类身份接近它。",
+      "outcome": "旅行者一行追赶咕噜噜，并承担选择药剂和劝药的任务。",
+      "keywords": [
+        "龙医生",
+        "不信任",
+        "药剂",
+        "委托"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7501801,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7501802,
+          "title": "制服暴躁的绒翼龙",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7501803,
+          "title": "制服暴躁的绒翼龙",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c03-s02",
+      "chapter_index": 3,
+      "order": 2,
+      "title": "龙伙伴首次劝服咕噜噜",
+      "narrative_role": "climax",
+      "importance": 4,
+      "when": "接受玛兹嘉委托后",
+      "locations": [
+        "咕噜噜逃往的野外"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "「咕噜噜」"
+      ],
+      "summary": "众人追上仍未痊愈的咕噜噜，由龙伙伴尝试投喂药剂。较可口的药让它愿意服下却显得没精神，疗效较强的药又可能令它更加暴躁，必要时众人只能再次将它制服。尽管效果不完美，咕噜噜终于突破了完全拒药的状态。",
+      "motivation": "众人希望在不放弃治疗的前提下，找到咕噜噜能够接受的药物方案。",
+      "outcome": "咕噜噜成功服药并被控制住，众人获得关于两种药剂反应的实际信息。",
+      "keywords": [
+        "服药",
+        "药效选择",
+        "暴躁",
+        "突破"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7501804,
+          "title": "追上「咕噜噜」",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7501806,
+          "title": "追上「咕噜噜」",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7501807,
+          "title": "喂「咕噜噜」吃药",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7501805,
+          "title": "喂「咕噜噜」吃药",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7501813,
+          "title": "喂「咕噜噜」吃药",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7501808,
+          "title": "制服「咕噜噜」",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7501809,
+          "title": "制服「咕噜噜」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c03-s03",
+      "chapter_index": 3,
+      "order": 3,
+      "title": "服药反应推动配方改良",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "咕噜噜服药后",
+      "locations": [
+        "玛兹嘉的营地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "玛兹嘉",
+        "「咕噜噜」"
+      ],
+      "summary": "众人把咕噜噜带回并向玛兹嘉说明服药经过。玛兹嘉认为它愿意吃药已是重要进步，实际反应也能帮助她有针对性地调整配方。她特别称赞龙伙伴的贡献，并承诺继续想办法改善咕噜噜的治疗和脾气。",
+      "motivation": "玛兹嘉需要依据反馈继续治疗，伙伴们也希望咕噜噜真正恢复。",
+      "outcome": "咕噜噜继续由玛兹嘉照顾，治疗方案获得改进依据。",
+      "keywords": [
+        "回报",
+        "改良配方",
+        "称赞",
+        "治疗"
+      ],
+      "source_step_keys": [
+        "10",
+        "11"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "10",
+          "id": 7501810,
+          "title": "与玛兹嘉对话",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 7501812,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c04-s01",
+      "chapter_index": 4,
+      "order": 1,
+      "title": "投喂未能换来洞口通路",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "发现洞穴宝箱后",
+      "locations": [
+        "被匿叶龙堵住的洞穴入口"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "奇怪的匿叶龙"
+      ],
+      "summary": "一只匿叶龙挡在藏有宝箱的洞口，众人无法理解它的叫声，只能猜测它因饥饿而不肯移动。旅行者连续投喂食物，匿叶龙却在吃饱后直接趴下睡觉，仍未让开道路。",
+      "motivation": "众人想以满足匿叶龙需求的方式和平取得宝箱。",
+      "outcome": "食物被吃完但通路仍被堵住，众人意识到双方从未真正达成交换。",
+      "keywords": [
+        "洞穴",
+        "投喂",
+        "沟通障碍",
+        "宝箱"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7502201,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7502206,
+          "title": "寻找与匿叶龙沟通的方法",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7502202,
+          "title": "给匿叶龙投喂食物",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7502203,
+          "title": "与匿叶龙对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c04-s02",
+      "chapter_index": 4,
+      "order": 2,
+      "title": "龙伙伴绕过装睡的守门者",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "投喂失败后",
+      "locations": [
+        "洞穴入口",
+        "洞穴内部"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "奇怪的匿叶龙"
+      ],
+      "summary": "众人从匿叶龙的梦话中判断它有意堵路索食，派蒙因此决定不再迁就。龙伙伴利用体形从缝隙钻入洞穴，将宝箱直接带了出来。",
+      "motivation": "伙伴们认为匿叶龙没有履行并不存在的承诺，决定绕开阻挡取得宝箱。",
+      "outcome": "宝箱被取出，但其中没有财宝，只有一张纸条。",
+      "keywords": [
+        "装睡",
+        "绕行",
+        "取宝箱"
+      ],
+      "source_step_keys": [
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 7502204,
+          "title": "尝试与匿叶龙对话",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7502205,
+          "title": "让龙伙伴取走宝箱",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c04-s03",
+      "chapter_index": 4,
+      "order": 3,
+      "title": "纸条揭开被遗弃的约定",
+      "narrative_role": "revelation",
+      "importance": 4,
+      "when": "取出宝箱后",
+      "locations": [
+        "洞穴入口"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "瓦伊纳",
+        "奇怪的匿叶龙"
+      ],
+      "summary": "纸条显示匿叶龙真正等待的是离开的主人，众人遂请来「悬木人」首领瓦伊纳。瓦伊纳认出原主是因犯错离族之人，指出他以谎言利用他人贪心，也欺骗了单纯信任伙伴的龙。他决定让部族定期为匿叶龙送食物。",
+      "motivation": "众人不愿让被遗弃的龙继续靠堵路骗食，需要为它安排可靠照料。",
+      "outcome": "匿叶龙由部族接管照顾，原主的欺骗和失责得到确认。",
+      "keywords": [
+        "纸条",
+        "遗弃",
+        "谎言",
+        "部族照料"
+      ],
+      "source_step_keys": [
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 7502208,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7502209,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c05-s01",
+      "chapter_index": 5,
+      "order": 1,
+      "title": "导演筹备小龙映影拍摄",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "旅途中发现拍摄场地后",
+      "locations": [
+        "映影拍摄场地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "阿卡坦加"
+      ],
+      "summary": "旅行者一行在布景和留影机旁遇见阿卡坦加，他因原演员被朋友带走而邀请龙伙伴主演新作。众人接受委托，依照说明摆放木桶与元素诱饵，并让龙伙伴和旅行者分别就位。",
+      "motivation": "龙伙伴对映影充满兴趣，阿卡坦加则急需新演员完成作品。",
+      "outcome": "演员、道具和危险的爆炸机关全部准备就绪。",
+      "keywords": [
+        "映影",
+        "主演",
+        "布景",
+        "道具"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7502301,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7502303,
+          "title": "在合适的位置放置木桶",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7502304,
+          "title": "在合适的位置放置元素诱饵",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7502305,
+          "title": "与阿卡坦加对话",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7502310,
+          "title": "等龙伙伴就位",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7502311,
+          "title": "到指定位置就位",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c05-s02",
+      "chapter_index": 5,
+      "order": 2,
+      "title": "爆炸场面按计划完成",
+      "narrative_role": "climax",
+      "importance": 4,
+      "when": "拍摄准备完成后",
+      "locations": [
+        "映影拍摄场地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "阿卡坦加",
+        "雷史莱姆"
+      ],
+      "summary": "阿卡坦加一边表演夸张旁白，一边让旅行者把雷史莱姆引到木桶附近并击碎木桶。爆炸按剧本发生，但过量炸药使派蒙和旅行者担心演员受伤或引发火灾。",
+      "motivation": "阿卡坦加追求真实而震撼的画面，旅行者一行则希望在完成拍摄时保证安全。",
+      "outcome": "第一遍演出完成，众人准备查看拍摄成果。",
+      "keywords": [
+        "爆炸",
+        "雷史莱姆",
+        "真实感",
+        "安全"
+      ],
+      "source_step_keys": [
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 7502312,
+          "title": "到指定位置就位",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7502306,
+          "title": "将敌对角色引导至木桶附近并击碎木桶",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c05-s03",
+      "chapter_index": 5,
+      "order": 3,
+      "title": "留影机反转迫使重拍",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "第一遍拍摄结束后",
+      "locations": [
+        "映影拍摄场地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "阿卡坦加"
+      ],
+      "summary": "回看画面时，众人发现留影机放反，成片只有阿卡坦加不断变化的表情。导演道歉并提议将此前当作彩排，龙伙伴仍兴致高昂，于是众人按原流程重拍。第二次拍摄获得理想效果，阿卡坦加支付报酬并赠送画片。",
+      "motivation": "龙伙伴仍想完成映影，阿卡坦加也需要弥补操作失误。",
+      "outcome": "正式成片成功，龙伙伴得到威风凛凛的纪念画片。",
+      "keywords": [
+        "操作失误",
+        "重拍",
+        "成片",
+        "纪念画片"
+      ],
+      "source_step_keys": [
+        "8",
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "8",
+          "id": 7502307,
+          "title": "与阿卡坦加对话",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7502308,
+          "title": "与阿卡坦加对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c06-s01",
+      "chapter_index": 6,
+      "order": 1,
+      "title": "日志揭示三只龙的习性",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "发现有人被龙围住后",
+      "locations": [
+        "野外营地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "伊卡尤",
+        "「金盏花」",
+        "「小波」",
+        "「翡翠」"
+      ],
+      "summary": "旅行者一行听见惨叫并发现伊卡尤被三只龙团团围住，无法直接靠近。附近日志表明「小波」爱吃酸汁腌鱼、「翡翠」贪玩，而「金盏花」外硬内柔。众人据此制定分别引开三只龙的办法。",
+      "motivation": "伙伴们担心伊卡尤受伤，需要利用龙的习性创造救援通道。",
+      "outcome": "酸汁腌鱼和龙伙伴分别被安排用于引开「小波」与「翡翠」。",
+      "keywords": [
+        "日志",
+        "习性",
+        "营救计划"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7502401,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7502402,
+          "title": "和龙伙伴一起寻找引开龙的办法",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c06-s02",
+      "chapter_index": 6,
+      "order": 2,
+      "title": "两只龙被和平引离现场",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "制定救援计划后",
+      "locations": [
+        "野外营地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "「小波」",
+        "「翡翠」"
+      ],
+      "summary": "旅行者把酸汁腌鱼摆到适当位置，成功吸引「小波」离开。龙伙伴随后将贪玩的「翡翠」带去别处，只剩守在伊卡尤身边的「金盏花」。",
+      "motivation": "众人希望尽量避免冲突，用食物和玩耍逐步打开救援通道。",
+      "outcome": "围堵者从三只减少为一只，旅行者得以直接与「金盏花」交涉。",
+      "keywords": [
+        "酸汁腌鱼",
+        "引开",
+        "和平手段"
+      ],
+      "source_step_keys": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7502403,
+          "title": "带上营地的酸汁腌鱼",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7502404,
+          "title": "在合适的地方摆上酸汁腌鱼",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7502409,
+          "title": "等一会儿…",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7502405,
+          "title": "等龙伙伴引走匿叶龙",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c06-s03",
+      "chapter_index": 6,
+      "order": 3,
+      "title": "决斗后的误会得到澄清",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "两只龙被引开后",
+      "locations": [
+        "野外营地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "伊卡尤",
+        "「金盏花」"
+      ],
+      "summary": "「金盏花」拒绝退让，旅行者只得将它击败并检查倒地的伊卡尤。伊卡尤醒后解释自己久病未能按时与三只龙见面，它们的围堵其实源于担忧和思念，并非恶意袭击。他表示会安抚「金盏花」，还赠送酸汁腌鱼食谱作为谢礼。",
+      "motivation": "旅行者必须先确保伊卡尤安全，伊卡尤则希望消除众人对三只龙的误解。",
+      "outcome": "伊卡尤平安无事，误会解除，龙伙伴未来还能品尝新料理。",
+      "keywords": [
+        "决斗",
+        "久别",
+        "误会",
+        "食谱"
+      ],
+      "source_step_keys": [
+        "6",
+        "7",
+        "8"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 7502406,
+          "title": "与嵴锋龙交涉",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7502407,
+          "title": "击败嵴锋龙",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7502408,
+          "title": "与受伤的人对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c07-s01",
+      "chapter_index": 7,
+      "order": 1,
+      "title": "贪玩幼龙迟迟没有归来",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "临近天黑前",
+      "locations": [
+        "嵴锋龙聚集地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "小嵴锋龙群"
+      ],
+      "summary": "龙伙伴难得遇到大批同类，获准独自去和小嵴锋龙们玩耍。旅行者和派蒙在附近等待许久，直到天色渐晚仍不见它回来，遂开始担忧并外出寻找。派蒙尝试询问其他小龙，却因语言不通只能逐一排查。",
+      "motivation": "龙伙伴想与同类尽情玩耍，旅行者和派蒙则因它失约未归而担心安全。",
+      "outcome": "轻松等待转为寻找失踪伙伴的行动。",
+      "keywords": [
+        "同类玩耍",
+        "未归",
+        "寻找"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7502501,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7502504,
+          "title": "去寻找未归的龙伙伴",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7502506,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c07-s02",
+      "chapter_index": 7,
+      "order": 2,
+      "title": "众人逐一寻找相似幼龙",
+      "narrative_role": "investigation",
+      "importance": 2,
+      "when": "寻找龙伙伴期间",
+      "locations": [
+        "嵴锋龙聚集地周边"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "机灵的小嵴锋龙",
+        "树上的小嵴锋龙",
+        "练习钻地的小嵴锋龙",
+        "活跃的小嵴锋龙"
+      ],
+      "summary": "旅行者和派蒙查看树上、地下和各处活动的小嵴锋龙，却一次次因外貌不符而排除。机灵的小嵴锋龙虽然没有直接带来答案，却赠予树莓并提供陪伴，使寻找过程没有陷入恐慌。",
+      "motivation": "聚集地中幼龙众多，伙伴们只能依靠头部印记和尾巴丝带辨认目标。",
+      "outcome": "数只小嵴锋龙被排除，搜索范围继续缩小。",
+      "keywords": [
+        "辨认",
+        "误认",
+        "树莓",
+        "搜索"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7502507,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7502508,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7502514,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7502509,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7502510,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c07-s03",
+      "chapter_index": 7,
+      "order": 3,
+      "title": "睡醒后向龙群郑重告别",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "天色渐晚时",
+      "locations": [
+        "嵴锋龙聚集地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "家长般的大嵴锋龙",
+        "小嵴锋龙群"
+      ],
+      "summary": "众人最终发现龙伙伴只是玩累后在外睡着，派蒙叮嘱它今后困倦时要回到伙伴身边。龙伙伴随后向照看幼龙的大嵴锋龙和新朋友们道别。龙群回巢后它一度寂寞，旅行者与派蒙提醒它身边仍有家人般的伙伴。",
+      "motivation": "旅行者和派蒙希望龙伙伴学习照顾自身安全，也让它认真完成与同类的告别。",
+      "outcome": "龙伙伴安全归队，并在短暂离别中获得继续同行的安慰。",
+      "keywords": [
+        "睡着",
+        "安全叮嘱",
+        "告别",
+        "陪伴"
+      ],
+      "source_step_keys": [
+        "8",
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "8",
+          "id": 7502511,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7502512,
+          "title": "与大嵴锋龙告别",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c08-s01",
+      "chapter_index": 8,
+      "order": 1,
+      "title": "龙贩子败退后仍不悔改",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "与可疑部族战士交战后",
+      "locations": [
+        "野外"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "老鼠",
+        "夜猫子"
+      ],
+      "summary": "旅行者击败自称「老鼠」和「夜猫子」的龙贩子，后者试图以投靠强者的方式脱身。派蒙明确拒绝与贩龙者为伍并警告他们停止打龙的主意，两人随后悻悻离开。",
+      "motivation": "龙贩子试图逃避惩罚，旅行者一行则要阻止他们继续伤害龙。",
+      "outcome": "两名龙贩子被赶走，众人转而查看附近受伤的绒翼龙。",
+      "keywords": [
+        "龙贩子",
+        "败退",
+        "警告"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7502807,
+          "title": "与可疑的部族战士对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c08-s02",
+      "chapter_index": 8,
+      "order": 2,
+      "title": "龙伙伴寻找烬芯花疗伤",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "赶走龙贩子后",
+      "locations": [
+        "发现伤龙的野外"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "受伤的绒翼龙"
+      ],
+      "summary": "众人发现绒翼龙十分虚弱，也知道无法长期照顾它。龙伙伴主动带路找到烬芯花，并判断这种植物可能有助于恢复，旅行者遂配合尝试治疗。",
+      "motivation": "龙伙伴不愿放任受苦的同类，想在短暂相遇中尽可能提供帮助。",
+      "outcome": "烬芯花被用于治疗，绒翼龙的状态开始改善。",
+      "keywords": [
+        "伤龙",
+        "烬芯花",
+        "治疗",
+        "善意"
+      ],
+      "source_step_keys": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7502802,
+          "title": "查看受伤的龙",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7502803,
+          "title": "跟随龙伙伴",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7502804,
+          "title": "看看龙伙伴的发现",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7502805,
+          "title": "尝试治疗绒翼龙",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c08-s03",
+      "chapter_index": 8,
+      "order": 3,
+      "title": "绒翼龙恢复飞行后离去",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "尝试治疗后",
+      "locations": [
+        "发现伤龙的野外"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "绒翼龙"
+      ],
+      "summary": "绒翼龙恢复一些精神后自行飞走，依旧没有完全信任旅行者一行。派蒙承认信任无法一朝建立，也指出帮助本就不应以获得感恩为目的。龙伙伴以自己的行动证明它只是希望对方能够重新飞翔。",
+      "motivation": "绒翼龙本能地远离人类，伙伴们则尊重它恢复自主行动后的选择。",
+      "outcome": "绒翼龙脱离险境，龙伙伴的无条件善意得到确认。",
+      "keywords": [
+        "恢复飞行",
+        "不求回报",
+        "信任"
+      ],
+      "source_step_keys": [
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 7502806,
+          "title": "查看绒翼龙的情况",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c09-s01",
+      "chapter_index": 9,
+      "order": 1,
+      "title": "龙伙伴拿出珍藏表达心意",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "回到龙伙伴曾生活的空间后",
+      "locations": [
+        "龙伙伴曾生活的空间"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴"
+      ],
+      "summary": "三名伙伴整理了龙伙伴在相遇前长期居住的地方，龙伙伴随后拿出树枝、圆石和旧料理等珍藏送给旅行者与派蒙。两人认真接纳它的心意，派蒙又从私藏中挑出一颗宝石作为回礼。为防宝石遗失，众人决定请专业工匠加工。",
+      "motivation": "龙伙伴想以珍藏感谢同行者，派蒙则希望用同等重视的礼物回应它。",
+      "outcome": "伙伴间完成礼物交换，并启程前往「回声之子」加工宝石。",
+      "keywords": [
+        "赠礼",
+        "回礼",
+        "珍藏",
+        "宝石"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7503512,
+          "title": "与你的龙伙伴对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c09-s02",
+      "chapter_index": 9,
+      "order": 2,
+      "title": "飞鸟抢走宝石与雕刻工具",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "委托宝石加工期间",
+      "locations": [
+        "「回声之子」宝石铺",
+        "库拉霍采风地点"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "伊蜜",
+        "库拉霍"
+      ],
+      "summary": "宝石铺学徒伊蜜推荐正在外采风的珠宝大师库拉霍，众人遂前往寻找。龙伙伴刚拿出宝石，便被飞鸟衔走；库拉霍也坦言自己的雕刻工具同样被鸟抢走。旅行者一行追回两样失物，库拉霍因此答应免费加工宝石。",
+      "motivation": "众人想把回礼制成适合龙伙伴携带的首饰，库拉霍则必须取回赖以工作的工具。",
+      "outcome": "宝石和工具全部找回，加工委托正式成立。",
+      "keywords": [
+        "珠宝加工",
+        "采风",
+        "飞鸟",
+        "追回失物"
+      ],
+      "source_step_keys": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7503504,
+          "title": "与宝石铺的学徒对话",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7503505,
+          "title": "前往采风的地方寻找珠宝匠",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7503506,
+          "title": "与珠宝大师对话",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7503507,
+          "title": "找回遗失的宝石与工具",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7503508,
+          "title": "向珠宝大师回报",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c09-s03",
+      "chapter_index": 9,
+      "order": 3,
+      "title": "两天后取回定制首饰",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "两天后",
+      "locations": [
+        "「回声之子」宝石铺"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "伊蜜",
+        "库拉霍"
+      ],
+      "summary": "众人等待两天后返回宝石铺，库拉霍虽再次外出，却已把加工完成的首饰托付给伊蜜。首饰造型精美，龙伙伴收到后表现得十分喜欢。",
+      "motivation": "旅行者一行按约取回为龙伙伴定制的回礼。",
+      "outcome": "宝石成为可妥善携带的首饰，礼物交换圆满完成。",
+      "keywords": [
+        "两天后",
+        "首饰",
+        "定制回礼"
+      ],
+      "source_step_keys": [
+        "7",
+        "8",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 7503513,
+          "title": "等到两天后",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7503514,
+          "title": "前往宝石铺取首饰",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7503503,
+          "title": "在「回声之子」寻找珠宝店",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c10-s01",
+      "chapter_index": 10,
+      "order": 1,
+      "title": "众人注入燃素培育种子",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "旅途中",
+      "locations": [
+        "一片荒地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴"
+      ],
+      "summary": "龙伙伴在荒地挖出一颗看似仍有可能存活的种子，众人将它重新种入土中并注入燃素。燃素先后引来蜜虫和怪物，旅行者清除干扰后不得不再次补充被夺走的能量。",
+      "motivation": "龙伙伴对种子抱有期待，旅行者和派蒙希望给它足够营养以验证能否发芽。",
+      "outcome": "种子吸收了燃素，外部威胁也被清除。",
+      "keywords": [
+        "种子",
+        "燃素",
+        "蜜虫",
+        "培育"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7503602,
+          "title": "查看龙伙伴的发现",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7503603,
+          "title": "与龙伙伴一起种下种子",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7503604,
+          "title": "与龙伙伴一起种下种子",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7503605,
+          "title": "为种子注入燃素",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7503606,
+          "title": "消灭被吸引来的燃素蜜虫",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7503610,
+          "title": "重新为种子注入燃素",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7503607,
+          "title": "消灭被吸引来的怪物",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c10-s02",
+      "chapter_index": 10,
+      "order": 2,
+      "title": "未发芽的种子留待成长",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "清除怪物后",
+      "locations": [
+        "一片荒地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴"
+      ],
+      "summary": "尽管燃素已经耗尽，种子仍没有显现任何萌芽迹象。旅行者提出成长需要时间或种子受到了惊吓，派蒙因此放弃继续催促，决定过些时候再来看望。",
+      "motivation": "伙伴们希望保护尚不确定的生命可能，而非因暂时无结果便将其放弃。",
+      "outcome": "种子继续留在土中等待萌芽，答案被推迟到未来。",
+      "keywords": [
+        "等待",
+        "萌芽",
+        "生命力",
+        "希望"
+      ],
+      "source_step_keys": [
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 7503608,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c11-s01",
+      "chapter_index": 11,
+      "order": 1,
+      "title": "隐藏房间发现休眠龙蛋",
+      "narrative_role": "revelation",
+      "importance": 4,
+      "when": "深入夜岛后",
+      "locations": [
+        "夜岛深处的隐藏房间"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴"
+      ],
+      "summary": "旅行者一行调查隐藏房间，从遗留手记得知密力奇及记录者曾有勇敢经历，并发现手记提及的休眠龙蛋。房间中恰有带操作指南的孵化器，龙伙伴强烈希望尝试将龙蛋孵化。",
+      "motivation": "龙伙伴想帮助尚未出生的同类，旅行者和派蒙也认为即使成功未知仍值得尝试。",
+      "outcome": "众人完成房间调查，并决定启动孵化器。",
+      "keywords": [
+        "隐藏房间",
+        "手记",
+        "休眠龙蛋",
+        "孵化器"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7509402,
+          "title": "调查隐藏房间",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7509405,
+          "title": "调查隐藏房间",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7509404,
+          "title": "调查隐藏房间",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c11-s02",
+      "chapter_index": 11,
+      "order": 2,
+      "title": "孵化失败后带走龙蛋",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "启动孵化器后",
+      "locations": [
+        "夜岛深处的隐藏房间"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴"
+      ],
+      "summary": "众人击退突然来袭的怪物，随后反复启动孵化器并经历漫长等待，但龙蛋始终没有破壳迹象。面对它可能永远无法孵化的结果，派蒙转而认为环境或时机尚不适合。三名伙伴决定带走龙蛋，以照料和外界故事让它认识如今的纳塔。",
+      "motivation": "伙伴们不愿把孵化失败等同于生命希望终结，希望用新的环境继续等待。",
+      "outcome": "龙蛋被带离隐藏房间，未来能否孵化仍保持开放。",
+      "keywords": [
+        "孵化失败",
+        "等待",
+        "带走龙蛋",
+        "新环境"
+      ],
+      "source_step_keys": [
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7509406,
+          "title": "启动孵化器",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7509403,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c12-s01",
+      "chapter_index": 12,
+      "order": 1,
+      "title": "为受伤大椰子搭建营地",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "当天至午夜",
+      "locations": [
+        "「花羽会」领地边界的偏僻处",
+        "临时营地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "卡克斯",
+        "「大椰子」"
+      ],
+      "summary": "旅行商人卡克斯发现「大椰子」倒地不起，却找不到外伤来源。卡克斯出发寻找龙医生，旅行者一行则与他收集木材和布料搭建营地，随后为伤龙准备清淡料理。午夜前，龙伙伴耐心陪伴「大椰子」，使它稍微放松下来。",
+      "motivation": "卡克斯希望避免移动伤龙造成二次伤害，众人则需要在偏僻地点提供安全照护。",
+      "outcome": "临时营地建成，「大椰子」得到食物、休息和陪伴，卡克斯踏上寻医路。",
+      "keywords": [
+        "大椰子",
+        "搭建营地",
+        "寻医",
+        "照护"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7510701,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7510703,
+          "title": "收集建造营地的材料",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7510719,
+          "title": "收集建造营地的材料",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7510704,
+          "title": "与卡克斯对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c12-s02",
+      "chapter_index": 12,
+      "order": 2,
+      "title": "两只伤龙指认山上恶人",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "次日清晨",
+      "locations": [
+        "临时营地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "「大椰子」",
+        "虚弱的绒翼龙"
+      ],
+      "summary": "次日营地旁又出现一只没有明显外伤的虚弱绒翼龙，派蒙由连续两起事件判断其中有蹊跷。借助与龙沟通的方式，众人理解到两只龙都曾被山上的恶人以高速「石子」偷袭。派蒙由此怀疑袭击者是意图捕获龙的贩子。",
+      "motivation": "接连出现相同伤势迫使众人寻找共同原因，两只伤龙也需要揭示袭击来源。",
+      "outcome": "意外受伤被确认是人为袭击，调查目标锁定附近山地。",
+      "keywords": [
+        "第二只伤龙",
+        "石子袭击",
+        "线索",
+        "龙贩子"
+      ],
+      "source_step_keys": [
+        "4",
+        "12"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 7510711,
+          "title": "想办法和「大椰子」等龙交流",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 7510702,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c12-s03",
+      "chapter_index": 12,
+      "order": 3,
+      "title": "潜入山地捣毁贩龙据点",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "次日调查期间",
+      "locations": [
+        "附近山地",
+        "龙贩子据点"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "龙贩子首领及手下"
+      ],
+      "summary": "旅行者一行前往山上侦察，偷听到龙贩子正用强化易碎弹头击昏龙，且这种武器不会留下表面痕迹。龙伙伴从地下潜入营地破坏重要设备，旅行者随后击败对方首领并捣毁据点。众人查清原委后返回「大椰子」所在营地。",
+      "motivation": "伙伴们要阻止龙贩子继续捕获龙，并为两只受伤的龙讨回公道。",
+      "outcome": "主要据点和捕龙装备被摧毁，但对方仍可能存在逃脱者或残余势力。",
+      "keywords": [
+        "侦察",
+        "易碎弹头",
+        "潜入",
+        "捣毁据点"
+      ],
+      "source_step_keys": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 7510706,
+          "title": "前往对方的活动区侦察",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7510707,
+          "title": "前往对方的活动区侦察",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7510712,
+          "title": "等待龙伙伴的行动",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7510708,
+          "title": "击败对方的首领",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7510718,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c12-s04",
+      "chapter_index": 12,
+      "order": 4,
+      "title": "营地成为反贩龙警示点",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "捣毁据点后",
+      "locations": [
+        "临时营地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "卡克斯",
+        "「大椰子」"
+      ],
+      "summary": "众人返回后得知医生已确认「大椰子」遭高速弹头击中并完成初步治疗，另一只绒翼龙也被带回「花羽会」。旅行者和派蒙说明龙贩子的阴谋，卡克斯决定通知部族巡逻队，并保留营地作为巡逻休息处。他还制作绘有三名伙伴形象的告示牌，警示路人提防袭击。",
+      "motivation": "卡克斯希望在救治伤龙之外建立长期防范，避免残余龙贩子再次作案。",
+      "outcome": "两只龙获得救治，临时营地转化为部族巡逻和反贩龙警示据点。",
+      "keywords": [
+        "治疗",
+        "巡逻队",
+        "告示牌",
+        "长期防范"
+      ],
+      "source_step_keys": [
+        "10",
+        "11"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "10",
+          "id": 7510709,
+          "title": "返回「大椰子」所在的营地",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 7510710,
+          "title": "返回「大椰子」所在的营地",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c13-s01",
+      "chapter_index": 13,
+      "order": 1,
+      "title": "贩龙营地中的动物获救",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "途经「花羽会」领地西界时",
+      "locations": [
+        "「花羽会」领地西界的可疑营地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "被囚禁的龙和动物"
+      ],
+      "summary": "旅行者一行击败可疑营地中的人员后，发现笼内关着多只遭强行捕获的龙和动物。无论是否此前见过同一犯罪团伙，派蒙都确认这些人从事贩龙活动，并立即与伙伴们打开囚笼。",
+      "motivation": "众人不能容忍动物被囚禁倒卖，希望彻底终止该营地的犯罪行为。",
+      "outcome": "营地中的动物重获自由，众人发现其中还有一只虚弱的膨膨兽。",
+      "keywords": [
+        "龙贩子",
+        "囚笼",
+        "解救动物"
+      ],
+      "source_step_keys": [
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7510808,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7510805,
+          "title": "解救动物们",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c13-s02",
+      "chapter_index": 13,
+      "order": 2,
+      "title": "龙伙伴与膨膨兽成为朋友",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "释放动物后",
+      "locations": [
+        "营地附近的水边浅滩",
+        "营地烹饪处"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "虚弱的膨膨兽"
+      ],
+      "summary": "龙伙伴理解膨膨兽的叫声，把它带到浅滩一起玩耍，两者很快表现出亲近。派蒙发现膨膨兽因长期挨饿而缺乏力气，遂与旅行者为两只动物制作薄荷酱烤鱼。烹饪方式存在多种选择，但都服务于让新朋友恢复体力。",
+      "motivation": "龙伙伴想照顾新认识的异乡朋友，旅行者和派蒙则希望用合适料理补充其体力。",
+      "outcome": "特制烤鱼完成，膨膨兽与龙伙伴获得恢复元气的食物。",
+      "keywords": [
+        "膨膨兽",
+        "跨物种友谊",
+        "薄荷酱烤鱼",
+        "照顾"
+      ],
+      "source_step_keys": [
+        "3",
+        "0",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7510802,
+          "title": "为动物朋友们烹饪料理",
+          "is_hidden": false
+        },
+        {
+          "key": "0",
+          "id": 7510801,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7510806,
+          "title": "为动物朋友们送上料理",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c13-s03",
+      "chapter_index": 13,
+      "order": 3,
+      "title": "恢复元气的朋友重返海中",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "料理完成后",
+      "locations": [
+        "水边浅滩"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "膨膨兽"
+      ],
+      "summary": "膨膨兽与龙伙伴吃下烤鱼后恢复元气，随即扑腾着返回海中。龙伙伴因新朋友离开而失落，派蒙安慰它们已经建立友谊，并相信将来还会相见。",
+      "motivation": "膨膨兽需要返回适合自己的水域，伙伴们则希望以祝福代替强行挽留。",
+      "outcome": "膨膨兽恢复自由并离去，龙伙伴保留了再会的期待。",
+      "keywords": [
+        "恢复元气",
+        "返回海中",
+        "短暂离别",
+        "再会"
+      ],
+      "source_step_keys": [
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 7510807,
+          "title": "为动物朋友们送上料理",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c14-s01",
+      "chapter_index": 14,
+      "order": 1,
+      "title": "三名伙伴回到初见之地",
+      "narrative_role": "transition",
+      "importance": 4,
+      "when": "龙伙伴诅咒解除后",
+      "locations": [
+        "龙伙伴与旅行者的初见之地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴"
+      ],
+      "summary": "龙伙伴带着旅行者和派蒙回到彼此初见之地，并拿出借来的留影机。这个举动把日常同行转向回顾共同旅程，也为它随后表达重要决定创造了安静空间。",
+      "motivation": "龙伙伴希望在改变同行关系前留下共同纪念，并选择具有特殊意义的地点告别。",
+      "outcome": "三名伙伴准备拍摄合影，告别话题随之展开。",
+      "keywords": [
+        "初见之地",
+        "留影机",
+        "纪念",
+        "告别前夕"
+      ],
+      "source_step_keys": [
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7517705,
+          "title": "回到初见地与龙伙伴对话",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7517702,
+          "title": "回到初见地与龙伙伴对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c14-s02",
+      "chapter_index": 14,
+      "order": 2,
+      "title": "幼龙告别伙伴独自启程",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "回到初见之地后",
+      "locations": [
+        "龙伙伴与旅行者的初见之地",
+        "静谧的林中营地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴"
+      ],
+      "summary": "三名伙伴以「大炖肉火焰」为口号拍下合影，龙伙伴珍重收好其中一张，继而表达开始自己冒险的愿望。派蒙起初害怕它不再同行，最终接受幼龙已经长大，并与旅行者一同约定双方遇到困难时彼此相助。众人共享告别的火焰炖肉、整理沿途纪念品后，龙伙伴以角和额头作最后亲昵告别，坚定转身离去。",
+      "motivation": "已经解除诅咒的龙伙伴希望独立成长，旅行者和派蒙则要克服不舍并尊重它的选择。",
+      "outcome": "共同旅行正式收束，龙伙伴带着合影和回忆踏上独自冒险之路。",
+      "keywords": [
+        "合影",
+        "独立冒险",
+        "告别餐",
+        "成长"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7517701,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c15-s01",
+      "chapter_index": 15,
+      "order": 1,
+      "title": "最强勇士困在冰冷泉中",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "旅途中",
+      "locations": [
+        "勇士挑战附近",
+        "山地冷泉"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "卢施",
+        "马范",
+        "尤鲁赫"
+      ],
+      "summary": "卢施将旅行者和派蒙视为具有强大「烈度」的挑战者，并指引他们寻找「沃陆之邦最强」马范。众人在山地冷泉发现马范依照《烈泉道》坚持修行，企图仅凭自身「烈度」让冷水沸腾。尤鲁赫担心他生病，也因勇士挑战停摆而请求众人查明温泉变冷的原因。",
+      "motivation": "马范执着于证明自己最强，尤鲁赫则希望在不直接否定他的情况下让温泉恢复并结束危险修行。",
+      "outcome": "旅行者一行接受调查温泉失温原因的请求。",
+      "keywords": [
+        "最强",
+        "烈度",
+        "冷泉",
+        "修行"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7517801,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7517811,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7517803,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c15-s02",
+      "chapter_index": 15,
+      "order": 2,
+      "title": "幼龙堵塞喷口导致失温",
+      "narrative_role": "revelation",
+      "importance": 4,
+      "when": "调查温泉期间",
+      "locations": [
+        "山地温泉",
+        "地热喷口区域"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "莉娜夏",
+        "小鳍游龙群"
+      ],
+      "summary": "众人在燃素喷口附近遇见寻找小鳍游龙的莉娜夏，确认幼龙们钻入喷口玩耍才使温泉失去热源。莉娜夏仍有数只伙伴走失，旅行者一行因此一边调整喷口，一边把幼龙带回她身边。",
+      "motivation": "众人需要恢复温泉热度，同时帮助莉娜夏确保走失幼龙安全。",
+      "outcome": "失温原因被查明，小鳍游龙逐步获救，喷口开始恢复运作。",
+      "keywords": [
+        "小鳍游龙",
+        "燃素喷口",
+        "失温真相",
+        "寻回"
+      ],
+      "source_step_keys": [
+        "4",
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 7517809,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7517805,
+          "title": "封堵地热喷口",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7517808,
+          "title": "封堵地热喷口",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10204-c15-s03",
+      "chapter_index": 15,
+      "order": 3,
+      "title": "泉水骤热让大师昏倒",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "喷口恢复后",
+      "locations": [
+        "山地温泉"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "龙伙伴",
+        "莉娜夏",
+        "马范",
+        "尤鲁赫"
+      ],
+      "summary": "走失的小鳍游龙全部回到莉娜夏身边，恢复热源的泉水也迅速升温。马范误以为自身「烈度」终于使冷泉沸腾，却随即因过热晕倒。旅行者一行协助尤鲁赫将他接走，确认其身体没有大碍。",
+      "motivation": "伙伴们要完成幼龙救援并恢复温泉，尤鲁赫则需及时处理马范的意外。",
+      "outcome": "温泉与幼龙问题一并解决，但马范距离真正掌握所谓「烈度」仍很遥远。",
+      "keywords": [
+        "温泉恢复",
+        "热晕",
+        "误会",
+        "修行失败"
+      ],
+      "source_step_keys": [
+        "3",
+        "7",
+        "8"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7517804,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7517806,
+          "title": "与莉娜夏对话",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7517807,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:43:57.290Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

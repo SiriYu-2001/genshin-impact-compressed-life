@@ -1,0 +1,1103 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 2006,
+    "slug": "2006_masters-day-off",
+    "title": "骑士团长的一日假期",
+    "chapter_num": "幼狮之章 第一幕",
+    "premise": "旅行者与派蒙发现蒙德居民习惯把大小事务交给琴处理，而长期过劳的琴在接收新委托时病倒。两人受托分担她的工作，并设法让她真正休息一天。",
+    "central_conflict": "琴将守护蒙德的责任等同于独自承受一切，即使身体虚弱也不愿停下；旅行者和骑士团众人必须在完成居民委托的同时，让她认识到同伴同样能够承担责任。",
+    "summary": "旅行者与派蒙在蒙德城收集莎拉、查尔斯和玛格丽特的请求，逐渐意识到居民已习惯依赖琴处理从税务到寻猫的各种事务。琴带病接下所有委托后因过劳倒下，芭芭拉负责照料她，凯亚则请旅行者继续检查并完成三项居民委托。旅行者找回玛格丽特的黑猫「小王子」，护送被丘丘人袭击的酒庄货物，并为莎拉的紧急订单收集食材、烹制料理。委托结束后，尚未完全恢复的琴前往风起地，在温妮莎的象征前坦言自己对力量与责任的追求。深渊教团突然现身，琴仍与旅行者共同追击敌人，表现出她守护同伴的本能。众人随后以酒馆的紧急事件为名，将琴引入秘密准备的慰劳派对，并告诉她所有工作都已由同伴妥善分担。受到众人的关怀后，琴认识到代表守护与未来的「蒲公英骑士」比强调斗争的「狮牙骑士」更适合自己，并邀请旅行者今后继续与骑士团同行。",
+    "resolution": "慰劳派对让琴暂时放下工作，也使她确认守护蒙德并不意味着独自承担一切。她重新理解自己继承的骑士称号，并在同伴的支持下恢复精神，但其强烈的责任感仍将继续影响今后的行动。",
+    "themes": [
+      "责任与过劳",
+      "同伴互助",
+      "信任与分担",
+      "守护者的身份",
+      "蒙德的共同体"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 486,
+      "title": "西风吹拂的日常",
+      "summary": "旅行者与派蒙接连得知莎拉、查尔斯和玛格丽特的烦恼，并把三项委托转达给琴。琴明知身体不适仍准备立即处理，最终因长期过劳倒下。芭芭拉接手照料琴，凯亚则请旅行者代为检查居民委托，为后续三条支线建立共同目标。",
+      "turning_point": "琴在记录完居民委托后病倒，使旅行者从传话者转为琴的工作分担者。",
+      "outcome": "琴留在教堂休养，旅行者与派蒙开始分别处理寻猫、货运和餐馆订单三项委托。",
+      "section_ids": [
+        "2006-c00-s01",
+        "2006-c00-s02",
+        "2006-c00-s03",
+        "2006-c00-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "「猎鹿人」餐馆的莎拉小姐，似乎有事要拜托骑士团…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 487,
+      "title": "委托人玛格丽特的思念",
+      "summary": "旅行者与派蒙帮助玛格丽特寻找走失的黑猫「小王子」，并得知它还叼走了温迪演出所需的星铁弦。两人依据琴弦残留的风元素痕迹追踪警觉的猫，最终将它和星铁弦一并带回。玛格丽特与温迪各自取回珍视之物，寻猫委托完成。",
+      "turning_point": "温迪说明星铁弦带有风元素力，使旅行者能够借助元素视野追踪「小王子」。",
+      "outcome": "「小王子」回到玛格丽特身边，温迪取回备用星铁弦，第一项居民委托得到解决。",
+      "section_ids": [
+        "2006-c01-s01",
+        "2006-c01-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "琴因为过劳而病倒，你们被拜托分担琴的工作，协助处理城内居民的委托。玛格丽特走丢的猫「小王子」究竟跑到哪里去了呢？",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": 488,
+      "title": "委托人查尔斯的烦恼",
+      "summary": "丽莎已经代琴完成税表工作，但查尔斯又收到临时订单，酒馆库存不足，酒庄货物却因丘丘人袭击而滞留。旅行者接受新的请求，在恩内斯特的说明下护送货运热气球并优先保护货物。货物安全抵达，查尔斯一方的紧急问题随之解决。",
+      "turning_point": "原本已经解决的税表委托转变为遭劫货物的紧急护送任务。",
+      "outcome": "酒庄货物脱离丘丘人的威胁并被顺利送达，第二项居民委托完成。",
+      "section_ids": [
+        "2006-c02-s01",
+        "2006-c02-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_02.json",
+      "source_description": "不知查尔斯拿到他要的税收报表了吗？",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": 489,
+      "title": "委托人莎拉的忧愁",
+      "summary": "安柏准备清理阻断食材运输的丘丘人，莎拉却又收到需要整场宴会分量的临时订单。旅行者为她收集甜甜花与禽肉，随后烹制甜甜花酿鸡，并在获得菜谱后完成蜜酱胡萝卜煎肉。两道料理通过莎拉验收，餐馆的紧急备餐压力得到缓解。",
+      "turning_point": "莎拉认可旅行者制作的甜甜花酿鸡，并把「猎鹿人」的保留菜谱交给旅行者继续完成订单。",
+      "outcome": "宴会订单所需的两道料理完成，剩余运输问题交由安柏处理，第三项居民委托告一段落。",
+      "section_ids": [
+        "2006-c03-s01",
+        "2006-c03-s02",
+        "2006-c03-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_03.json",
+      "source_description": "莎拉小姐还在因为食材未送到的事而焦急…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": 490,
+      "title": "骑士团长的一日假期",
+      "summary": "完成居民委托后，旅行者与派蒙得知琴已离开教堂，便前往风起地照看仍很虚弱的她。琴在温妮莎的象征前解释自己对历代团长称号与责任的理解，随后又与旅行者共同追击突然出现的深渊教团。返回蒙德后，众人以紧急事件为幌子把琴引到「天使的馈赠」，揭晓为她准备的慰劳派对。琴确认所有工作已由同伴分担，并在露台上领悟到自己更认同面向守护与未来的「蒲公英骑士」身份。",
+      "turning_point": "酒馆中的所谓紧急事件被揭示为众人共同准备的慰劳派对，琴由继续承担工作转为接受同伴的关怀与分担。",
+      "outcome": "琴在派对中恢复精神，重新理解自己的骑士身份，并邀请旅行者今后继续与骑士团同行。",
+      "section_ids": [
+        "2006-c04-s01",
+        "2006-c04-s02",
+        "2006-c04-s03",
+        "2006-c04-s04",
+        "2006-c04-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_04.json",
+      "source_description": "解决了城内居民的委托后，你们决定再到教堂探望琴的情况…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "2006-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "居民委托接连汇集",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "琴病倒前",
+      "locations": [
+        "蒙德城商业区",
+        "「猎鹿人」餐馆附近",
+        "「天使的馈赠」酒馆附近"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "莎拉",
+        "查尔斯",
+        "玛格丽特"
+      ],
+      "summary": "旅行者与派蒙在蒙德城接触莎拉和查尔斯，得知食材运输与季度税表方面的请求。途中，玛格丽特又请他们转达寻找黑猫「小王子」的委托，居民把大小事务都交给琴的习惯由此显现。相关测试步骤记录了不同对话衔接，但未构成额外的正式事件。",
+      "motivation": "居民希望借助琴的权责与亲切态度尽快解决各自的问题，旅行者则准备代为传达。",
+      "outcome": "三项居民委托集中指向琴，旅行者与派蒙带着请求前往见她。",
+      "keywords": [
+        "居民委托",
+        "税收报表",
+        "食材运输",
+        "小王子"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 48601,
+          "title": "与「猎鹿人」的莎拉小姐对话，了解她的烦恼",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 48602,
+          "title": "与莎拉对话",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 48603,
+          "title": "与查尔斯对话",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 48605,
+          "title": "(test)完成对话$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2006-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "琴因过劳突然病倒",
+      "narrative_role": "conflict",
+      "importance": 5,
+      "when": "三项委托转达时及其后",
+      "locations": [
+        "西风骑士团",
+        "西风大教堂"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "琴",
+        "芭芭拉"
+      ],
+      "summary": "旅行者与派蒙向琴转达三项委托时，琴一面咳嗽和恍神，一面仍记录请求并准备立即安排处理，随后因身体虚弱倒下。两人把琴送到教堂，芭芭拉确认病因是长期工作造成的虚弱，并指出琴一贯忽视自身状况。芭芭拉留下照料琴，请旅行者回骑士团协助分担工作。",
+      "motivation": "琴不愿辜负蒙德居民的信赖，芭芭拉则希望阻止她继续硬撑并确保工作有人接手。",
+      "outcome": "琴被迫进入休养状态，旅行者承担她留下的部分职责。",
+      "keywords": [
+        "过劳",
+        "病倒",
+        "责任感",
+        "教堂休养"
+      ],
+      "source_step_keys": [
+        "3",
+        "5",
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 48604,
+          "title": "向琴传达居民的委托",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 48606,
+          "title": "与琴对话",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 48607,
+          "title": "(test)与琴对话$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 48608,
+          "title": "向芭芭拉询问琴的情况",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2006-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "凯亚安排代办工作",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "琴被送往教堂后",
+      "locations": [
+        "西风骑士团",
+        "蒙德城"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "凯亚",
+        "莎拉",
+        "查尔斯",
+        "玛格丽特"
+      ],
+      "summary": "旅行者与派蒙回到骑士团后，凯亚感谢他们帮助琴，并表示先前委托虽已安排人员处理，仍需要旅行者前去查漏补缺。他以自己还有事项需要「准备」为由，把莎拉、查尔斯和玛格丽特三处工作交给两人。各委托人的补充说明进一步明确了寻猫、货运与餐馆订单的具体需求。",
+      "motivation": "凯亚希望保证琴缺席期间所有居民事务都能妥善完成，同时暗中为之后的安排腾出空间。",
+      "outcome": "旅行者与派蒙正式成为三项委托的协助者，后续任务分流开启。",
+      "keywords": [
+        "工作分担",
+        "凯亚",
+        "三项委托",
+        "查漏补缺"
+      ],
+      "source_step_keys": [
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "8",
+          "id": 48609,
+          "title": "回到骑士团",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 48610,
+          "title": "(test)与凯亚对话$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 48611,
+          "title": "找玛格丽特听取委托内容",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 48612,
+          "title": "找查尔斯听取委托内容",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 48613,
+          "title": "找莎拉听取委托内容",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2006-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "三项委托进入并行",
+      "narrative_role": "transition",
+      "importance": 3,
+      "when": "居民委托执行阶段",
+      "locations": [
+        "蒙德城及周边"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "芭芭拉"
+      ],
+      "summary": "目标转入分别完成玛格丽特、查尔斯和莎拉三项委托的并行阶段，芭芭拉继续照看琴并催促旅行者安心处理工作。本段包含多项隐藏或测试用完成条件，用于追踪单项与全部委托的进度，不应视为额外发生的正式剧情。全部条件汇合后，故事才能转向再次探望琴。",
+      "motivation": "旅行者需要替病倒的琴完成居民事务，芭芭拉则希望琴在工作被接手后得到充分休息。",
+      "outcome": "三条委托线被纳入统一完成目标，并为完成后探望琴建立衔接。",
+      "keywords": [
+        "并行任务",
+        "隐藏条件",
+        "委托进度",
+        "剧情衔接"
+      ],
+      "source_step_keys": [
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "13",
+          "id": 48614,
+          "title": "(test)完成全部委托$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 48615,
+          "title": "(test)完成全部委托$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 48616,
+          "title": "(test)完成玛格丽特的委托$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 48617,
+          "title": "(test)完成查尔斯的委托$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "17",
+          "id": 48618,
+          "title": "(test)完成莎拉的委托$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "18",
+          "id": 48619,
+          "title": "完成全部委托",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2006-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "元素痕迹指向小王子",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "寻猫委托执行阶段",
+      "locations": [
+        "蒙德城商业区和居民区"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "玛格丽特",
+        "温迪",
+        "小王子"
+      ],
+      "summary": "旅行者与派蒙从玛格丽特和温迪处得知，「小王子」不仅离家出走，还叼走了温迪演出所需的星铁弦。由于琴弦带有风元素力，两人借助元素视野搜寻黑猫，并尝试从背后接近或用鱼吸引它。隐藏测试步骤呈现了发现、惊动和重新追踪目标的不同状态。",
+      "motivation": "玛格丽特想找回爱猫，温迪需要取回备用琴弦完成当晚演出，旅行者则要替琴完成寻猫委托。",
+      "outcome": "旅行者锁定并追上警觉的「小王子」，具备把它带回去的条件。",
+      "keywords": [
+        "小王子",
+        "星铁弦",
+        "元素视野",
+        "追踪"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "10",
+        "11"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 48701,
+          "title": "与玛格丽特对话",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 48702,
+          "title": "寻找「小王子」",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 48704,
+          "title": "(test)完成找猫猫$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 48705,
+          "title": "(test)完成找猫猫$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 48706,
+          "title": "(test)完成找猫猫$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 48707,
+          "title": "(test)完成找猫猫$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 48708,
+          "title": "(test)完成找猫猫$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 48709,
+          "title": "(test)完成找猫猫$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 48711,
+          "title": "找玛格丽特听取委托内容",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 48712,
+          "title": "(test)与玛格丽特对话，完成委托$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2006-c01-s02",
+      "chapter_index": 1,
+      "order": 2,
+      "title": "黑猫与琴弦一并归还",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "找到「小王子」后",
+      "locations": [
+        "蒙德城",
+        "玛格丽特所在处"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "玛格丽特",
+        "温迪",
+        "小王子"
+      ],
+      "summary": "旅行者与派蒙把「小王子」带回玛格丽特身边，并将找回的星铁弦交还温迪。玛格丽特沉浸于爱猫归来，温迪则因对猫过敏而匆匆离开，但确认演出所需物品已经失而复得。",
+      "motivation": "旅行者需要把寻回的猫与琴弦交还各自主人，完成代琴处理的第一项事务。",
+      "outcome": "玛格丽特的寻猫委托正式完成，温迪的演出准备也不再受影响。",
+      "keywords": [
+        "失而复得",
+        "委托完成",
+        "玛格丽特",
+        "温迪"
+      ],
+      "source_step_keys": [
+        "2",
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 48703,
+          "title": "完成玛格丽特的委托",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 48710,
+          "title": "完成玛格丽特的委托",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2006-c02-s01",
+      "chapter_index": 2,
+      "order": 1,
+      "title": "税表问题转为货运危机",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "查尔斯委托执行阶段",
+      "locations": [
+        "「天使的馈赠」酒馆"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "查尔斯",
+        "丽莎"
+      ],
+      "summary": "旅行者与派蒙找到查尔斯时，丽莎已代琴完成季度税表，原先的文书问题已经解决。查尔斯却刚收到临时订单，而酒庄货物迟迟未到，便请旅行者前去检查运输情况。",
+      "motivation": "查尔斯需要及时补充库存以履行临时订单，丽莎和旅行者则在琴病倒后共同分担她的工作。",
+      "outcome": "任务重点从索取税表转向调查并保障酒庄货物运输。",
+      "keywords": [
+        "税表",
+        "临时订单",
+        "库存不足",
+        "任务转变"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 48800,
+          "title": "找查尔斯听取委托内容",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2006-c02-s02",
+      "chapter_index": 2,
+      "order": 2,
+      "title": "货运热气球安全抵达",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "接到货运请求后",
+      "locations": [
+        "晨曦酒庄附近商路"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "恩内斯特",
+        "丘丘人"
+      ],
+      "summary": "旅行者与派蒙在商路上找到遭丘丘人打劫的恩内斯特，得知酒庄货物被困在货运热气球上。旅行者以保护货物为优先目标护送热气球，排除沿途威胁并将货物安全送达。相关隐藏测试步骤仅用于护送状态检查。",
+      "motivation": "恩内斯特担心高价货物受损，旅行者需要确保酒馆订单的物资供应恢复。",
+      "outcome": "货物脱离危险，恩内斯特致谢，查尔斯的紧急货运问题得到解决。",
+      "keywords": [
+        "货运热气球",
+        "丘丘人",
+        "护送",
+        "货物安全"
+      ],
+      "source_step_keys": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 48801,
+          "title": "与恩内斯特对话",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 48802,
+          "title": "护送货运热气球",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 48803,
+          "title": "完成查尔斯的委托",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 48804,
+          "title": "(test)护送货运热气球$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2006-c03-s01",
+      "chapter_index": 3,
+      "order": 1,
+      "title": "宴会订单追加备餐压力",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "莎拉委托执行阶段",
+      "locations": [
+        "「猎鹿人」餐馆"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "莎拉",
+        "安柏"
+      ],
+      "summary": "安柏准备清理阻碍食材运输的丘丘人时，莎拉又收到需要整场宴会分量的临时订单。旅行者主动承担料理工作，并按要求收集三份甜甜花和三份禽肉。交付与提示类步骤反复确认食材数量及订单期限，其中部分为隐藏测试内容。",
+      "motivation": "莎拉要维护「猎鹿人」的声誉并按时完成大额订单，旅行者希望替琴和安柏分担新增工作。",
+      "outcome": "制作第一道订单料理所需的食材备齐，备餐进入烹饪阶段。",
+      "keywords": [
+        "宴会订单",
+        "食材收集",
+        "甜甜花",
+        "禽肉"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "6",
+        "8",
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 48901,
+          "title": "找莎拉听取委托内容",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 48902,
+          "title": "收集甜甜花与禽肉各三份",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 48907,
+          "title": "(test)进行烹饪$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 48909,
+          "title": "(test)收集指定食材$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 48910,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2006-c03-s02",
+      "chapter_index": 3,
+      "order": 2,
+      "title": "甜甜花酿鸡通过验收",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "食材备齐后",
+      "locations": [
+        "「猎鹿人」餐馆"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "莎拉"
+      ],
+      "summary": "旅行者用收集到的材料烹制甜甜花酿鸡，并将成品交给莎拉验收。莎拉认可料理质量，又把「猎鹿人」的保留菜蜜酱胡萝卜煎肉教给旅行者，要求继续完成订单。隐藏测试步骤记录了烹饪和交付状态，不代表新增菜品。",
+      "motivation": "旅行者需要完成紧急订单，莎拉则因认可其手艺而把第二道料理继续交给他处理。",
+      "outcome": "第一道料理完成，旅行者获得新菜谱并开始制作第二道菜。",
+      "keywords": [
+        "甜甜花酿鸡",
+        "料理验收",
+        "新菜谱",
+        "追加任务"
+      ],
+      "source_step_keys": [
+        "2",
+        "4",
+        "5",
+        "7",
+        "10"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 48903,
+          "title": "烹饪甜甜花酿鸡",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 48905,
+          "title": "(test)进行烹饪$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 48906,
+          "title": "(test)进行烹饪$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 48908,
+          "title": "(test)进行烹饪$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 48911,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2006-c03-s03",
+      "chapter_index": 3,
+      "order": 3,
+      "title": "第二道料理完成交付",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "甜甜花酿鸡验收后",
+      "locations": [
+        "「猎鹿人」餐馆"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "莎拉"
+      ],
+      "summary": "旅行者按照新学到的菜谱烹制蜜酱胡萝卜煎肉，并把成品交给莎拉。莎拉再次肯定料理质量，确认旅行者负责的部分已经完成，剩余事项可由安柏接手。",
+      "motivation": "旅行者要完成宴会订单的最后一道指定料理，莎拉需要尽快解除餐馆的备餐压力。",
+      "outcome": "两道订单料理全部完成，莎拉的紧急委托告一段落。",
+      "keywords": [
+        "蜜酱胡萝卜煎肉",
+        "料理交付",
+        "莎拉",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "3",
+        "11"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 48904,
+          "title": "烹饪蜜酱胡萝卜煎肉",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 48912,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2006-c04-s01",
+      "chapter_index": 4,
+      "order": 1,
+      "title": "琴在风起地直面责任",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "三项居民委托全部完成后",
+      "locations": [
+        "西风大教堂",
+        "风起地的温妮莎象征大树"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "芭芭拉",
+        "琴"
+      ],
+      "summary": "旅行者与派蒙回教堂探望琴，却得知她尚未痊愈便独自前往风起地，两人随即赶往温妮莎的象征大树。琴承认自己一直追随温妮莎的脚步，并把「狮牙骑士」与「蒲公英骑士」的称号理解为必须以坚强独自承担的责任。她虽然感谢同伴关心，仍不愿真正依靠别人。",
+      "motivation": "琴在迷茫时借温妮莎的象征确认自身道路，旅行者和派蒙则担心她虚弱外出并希望她学会依靠同伴。",
+      "outcome": "琴的过劳根源被揭示为对英雄责任的严苛理解，而附近突然出现的敌人打断了谈话。",
+      "keywords": [
+        "风起地",
+        "温妮莎",
+        "骑士称号",
+        "责任认知"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 49001,
+          "title": "向芭芭拉询问琴的情况",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 49002,
+          "title": "前往「象征温妮莎的大树」",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 49003,
+          "title": "(test)完成对话$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2006-c04-s02",
+      "chapter_index": 4,
+      "order": 2,
+      "title": "众人共同追击深渊敌人",
+      "narrative_role": "climax",
+      "importance": 4,
+      "when": "风起地谈话被打断后",
+      "locations": [
+        "风起地及附近区域"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "琴",
+        "深渊教团敌人"
+      ],
+      "summary": "琴察觉暗处的深渊教团敌人，旅行者与她一同展开追击。敌人设下陷阱使旅行者受伤，琴因不愿伙伴为自己受伤而想独自前进，但最终接受同行，并以「蒲公英之风」治疗众人。击退威胁后，琴确认身体状况尚可，同意返回蒙德休息。",
+      "motivation": "琴要排除威胁并保护伙伴，旅行者则不愿让身体虚弱的琴独自迎敌。",
+      "outcome": "深渊教团的突发威胁被处理，琴首次在行动中接受同伴陪伴与协助，并返回蒙德城。",
+      "keywords": [
+        "深渊教团",
+        "追击",
+        "并肩作战",
+        "蒲公英之风"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5",
+        "10",
+        "11"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 49004,
+          "title": "(test)追击深渊教团的敌人$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 49005,
+          "title": "追击深渊教团的敌人",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 49006,
+          "title": "(test)完成对话$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 49011,
+          "title": "追击深渊教团的敌人",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 49012,
+          "title": "(test)完成对话$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2006-c04-s03",
+      "chapter_index": 4,
+      "order": 3,
+      "title": "慰劳派对揭开真相",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "琴返回蒙德城后",
+      "locations": [
+        "蒙德城门附近",
+        "「天使的馈赠」酒馆"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "琴",
+        "斯万",
+        "安柏",
+        "芭芭拉",
+        "凯亚",
+        "丽莎",
+        "温迪",
+        "迪卢克"
+      ],
+      "summary": "斯万以酒馆发生紧急事件为由坚持请琴亲自前往，琴再次因责任感答应处理。进入「天使的馈赠」后，所谓事件被揭示为众人为她准备的慰劳派对；安柏、丽莎、旅行者等人已分担运输、税务、寻猫和备餐工作，迪卢克也提供了场地支持。琴确认工作没有遗漏后终于接受大家的心意，而先前的紧急订单也显露为派对筹备的一部分。",
+      "motivation": "骑士团同伴和蒙德居民希望感谢琴的长期付出，并用实际分工证明她可以安心休息。",
+      "outcome": "琴放下对未完成工作的担忧，慰劳派对正式开始，她与众人的关系由单向承担转为相互支持。",
+      "keywords": [
+        "慰劳派对",
+        "秘密筹备",
+        "工作分担",
+        "同伴关怀"
+      ],
+      "source_step_keys": [
+        "6",
+        "7",
+        "8"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 49007,
+          "title": "回蒙德城与琴对话",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 49008,
+          "title": "进入酒馆",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 49009,
+          "title": "(test)完成对话$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2006-c04-s04",
+      "chapter_index": 4,
+      "order": 4,
+      "title": "派对展现众人的关怀",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "慰劳派对进行期间",
+      "locations": [
+        "「天使的馈赠」酒馆"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "芭芭拉",
+        "凯亚",
+        "温迪"
+      ],
+      "summary": "派对中，芭芭拉、凯亚和温迪各自放松交谈，酒馆恢复为轻松的社交场所。凯亚含蓄承认派对主要由自己策划，却把筹办功劳推给同样付出许多的旅行者；温迪则尽情享用酒水。这些隐藏或测试对话补充了派对氛围与筹备者的心意。",
+      "motivation": "众人希望借难得的聚会放松身心，同时避免让琴因接受关怀而感到拘谨。",
+      "outcome": "慰劳活动持续进行，凯亚的筹划得到侧面确认，琴随后独自前往二楼露台透气。",
+      "keywords": [
+        "派对闲谈",
+        "凯亚",
+        "芭芭拉",
+        "温迪"
+      ],
+      "source_step_keys": [
+        "12",
+        "13",
+        "14"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "12",
+          "id": 49013,
+          "title": "(test)完成对话$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 49014,
+          "title": "(test)和琴对话$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 49015,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2006-c04-s05",
+      "chapter_index": 4,
+      "order": 5,
+      "title": "琴选择蒲公英之道",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "慰劳派对进行期间",
+      "locations": [
+        "「天使的馈赠」二楼露台"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "琴"
+      ],
+      "summary": "旅行者与派蒙在二楼露台找到独自透气的琴，琴再次感谢众人的安排，并表示与同伴相处使她重新振作。她由此认识到，相比象征温妮莎斗争过去的「狮牙骑士」，代表骑士团未来与守护理想的「蒲公英骑士」更适合自己。琴以「听凭风引」确认新的理解，并邀请旅行者今后继续与骑士团同行。",
+      "motivation": "琴需要整理派对带来的触动，并重新判断自己应当如何继承温妮莎的意志。",
+      "outcome": "琴完成对责任与身份的重新认识，接受同伴关系的力量，并与旅行者确立继续同行的愿望。",
+      "keywords": [
+        "蒲公英骑士",
+        "身份选择",
+        "听凭风引",
+        "继续同行"
+      ],
+      "source_step_keys": [
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "9",
+          "id": 49010,
+          "title": "去二楼露台寻找琴",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:21:42.778Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71708,
+    "slug": "71708_hanfengs-iron-mongering",
+    "title": "寒锋的铁块需求",
+    "chapter_num": "",
+    "premise": "轻策庄的寒锋需要十份铁块修理锄头，委托接取者前来交付所需材料。",
+    "central_conflict": "寒锋缺少修理锄头所需的铁块，材料能否及时备齐直接影响他恢复劳作。",
+    "summary": "在铁块收集阶段，委托接取者来到轻策庄与寒锋确认委托需求。寒锋询问十份铁块是否已经备齐，并催促尚未完成收集的人尽快送来，因为他想早日修好锄头、返回劳作。材料备齐后，委托接取者将十份铁块交给寒锋。寒锋确认这些铁块已经够用，向对方致谢并交出酬谢物品。获得材料的寒锋随即准备凭自己的手艺修理锄头，但也流露出对手艺生疏的些许担忧。",
+    "resolution": "寒锋顺利收到足够的铁块，材料短缺的问题得到解决。委托以他的致谢和着手修理锄头的打算收束。",
+    "themes": [
+      "委托履行",
+      "材料筹集",
+      "互助",
+      "重返劳作"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71708,
+      "title": "寒锋的铁块需求",
+      "summary": "委托接取者为轻策庄的寒锋筹集并交付十份铁块，以帮助他修好锄头、尽早恢复劳作。寒锋在确认材料备齐后收下铁块，给予酬谢并准备检验自己是否生疏的修理手艺。",
+      "turning_point": "十份铁块完成交付，使寒锋从等待材料转入准备修理锄头。",
+      "outcome": "寒锋获得足够的修理材料并向委托接取者致谢，委托随之完成。",
+      "section_ids": [
+        "71708-c00-s01",
+        "71708-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "轻策庄的寒锋需要十份铁块。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71708-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "寒锋确认铁块已经备齐",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "十份铁块的收集与交付阶段",
+      "locations": [
+        "轻策庄"
+      ],
+      "characters": [
+        "寒锋",
+        "委托接取者"
+      ],
+      "summary": "委托接取者在轻策庄向寒锋提起铁块委托，寒锋随即确认对方是否已搜集齐十份铁块。若材料尚未备齐，寒锋会催促对方完成收集，因为他希望尽快修好锄头并返回劳作；材料齐备后则可继续完成交付。",
+      "motivation": "寒锋需要足够的铁块修理锄头，以便尽早恢复劳作；委托接取者则要完成材料筹集与交付。",
+      "outcome": "十份铁块备齐后进入正式交付和验收环节；尚未备齐的回答只会暂缓委托进度。",
+      "keywords": [
+        "十份铁块",
+        "寒锋",
+        "锄头",
+        "材料收集"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7170801,
+          "title": "将十份铁块交给寒锋",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71708-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "寒锋收下铁块并表示感谢",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "十份铁块交付后",
+      "locations": [
+        "轻策庄"
+      ],
+      "characters": [
+        "寒锋",
+        "委托接取者"
+      ],
+      "summary": "寒锋收到十份铁块后确认材料已经足够使用。他向委托接取者表示感谢并交出酬谢物品，随后准备动手修理锄头，同时担心自己的手艺可能已经生疏。",
+      "motivation": "寒锋获得所需材料后，希望兑现酬谢并尽快修好锄头。",
+      "outcome": "材料需求得到满足，委托完成，寒锋得以进入锄头修理阶段。",
+      "keywords": [
+        "铁块交付",
+        "酬谢",
+        "修理锄头",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7170802,
+          "title": "与寒锋对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:04:10.427Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71537,
+    "slug": "71537_custom-gift-envelope-no-5",
+    "title": "如意祝柬·之五",
+    "chapter_num": "",
+    "premise": "次日8时至18时，正在璃月港休假的诺艾尔向旅行者请教祝柬的制作方法，希望为带给西风骑士团众人的礼物配上漂亮祝柬。",
+    "central_conflict": "诺艾尔想效仿璃月海灯节的送礼习俗，却始终无法把祝柬做得满意，需要旅行者提供指导。",
+    "summary": "次日8时至18时，旅行者在璃月港遇见趁休假采购礼物的诺艾尔。诺艾尔准备把礼物带回蒙德送给西风骑士团众人，并打算依照海灯节习俗为礼物附上祝柬。由于她制作的祝柬始终不够好看，她向旅行者请教制作方法，旅行者答应帮助她。两人随后一同完成祝柬，诺艾尔从中掌握了制作要领。她感谢旅行者的指导，并表示会珍藏完成的祝柬。她还邀请旅行者下次参加蒙德的风花节，承诺届时回赠一封同样漂亮的贺卡。",
+    "resolution": "祝柬在旅行者的协助下顺利完成，诺艾尔的困难得到解决。她以风花节邀约和回赠贺卡的承诺回应这次帮助，为两人的日后重逢留下期待。",
+    "themes": [
+      "节庆赠礼",
+      "互助指导",
+      "文化交流",
+      "感恩回馈"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71537,
+      "title": "如意祝柬·之五",
+      "summary": "次日，旅行者在璃月港得知诺艾尔想为送给西风骑士团众人的礼物制作海灯节祝柬，却因成品不够美观而苦恼。旅行者接受她的请求，与她共同完成祝柬。掌握制作方法后，诺艾尔表达感谢，并以邀请旅行者参加风花节和将来回赠贺卡作为回应。",
+      "turning_point": "旅行者答应指导诺艾尔，并与她一同完成原本难以做好的祝柬。",
+      "outcome": "诺艾尔完成并决定珍藏祝柬，同时邀请旅行者日后前往蒙德参加风花节。",
+      "section_ids": [
+        "71537-c00-s01",
+        "71537-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "似乎有人对制作祝柬产生了兴趣…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71537-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "诺艾尔请教祝柬做法",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "次日8时至18时",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "诺艾尔",
+        "旅行者"
+      ],
+      "summary": "次日8时至18时，旅行者在璃月港遇见趁休假采购礼物的诺艾尔。诺艾尔想为带回蒙德送给西风骑士团众人的礼物附上海灯节祝柬，却因自己做出的祝柬不够好看而向旅行者请教。旅行者接受请求，答应帮助她解决制作难题。",
+      "motivation": "诺艾尔希望效仿璃月人在海灯节期间附赠祝柬的习俗，让送给西风骑士团众人的礼物更加用心。",
+      "outcome": "旅行者答应提供指导，两人开始共同完成祝柬。",
+      "keywords": [
+        "诺艾尔",
+        "璃月港",
+        "海灯节",
+        "祝柬",
+        "请教"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7153701,
+          "title": "等待至次日的8时至18时",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7153702,
+          "title": "与诺艾尔对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71537-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "完成祝柬并约定再会",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "共同制作祝柬后",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "诺艾尔",
+        "旅行者"
+      ],
+      "summary": "旅行者与诺艾尔一同完成祝柬后，诺艾尔理解了制作方法，并称赞旅行者见多识广。她感谢旅行者的指导，表示会珍藏这封祝柬。随后她邀请旅行者下次参加蒙德的风花节，并承诺届时回赠一封同样漂亮的贺卡。",
+      "motivation": "诺艾尔因祝柬顺利完成而心怀感激，希望珍惜旅行者的帮助并在未来给予回馈。",
+      "outcome": "祝柬制作顺利结束，诺艾尔以风花节邀约和回赠贺卡的承诺为这次相遇收尾。",
+      "keywords": [
+        "共同制作",
+        "感谢",
+        "珍藏",
+        "风花节",
+        "贺卡"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7153703,
+          "title": "和诺艾尔一同完成祝柬",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7153704,
+          "title": "与诺艾尔对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:02:45.123Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

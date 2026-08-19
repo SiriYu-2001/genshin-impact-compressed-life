@@ -1,0 +1,164 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71807,
+    "slug": "71807_changchangs-little-friend",
+    "title": "畅畅和她的小伙伴",
+    "chapter_num": "",
+    "premise": "璃月港的小女孩畅畅担心一只小狗挨饿，希望旅行者代为喂食。旅行者需要用一份禽肉喂饱小狗，再将结果告诉畅畅。",
+    "central_conflict": "畅畅暂时无法亲自照料小狗，只能把喂食之事托付给旅行者；她在得到确切回报前始终担心小狗会饿坏。",
+    "summary": "时间未明确，畅畅在璃月港寻求帮助，希望有人替她给小狗喂食。旅行者接受了这一目标，并前去寻找小狗。旅行者在地点未明确之处用一份禽肉完成喂食，回应了畅畅对小狗挨饿的担忧。随后，旅行者返回畅畅身边，告知她小狗应该已经吃饱。畅畅因此放下心来，向旅行者道谢，并拿出自己积攒的东西作为谢礼。她还表示，过几天爷爷应该就能带她亲自去喂小狗，使这次临时代劳得到收束。",
+    "resolution": "小狗经旅行者喂食后不再面临眼前的饥饿问题，畅畅确认结果并以谢礼表达感激。畅畅预计之后可由爷爷陪同亲自喂食，为小狗后续的照料留下明确安排。",
+    "themes": [
+      "关爱动物",
+      "受托帮助",
+      "孩童善意",
+      "责任与回报"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71807,
+      "title": "畅畅和她的小伙伴",
+      "summary": "畅畅因担心小狗挨饿，请旅行者代为喂食。旅行者用一份禽肉完成任务，并向畅畅回报小狗应该已经吃饱。畅畅如释重负，拿出自己积攒的东西致谢，同时说明过几天爷爷应当可以带她亲自去喂小狗。",
+      "turning_point": "旅行者完成喂食并确认小狗应该已经吃饱，使畅畅的担忧转为安心。",
+      "outcome": "畅畅确认小狗得到照料，向旅行者致谢并送出谢礼，同时提出之后由爷爷陪她亲自喂食的安排。",
+      "section_ids": [
+        "71807-c00-s01",
+        "71807-c00-s02",
+        "71807-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月港的小女孩畅畅想找个人帮忙给一只小狗喂点吃的…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71807-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "畅畅提出代喂小狗的请求",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "畅畅",
+        "旅行者"
+      ],
+      "summary": "时间未明确，璃月港的小女孩畅畅想请人帮助给一只小狗喂食。她担心小狗无人照料，旅行者由此开始承担代为喂食的任务。",
+      "motivation": "畅畅担心小狗挨饿，希望有人在她暂时不能亲自前往时提供照料。",
+      "outcome": "为小狗喂食成为当前目标，剧情转入旅行者执行委托的阶段。",
+      "keywords": [
+        "畅畅",
+        "小狗",
+        "委托",
+        "喂食"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7180701,
+          "title": "与畅畅对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71807-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "旅行者用禽肉完成喂食",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "接受畅畅的请求后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "小狗",
+        "畅畅"
+      ],
+      "summary": "接受请求后，旅行者在地点未明确之处用一份禽肉给小狗喂食。畅畅仍惦记着小狗，希望它不要饿坏；喂食行动则直接回应了她的担忧。",
+      "motivation": "旅行者需要完成畅畅托付的喂食任务，避免小狗继续挨饿。",
+      "outcome": "小狗得到禽肉，喂食任务完成，旅行者可以返回畅畅身边报告结果。",
+      "keywords": [
+        "禽肉",
+        "小狗",
+        "喂食",
+        "担忧"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7180702,
+          "title": "用一份禽肉向小狗喂食",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71807-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "畅畅确认结果并表达感谢",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "小狗得到喂食后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "畅畅",
+        "旅行者"
+      ],
+      "summary": "小狗得到喂食后，旅行者向畅畅回报，表示它应该已经吃饱。畅畅听后十分高兴，向旅行者道谢，并把自己积攒的东西作为谢礼。她还说明过几天爷爷应该可以带她亲自去喂小狗。",
+      "motivation": "畅畅希望确认小狗是否已经吃饱，并感谢旅行者替她完成照料。",
+      "outcome": "畅畅的担忧得到化解，本次委托以感谢和谢礼收束；她与爷爷日后亲自喂食的计划为小狗的后续照料提供了安排。",
+      "keywords": [
+        "回报",
+        "安心",
+        "谢礼",
+        "后续照料"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7180703,
+          "title": "向畅畅回报",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:04:50.739Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

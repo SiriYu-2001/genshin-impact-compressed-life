@@ -1,0 +1,126 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 76083,
+    "slug": "76083_shifting-moonlight",
+    "title": "月色千变",
+    "chapter_num": "",
+    "premise": "旅行者在「银月之庭」见到正与月灵玩耍的「少女」，并受邀加入猜图案的游戏。众人以陪伴月灵度过轻松时光为主要目标。",
+    "central_conflict": "本段剧情没有明显的对抗性冲突，主要推动力是「少女」希望旅行者参与游戏、让月灵获得陪伴与快乐。",
+    "summary": "旅行者来到「银月之庭」，遇见正在陪月灵玩猜图案游戏的「少女」。月灵以活跃的反应表达兴奋，「少女」随即邀请旅行者加入。旅行者随后与月灵共同玩耍，游戏在轻松的氛围中结束。月灵们开心地扑到旅行者身上，直接表明它们享受这次陪伴。「少女」感谢旅行者愿意陪月灵玩游戏，并希望今后仍能一起度过同样放松的时光。这次短暂相聚以再次同游的期待收束。",
+    "resolution": "游戏顺利结束，月灵因得到陪伴而十分开心。「少女」向旅行者致谢，并留下以后再次相聚、继续陪月灵玩耍的约定。",
+    "themes": [
+      "陪伴",
+      "游戏",
+      "放松时光",
+      "再次相聚"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 76083,
+      "title": "月色千变",
+      "summary": "旅行者在「银月之庭」与「少女」和月灵见面，并应邀加入猜图案的游戏。游戏结束后，月灵表现出明显的喜悦，「少女」也感谢旅行者的陪伴。她希望众人今后还能共享这样的轻松时光，使这次相聚从临时邀约转化为再次同游的期待。",
+      "turning_point": "游戏结束后，月灵们开心地扑向旅行者，使这次陪伴带来的快乐得到直接确认。",
+      "outcome": "月灵尽兴而归，「少女」向旅行者致谢，并表达日后再次一起玩游戏、共度放松时光的愿望。",
+      "section_ids": [
+        "76083-c00-s01",
+        "76083-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在「银月之庭」，「少女」似乎在和月灵玩耍…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "76083-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "「少女」邀请旅行者加入游戏",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "旅行者与「少女」见面时",
+      "locations": [
+        "银月之庭"
+      ],
+      "characters": [
+        "「少女」",
+        "月灵",
+        "旅行者"
+      ],
+      "summary": "旅行者在「银月之庭」见到「少女」时，月灵们正兴奋地与她互动。「少女」说明自己正在和月灵玩猜图案的游戏，并邀请旅行者一同加入，由此开启这次轻松的相聚。",
+      "motivation": "「少女」希望旅行者加入正在进行的游戏，一起陪伴月灵玩耍。",
+      "outcome": "旅行者获知游戏内容并受到邀请，剧情由见面转入共同陪月灵玩耍。",
+      "keywords": [
+        "银月之庭",
+        "猜图案",
+        "邀请",
+        "月灵"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7608301,
+          "title": "同「少女」见面",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76083-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "月灵尽兴后约定再次相聚",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "猜图案游戏结束后",
+      "locations": [
+        "银月之庭"
+      ],
+      "characters": [
+        "「少女」",
+        "月灵",
+        "旅行者"
+      ],
+      "summary": "旅行者与月灵完成游戏后，月灵们开心地扑到旅行者身上，以亲近的举动表达满足。「少女」感谢旅行者愿意陪月灵玩耍，并希望众人下次还能共度同样放松的时光。",
+      "motivation": "旅行者通过参与游戏陪伴月灵，而「少女」希望回应这份陪伴并延续众人之间的轻松相处。",
+      "outcome": "月灵因游戏和陪伴而十分开心，「少女」提出今后再次一起玩耍的愿望，为后续相聚留下期待。",
+      "keywords": [
+        "游戏结束",
+        "感谢",
+        "陪伴",
+        "再次相聚"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7608302,
+          "title": "同月灵玩耍",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:33:37.109Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

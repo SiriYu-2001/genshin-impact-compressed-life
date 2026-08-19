@@ -1,0 +1,86 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71674,
+    "slug": "71674_wishes-contended-fortunes-won",
+    "title": "如意斗彩",
+    "chapter_num": "",
+    "premise": "旅行者在璃月港遇见总务司游艺摊位，并向摊主桂澜询问「如意斗彩」的内容。桂澜借此介绍游艺并邀请旅行者参与，以争取新年的好彩头。",
+    "central_conflict": "本段剧情以游艺引导为主，尚未展开明确的人际冲突；当前目标是了解并决定是否参加「如意斗彩」。",
+    "summary": "旅行者在璃月港注意到桂澜招揽客人参加「如意斗彩」，其宣传称获胜者能够赢得一年的好手气。面对旅行者的询问，桂澜说明这是总务司最新推出的小游艺。她进一步展示「聚财兜」与「如意钱」，将参与游艺与吉祥如意的彩头联系起来。桂澜最后表示摊位随时欢迎挑战，为旅行者后续实际参加游艺建立入口。",
+    "resolution": "桂澜完成了对「如意斗彩」及其吉祥寓意的初步介绍，并向旅行者发出开放式邀请。本段以游艺尚待体验的状态收束。",
+    "themes": [
+      "新春游艺",
+      "吉祥彩头",
+      "民俗宣传",
+      "参与邀请"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71674,
+      "title": "如意斗彩",
+      "summary": "旅行者在璃月港向桂澜询问新游艺「如意斗彩」。桂澜介绍其由总务司推出，并以「聚财兜」「如意钱」及赢取好彩头为卖点招揽参与。对话最终从街头宣传转为面向旅行者的直接邀请，为后续体验游艺作好铺垫。",
+      "turning_point": "桂澜将笼统的招揽宣传转化为对游艺内容的具体说明，并正式邀请旅行者随时参加。",
+      "outcome": "旅行者得知「如意斗彩」的主办方、基本构成和吉祥寓意，游艺入口由此向其开放。",
+      "section_ids": [
+        "71674-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在璃月港里，你看见了一个奇特的游艺摊位…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71674-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "桂澜介绍如意斗彩",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "旅行者",
+        "桂澜"
+      ],
+      "summary": "旅行者在璃月港看见桂澜经营的游艺摊位，并询问「如意斗彩」是什么。桂澜说明这是总务司最新推出的小游艺，以「聚财兜」和「如意钱」承载吉祥寓意。她以赢取一年好手气和新年好彩头招揽旅行者，并表示对方随时可以参加。",
+      "motivation": "旅行者因陌生游艺而产生疑问；桂澜则希望宣传总务司的新游艺，并吸引旅行者前来挑战。",
+      "outcome": "旅行者初步了解了「如意斗彩」的性质与卖点，桂澜的邀请为后续参与游艺提供了直接推动。",
+      "keywords": [
+        "如意斗彩",
+        "总务司",
+        "聚财兜",
+        "如意钱",
+        "好彩头"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7167401,
+          "title": "与桂澜对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:03:30.312Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

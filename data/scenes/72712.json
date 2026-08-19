@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72712,
+    "slug": "72712_sandens-resource-request",
+    "title": "三田的面具绘材需求",
+    "chapter_num": "",
+    "premise": "鸣神岛的三田委托旅行者搜集五份电气水晶，以便制作面具所需的颜料。旅行者带齐材料后前去交付。",
+    "central_conflict": "三田的颜料制作缺少足量的电气水晶，委托能否完成取决于旅行者是否已经集齐五份材料。",
+    "summary": "三田在鸣神岛发布委托，请人搜集五份电气水晶。旅行者因看到委托而前来，三田随即询问材料是否已经集齐。旅行者确认准备妥当并完成材料交付，使三田获得制作颜料所需的资源。三田表示可以开始制作颜料，并向旅行者致谢及支付报酬。委托至此完成，面具绘材的制作得以进入下一阶段。",
+    "resolution": "三田收到了五份电气水晶，可以着手制作颜料，并以报酬答谢旅行者。本次资源需求得到解决。",
+    "themes": [
+      "委托协作",
+      "资源搜集",
+      "材料交付",
+      "诚信回报"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72712,
+      "title": "三田的面具绘材需求",
+      "summary": "本章围绕向三田交付五份电气水晶展开。旅行者带着材料前往鸣神岛与三田确认委托进度，材料齐备后完成交付。三田因此能够开始制作颜料，并以感谢和报酬结束委托。",
+      "turning_point": "旅行者确认已经集齐五份电气水晶，使委托从资源搜集阶段转入交付完成阶段。",
+      "outcome": "三田获得制作颜料所需的电气水晶，旅行者领取报酬，委托完成。",
+      "section_ids": [
+        "72712-c00-s01",
+        "72712-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "鸣神岛的三田需要五份电气水晶。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72712-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "旅行者向三田交付电气水晶",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "五份电气水晶搜集齐后",
+      "locations": [
+        "鸣神岛"
+      ],
+      "characters": [
+        "旅行者",
+        "三田"
+      ],
+      "summary": "五份电气水晶搜集齐后，旅行者因看到委托而在鸣神岛找到三田。三田核实旅行者是否已经备齐材料，旅行者确认准备妥当后完成交付，使委托得以继续推进。",
+      "motivation": "旅行者希望完成三田发布的资源委托，三田则需要五份电气水晶制作颜料。",
+      "outcome": "五份电气水晶完成交付，三田取得制作颜料所需的材料。",
+      "keywords": [
+        "三田",
+        "电气水晶",
+        "材料交付",
+        "委托"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7271201,
+          "title": "将五份电气水晶交给三田",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "72712-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "三田致谢并支付委托报酬",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "电气水晶交付后",
+      "locations": [
+        "鸣神岛"
+      ],
+      "characters": [
+        "旅行者",
+        "三田"
+      ],
+      "summary": "电气水晶交付后，三田确认自己已经可以开始制作颜料。她感谢旅行者提供材料，并将约定的报酬交给旅行者，本次委托随之结束。",
+      "motivation": "三田因资源需求得到满足而履行委托约定，向旅行者表达感谢并支付报酬。",
+      "outcome": "旅行者获得报酬，三田进入颜料制作阶段，资源委托正式完成。",
+      "keywords": [
+        "颜料制作",
+        "感谢",
+        "报酬",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7271202,
+          "title": "与三田对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:11:40.796Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

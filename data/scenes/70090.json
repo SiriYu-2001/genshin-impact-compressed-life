@@ -1,0 +1,131 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70090,
+    "slug": "70090_tea-party-re-invitation-albedo",
+    "title": "茶会的再邀·阿贝多",
+    "chapter_num": "",
+    "premise": "桑多涅前往阿贝多的雪山营地附近布置茶桌并落座，准备与阿贝多共度茶会时光。",
+    "central_conflict": "本段没有明显的对抗性冲突，关键变化在于茶会临近尾声时，桑多涅需要决定继续小坐还是结束相聚。",
+    "summary": "桑多涅来到阿贝多的雪山营地附近，以放置茶桌和落座的方式开启茶会。她与阿贝多一同享受短暂而平静的相聚时光。茶会临近尾声时，阿贝多感谢桑多涅的招待。桑多涅可以选择再坐一会儿，也可以直接宣布茶会结束，但这两种选择最终都导向告别。阿贝多以约定后会有期作结，这次雪山茶会随之收束。",
+    "resolution": "阿贝多向桑多涅道谢并与她告别，茶会在平和的气氛中结束。双方以“后会有期”保留了未来再次相聚的可能。",
+    "themes": [
+      "雪山茶会",
+      "短暂相聚",
+      "款待致谢",
+      "温和告别"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70090,
+      "title": "茶会的再邀·阿贝多",
+      "summary": "桑多涅前往阿贝多的雪山营地附近布置茶桌并开启茶会，与阿贝多共度平静的相聚时光。茶会临近结束时，阿贝多感谢她的招待，而是否继续小坐的选择最终都通向双方告别。阿贝多以“后会有期”回应，完成了本次茶会的收束。",
+      "turning_point": "阿贝多表达谢意后，茶会从共同相处转入是否结束的告别阶段。",
+      "outcome": "桑多涅与阿贝多结束茶会并暂时分别，双方留下日后再会的约定。",
+      "section_ids": [
+        "70090-c00-s01",
+        "70090-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "前往龙脊雪山放置茶桌并使用桑多涅落座后，与阿贝多共度茶会时光吧…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70090-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "桑多涅在雪山开启茶会",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "茶会开启前",
+      "locations": [
+        "阿贝多的雪山营地附近"
+      ],
+      "characters": [
+        "桑多涅",
+        "阿贝多"
+      ],
+      "summary": "桑多涅前往阿贝多的雪山营地附近，准备在当地开启茶会。她放置茶桌并以桑多涅的身份落座，由此为与阿贝多共度茶会时光创造条件。",
+      "motivation": "桑多涅希望邀请阿贝多共度茶会，并为相聚做好场地与入席准备。",
+      "outcome": "茶会顺利开启，桑多涅与阿贝多进入共同享受茶会时光的阶段。",
+      "keywords": [
+        "龙脊雪山",
+        "营地附近",
+        "茶桌",
+        "茶会开启"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7009001,
+          "title": "前往阿贝多的雪山营地附近开启茶会",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70090-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "阿贝多致谢后与桑多涅告别",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "茶会期间及结束时",
+      "locations": [
+        "阿贝多的雪山营地附近"
+      ],
+      "characters": [
+        "桑多涅",
+        "阿贝多"
+      ],
+      "summary": "桑多涅与阿贝多享受茶会时光，阿贝多随后感谢桑多涅的招待。桑多涅可以选择继续小坐片刻或宣布茶会结束，但两种回应最终都使相聚进入收尾。阿贝多与她约定后会有期，双方就此告别。",
+      "motivation": "阿贝多因受到招待而表达谢意，桑多涅则需要决定是否结束这段茶会时光。",
+      "outcome": "茶会结束，阿贝多与桑多涅暂时分别，并留下未来再会的可能。",
+      "keywords": [
+        "茶会时光",
+        "感谢招待",
+        "结束选择",
+        "后会有期"
+      ],
+      "source_step_keys": [
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7009002,
+          "title": "前往阿贝多的雪山营地附近开启茶会",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7009003,
+          "title": "享受茶会时光",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:52:12.568Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,1278 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 10244,
+    "slug": "10244_summer-event-beta-testing-quest",
+    "title": "夏活beta测试任务",
+    "chapter_num": "夏活",
+    "premise": "一组夏季活动测试任务让旅行者在悠悠度假村及其不同区域体验尚在调试的游乐设施、庆典项目与挑战。旅行者需要协助工作人员处理建设、魔物和设施故障，再完成各项试玩。",
+    "central_conflict": "度假村的多项设施尚未完工或遭遇突发问题，游玩流程因此不断转化为调试、建设、追击和战斗任务。部分章节还保留废弃步骤、空白对话和测试台词，表明这些内容属于未正式发布的测试结构。",
+    "summary": "故事以刺梨岩、小镇酒馆和追击敌人的早期测试流程开场，旅行者先后接触游乐设施、追入洞穴并击败Boss。返回小镇观看谢幕后，任务转向悠悠度假村各区域的具体玩法测试。旅行者帮助提可菈装点「沫彩花海」，又乘热气球参加「飘飘巡风阿夏」的喷涂竞赛。在狂欢区，酿酒活动因魔物混入醅幽花而受阻，旅行者清理酒吧下层并使酿造仪式得以完成。浪浪湾的设施准备最为繁杂，旅行者连续调试两段游览船、完成设施建设、体验阿夏快跑，并追回飞走的热气球。其后众人完成闪闪大游行并重新汇合，形成测试流程的集中收束。最后，旅行者体验「览彩漂游」，在度假村登记并取得地图与纪念册，获得自由探索四大区域的指引。",
+    "resolution": "各区域的主要设施在旅行者协助下完成试玩或恢复运行，最终以度假村登记和前往度假屋收束。地图、纪念册及四大区域的介绍为后续自由探索留下入口，但原文没有给出正式主线层面的后续结果。",
+    "themes": [
+      "夏日度假",
+      "设施调试",
+      "协作试玩",
+      "庆典筹备",
+      "区域探索",
+      "测试内容"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70054,
+      "title": "开始冒险区",
+      "summary": "本章以废弃测试对话和简略任务步骤建立刺梨岩的游玩入口。恰斯卡发出同行邀请，羊驼在小镇相关步骤启动后邀请参与者乘车体验设施，流程最终指向到达小镇。",
+      "turning_point": "到达小镇的任务启动条件触发了前往游乐设施的邀请。",
+      "outcome": "参与者取得乘车游玩的引导并抵达小镇，早期冒险区流程由此建立。",
+      "section_ids": [
+        "10244-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "开始冒险区",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 70055,
+      "title": "酒吧大战",
+      "summary": "本章保留一个废弃测试步骤，并以进入酒馆和追击敌人构成简略的行动链。原文没有提供战斗起因、参与者对话或追击结果。",
+      "turning_point": "行动目标从进入酒馆转为追击敌人。",
+      "outcome": "追击行动被启动，但敌人的身份与最终去向均未明确。",
+      "section_ids": [
+        "10244-c01-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "酒吧大战",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": 70056,
+      "title": "追击皮套人",
+      "summary": "本章围绕持续追击展开，行动者先阻止敌人前进，随后乘车进入下一区域。追踪过程穿过待探索区域、门扉与洞穴，最终升级为Boss战。Boss被击败后，行动者前往游乐船处，使流程转入下一阶段。",
+      "turning_point": "洞穴探索结束后，追击任务升级为击败Boss的正面冲突。",
+      "outcome": "Boss被击败，行动者抵达游乐船处并获得继续转移的路径。",
+      "section_ids": [
+        "10244-c02-s01",
+        "10244-c02-s02",
+        "10244-c02-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_02.json",
+      "source_description": "追击皮套人",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": 70057,
+      "title": "小镇庆典",
+      "summary": "本章以废弃测试步骤开场，随后让参与者回到小镇并观看谢幕。简短流程将此前的冒险行动转化为庆典式收尾。",
+      "turning_point": "参与者返回小镇后，任务目标由移动转为观看谢幕。",
+      "outcome": "小镇庆典通过谢幕结束，早期测试冒险流程得到收束。",
+      "section_ids": [
+        "10244-c03-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_03.json",
+      "source_description": "小镇庆典",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": 75209,
+      "title": "「沫彩花海」",
+      "summary": "提可菈说明「沫彩花海」仍是一片普通草地，负责协助的阿夏也不知去向，因此邀请游客参与上色。旅行者随后开启装饰玩法并装点花海，使未完成的场地进入可游玩状态。",
+      "turning_point": "游客由听取场地困境转为亲自开启装饰玩法。",
+      "outcome": "「沫彩花海」得到装点，场地准备问题通过游客参与获得直接推进。",
+      "section_ids": [
+        "10244-c04-s01",
+        "10244-c04-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_04.json",
+      "source_description": "前往「沫彩花海」游玩吧~",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": 75210,
+      "title": "「飘飘巡风阿夏」",
+      "summary": "提可菈介绍「飘飘巡风阿夏」的喷涂竞赛规则，并引导参与者乘热气球前往挑战区域。参与者在不同高度连续战胜对手，完成玩法测试后返回地面。",
+      "turning_point": "乘坐热气球抵达挑战区域后，规则说明转化为连续的实战竞赛。",
+      "outcome": "参与者完成两轮竞赛并安全返回地面，「飘飘巡风阿夏」的完整试玩流程结束。",
+      "section_ids": [
+        "10244-c05-s01",
+        "10244-c05-s02",
+        "10244-c05-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_05.json",
+      "source_description": "体验「飘飘巡风阿夏」玩法",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": 75211,
+      "title": "初入狂欢区",
+      "summary": "本章把酿造蜜酒的山洞、合作酿造和酿造比试串联为狂欢区体验。酒吧老板卡苏娅随后说明魔物混入醅幽花，旅行者因而前往酒吧下层抓捕魔物，并完成花粉吸收与酿造仪式。章节末尾还保留空白对话及温迪喝光蜜酒的测试台词，显示该章仍含未整理的测试结构。",
+      "turning_point": "卡苏娅揭示魔物混入酿酒材料后，酿造体验转化为清理酒吧下层的排险任务。",
+      "outcome": "花粉被全部吸收，酿造仪式完成并准备揭幕；残留测试步骤没有提供额外的正式结果。",
+      "section_ids": [
+        "10244-c06-s01",
+        "10244-c06-s02",
+        "10244-c06-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_06.json",
+      "source_description": "初入狂欢区",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": 75214,
+      "title": "游玩浪浪湾",
+      "summary": "导览员说明浪浪湾设施尚未完全就绪，旅行者于是连续协助维兰德调试游览船、建设第二处设施并完成试运行。随后，旅行者参加阿夏快跑，却遭遇热气球飞走的意外，并将其追回。最后，旅行者前往闪闪大游行，协助完成游行后与众人汇合。",
+      "turning_point": "阿夏快跑结束阶段发生热气球飞走的意外，使常规设施调试短暂转化为追回行动。",
+      "outcome": "游览船、阿夏快跑和闪闪大游行均完成测试或运行，旅行者最终与大家汇合。",
+      "section_ids": [
+        "10244-c07-s01",
+        "10244-c07-s02",
+        "10244-c07-s03",
+        "10244-c07-s04",
+        "10244-c07-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_07.json",
+      "source_description": "玛拉妮看起来很期待浪浪湾的设施，快去和她汇合吧……",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": 75242,
+      "title": "悠悠度假村",
+      "summary": "蜜琪莉引导游客报名并体验以热气球观景为内容的「览彩漂游」。抵达登记处后，欧库夏为众人登记住处，发放地图与纪念册，并介绍彩彩崖、刺梨岩、浪浪湾和提提岛四大区域。旅行者随后前往度假屋，正式获得自由探索度假村的基础指引。",
+      "turning_point": "观景项目结束后，流程由单项游玩转为度假村登记和整体区域介绍。",
+      "outcome": "旅行者完成登记并取得地图与纪念册，随后前往度假屋，度假村的自由探索入口得以开放。",
+      "section_ids": [
+        "10244-c08-s01",
+        "10244-c08-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_08.json",
+      "source_description": "去悠悠度假村，度过一个五彩斑斓的夏天吧~",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "10244-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "测试入口引向小镇设施",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "冒险区测试开始阶段",
+      "locations": [
+        "刺梨岩",
+        "小镇",
+        "游乐设施"
+      ],
+      "characters": [
+        "恰斯卡",
+        "羊驼"
+      ],
+      "summary": "在冒险区测试开始阶段，恰斯卡通过标注为废弃的测试对话邀请参与者游玩刺梨岩。小镇步骤启动后，羊驼邀请参与者乘车体验设施，流程同时以到达小镇作为推进节点。",
+      "motivation": "恰斯卡和羊驼希望引导参与者进入刺梨岩及其游乐设施的测试流程。",
+      "outcome": "参与者获得前往设施和小镇的引导，但具体游玩结果未被记录。",
+      "keywords": [
+        "刺梨岩",
+        "乘车邀请",
+        "小镇",
+        "废弃测试"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7005401,
+          "title": "(test)废弃",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7005402,
+          "title": "前往游乐设施",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7005403,
+          "title": "到达小镇",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10244-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "酒馆行动转为追击敌人",
+      "narrative_role": "conflict",
+      "importance": 2,
+      "when": "酒吧大战测试阶段",
+      "locations": [
+        "酒馆",
+        "追击路线"
+      ],
+      "characters": [
+        "旅行者",
+        "敌人"
+      ],
+      "summary": "在酒吧大战测试阶段，流程先保留一个没有内容的废弃步骤，随后要求旅行者进入酒馆。任务目标紧接着变为追击敌人，但原文没有交代冲突起因或具体过程。",
+      "motivation": "旅行者需要追上从酒馆相关事件中离开的敌人。",
+      "outcome": "追击任务被启动，敌人的身份与追击结果均未明确。",
+      "keywords": [
+        "酒馆",
+        "追击",
+        "敌人",
+        "测试步骤"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7005501,
+          "title": "(test)废弃",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7005502,
+          "title": "进入酒馆",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7005503,
+          "title": "追击敌人",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10244-c02-s01",
+      "chapter_index": 2,
+      "order": 1,
+      "title": "追击者阻断敌人去路",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "追击开始阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "敌人"
+      ],
+      "summary": "在追击开始阶段，本章先保留一个无内容的废弃测试步骤。旅行者随后以阻止敌人继续前进为目标展开拦截，追击由此进入直接对抗。",
+      "motivation": "旅行者需要阻止被追击者逃往更深的区域。",
+      "outcome": "敌人的前进受到阻拦，行动路线随即转向乘车探索其他区域。",
+      "keywords": [
+        "追击",
+        "拦截",
+        "敌人",
+        "废弃测试"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7005601,
+          "title": "(test)废弃",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7005602,
+          "title": "阻止敌人前进",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10244-c02-s02",
+      "chapter_index": 2,
+      "order": 2,
+      "title": "乘车深入区域与洞穴",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "追击深入阶段",
+      "locations": [
+        "下一区域",
+        "门扉所在区域",
+        "洞穴"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "在追击深入阶段，旅行者乘车前往下一区域，并在当地展开探索。行动者打开阻挡去路的大门，继续探索洞穴，之后再次前往新的区域。",
+      "motivation": "旅行者需要穿过区域与洞穴，持续逼近追击目标。",
+      "outcome": "探索路线被逐步打通，旅行者抵达能够与Boss交战的后续区域。",
+      "keywords": [
+        "乘车",
+        "区域探索",
+        "打开大门",
+        "洞穴"
+      ],
+      "source_step_keys": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7005603,
+          "title": "上车前往下个区域",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7005604,
+          "title": "探索区域",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7005605,
+          "title": "打开大门",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7005606,
+          "title": "探索洞穴",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7005607,
+          "title": "前往下一区域",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10244-c02-s03",
+      "chapter_index": 2,
+      "order": 3,
+      "title": "击败首领后转向游乐船",
+      "narrative_role": "climax",
+      "importance": 4,
+      "when": "追击决战阶段",
+      "locations": [
+        "Boss所在区域",
+        "游乐船处"
+      ],
+      "characters": [
+        "旅行者",
+        "Boss"
+      ],
+      "summary": "在追击决战阶段，旅行者与守在路线末端的Boss交战并将其击败。战斗结束后，旅行者前往游乐船处，为离开当前区域或继续游玩作准备。",
+      "motivation": "旅行者需要排除Boss的阻碍并继续推进区域路线。",
+      "outcome": "Boss被击败，后续行动入口转移到游乐船处。",
+      "keywords": [
+        "Boss战",
+        "击败首领",
+        "游乐船",
+        "区域转移"
+      ],
+      "source_step_keys": [
+        "7",
+        "8"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 7005608,
+          "title": "击败Boss",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7005609,
+          "title": "前往游乐船处",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10244-c03-s01",
+      "chapter_index": 3,
+      "order": 1,
+      "title": "返回小镇观看庆典谢幕",
+      "narrative_role": "resolution",
+      "importance": 2,
+      "when": "小镇庆典收尾阶段",
+      "locations": [
+        "小镇"
+      ],
+      "characters": [
+        "旅行者",
+        "庆典参与者"
+      ],
+      "summary": "在小镇庆典收尾阶段，本章先出现一个无内容的废弃测试步骤，随后旅行者返回小镇。众人观看庆典谢幕，使此前的行动流程转为仪式性的结束。",
+      "motivation": "旅行者返回小镇参加庆典并见证活动收尾。",
+      "outcome": "庆典完成谢幕，早期测试冒险告一段落。",
+      "keywords": [
+        "小镇",
+        "庆典",
+        "谢幕",
+        "返回"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7005701,
+          "title": "(test)废弃",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7005702,
+          "title": "回到小镇",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7005703,
+          "title": "观看谢幕",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10244-c04-s01",
+      "chapter_index": 4,
+      "order": 1,
+      "title": "提可菈说明花海困境",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "抵达「沫彩花海」时",
+      "locations": [
+        "「沫彩花海」"
+      ],
+      "characters": [
+        "提可菈",
+        "旅行者"
+      ],
+      "summary": "抵达「沫彩花海」时，提可菈欢迎游客，却说明这里仍只是一片普通草地，协助工作的阿夏也不见踪影。她邀请具备园艺能力的游客帮助花海上色，但该段对话所在步骤被标注为废弃测试内容。",
+      "motivation": "提可菈需要弥补助手缺席造成的准备不足，让「沫彩花海」呈现应有色彩。",
+      "outcome": "旅行者获得参与装饰的邀请，花海问题转化为可操作的玩法目标。",
+      "keywords": [
+        "提可菈",
+        "沫彩花海",
+        "助手失踪",
+        "废弃测试"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7520901,
+          "title": "(test)废弃",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10244-c04-s02",
+      "chapter_index": 4,
+      "order": 2,
+      "title": "游客动手装点沫彩花海",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "花海装饰阶段",
+      "locations": [
+        "「沫彩花海」"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "在花海装饰阶段，旅行者开启「沫彩花海」装饰玩法。旅行者随后实际装点场地，以自身参与补足尚未完成的景观准备。",
+      "motivation": "旅行者需要帮助提可菈为普通草地上色并完成场地布置。",
+      "outcome": "「沫彩花海」得到装点，场地从准备不足转向可供游玩的状态。",
+      "keywords": [
+        "装饰玩法",
+        "场地上色",
+        "花海建设",
+        "游客协助"
+      ],
+      "source_step_keys": [
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7520904,
+          "title": "开启「沫彩花海」装饰玩法",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7520905,
+          "title": "装点「沫彩花海」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10244-c05-s01",
+      "chapter_index": 5,
+      "order": 1,
+      "title": "提可菈讲解空中喷涂赛",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "挑战准备阶段",
+      "locations": [
+        "彩彩崖",
+        "热气球"
+      ],
+      "characters": [
+        "提可菈",
+        "旅行者"
+      ],
+      "summary": "在挑战准备阶段，提可菈介绍彩彩崖的主要项目「飘飘巡风阿夏」，说明双方要喷涂颜料并争夺更大覆盖区域。参与者确认准备状态后乘热气球前往挑战处，也可以选择暂缓出发。",
+      "motivation": "提可菈希望参与者理解规则并前往空中场地完成玩法测试。",
+      "outcome": "竞赛规则和出发方式得到说明，参与者抵达或准备抵达挑战区域。",
+      "keywords": [
+        "飘飘巡风阿夏",
+        "喷涂竞赛",
+        "热气球",
+        "规则说明"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7521001,
+          "title": "(test)废弃",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7521003,
+          "title": "乘坐热气球前往「飘飘巡风阿夏」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10244-c05-s02",
+      "chapter_index": 5,
+      "order": 2,
+      "title": "参与者连续赢得喷涂赛",
+      "narrative_role": "climax",
+      "importance": 4,
+      "when": "空中竞赛阶段",
+      "locations": [
+        "「飘飘巡风阿夏」挑战区域",
+        "挑战区域顶部"
+      ],
+      "characters": [
+        "旅行者",
+        "竞赛对手"
+      ],
+      "summary": "在空中竞赛阶段，旅行者先在「飘飘巡风阿夏」中战胜对方。旅行者随后前往挑战区域顶部，再次与对方竞赛并取得胜利。",
+      "motivation": "旅行者需要通过喷涂覆盖更多区域，完成各高度的挑战。",
+      "outcome": "两轮竞赛均由旅行者取胜，玩法的主要挑战目标全部完成。",
+      "keywords": [
+        "喷涂赛",
+        "连续胜利",
+        "区域顶部",
+        "竞赛对手"
+      ],
+      "source_step_keys": [
+        "2",
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7521004,
+          "title": "在「飘飘巡风阿夏」中战胜对方",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7521005,
+          "title": "去往「飘飘巡风阿夏」的顶部",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7521006,
+          "title": "在「飘飘巡风阿夏」中战胜对方",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10244-c05-s03",
+      "chapter_index": 5,
+      "order": 3,
+      "title": "完成挑战后返回地面",
+      "narrative_role": "resolution",
+      "importance": 2,
+      "when": "竞赛结束后",
+      "locations": [
+        "地面"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "竞赛结束后，旅行者离开空中挑战区域并返回地面。该移动为「飘飘巡风阿夏」的试玩流程画下句点。",
+      "motivation": "旅行者在完成全部竞赛后需要离开设施。",
+      "outcome": "参与者安全返回地面，本项玩法测试正式结束。",
+      "keywords": [
+        "返回地面",
+        "挑战结束",
+        "空中设施"
+      ],
+      "source_step_keys": [
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 7521008,
+          "title": "返回地面",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10244-c06-s01",
+      "chapter_index": 6,
+      "order": 1,
+      "title": "山洞中展开酿造比试",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "初入狂欢区的酿造阶段",
+      "locations": [
+        "酿造蜜酒的山洞"
+      ],
+      "characters": [
+        "塔雅",
+        "温迪",
+        "旅行者"
+      ],
+      "summary": "初入狂欢区后，塔雅介绍酿造蜜酒的山洞，并为旅行者与同伴加油。旅行者与温迪合作完成酿造、参加酿造比试，并通过撞击装置推进制作流程。",
+      "motivation": "旅行者与温迪需要依照庆典项目要求合作酿造并完成比试。",
+      "outcome": "酿造流程和比试得到推进，但后续步骤揭示原料区仍有魔物问题。",
+      "keywords": [
+        "蜜酒山洞",
+        "温迪",
+        "合作酿造",
+        "酿造比试"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7521104,
+          "title": "(test)废弃",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7521111,
+          "title": "与温迪合作完成酿造",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7521112,
+          "title": "完成酿造比试",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7521107,
+          "title": "撞击装置完成酿造",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10244-c06-s02",
+      "chapter_index": 6,
+      "order": 2,
+      "title": "清除魔物完成酿造仪式",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "酿造准备受阻后",
+      "locations": [
+        "酒吧",
+        "酒吧下层"
+      ],
+      "characters": [
+        "卡苏娅",
+        "旅行者",
+        "魔物"
+      ],
+      "summary": "酿造准备受阻后，酒吧老板卡苏娅说明魔物混入用于酿酒的醅幽花，导致众人不敢进入下层。旅行者依靠星星花的反应前往酒吧下层抓捕魔物，随后启动花粉吸收并完成酿造。",
+      "motivation": "卡苏娅需要排除魔物威胁，旅行者则帮助恢复被中断的酿造仪式。",
+      "outcome": "花粉被全部吸收，酿造仪式完成，相关表演可以揭幕。",
+      "keywords": [
+        "卡苏娅",
+        "醅幽花",
+        "抓捕魔物",
+        "花粉吸收"
+      ],
+      "source_step_keys": [
+        "4",
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 7521106,
+          "title": "与酒吧老板对话",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7521109,
+          "title": "去酒吧下层根据星星花的反应抓捕魔物",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7521108,
+          "title": "完成，对话启动吸收花粉，完成酿造",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10244-c06-s03",
+      "chapter_index": 6,
+      "order": 3,
+      "title": "残留测试对话补述缘由",
+      "narrative_role": "revelation",
+      "importance": 2,
+      "when": "本章后续测试步骤",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "乌哈纳",
+        "温迪",
+        "塔雅",
+        "旅行者"
+      ],
+      "summary": "在本章后续测试步骤中，乌哈纳的两条对话内容为空，未能提供有效事件信息。温迪的测试台词声称自己喝光了预备蜜酒，并邀请旅行者重新体验酿造；塔雅则继续为参与酿造和比试的二人加油。",
+      "motivation": "这些残留步骤用于测试对话与任务启动关系，温迪的台词另行提供重新酿酒的动因。",
+      "outcome": "测试台词补充了蜜酒短缺的另一种缘由，但空白内容和测试标记表明其未形成明确的正式剧情结果。",
+      "keywords": [
+        "温迪",
+        "空白对话",
+        "喝光蜜酒",
+        "测试台词"
+      ],
+      "source_step_keys": [
+        "7",
+        "8",
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 7521101,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7521102,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7521105,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10244-c07-s01",
+      "chapter_index": 7,
+      "order": 1,
+      "title": "导览员说明设施尚未就绪",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "抵达浪浪湾时",
+      "locations": [
+        "浪浪湾"
+      ],
+      "characters": [
+        "「穆奇赫」",
+        "卡乌鲁",
+        "旅行者"
+      ],
+      "summary": "抵达浪浪湾时，导览员「穆奇赫」欢迎游客，并说明设施尚未完全准备好，等不及的客人可以主动协助。废弃测试步骤中的卡乌鲁也请求旅行者帮助王牌游行项目，为后续闪闪大游行预留任务入口。",
+      "motivation": "工作人员需要游客协助完成尚未就绪的设施与游行项目。",
+      "outcome": "旅行者获得协助设施的整体目标，后续行动首先转向游览船区域。",
+      "keywords": [
+        "浪浪湾",
+        "设施未就绪",
+        "导览员",
+        "游行请求"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7521401,
+          "title": "(test)废弃",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7521402,
+          "title": "和导览员对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10244-c07-s02",
+      "chapter_index": 7,
+      "order": 2,
+      "title": "旅行者调试首段游览船",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "首段设施调试阶段",
+      "locations": [
+        "游览船设施"
+      ],
+      "characters": [
+        "维兰德",
+        "旅行者"
+      ],
+      "summary": "在首段设施调试阶段，旅行者前往游览船区域，并从维兰德处了解调试需求。旅行者完成游览船试运行后得到感谢，也获得继续体验项目的邀请。",
+      "motivation": "维兰德需要旅行者帮助验证尚未完全就绪的游览船设施。",
+      "outcome": "首段游览船完成试运行，旅行者随后转往进度更落后的第二段区域。",
+      "keywords": [
+        "游览船",
+        "维兰德",
+        "设施调试",
+        "试运行"
+      ],
+      "source_step_keys": [
+        "2",
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7521403,
+          "title": "前往游览船设施协助工作人员",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7521404,
+          "title": "和工作人员对话了解情况",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7521407,
+          "title": "完成游览船试运行",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10244-c07-s03",
+      "chapter_index": 7,
+      "order": 3,
+      "title": "建设并试运行第二段设施",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "第二段设施建设阶段",
+      "locations": [
+        "第二段游览船区域"
+      ],
+      "characters": [
+        "维兰德",
+        "旅行者"
+      ],
+      "summary": "在第二段设施建设阶段，维兰德说明这里的工程进度更差，设施甚至尚未建成，并请求旅行者继续帮助。旅行者开启挑战，利用暝视龙能力完成建设，随后完成第二处游览船试运行。",
+      "motivation": "维兰德需要补全尚未建成的设施，旅行者则帮助其保住工作并恢复项目进度。",
+      "outcome": "第二段设施完成建设和试运行，两处游览船区域均得到验证。",
+      "keywords": [
+        "第二段设施",
+        "暝视龙能力",
+        "设施建设",
+        "试运行"
+      ],
+      "source_step_keys": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 7521408,
+          "title": "前往第二段游览船区域协助工作人员",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7521409,
+          "title": "和工作人员对话开启挑战",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7521410,
+          "title": "利用暝视龙能力完成第二处设施建设",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7521411,
+          "title": "完成第二处游览船试运行",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10244-c07-s04",
+      "chapter_index": 7,
+      "order": 4,
+      "title": "快跑测试引发热气球意外",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "阿夏快跑测试阶段",
+      "locations": [
+        "阿夏快跑设施",
+        "终点",
+        "热气球所在路线"
+      ],
+      "characters": [
+        "维兰德",
+        "旅行者",
+        "试玩员"
+      ],
+      "summary": "在阿夏快跑测试阶段，旅行者再次帮助维兰德，与试玩员配合完成试运行并亲自体验项目。旅行者前往终点时，热气球突然飞走，常规试玩因而转化为追回热气球的行动。",
+      "motivation": "旅行者先要完成设施调试，随后必须追回失控飞走的热气球。",
+      "outcome": "热气球被追回，阿夏快跑及其突发意外均得到处理，行动目标转向闪闪大游行。",
+      "keywords": [
+        "阿夏快跑",
+        "试玩员",
+        "热气球飞走",
+        "追回行动"
+      ],
+      "source_step_keys": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "9",
+          "id": 7521412,
+          "title": "前往阿夏快跑协助工作人员",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 7521413,
+          "title": "协助工作人员完成阿夏快跑试运行",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 7521416,
+          "title": "亲自体验阿夏快跑",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 7521418,
+          "title": "前往终点",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 7521417,
+          "title": "热气球飞走",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 7521419,
+          "title": "追回热气球",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10244-c07-s05",
+      "chapter_index": 7,
+      "order": 5,
+      "title": "协助游行后与众人汇合",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "浪浪湾游玩收尾阶段",
+      "locations": [
+        "闪闪大游行区域",
+        "汇合处"
+      ],
+      "characters": [
+        "卡乌鲁",
+        "旅行者",
+        "庆典参与者"
+      ],
+      "summary": "在浪浪湾游玩收尾阶段，旅行者前往闪闪大游行并启动项目。旅行者协助完成整场游行，随后与众人汇合，使连续的设施调试和突发事件得到集中收束。",
+      "motivation": "旅行者需要兑现工作人员的求助，帮助王牌游行项目顺利完成。",
+      "outcome": "闪闪大游行完成，旅行者与同伴重新汇合，浪浪湾流程结束。",
+      "keywords": [
+        "闪闪大游行",
+        "庆典协助",
+        "众人汇合",
+        "流程收束"
+      ],
+      "source_step_keys": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "15",
+          "id": 7521414,
+          "title": "前往闪闪大游行",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 7521420,
+          "title": "开始闪闪大游行",
+          "is_hidden": false
+        },
+        {
+          "key": "17",
+          "id": 7521415,
+          "title": "协助完成闪闪大游行",
+          "is_hidden": false
+        },
+        {
+          "key": "18",
+          "id": 7521421,
+          "title": "和大家汇合",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10244-c08-s01",
+      "chapter_index": 8,
+      "order": 1,
+      "title": "乘热气球体验览彩漂游",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "抵达度假村后的观景阶段",
+      "locations": [
+        "「览彩漂游」登船处",
+        "热气球"
+      ],
+      "characters": [
+        "蜜琪莉",
+        "旅行者"
+      ],
+      "summary": "抵达度假村后的观景阶段，蜜琪莉介绍「览彩漂游」，说明热气球会带领游客欣赏沿途风光。旅行者可以确认准备后登船体验，也可以选择暂缓，由蜜琪莉等待再次通知。",
+      "motivation": "旅行者希望体验度假村的空中观景项目，蜜琪莉负责组织登船。",
+      "outcome": "旅行者完成或准备完成「览彩漂游」，后续流程转向度假村登记。",
+      "keywords": [
+        "览彩漂游",
+        "蜜琪莉",
+        "热气球",
+        "登船"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7524201,
+          "title": "(test)废弃",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7524202,
+          "title": "体验「览彩漂游」",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7524203,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10244-c08-s02",
+      "chapter_index": 8,
+      "order": 2,
+      "title": "登记入住并取得探索指引",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "观景项目结束后",
+      "locations": [
+        "度假村登记处",
+        "度假屋",
+        "悠悠集市"
+      ],
+      "characters": [
+        "欧库夏",
+        "旅行者"
+      ],
+      "summary": "观景项目结束后，旅行者前往度假村登记处，欧库夏为众人登记住处并发放地图与特制纪念册。她介绍彩彩崖、刺梨岩、浪浪湾和提提岛四大区域，也指出度假屋与悠悠集市的方向，旅行者随后前往度假屋。",
+      "motivation": "欧库夏需要完成游客接待并提供区域指引，旅行者则要办理入住以便继续度假探索。",
+      "outcome": "旅行者取得地图和纪念册并前往度假屋，后续自由探索获得明确入口。",
+      "keywords": [
+        "度假村登记",
+        "欧库夏",
+        "四大区域",
+        "地图纪念册",
+        "度假屋"
+      ],
+      "source_step_keys": [
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7524204,
+          "title": "前往度假村登记处",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7524205,
+          "title": "前往度假屋",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:43:40.065Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

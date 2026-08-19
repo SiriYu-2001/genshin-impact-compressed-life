@@ -1,0 +1,82 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 40060,
+    "slug": "40060_the-moon-bathed-deep",
+    "title": "月浴之渊",
+    "chapter_num": "",
+    "premise": "故事以“与露子对话”这一任务目标为起点，但原文没有交代会面的缘由和具体目的。",
+    "central_conflict": "原文未呈现明确的矛盾、阻碍或冲突。",
+    "summary": "本 scene 仅包含一个未隐藏的任务步骤，要求任务执行者与露子对话。原文没有提供对话正文、旁白、地点或时间，因此无法确认双方会面的具体背景。原文也未呈现对话中的信息交换、人物关系变化或剧情转折。由于该步骤没有 stepDescription 和 taskData，其完成结果以及对后续剧情的影响均未明确。",
+    "resolution": "scene 停留在与露子对话的任务指引上，没有记录对话过程或明确的收束结果。",
+    "themes": [
+      "会面",
+      "对话任务",
+      "信息缺失"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 40060,
+      "title": "月浴之渊",
+      "summary": "本章的唯一目标是与露子对话。原文没有提供会面的时间、地点、动机及对话内容，也未呈现冲突或关键变化。该任务的直接结果与后续推动均未明确。",
+      "turning_point": "原文未明确",
+      "outcome": "任务指向与露子进行对话，但对话结果及后续影响原文未明确。",
+      "section_ids": [
+        "40060-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "40060-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "任务指向与露子对话",
+      "narrative_role": "setup",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "露子"
+      ],
+      "summary": "时间与地点均未明确，任务步骤要求任务执行者与露子对话。原文没有收录对话正文、旁白或其他行动，因而无法确定双方谈论的内容及其直接影响。",
+      "motivation": "推动力是完成与露子对话的任务目标；更具体的行动动机原文未明确。",
+      "outcome": "原文未明确对话是否完成、产生了何种结果以及如何推动后续剧情。",
+      "keywords": [
+        "露子",
+        "对话任务",
+        "信息缺失"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 4006001,
+          "title": "与露子对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:44:58.547Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

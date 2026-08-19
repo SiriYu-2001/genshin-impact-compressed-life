@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73653,
+    "slug": "73653_amirs-raw-meat-commission",
+    "title": "阿米尔的兽肉需求",
+    "chapter_num": "",
+    "premise": "化城郭的阿米尔发布委托，需要委托执行者向他提供八份兽肉。",
+    "central_conflict": "委托能否完成取决于执行者是否备齐数量不少的八份兽肉，以解决搜救犬的加餐需求。",
+    "summary": "阿米尔在化城郭发布了获取八份兽肉的委托。委托执行者向他询问兽肉一事后，阿米尔确认委托内容，并核对对方是否已经备齐所需数量。若执行者尚未准备好，阿米尔会让其备齐后再来，委托因此暂不推进；剧情的完成路径则以八份兽肉已经备齐为前提。兽肉交付后，阿米尔确认肉的品质良好并向执行者致谢。他同时说明这些兽肉将用于给搜救犬加餐，使委托的实际用途得到明确。委托最终以物资需求得到满足而收束。",
+    "resolution": "阿米尔收下八份品质良好的兽肉，搜救犬的加餐由此有了着落。该委托当场完成，原文未说明进一步的后续任务。",
+    "themes": [
+      "物资委托",
+      "兽肉交付",
+      "搜救犬照料",
+      "需求确认"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73653,
+      "title": "阿米尔的兽肉需求",
+      "summary": "本章围绕向阿米尔交付八份兽肉展开。阿米尔先确认执行者是否备齐所需物资，未备齐时会要求对方准备完成后再来，而完成路径则进入正式交付。最终，阿米尔认可兽肉品质，并揭示这些肉是搜救犬的加餐，委托随之完成。",
+      "turning_point": "委托执行者确认已经备齐八份兽肉，使任务从物资核对转入正式交付。",
+      "outcome": "阿米尔收到品质良好的八份兽肉，搜救犬的加餐需求得到解决。",
+      "section_ids": [
+        "73653-c00-s01",
+        "73653-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "化城郭的阿米尔需要八份兽肉。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73653-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "阿米尔核对八份兽肉",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "委托物资核对阶段",
+      "locations": [
+        "化城郭"
+      ],
+      "characters": [
+        "阿米尔",
+        "委托执行者"
+      ],
+      "summary": "委托执行者在化城郭向阿米尔询问兽肉委托，阿米尔确认自己确实需要八份兽肉，并询问对方是否已经备齐。若执行者尚未准备好，阿米尔会体谅数量不少，并要求其备齐后再来；完成路径则以执行者确认准备完毕而结束本阶段。",
+      "motivation": "阿米尔需要确认委托执行者是否已筹集足够数量的兽肉，执行者则希望满足委托的交付条件。",
+      "outcome": "八份兽肉的数量要求得到再次确认；未备齐时委托暂缓，备齐后则推动剧情进入验收环节。",
+      "keywords": [
+        "兽肉委托",
+        "八份兽肉",
+        "物资核对",
+        "条件分支"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7365301,
+          "title": "将八份兽肉交给阿米尔",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "73653-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "兽肉解决搜救犬加餐",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "八份兽肉交付后",
+      "locations": [
+        "化城郭"
+      ],
+      "characters": [
+        "阿米尔",
+        "委托执行者"
+      ],
+      "summary": "八份兽肉交付后，阿米尔确认肉的品质都很不错，并向委托执行者表示感谢。他说明这些兽肉将作为搜救犬的加餐，使此前物资需求的具体用途得到揭示。",
+      "motivation": "阿米尔需要为搜救犬落实加餐物资，并对完成委托的执行者作出验收与回应。",
+      "outcome": "兽肉通过品质验收，搜救犬的加餐有了着落，委托直接完成。",
+      "keywords": [
+        "品质验收",
+        "搜救犬",
+        "加餐",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7365302,
+          "title": "与阿米尔对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:17:37.314Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

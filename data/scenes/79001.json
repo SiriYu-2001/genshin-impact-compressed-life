@@ -1,0 +1,229 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 79001,
+    "slug": "79001_the-winding-homeward-way",
+    "title": "归乡漫漫路",
+    "chapter_num": "",
+    "premise": "旅行者一行在危危岛遇见奇怪的仙灵，并跟随它调查沿途异常。主要目标是解开元素方碑机关、排除阻碍并帮助仙灵返回台座。",
+    "central_conflict": "仙灵的归途受到元素方碑谜题和周围障碍阻断，旅行者一行必须依次调查、解谜和清理周围。",
+    "summary": "时间未明确，旅行者一行在危危岛遇见一只奇怪的仙灵并开始跟随它。仙灵将众人引至需要调查的区域，使元素方碑机关成为继续前进的关键。旅行者一行以正确方式点亮方碑，随后继续跟随仙灵穿过后续路段。归途末段又出现需要清理的周边障碍，众人将其排除后等待仙灵返回台座。由此，整个流程从追随与调查推进到解谜和清障，并以守候仙灵归位收束。剧本末尾另存一项标明“废弃”的击败怪物步骤，因此该项不构成正式流程中已经发生的事件。",
+    "resolution": "旅行者一行完成方碑解谜并清理周围，使仙灵的归途推进到返回台座的最后阶段。原文仅明确要求等待仙灵返回台座，未进一步交代归位后的影响。",
+    "themes": [
+      "引导归乡",
+      "环境解谜",
+      "排除阻碍",
+      "陪伴守候"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 79001,
+      "title": "归乡漫漫路",
+      "summary": "旅行者一行在危危岛跟随奇怪的仙灵，并通过调查发现阻断去路的元素方碑机关。众人正确点亮方碑后继续随行，又在归途末段清理周围障碍。章节最终推进到等待仙灵返回台座，而标明废弃的战斗步骤仅作为未采用内容留存。",
+      "turning_point": "旅行者一行以正确方式点亮元素方碑，使仙灵得以继续引领众人前进。",
+      "outcome": "方碑机关和周边障碍先后得到处理，仙灵的归途推进至等待返回台座的阶段。",
+      "section_ids": [
+        "79001-c00-s01",
+        "79001-c00-s02",
+        "79001-c00-s03",
+        "79001-c00-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在危危岛上，你们遇见了一个奇怪的仙灵…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "79001-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "仙灵引领众人调查周围",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "与奇怪仙灵相遇后，具体时间未明确",
+      "locations": [
+        "危危岛"
+      ],
+      "characters": [
+        "旅行者一行",
+        "仙灵"
+      ],
+      "summary": "旅行者一行在危危岛遇见奇怪的仙灵后跟随它前进。仙灵将众人引向一处需要调查的区域，促使他们检查周围并寻找继续前进的方法。",
+      "motivation": "旅行者一行希望弄清仙灵引路的目的，并帮助它沿既定方向前进。",
+      "outcome": "调查将众人的注意力引向沿途机关，为解决元素方碑谜题作铺垫。",
+      "keywords": [
+        "仙灵",
+        "跟随",
+        "调查",
+        "危危岛"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7900101,
+          "title": "跟随仙灵",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7900102,
+          "title": "在周围调查",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "79001-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "元素方碑解锁后继续引路",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "完成周围调查后，具体时间未明确",
+      "locations": [
+        "危危岛"
+      ],
+      "characters": [
+        "旅行者一行",
+        "仙灵"
+      ],
+      "summary": "旅行者一行需要以正确方式点亮元素方碑，解除仙灵归途上的机关阻碍。完成方碑步骤后，众人继续跟随仙灵，并随它推进后续路程。",
+      "motivation": "众人必须解开元素方碑机关，才能继续追随仙灵并推进它的归途。",
+      "outcome": "方碑谜题得到处理，跟随仙灵的行程得以继续。",
+      "keywords": [
+        "元素方碑",
+        "解谜",
+        "引路",
+        "跟随"
+      ],
+      "source_step_keys": [
+        "2",
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7900103,
+          "title": "用正确的方式点亮元素方碑",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7900105,
+          "title": "跟随仙灵",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7900106,
+          "title": "跟随仙灵",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "79001-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "清除障碍并守候仙灵归座",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "仙灵归途末段，具体时间未明确",
+      "locations": [
+        "危危岛"
+      ],
+      "characters": [
+        "旅行者一行",
+        "仙灵"
+      ],
+      "summary": "继续随行后，旅行者一行需要清理仙灵周围的阻碍。清理完成后，众人留在现场等待仙灵返回台座，使这段引路过程进入最后阶段。",
+      "motivation": "旅行者一行需要排除周边干扰，为仙灵返回台座创造条件。",
+      "outcome": "周围得到清理，任务推进到等待仙灵归座；原文未明确交代归座之后的情形。",
+      "keywords": [
+        "清理周围",
+        "返回台座",
+        "守候",
+        "归途"
+      ],
+      "source_step_keys": [
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 7900107,
+          "title": "清理周围",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7900108,
+          "title": "等待仙灵返回台座",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "79001-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "废弃战斗步骤未纳入流程",
+      "narrative_role": "transition",
+      "importance": 1,
+      "when": "废弃内容，时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者一行",
+        "怪物"
+      ],
+      "summary": "剧本在既定步骤末尾保留了一个“击败怪物”目标，但标题已明确将其标记为废弃。该步骤只反映未采用的战斗设计，不能据此认定旅行者一行在正式流程中实际经历了这场战斗。",
+      "motivation": "原文未明确",
+      "outcome": "该战斗步骤未构成正式剧情结果，也未改变仙灵归途已经推进至等待归座的收束。",
+      "keywords": [
+        "废弃内容",
+        "击败怪物",
+        "未采用步骤"
+      ],
+      "source_step_keys": [
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 7900104,
+          "title": "(废弃)击败怪物",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:40:22.221Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

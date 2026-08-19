@@ -1,0 +1,174 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 76195,
+    "slug": "76195_mineral-research-pine-amber",
+    "title": "矿物调查·松珀香",
+    "chapter_num": "",
+    "premise": "调查者得知噩影泽地存在一处矿石富集地，迅速做好准备并前往指定地点调查松珀香。",
+    "central_conflict": "调查者需要在掌握当地生态信息有限的情况下确认松珀香的位置，并清除妨碍采集的矿石。",
+    "summary": "调查者迅速完成准备，随即动身前往指定地点展开调查。抵达噩影泽地的目标区域后，调查者发现附近存在值得查验的事物，并想到熟悉本地生态的莉奈娅或许能帮助获得收获。调查由环境观察推进至对松珀香的具体查验，目标由寻找线索转为确认采集对象。为继续行动，调查者清理了现场矿石，排除了采集过程中的直接障碍。随后，调查者采集到松珀香，完成了此次矿物调查。整个过程以准备、勘察、排障和采集构成一条连续的调查链。",
+    "resolution": "阻碍采集的矿石被清理，松珀香也被成功采集，本次噩影泽地矿物调查就此完成。原文未明确交代样本的后续研究或用途。",
+    "themes": [
+      "生态调查",
+      "矿物采集",
+      "环境观察",
+      "排除障碍"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 76195,
+      "title": "矿物调查·松珀香",
+      "summary": "调查者以采集松珀香为目标，做好准备后前往噩影泽地的指定区域。现场迹象促使调查者展开查验，并想到莉奈娅对本地生态的了解可能有助于获得收获。调查者随后清理矿石、排除采集障碍，最终取得松珀香并完成调查。",
+      "turning_point": "调查者确认松珀香的调查目标后开始清理现场矿石，使任务由环境勘察转入实际采集。",
+      "outcome": "现场矿石被清理，松珀香得到采集，矿物调查目标完成。",
+      "section_ids": [
+        "76195-c00-s01",
+        "76195-c00-s02",
+        "76195-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在噩影泽地发现了一处矿石富集地…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "76195-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "调查者迅速完成调查准备",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "调查开始前",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "调查者"
+      ],
+      "summary": "调查开始前，调查者迅速做好开展调查所需的准备。准备工作的完成使其能够立即前往目标区域。",
+      "motivation": "为前往指定地点调查矿石富集地及松珀香做好准备。",
+      "outcome": "调查准备完成，前往指定地点的行动随之开启。",
+      "keywords": [
+        "调查准备",
+        "任务启动",
+        "松珀香"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7619501,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76195-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "调查者在泽地查验松珀香",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "抵达指定地点后",
+      "locations": [
+        "噩影泽地矿石富集地"
+      ],
+      "characters": [
+        "调查者",
+        "莉奈娅"
+      ],
+      "summary": "抵达噩影泽地的指定区域后，调查者察觉附近存在值得调查的事物。调查者想到熟悉本地生态的莉奈娅或许能帮助获得收获，随后开始查验松珀香，但原文未明确莉奈娅是否实际到场或参与。",
+      "motivation": "确认现场值得调查的目标，并借助对本地生态的认识提高取得收获的可能性。",
+      "outcome": "调查焦点明确落在松珀香上，行动由抵达现场推进至具体查验。",
+      "keywords": [
+        "噩影泽地",
+        "生态线索",
+        "莉奈娅",
+        "松珀香"
+      ],
+      "source_step_keys": [
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7619502,
+          "title": "前往指定地点开启调查",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7619503,
+          "title": "调查松珀香",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76195-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "调查者清理矿石并完成采集",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "查验松珀香后",
+      "locations": [
+        "噩影泽地矿石富集地"
+      ],
+      "characters": [
+        "调查者"
+      ],
+      "summary": "查验松珀香后，调查者着手清理现场矿石。矿石被清除后，调查者完成松珀香的采集，使此次调查取得直接成果。",
+      "motivation": "排除现场障碍并取得本次调查所需的松珀香。",
+      "outcome": "矿石得到清理，松珀香被成功采集，本次矿物调查完成。",
+      "keywords": [
+        "清理矿石",
+        "采集",
+        "松珀香",
+        "调查完成"
+      ],
+      "source_step_keys": [
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7619504,
+          "title": "清理掉矿石",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7619505,
+          "title": "采集松珀香",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:36:02.274Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

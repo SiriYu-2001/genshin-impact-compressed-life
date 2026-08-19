@@ -1,0 +1,84 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71167,
+    "slug": "71167_wishing-wonderful-wishes",
+    "title": "上许佳愿",
+    "chapter_num": "",
+    "premise": "萍溪提出查看「告事板」的建议，促使同行众人决定前去了解板上信息。故事的主要目标是查看「告事板」。",
+    "central_conflict": "众人需要通过「告事板」获取进一步线索，但原文没有交代板上内容以及查看过程中是否遇到阻碍。",
+    "summary": "时间未明确，萍溪向同行众人建议查看「告事板」。众人接受这一建议，并把前去查看告事板作为当前行动目标。目标 scene 仅包含这一项剧情步骤，没有展开前往过程、告事板内容或其他冲突。故事因此停留在目标确立阶段，为后续获取信息和采取行动留下接口。",
+    "resolution": "本 scene 以众人决定查看「告事板」暂时收束。查看所得及其后续影响在原文中未明确。",
+    "themes": [
+      "愿望",
+      "信息获取",
+      "行动启程"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71167,
+      "title": "上许佳愿",
+      "summary": "本章围绕查看「告事板」这一单一目标展开。萍溪提出建议，同行众人据此决定前去查看，使剧情从提议推进到行动目标的确立；原文没有继续说明告事板的内容或查看结果。",
+      "turning_point": "萍溪的建议获得采纳，查看「告事板」由提议转化为众人的明确目标。",
+      "outcome": "众人确定前去查看「告事板」，但查看所得与进一步发展在原文中未明确。",
+      "section_ids": [
+        "71167-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在萍溪的建议下，你们决定去查看一下「告事板」…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71167-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "萍溪建议查看告事板",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "萍溪",
+        "同行众人"
+      ],
+      "summary": "时间未明确、地点未明确，萍溪建议同行众人查看「告事板」。众人决定采纳建议并前去查看，将获取板上信息确立为当前目标；原文没有交代查看过程或所得内容。",
+      "motivation": "萍溪的建议推动众人通过「告事板」了解相关信息。",
+      "outcome": "查看「告事板」成为众人的下一步行动，但行动的具体结果及其后续影响在原文中未明确。",
+      "keywords": [
+        "萍溪",
+        "告事板",
+        "建议",
+        "信息获取"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7116701,
+          "title": "查看「告事板」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:00:56.381Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

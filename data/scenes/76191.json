@@ -1,0 +1,276 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 76191,
+    "slug": "76191_animal-research-capybaras",
+    "title": "动物调查·豚兽",
+    "chapter_num": "",
+    "premise": "莉奈娅根据消息前往指定地点蹲守，准备制止劫掠罕见豚兽的走私贩，并寻找失踪的银色豚兽。",
+    "central_conflict": "走私贩企图以露米替代丢失的珍稀豚兽交差，莉奈娅因保护同伴和动物而与其正面冲突；走私贩败退后，银色豚兽的下落仍需继续追查。",
+    "summary": "莉奈娅一行抵达指定调查地点并经过一段时间的蹲守，发现艾霍玛和耶洛正在谈论一只被丘丘人夺走的罕见豚兽。露米意外暴露了莉奈娅的位置，艾霍玛随即企图抓走露米，用它顶替丢失的走私货物。莉奈娅出面阻止，两名走私贩在冲突中被击败并落荒而逃。她调查遗留的笼子，确认银色豚兽不在现场，并依据耶洛提到的丘丘人转向附近搜寻。清除搜寻途中的敌人后，她发现了身处锅中的罕见银色豚兽。莉奈娅确认豚兽没有明显受伤，并推测它因适应纳塔的液态燃素而不惧锅中的温度，随后决定将它带回。",
+    "resolution": "银色豚兽回应了莉奈娅的带离提议，走私危机由此暂时解除。豚兽罕见的银色外观及其耐热表现为后续动物研究留下了观察价值。",
+    "themes": [
+      "野生动物保护",
+      "打击走私",
+      "生态调查",
+      "同伴守护",
+      "珍稀物种"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 76191,
+      "title": "动物调查·豚兽",
+      "summary": "莉奈娅一行通过蹲守锁定走私贩，却因露米意外现身而暴露，并在对方企图抓走露米时与其交战。走私贩败退后，空笼和耶洛的供述将调查方向指向丘丘人，莉奈娅遂在附近继续寻找。她清除阻碍并找到身处锅中的银色豚兽，确认其状况后决定将它带回。",
+      "turning_point": "走私贩败退后，笼中没有目标豚兽的事实使行动从制止走私转为依据丘丘人线索搜寻失踪动物。",
+      "outcome": "莉奈娅找到了未见明显受伤的银色豚兽，并获得了它对带离现场的积极回应。",
+      "section_ids": [
+        "76191-c00-s01",
+        "76191-c00-s02",
+        "76191-c00-s03",
+        "76191-c00-s04",
+        "76191-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "根据「旗舰」的消息，有一伙走私贩在纳塔劫掠了颜色罕见的豚兽…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "76191-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "蹲守指定地点等待目标",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "调查开始阶段",
+      "locations": [
+        "指定调查地点"
+      ],
+      "characters": [
+        "莉奈娅",
+        "露米"
+      ],
+      "summary": "调查开始后，莉奈娅一行前往指定地点，并在那里蹲守了一段时间。她们以等待可疑人员出现的方式推进对罕见豚兽走私事件的调查。",
+      "motivation": "莉奈娅一行需要锁定走私贩并查明罕见豚兽的去向。",
+      "outcome": "蹲守行动使调查进入接触走私贩的阶段。",
+      "keywords": [
+        "指定地点",
+        "蹲守",
+        "走私调查"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7619101,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7619102,
+          "title": "前往指定地点开启调查",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76191-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "窃听败露引发正面冲突",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "蹲守结束后",
+      "locations": [
+        "指定调查地点"
+      ],
+      "characters": [
+        "莉奈娅",
+        "露米",
+        "艾霍玛",
+        "耶洛"
+      ],
+      "summary": "莉奈娅听见艾霍玛斥责耶洛弄丢了至冬堡熟客预订的珍稀豚兽，耶洛则声称豚兽被一蓝一绿的丘丘人夺走。露米意外暴露了莉奈娅的位置，艾霍玛见其稀罕，便命令耶洛抓走露米以替代丢失的货物。莉奈娅为保护露米出面制止，两名走私贩随后在冲突中被击败。",
+      "motivation": "艾霍玛企图用露米弥补丢失走私货物造成的损失，莉奈娅则要保护露米并制止走私贩。",
+      "outcome": "艾霍玛和耶洛败退，莉奈娅获得了豚兽可能落入丘丘人之手的线索，并得以调查现场。",
+      "keywords": [
+        "走私贩",
+        "露米",
+        "丘丘人",
+        "正面冲突",
+        "击败敌人"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7619103,
+          "title": "制止盗宝团",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7619104,
+          "title": "击败敌人",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76191-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "空笼指向丘丘人线索",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "走私贩败退后",
+      "locations": [
+        "笼子附近"
+      ],
+      "characters": [
+        "莉奈娅"
+      ],
+      "summary": "走私贩落荒而逃后，莉奈娅检查现场的笼子，却没有发现被走私的豚兽。她由此重新考虑耶洛提到的丘丘人，并决定在附近寻找更多线索。",
+      "motivation": "莉奈娅需要确认银色豚兽是否仍在走私贩控制下，并追查它的实际去向。",
+      "outcome": "空笼排除了豚兽仍在原处的可能，调查方向转为搜寻附近区域。",
+      "keywords": [
+        "空笼",
+        "现场调查",
+        "丘丘人线索",
+        "豚兽去向"
+      ],
+      "source_step_keys": [
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 7619105,
+          "title": "调查笼子",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76191-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "循线寻找豚兽并清除阻碍",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "调查笼子之后",
+      "locations": [
+        "指定调查地点附近"
+      ],
+      "characters": [
+        "莉奈娅"
+      ],
+      "summary": "莉奈娅离开笼子附近，在周边继续寻找失踪的豚兽。搜寻途中出现敌人阻碍，她将其击败后继续推进调查。",
+      "motivation": "现场没有目标豚兽，莉奈娅必须沿现有线索扩大搜索范围。",
+      "outcome": "搜寻道路上的阻碍被清除，莉奈娅得以接近豚兽所在之处。",
+      "keywords": [
+        "寻找豚兽",
+        "周边搜寻",
+        "清除阻碍"
+      ],
+      "source_step_keys": [
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 7619106,
+          "title": "寻找豚兽",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7619107,
+          "title": "击败敌人",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76191-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "确认银色豚兽并带离现场",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "击败搜寻途中的敌人后",
+      "locations": [
+        "豚兽所在处"
+      ],
+      "characters": [
+        "莉奈娅",
+        "豚兽"
+      ],
+      "summary": "莉奈娅找到身处锅中的豚兽，确认它确实拥有罕见的银色外观，并非染色或误认。她观察到豚兽没有明显受伤，还发现它似乎不在意锅中的温度，因而联想到它可能已适应纳塔的液态燃素。莉奈娅决定先将豚兽带回，豚兽则以愉快的声音作出回应；其余调查目标未附带进一步文本。",
+      "motivation": "莉奈娅既想确认珍稀豚兽的真实状态，也要使它脱离当前环境并得到妥善安置。",
+      "outcome": "银色豚兽被确认安全存活，并表现出愿意跟随莉奈娅离开的态度，调查行动由此收束。",
+      "keywords": [
+        "银色豚兽",
+        "耐热表现",
+        "液态燃素",
+        "带回安置"
+      ],
+      "source_step_keys": [
+        "7",
+        "8",
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 7619108,
+          "title": "调查豚兽",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7619109,
+          "title": "调查豚兽",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7619110,
+          "title": "调查豚兽",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:36:13.360Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

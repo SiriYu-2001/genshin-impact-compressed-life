@@ -1,0 +1,336 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 20520,
+    "slug": "20520_only-half-frozen",
+    "title": "中度冰寒",
+    "chapter_num": "",
+    "premise": "在雪山中，冒险家汤米因接下「冷鲜肉」委托独自进山而迷路冻僵，向旅行者求救；旅行者需先帮他回暖脱险，再替他取来「冷鲜肉」以完成委托。",
+    "central_conflict": "严寒的雪山环境让缺乏经验又迷路的汤米濒临冻僵，其委托也随之搁浅；旅行者既要帮他脱离险境、恢复体温，又要代他完成「冷鲜肉」委托。",
+    "summary": "旅行者在雪山中遇见快被冻成冰块的冒险家汤米，汤米向其求救，拜托对方帮忙找热源或热菜。旅行者应允帮助，为他找到热源并送上美味的萝卜时蔬汤，使汤米回暖。回暖后的汤米讲述了自己因接下营地厨师哈里斯的「冷鲜肉」委托而进山、迷路险些冻死的经过，并拜托旅行者帮忙找一份「冷鲜肉」。旅行者按地图前往冰冻小猪出没之处取得「冷鲜肉」并交还汤米，汤米发现肉并无特别之处，仍道谢并坚持奉上报酬，委托就此完成。汤米留在山脚营地，仍打算日后完成炼金术士小姐的委托。",
+    "resolution": "旅行者取回「冷鲜肉」交给汤米，汤米道谢付酬，「冷鲜肉」委托完成，汤米保住了性命。汤米继续留在山脚营地，并仍计划日后完成炼金术士小姐的委托，为后续留下伏笔。",
+    "themes": [
+      "雪山求生",
+      "救助与报答",
+      "委托与责任",
+      "御寒与热食",
+      "成长与锻炼"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 20520,
+      "title": "中度冰寒",
+      "summary": "本章讲述旅行者在雪山中救下冻僵的冒险家汤米：旅行者应其请求帮他找到热源并送上美味的萝卜时蔬汤，使汤米回暖；回暖后的汤米道出自己接下营地厨师哈里斯的「冷鲜肉」委托、进山迷路险些冻死的经过，并拜托旅行者代为寻找「冷鲜肉」；旅行者最终取得冷鲜肉交还，汤米道谢付酬，委托完成。",
+      "turning_point": "汤米回暖后道出被困原委，并把寻找「冷鲜肉」的委托托付给旅行者，剧情由救助脱险转向完成委托。",
+      "outcome": "旅行者帮汤米取回「冷鲜肉」，汤米道谢并奉上报酬，哈里斯委托就此完成，汤米保住性命留在了山脚营地。",
+      "section_ids": [
+        "20520-c00-s01",
+        "20520-c00-s02",
+        "20520-c00-s03",
+        "20520-c00-s04",
+        "20520-c00-s05",
+        "20520-c00-s06"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在雪山中，快被冻成冰块的冒险家汤米还在惦记着自己那份未完成的委托…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "20520-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "汤米在雪山中冻僵向旅行者求救",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "时间未明确（汤米进雪山迷路后、濒临冻僵时）",
+      "locations": [
+        "雪山"
+      ],
+      "characters": [
+        "汤米",
+        "旅行者"
+      ],
+      "summary": "冒险家汤米在雪山中冻得几乎说不出话，见到旅行者后便向其求救。他拜托对方先帮他找个热源，或者找点热菜来，说自己实在太冷、快要受不住了。",
+      "motivation": "汤米在严寒中迷路冻僵，急需热源或热食保命。",
+      "outcome": "汤米获得获救的希望，旅行者决定出手相助。",
+      "keywords": [
+        "雪山",
+        "冻僵",
+        "求救",
+        "热源"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 2052001,
+          "title": "与汤米对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20520-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "旅行者应允帮汤米找热源或做热菜",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确（紧接汤米求救之后）",
+      "locations": [
+        "雪山"
+      ],
+      "characters": [
+        "汤米",
+        "旅行者"
+      ],
+      "summary": "旅行者回应汤米，表示可以去找热源，也可以去做热菜。汤米听后恳求对方务必快一点，称自己感觉马上就要被冻住了。",
+      "motivation": "旅行者想要尽快帮汤米脱离寒冷困境。",
+      "outcome": "帮助方式确定下来，旅行者随即开始行动。",
+      "keywords": [
+        "应允",
+        "热源",
+        "热菜",
+        "催促"
+      ],
+      "source_step_keys": [
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 2052002,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 2052003,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20520-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "旅行者寻来热源并送上萝卜时蔬汤",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确（汤米求救后不久）",
+      "locations": [
+        "雪山"
+      ],
+      "characters": [
+        "汤米",
+        "旅行者"
+      ],
+      "summary": "旅行者依约行动，为汤米找到热源，并制作、送上了美味的萝卜时蔬汤。等待期间汤米数次追问热源是否找到、菜是否做好，随后闻到汤的热气，急着要尝一尝。汤米的身体随之回暖。",
+      "motivation": "旅行者兑现帮助汤米回暖的承诺。",
+      "outcome": "汤米终于回暖，得以向旅行者讲述自己被困雪山的缘由。",
+      "keywords": [
+        "热源",
+        "萝卜时蔬汤",
+        "热菜",
+        "回暖"
+      ],
+      "source_step_keys": [
+        "3",
+        "7",
+        "4",
+        "8",
+        "5",
+        "10"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 2052004,
+          "title": "帮汤米寻找热源",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 2052009,
+          "title": "寻找「冷鲜肉」",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 2052005,
+          "title": "给汤米制作一份美味的萝卜时蔬汤",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 2052010,
+          "title": "将「冷鲜肉」交给汤米",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 2052006,
+          "title": "将美味的萝卜时蔬汤交给汤米",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 2052008,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20520-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "汤米道出委托缘由并托付冷鲜肉",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "时间未明确（汤米回暖之后）",
+      "locations": [
+        "雪山"
+      ],
+      "characters": [
+        "汤米",
+        "旅行者"
+      ],
+      "summary": "回暖后的汤米讲述来龙去脉：营地厨师哈里斯委托他去雪山找被冰冻的小猪身上的「冷鲜肉」，他原想借此锻炼自己、逐渐熟悉雪山，之后再完成炼金术士小姐的委托，却在进山后不久就迷了路，险些冻成冰块。他拜托旅行者帮自己找一份「冷鲜肉」，并把冰冻小猪出没的地点标在地图上，随后先行返回山脚营地等待消息。",
+      "motivation": "汤米想要完成哈里斯委托的「冷鲜肉」，并借此逐渐适应雪山，为日后完成炼金术士小姐的委托做准备。",
+      "outcome": "旅行者接下寻找「冷鲜肉」的委托，汤米先行返回山脚营地等待。",
+      "keywords": [
+        "冷鲜肉",
+        "委托",
+        "哈里斯",
+        "迷路"
+      ],
+      "source_step_keys": [
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 2052007,
+          "title": "与汤米对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20520-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "旅行者按地图前往寻找冷鲜肉",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确（汤米托付委托之后）",
+      "locations": [
+        "雪山"
+      ],
+      "characters": [
+        "汤米",
+        "旅行者"
+      ],
+      "summary": "旅行者按汤米标记的地图，前往雪山寻找「冷鲜肉」。汤米则在等待中感叹，费了这么大力气，为什么非要「冷鲜肉」不可。",
+      "motivation": "旅行者履行对汤米的承诺，取得「冷鲜肉」以完成委托。",
+      "outcome": "旅行者取得「冷鲜肉」，准备交予汤米。",
+      "keywords": [
+        "冷鲜肉",
+        "寻找",
+        "冰冻小猪",
+        "等待"
+      ],
+      "source_step_keys": [
+        "7",
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 2052009,
+          "title": "寻找「冷鲜肉」",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 2052011,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20520-c00-s06",
+      "chapter_index": 0,
+      "order": 6,
+      "title": "汤米收下冷鲜肉道谢并奉上报酬",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "时间未明确（旅行者取得冷鲜肉之后）",
+      "locations": [
+        "山脚营地"
+      ],
+      "characters": [
+        "汤米",
+        "旅行者"
+      ],
+      "summary": "旅行者将「冷鲜肉」交给汤米。汤米发现它除了摸起来冷冰冰的，似乎并无特别之处，但表示自己只管完成委托，随后感谢旅行者的帮助并坚持奉上报酬。",
+      "motivation": "汤米完成委托并报答旅行者的救命与相助之恩。",
+      "outcome": "「冷鲜肉」委托完成，汤米道谢并付酬，旅行者结束救助。",
+      "keywords": [
+        "冷鲜肉",
+        "交付",
+        "报酬",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "8",
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "8",
+          "id": 2052010,
+          "title": "将「冷鲜肉」交给汤米",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 2052011,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-18T19:24:27.896Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

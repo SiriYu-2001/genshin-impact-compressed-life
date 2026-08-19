@@ -1,0 +1,165 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 21018,
+    "slug": "21018_adventure-starts-with-hide-and-seek",
+    "title": "冒险从捉迷藏开始$UNRELEASED$HIDDEN",
+    "chapter_num": "",
+    "premise": "孩子们正在等一个愿意陪他们玩捉迷藏的人，玩家角色应约加入这场游戏，逐轮寻找藏起来的孩子。",
+    "central_conflict": "核心矛盾是捉迷藏游戏本身：孩子们藏起来等待被找到，玩家角色需要连续多轮找出藏起来的孩子，才能完成这场游戏。",
+    "summary": "本场景以一场捉迷藏游戏为开端：孩子们正在等待一个愿意陪他们玩捉迷藏的人，玩家角色应约加入。玩家角色连续多轮寻找藏起来的孩子，并将他们逐一找到，完成了捉迷藏环节。随后玩家角色与阿佑对话，本章剧情在此收束。原文未提供对话内容、具体时间与地点，整段剧情较为简略；本场景属于未发布隐藏内容，不应作为已公开的主线事实看待。",
+    "resolution": "捉迷藏游戏以藏起来的孩子全部被找到而告一段落，玩家角色与阿佑的对话为本章画上句号。该场景后续是否有续篇，原文未明确。",
+    "themes": [
+      "捉迷藏",
+      "童年游戏",
+      "陪伴",
+      "冒险的开端"
+    ],
+    "context_ref_ids": [
+      "ctx-01",
+      "ctx-02"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 21018,
+      "title": "冒险从捉迷藏开始$UNRELEASED$HIDDEN",
+      "summary": "本章围绕一场捉迷藏游戏展开：孩子们正在等一个愿意陪他们玩捉迷藏的人，玩家角色应约加入游戏。玩家角色连续多轮寻找并找到藏起来的孩子，完成捉迷藏环节，最后与阿佑对话。原文只给出任务步骤标题，未提供对话与场景细节。",
+      "turning_point": "玩家角色应约加入游戏并成功找到藏起来的孩子，使这场等待有人参与的捉迷藏得以开始并完成。",
+      "outcome": "藏起来的孩子被全部找到，玩家角色与阿佑完成对话，本章剧情收束。",
+      "section_ids": [
+        "21018-c00-s01",
+        "21018-c00-s02"
+      ],
+      "context_ref_ids": [
+        "ctx-01",
+        "ctx-02"
+      ],
+      "source_file": "chapter_00.json",
+      "source_description": "孩子们正在等一个愿意陪他们玩捉迷藏的人…$UNRELEASED$HIDDEN",
+      "is_hidden": true
+    }
+  ],
+  "sections": [
+    {
+      "id": "21018-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "寻找藏起来的孩子们",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "孩子们",
+        "玩家角色"
+      ],
+      "summary": "孩子们正在等一个愿意陪他们玩捉迷藏的人，玩家角色应约参与这场捉迷藏游戏。玩家角色连续多轮寻找藏起来的孩子，并将他们逐一找到。原文未明确具体时间与地点。",
+      "motivation": "孩子们想找人陪自己玩捉迷藏，玩家角色应约加入并承担寻找者的角色。",
+      "outcome": "藏起来的孩子被逐一找到，捉迷藏环节得以完成，剧情随之推进到与阿佑的对话。",
+      "keywords": [
+        "捉迷藏",
+        "寻找",
+        "藏起来的孩子",
+        "孩子们"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 2101803,
+          "title": "找到藏起来的孩子$UNRELEASED",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 2101805,
+          "title": "找到藏起来的孩子$UNRELEASED",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 2101807,
+          "title": "找到藏起来的孩子$UNRELEASED",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 2101809,
+          "title": "找到藏起来的孩子$UNRELEASED",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "21018-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "找到孩子后与阿佑对话",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "阿佑",
+        "玩家角色"
+      ],
+      "summary": "找到藏起来的孩子之后，玩家角色与阿佑对话，本章剧情在此收束。对话的具体内容原文未明确，时间与地点也未明确。",
+      "motivation": "原文未明确玩家角色与阿佑对话的具体原因。",
+      "outcome": "玩家角色与阿佑完成对话，本章剧情就此结束；对话产生的后续影响原文未明确。",
+      "keywords": [
+        "阿佑",
+        "对话",
+        "收束"
+      ],
+      "source_step_keys": [
+        "4"
+      ],
+      "context_ref_ids": [
+        "ctx-01",
+        "ctx-02"
+      ],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 2101812,
+          "title": "与阿佑对话$UNRELEASED",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [
+    {
+      "id": "ctx-01",
+      "path": "41331_qingces-lanterns/chapter_00.json",
+      "reason": "目标文本仅给出与阿佑对话的步骤，未说明阿佑的身份；该世界任务显示阿佑是轻策庄的孩童，常在村里与孩子们一同游戏。",
+      "fact": "阿佑是轻策庄的孩童，与村里其他孩子一起玩耍，游戏时曾说出又没抓到的感叹。"
+    },
+    {
+      "id": "ctx-02",
+      "path": "71815_guests-in-qingce/chapter_00.json",
+      "reason": "进一步确认阿佑的孩童身份与轻策庄背景，并说明阿佑与玩家角色以哥哥或姐姐相称的相处关系，帮助理解目标场景中与阿佑的对话。",
+      "fact": "阿佑是轻策庄的孩子，会参与村中活动，称呼玩家角色为哥哥或姐姐。"
+    }
+  ],
+  "generated": {
+    "at": "2026-08-18T20:05:22.447Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

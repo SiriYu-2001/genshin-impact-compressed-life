@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70705,
+    "slug": "70705_connors-brew",
+    "title": "康纳的酿酒材料需求",
+    "chapter_num": "",
+    "premise": "晨曦酒庄的康纳需要三份冰雾花花朵用于酿酒，旅行者前来确认并完成这项委托。",
+    "central_conflict": "康纳的酿酒工作取决于材料能否及时集齐，旅行者必须备妥三份冰雾花花朵才能推进委托。",
+    "summary": "时间未明确，旅行者在晨曦酒庄向康纳提起冰雾花花朵的委托。康纳询问三份材料是否已经集齐，并表明自己正等着用它们酿酒。旅行者确认完成收集后，康纳接收并检查了这些花朵。材料的质量令康纳满意，酿酒所需的准备因而得以继续。康纳向旅行者致谢并交付酬谢物，委托随之完成。",
+    "resolution": "康纳取得了质量良好的三份冰雾花花朵，并以酬谢物回报旅行者的帮助。材料需求得到解决，其酿酒工作可以继续进行。",
+    "themes": [
+      "委托履行",
+      "材料收集",
+      "酿酒准备",
+      "互助与酬谢"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70705,
+      "title": "康纳的酿酒材料需求",
+      "summary": "旅行者前往晨曦酒庄回应康纳对三份冰雾花花朵的需求，康纳确认材料是否已经集齐，并催促尚未完成的收集工作。旅行者完成收集后，康纳验收了质量良好的花朵，随后致谢并给予酬谢，使委托顺利结束。",
+      "turning_point": "旅行者确认已经集齐三份冰雾花花朵，使委托从材料等待转入验收与结算。",
+      "outcome": "康纳获得了符合要求的酿酒材料，旅行者收到酬谢，委托完成。",
+      "section_ids": [
+        "70705-c00-s01",
+        "70705-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "晨曦酒庄的康纳需要三份冰雾花花朵。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70705-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "康纳确认花朵收集进度",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "时间未明确，材料收集阶段",
+      "locations": [
+        "晨曦酒庄"
+      ],
+      "characters": [
+        "康纳",
+        "旅行者"
+      ],
+      "summary": "时间未明确，旅行者在晨曦酒庄向康纳提起冰雾花花朵的委托。康纳询问三份花朵是否已经集齐，并说明自己正等着用这些材料酿酒；若收集尚未完成，他会要求旅行者加快进度。旅行者确认材料已经集齐后，委托进入验收阶段。",
+      "motivation": "康纳需要尽快取得三份冰雾花花朵以推进酿酒，旅行者则要确认并完成受托的材料收集。",
+      "outcome": "旅行者确认完成收集，使康纳能够接收并检查材料；尚未集齐的可选回应只会暂缓委托进度。",
+      "keywords": [
+        "冰雾花花朵",
+        "材料收集",
+        "进度确认",
+        "酿酒"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7070501,
+          "title": "将三份冰雾花花朵交给康纳",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70705-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "康纳验收材料并致谢",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "时间未明确，材料交付后",
+      "locations": [
+        "晨曦酒庄"
+      ],
+      "characters": [
+        "康纳",
+        "旅行者"
+      ],
+      "summary": "材料交付后，康纳检查了三份冰雾花花朵，并认为它们质量不错。他向旅行者表达感谢，同时交付酬谢物作为回报。康纳的材料需求由此得到满足。",
+      "motivation": "康纳需要验收酿酒材料并答谢完成委托的旅行者。",
+      "outcome": "花朵通过验收，旅行者获得酬谢，康纳可以继续酿酒，委托随之完成。",
+      "keywords": [
+        "材料验收",
+        "品质认可",
+        "酬谢",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7070502,
+          "title": "与康纳对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:56:29.131Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

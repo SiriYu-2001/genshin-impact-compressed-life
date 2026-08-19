@@ -1,0 +1,83 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73665,
+    "slug": "73665_eremite-mayhem",
+    "title": "镀金旅团引起的混乱",
+    "chapter_num": "",
+    "premise": "无人约束的镀金旅团正在作乱，一名原文未具名的行动者需要将其击退。",
+    "central_conflict": "镀金旅团失去约束并制造混乱，行动者必须以武力制止其活动。",
+    "summary": "时间与地点均未明确，无人约束的镀金旅团开始作乱。混乱构成了本 scene 的直接危机，也确立了制止他们的目标。原文未具名的行动者随后着手击退镀金旅团。双方的对抗是唯一明确的剧情推进，也是本 scene 的核心冲突。镀金旅团遭到击退，其当前造成的混乱由此得到遏制。原文没有进一步说明事态后续或相关人物去向。",
+    "resolution": "行动者以击退镀金旅团的方式制止了当前混乱。原文未交代此事是否留下进一步影响。",
+    "themes": [
+      "平息混乱",
+      "武力制止"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73665,
+      "title": "镀金旅团引起的混乱",
+      "summary": "本章围绕制止无人约束的镀金旅团展开。镀金旅团作乱形成危机，原文未具名的行动者随即与其对抗。随着镀金旅团被击退，当前混乱得到遏制。",
+      "turning_point": "行动者由面对镀金旅团作乱转为直接将其击退。",
+      "outcome": "作乱的镀金旅团被击退，当前冲突随之结束。",
+      "section_ids": [
+        "73665-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "无人约束的镀金旅团正在作乱…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73665-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "行动者击退作乱的镀金旅团",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "行动者（原文未具名）",
+        "镀金旅团"
+      ],
+      "summary": "时间未明确，地点未明确，无人约束的镀金旅团正在作乱。原文未具名的行动者为制止混乱而与其对抗，并将镀金旅团击退，使当前危机得到遏制。",
+      "motivation": "行动者需要制止无人约束的镀金旅团继续作乱。",
+      "outcome": "镀金旅团被击退，当前混乱得到遏制；原文未明确进一步影响。",
+      "keywords": [
+        "镀金旅团",
+        "作乱",
+        "击退",
+        "平息混乱"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7366501,
+          "title": "击退镀金旅团",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:17:41.178Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

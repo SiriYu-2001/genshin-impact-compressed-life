@@ -1,0 +1,125 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 74658,
+    "slug": "74658_etiennes-raw-meat-request",
+    "title": "安托万的兽肉需求",
+    "chapter_num": "",
+    "premise": "疲惫的安托万需要来访者交付8份兽肉，以便为贝格艾蒂准备食物并尽快休息。",
+    "central_conflict": "安托万急于完成备餐，但委托能否推进取决于来访者是否已经备齐兽肉。",
+    "summary": "时间与地点均未明确，来访者就兽肉一事找到安托万。疲惫不堪的安托万将来访者视为救星，并确认对方是否备齐8份兽肉。他说明自己要先为贝格艾蒂准备好食物，之后才能休息。若兽肉尚未备齐，安托万会催促来访者加快准备，交付也随之延后；主线推进则以兽肉准备完成为条件。来访者完成交付后，安托万表示感谢并给予回报。他还承诺下一顿会有好吃的，使这次物资请求在期待后续餐食的轻松气氛中收束。",
+    "resolution": "来访者交付8份兽肉后，安托万得以继续为贝格艾蒂备餐，并向来访者致谢和给予回报。安托万关于下一顿美食的承诺为后续互动留下期待。",
+    "themes": [
+      "物资援助",
+      "疲惫与休息",
+      "照料伙伴",
+      "互惠回报"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 74658,
+      "title": "安托万的兽肉需求",
+      "summary": "本章围绕向安托万交付8份兽肉展开。安托万因急于为贝格艾蒂备餐并休息而确认物资是否齐全，未备齐时会催促来访者，备齐后则接受交付。任务完成后，他向来访者致谢、给予回报，并以对下一顿美食的承诺结束委托。",
+      "turning_point": "来访者确认兽肉已经准备完毕，使安托万的催促转为对成功交付的感谢。",
+      "outcome": "安托万收到所需的8份兽肉，可以继续为贝格艾蒂准备食物；来访者获得回报，并得到下一顿会有好吃的承诺。",
+      "section_ids": [
+        "74658-c00-s01",
+        "74658-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "安托万需要8份兽肉。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "74658-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "安托万催促交付兽肉",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "交付8份兽肉时，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "安托万",
+        "{NICKNAME}"
+      ],
+      "summary": "来访者就兽肉一事找到安托万，安托万疲惫地将对方称作救星，并询问8份兽肉是否已经备齐。他希望先用兽肉为贝格艾蒂准备食物，再去休息；若来访者选择表示尚未备齐，他会催促对方加快准备。任务的实际推进以兽肉准备完成并交付为条件。",
+      "motivation": "安托万需要尽快取得兽肉，为贝格艾蒂准备食物，并在完成工作后休息。",
+      "outcome": "兽肉备齐后可以完成交付并进入答谢环节；若尚未备齐，交付暂时延后，安托万要求来访者尽快完成准备。",
+      "keywords": [
+        "8份兽肉",
+        "安托万",
+        "贝格艾蒂",
+        "催促",
+        "交付"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7465801,
+          "title": "将8份兽肉交给安托万",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "74658-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "安托万答谢来访者",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "兽肉交付完成后，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "安托万",
+        "{NICKNAME}"
+      ],
+      "summary": "兽肉交付完成后，安托万向来访者表示感谢并交付回报。他让来访者期待下一顿好吃的，以未来的餐食承诺结束这次请求。",
+      "motivation": "安托万因来访者满足兽肉需求而表达谢意，并以回报和餐食承诺回应对方的帮助。",
+      "outcome": "委托完成，来访者获得回报，安托万也留下下一顿美食的后续期待。",
+      "keywords": [
+        "感谢",
+        "回报",
+        "美食承诺",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7465802,
+          "title": "与安托万对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:26:31.491Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

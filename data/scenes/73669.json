@@ -1,0 +1,84 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73669,
+    "slug": "73669_ruin-drake-maelstrom",
+    "title": "遗迹龙兽引起的混乱",
+    "chapter_num": "",
+    "premise": "遗迹龙兽正在作乱，任务由此要求执行任务者将其击退，以制止当前的混乱。",
+    "central_conflict": "遗迹龙兽造成威胁，而执行任务者必须通过正面冲突排除这一威胁。",
+    "summary": "遗迹龙兽的活动引发了混乱。任务目标随即被明确为击退这台正在作乱的机械敌人。执行任务者需要与遗迹龙兽发生正面冲突，以阻止其继续制造威胁。原文没有交代具体地点、战斗过程及其他参与者。剧情以击退遗迹龙兽这一目标作为本段任务的直接收束，也未说明事件对后续剧情的影响。",
+    "resolution": "本段以击退遗迹龙兽作为解决混乱的直接方式。原文未交代战斗细节、目标最终状态或后续影响。",
+    "themes": [
+      "机械威胁",
+      "平息混乱",
+      "正面冲突"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73669,
+      "title": "遗迹龙兽引起的混乱",
+      "summary": "本章围绕遗迹龙兽作乱造成的威胁展开，唯一明确目标是将其击退。冲突由机械敌人的活动直接引发，并以正面排除该威胁作为解决方式。原文没有提供战斗经过、具体地点或后续影响。",
+      "turning_point": "任务目标被明确为击退正在作乱的遗迹龙兽。",
+      "outcome": "剧情以击退遗迹龙兽作为直接任务结果，但原文未进一步说明其最终状态及后续影响。",
+      "section_ids": [
+        "73669-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "遗迹龙兽正在作乱…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73669-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "执行击退遗迹龙兽的任务",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "遗迹龙兽作乱期间",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "遗迹龙兽",
+        "执行任务者（原文未具名）"
+      ],
+      "summary": "遗迹龙兽正在地点未明确的区域作乱，并由此引发混乱。任务要求未具名的执行任务者将其击退，以制止其继续造成威胁。原文没有呈现具体战斗过程或明确的后续情况。",
+      "motivation": "遗迹龙兽正在作乱，需要将其击退以平息混乱。",
+      "outcome": "击退遗迹龙兽被设定为本段的直接任务结果，但原文未明确描述战斗经过及其后续影响。",
+      "keywords": [
+        "遗迹龙兽",
+        "作乱",
+        "击退",
+        "机械威胁"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7366901,
+          "title": "击退遗迹龙兽",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:18:05.548Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

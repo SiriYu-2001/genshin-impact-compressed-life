@@ -1,0 +1,258 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 77130,
+    "slug": "77130_like-a-labyrinth-imprisons-her-servants",
+    "title": "如迷宫囚禁她的奴仆",
+    "chapter_num": "",
+    "premise": "曾被锁链束缚在冰原上的冰雪巨人出现在海边，旅行者与派蒙因在意其去向而决定跟随观察。",
+    "central_conflict": "冰雪巨人在前进途中不断受到锁链与影域限制，旅行者必须逐一解除阻碍，才能继续追查它走向海边与灯塔附近的目的。",
+    "summary": "旅行者与派蒙接近海边的巨大身影，确认对方是一只体型异常庞大的雪精。对话可能将其巨大体型与失控联系起来，派蒙则由锁链想到它受到的长期束缚，并对其处境产生同情。两人发现巨人没有四处破坏，反而像是执意走向海上，因此决定跟随调查。旅行者随后靠近并追赶冰雪巨人，在行进途中三次解开限制它的锁链，使追踪得以持续。当前区域的影域成为进一步阻碍，旅行者将其解除后继续沿巨人的方向前进。行动最终推进至灯塔附近，但巨人真正想抵达何处以及为何前往那里仍未揭晓。",
+    "resolution": "旅行者排除了锁链与影域造成的阻碍，并将追踪推进到灯塔附近。冰雪巨人的目的仍然成谜，为后续调查留下悬念。",
+    "themes": [
+      "挣脱束缚",
+      "追踪未知",
+      "同情受困者",
+      "失控疑云",
+      "目的地之谜"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77130,
+      "title": "如迷宫囚禁她的奴仆",
+      "summary": "旅行者与派蒙在海边发现曾受锁链束缚的冰雪巨人，并因它没有破坏周围、只是一心前行而决定追踪。旅行者在跟随过程中三次解开限制巨人的锁链，随后解除当地影域，持续为它与调查行动清除阻碍。追踪最终延伸至灯塔附近，但巨人的真实目的没有得到说明。",
+      "turning_point": "旅行者从远距离观察转为主动跟随，并连续解开锁链、解除影域，使受阻的巨人得以继续前进。",
+      "outcome": "冰雪巨人前进道路上的多重限制被解除，旅行者也追踪至灯塔附近，但其目的地与行动缘由仍待查明。",
+      "section_ids": [
+        "77130-c00-s01",
+        "77130-c00-s02",
+        "77130-c00-s03",
+        "77130-c00-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "曾一度被锁链捆缚于冰原之上的巨人这次出现在了海边…他到底想要去往什么地方？",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77130-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "海边巨影引发追踪",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "冰雪巨人出现在海边后",
+      "locations": [
+        "海边"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "冰雪巨人"
+      ],
+      "summary": "旅行者与派蒙接近海边的巨大身影，认出它是一只体型异常庞大的雪精。旅行者可将其体型与失控联系起来，派蒙则猜测锁链或许用于抑制失控，同时同情它遭受束缚；无论选择何种回应，两人都注意到巨人没有四处破坏。巨人似乎正走向海上，旅行者与派蒙因在意其目的地而决定跟上查看。",
+      "motivation": "旅行者与派蒙对冰雪巨人的异常体型、锁链以及走向海上的意图感到疑惑，并希望弄清它要去哪里。",
+      "outcome": "两人由观察转为追踪，开始主动接近并跟随冰雪巨人。",
+      "keywords": [
+        "海边巨影",
+        "巨大雪精",
+        "锁链",
+        "去向之谜"
+      ],
+      "source_step_keys": [
+        "1",
+        "2",
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7713007,
+          "title": "接近海边巨大的身影",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7713002,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        },
+        {
+          "key": "0",
+          "id": 7713001,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77130-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "旅行者接连解开锁链",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "开始追踪冰雪巨人后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "冰雪巨人"
+      ],
+      "summary": "旅行者靠近冰雪巨人并跟随它前进，在途中反复遭遇限制巨人的锁链。旅行者三次解开锁链，并在每次解除限制后继续追赶。连续的解缚使巨人的行进与旅行者的调查都得以向前推进。",
+      "motivation": "旅行者需要清除限制巨人的锁链，才能继续跟随并查明它的去向。",
+      "outcome": "三处锁链限制被依次解除，追踪行动得以延续至影域所在区域。",
+      "keywords": [
+        "跟随巨人",
+        "解除锁链",
+        "连续追踪",
+        "挣脱束缚"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7713018,
+          "title": "靠近冰雪巨人",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7713005,
+          "title": "跟上冰雪巨人",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7713006,
+          "title": "解开限制巨人的锁链",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7713009,
+          "title": "跟上冰雪巨人",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7713010,
+          "title": "解开限制巨人的锁链",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7713014,
+          "title": "跟上冰雪巨人",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7713015,
+          "title": "解开限制巨人的锁链",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77130-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "影域阻碍被彻底解除",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "三次解开巨人锁链后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "冰雪巨人"
+      ],
+      "summary": "完成数次解缚后，旅行者面对笼罩此处的影域。旅行者解除影域，排除了继续前进的区域性阻碍。巨人与追踪者由此获得通往下一地点的条件。",
+      "motivation": "影域阻断了当前路线，旅行者必须将其解除才能继续追踪。",
+      "outcome": "此处影域被解除，行动目标随即转向灯塔附近。",
+      "keywords": [
+        "影域",
+        "解除阻碍",
+        "路线打通"
+      ],
+      "source_step_keys": [
+        "10"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "10",
+          "id": 7713016,
+          "title": "解除此处的影域",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77130-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "追踪延伸至灯塔附近",
+      "narrative_role": "transition",
+      "importance": 3,
+      "when": "影域解除后",
+      "locations": [
+        "灯塔附近"
+      ],
+      "characters": [
+        "旅行者",
+        "冰雪巨人"
+      ],
+      "summary": "影域消散后，旅行者继续沿追踪方向前往灯塔附近。调查由清除沿途限制转入寻找巨人最终去向的新阶段。原文没有揭示巨人抵达海边与灯塔附近的真正目的。",
+      "motivation": "旅行者仍希望确认冰雪巨人要前往何处，因此继续向灯塔附近追踪。",
+      "outcome": "追踪路线推进至灯塔附近，巨人的目的仍作为后续悬念保留。",
+      "keywords": [
+        "灯塔附近",
+        "继续追踪",
+        "目的未明"
+      ],
+      "source_step_keys": [
+        "11"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "11",
+          "id": 7713020,
+          "title": "前往灯塔附近",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:38:44.602Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

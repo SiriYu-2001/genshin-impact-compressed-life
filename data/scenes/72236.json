@@ -1,0 +1,123 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72236,
+    "slug": "72236_tricolor-file",
+    "title": "三色档案",
+    "chapter_num": "",
+    "premise": "宫地拒绝交出实验记录，其隐瞒原因引起主角怀疑，主角决定继续调查并寻找相关记录。",
+    "central_conflict": "主角需要查明宫地拒交记录的缘由，但现有线索不足，只能通过残影与实验区域中的记录追索真相。",
+    "summary": "宫地不愿交出实验记录，促使主角判断其中另有隐情。主角首先与禁区的残影对话，尝试从残留的信息中取得调查线索。对话的具体内容与结论在原文中未明确。随后，调查转入实验区域，主角开始直接寻找实验记录。剧情由询问线索推进到搜寻实物证据，但是否找到记录及宫地隐瞒的真相均未在原文中交代。",
+    "resolution": "本 scene 以主角进入实验区域搜寻记录收束，使调查从怀疑和询问进入取证阶段。实验记录的下落及宫地拒交记录的原因仍待后续说明。",
+    "themes": [
+      "隐瞒",
+      "调查",
+      "实验记录",
+      "线索追索"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72236,
+      "title": "三色档案",
+      "summary": "本章围绕宫地拒绝交出实验记录的异常举动展开，主角为查明原因而继续调查。主角先与禁区的残影对话，再前往实验区域寻找实验记录，使调查从获取口头线索转向搜寻实物证据。原文未说明对话所得信息、搜寻结果或宫地的真实动机。",
+      "turning_point": "调查重点从与禁区的残影对话转为在实验区域直接搜寻实验记录。",
+      "outcome": "主角开始在实验区域取证，但实验记录是否被找到以及宫地隐瞒的原因均未明确。",
+      "section_ids": [
+        "72236-c00-s01",
+        "72236-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "宫地不想交出实验记录一定事出有因，你决定继续调查…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72236-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "与禁区残影展开交谈",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "继续调查宫地拒交记录之际",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "主角",
+        "禁区的残影"
+      ],
+      "summary": "主角因宫地不愿交出实验记录而继续调查，并与禁区的残影展开对话。主角试图借此取得与实验记录或宫地异常态度有关的线索，但对话内容及所得信息在原文中未明确。",
+      "motivation": "主角希望查明宫地拒绝交出实验记录的原因，并获得可供继续追查的线索。",
+      "outcome": "调查完成了与残影交谈的阶段，随后转向实验区域内的实物搜寻；具体对话成果未明确。",
+      "keywords": [
+        "宫地",
+        "禁区的残影",
+        "对话",
+        "调查线索"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7223601,
+          "title": "与禁区的残影对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "72236-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "在实验区域搜寻记录",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "与禁区的残影对话后",
+      "locations": [
+        "实验区域"
+      ],
+      "characters": [
+        "主角"
+      ],
+      "summary": "主角随后进入实验区域寻找实验记录，将调查重点转向直接取得相关证据。原文只明确了搜寻目标，没有说明记录是否被找到，也未揭示其中记载的内容。",
+      "motivation": "主角需要通过实验记录查证宫地拒交记录背后的缘由。",
+      "outcome": "调查进入搜寻实物证据的阶段，但搜寻结果和真相均未在原文中明确。",
+      "keywords": [
+        "实验区域",
+        "实验记录",
+        "搜寻",
+        "实物证据"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7223602,
+          "title": "在实验区域寻找实验记录",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:07:38.903Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

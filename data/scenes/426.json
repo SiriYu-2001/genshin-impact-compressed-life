@@ -1,0 +1,243 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 426,
+    "slug": "426_paimons-hint-after-sitting",
+    "title": "坐下后派蒙的提示$UNRELEASED",
+    "chapter_num": "",
+    "premise": "旅行者与派蒙在坐下休息后，派蒙询问接下来的计划，并依据玩家选择给出关于任务、探索与变强途径的新手提示。本场景为标记未发布（$UNRELEASED）的内容。",
+    "central_conflict": "本场景不存在人物间的实质冲突，核心是派蒙依据玩家的选择提供不同的新手提示；对话推进的动力来自玩家在任务、探索、变强与结束对话之间的方向选择。",
+    "summary": "本场景是标记为未发布（$UNRELEASED）的派蒙提示对话。开场派蒙邀请旅行者坐下来休息，并询问接下来有什么计划，玩家可以在想做任务、想四处逛逛、想要变强或让派蒙回去之间作出选择。选择任务方向时，派蒙讲解点开左上角叹号图标可查看已接取的任务，并提醒任务有难度等级，差距过大会很棘手；选择探索方向时，派蒙说明不同区域也有对应难度，建议挑战适合难度的区域，并提到蒙德城商业街上冒险家协会的艾尔菲可帮忙推荐探索区域；选择变强方向时，派蒙介绍武器与圣遗物的获取、购买、强化突破，以及角色等级的重要性。回答完一个话题后，派蒙会再次询问还有什么想了解的，形成可选循环，直到玩家表示没有疑问并请派蒙回去，派蒙以“嗯嗯~”回应，对话结束。全场景以派蒙的引导性问答为主线，没有情节冲突与转折。",
+    "resolution": "玩家在派蒙的反复询问下表示没有其他疑问并请派蒙回去，派蒙回应后对话收束。作为未发布的新手提示内容，它对正式主线剧情的影响原文未明确。",
+    "themes": [
+      "新手引导",
+      "伙伴提示",
+      "玩家自主选择",
+      "成长途径",
+      "提瓦特探索"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 426,
+      "title": "坐下后派蒙的提示$UNRELEASED",
+      "summary": "本章是标记为未发布（$UNRELEASED）的派蒙提示对话。派蒙在坐下休息后询问旅行者的计划，玩家可在想做任务、想四处逛逛、想要变强或结束对话四个方向中选择；派蒙据此分别给出查看任务与难度、区域难度与咨询艾尔菲、武器圣遗物强化突破与角色等级等提示。回答完一个话题后派蒙会再次询问是否还有疑问，形成可选循环，直到玩家主动表示没有疑问并请派蒙回去，对话才收束。本章以引导性问答为主，无实质冲突。",
+      "turning_point": "原文未明确",
+      "outcome": "派蒙根据玩家选择提供了对应方向的提示，玩家获知任务查看、探索区域与变强途径等指引；对话在玩家主动结束并请派蒙回去后收束。",
+      "section_ids": [
+        "426-c00-s01",
+        "426-c00-s02",
+        "426-c00-s03",
+        "426-c00-s04",
+        "426-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "",
+      "is_hidden": true
+    }
+  ],
+  "sections": [
+    {
+      "id": "426-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "派蒙邀旅行者坐下询问计划",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "派蒙",
+        "玩家"
+      ],
+      "summary": "派蒙邀请旅行者坐下来休息一会，并询问接下来有什么计划。玩家可以选择想做任务、想四处逛逛、想要变强，或表示没什么并请派蒙回去。玩家的选择决定了后续对话进入哪个提示分支。",
+      "motivation": "派蒙希望在休息时了解旅行者接下来的安排，以便提供相应的建议。",
+      "outcome": "玩家作出方向选择，对话据此进入不同的提示分支。",
+      "keywords": [
+        "坐下休息",
+        "询问计划",
+        "玩家选择",
+        "派蒙提示"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 42601,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "426-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "派蒙讲解任务查看与难度提示",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "派蒙",
+        "玩家"
+      ],
+      "summary": "玩家选择想做任务后，派蒙说明点开左上角的叹号图标就能看到已经接取的任务。派蒙接着提醒任务有难度等级，等级相差太多的话会很棘手。",
+      "motivation": "玩家想去做任务，派蒙为此解答查看任务与判断难度的方式。",
+      "outcome": "玩家获知任务界面的查看方法以及任务难度等级的提醒。",
+      "keywords": [
+        "任务",
+        "叹号图标",
+        "难度等级",
+        "接取任务"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 42601,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "426-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "派蒙介绍探索区域与难度选择",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "派蒙",
+        "玩家"
+      ],
+      "summary": "玩家选择想四处逛逛后，派蒙说明不同区域也有对应的难度等级，挑战适合难度的区域才能最有效地提升实力。派蒙提到冒险家协会的艾尔菲对提瓦特大陆了如指掌，就在蒙德城进门的商业街上，可以去问她有没有适合的探索区域。",
+      "motivation": "玩家想四处探索，派蒙希望引导玩家选择与自身实力匹配的区域。",
+      "outcome": "玩家得知区域难度机制，并被引导前往蒙德城向艾尔菲咨询适合的探索区域。",
+      "keywords": [
+        "区域难度",
+        "探索",
+        "艾尔菲",
+        "蒙德城",
+        "冒险家协会"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 42601,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "426-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "派蒙讲解武器圣遗物与变强途径",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "派蒙",
+        "玩家"
+      ],
+      "summary": "玩家选择想要变强后，派蒙指出变强离不开趁手的武器和珍贵的圣遗物，听说地下城里有不少好东西但比较凶险，也可以在蒙德城商业街上购买。派蒙还提到武器和圣遗物都可以强化和突破，并提醒角色自身的等级也很重要。",
+      "motivation": "玩家希望变强，派蒙因此介绍提升实力的各类途径。",
+      "outcome": "玩家了解到武器、圣遗物的获取、购买、强化突破以及角色等级等变强方式。",
+      "keywords": [
+        "武器",
+        "圣遗物",
+        "强化突破",
+        "角色等级",
+        "变强"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 42601,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "426-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "玩家结束提问与派蒙道别",
+      "narrative_role": "resolution",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "派蒙",
+        "玩家"
+      ],
+      "summary": "派蒙询问玩家还有什么想了解的，玩家可以再次选择之前的话题或表示没什么并请派蒙回去。玩家选择“没啥，你先回去吧~”后，派蒙以“嗯嗯~”回应，对话随之结束。",
+      "motivation": "派蒙确认玩家是否还有疑问，玩家没有更多问题并请派蒙回去。",
+      "outcome": "对话结束并完成收束；作为未发布内容，其对后续的影响原文未明确。",
+      "keywords": [
+        "结束对话",
+        "请派蒙回去",
+        "道别",
+        "提示问答"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 42601,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-18T09:45:56.460Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

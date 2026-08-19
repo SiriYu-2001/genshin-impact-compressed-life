@@ -1,0 +1,168 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 76087,
+    "slug": "76087_the-lost-childs-tale",
+    "title": "迷路孩童的诉说",
+    "chapter_num": "",
+    "premise": "菲林斯寻找阿德娜的安眠处，并试图帮助哭泣的幽影找回归家的方向。幽影对父母姓名的认知成为引导她回家的关键。",
+    "central_conflict": "阿德娜化作的幽影因迷失方向而不断哭泣，无法独自回到父母身边。菲林斯必须以找到达诺妲与哈马莱宁的消息唤起她对家的记忆。",
+    "summary": "菲林斯首先找到阿德娜的安眠处，为接触这名迷路孩童的幽影创造条件。哭泣的幽影仍在反复诉说自己找不到要寻找的事物。菲林斯告诉她，自己已经找到了达诺妲与哈马莱宁。幽影随即认出这两人是等待自己的爸爸妈妈，并决定前去见他们。此后，她宣称自己已经找到回家的路，还看见亮着的灯、母亲做的热派以及等候她的父亲。阿德娜最终以向父母呼喊自己归来的方式结束迷途。",
+    "resolution": "阿德娜借由父母的姓名和家中的温暖记忆确认了归途，并在想象或幽灵感知中的家与双亲重聚。她不再停留于无助的哭泣，本次寻找迷路孩童的行动由此收束。",
+    "themes": [
+      "迷失与归家",
+      "亲情牵引",
+      "姓名与记忆",
+      "幽灵安息"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 76087,
+      "title": "迷路孩童的诉说",
+      "summary": "菲林斯以寻找阿德娜的安眠处为起点，接触了不断哭泣的幽影。得知达诺妲与哈马莱宁已经被找到后，幽影认出他们是自己的父母，迷失状态由此发生转变。她随后循着关于灯火、热派和双亲等家的记忆宣告归来，使这段迷途得到收束。",
+      "turning_point": "菲林斯说出已经找到达诺妲与哈马莱宁后，幽影认出父母并从哭泣迷失转为主动归家。",
+      "outcome": "阿德娜确认自己找到了回家的路，并在父母仍在等待她的认知中完成归家。",
+      "section_ids": [
+        "76087-c00-s01",
+        "76087-c00-s02",
+        "76087-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "倾听幽灵的低语，找回他们的名字。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "76087-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "菲林斯寻得阿德娜安眠处",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "寻找阿德娜安眠处阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "菲林斯",
+        "阿德娜"
+      ],
+      "summary": "时间未明确，菲林斯在地点未明确之处寻找并找到阿德娜的安眠处。这一行动为接触与阿德娜有关的哭泣幽影、倾听她的诉说奠定了基础。",
+      "motivation": "菲林斯希望循着幽灵的低语确认阿德娜的身份与安眠之处，并帮助迷路的孩童幽影。",
+      "outcome": "阿德娜的安眠处被找到，后续与哭泣幽影的直接交流得以展开。",
+      "keywords": [
+        "阿德娜",
+        "安眠处",
+        "寻找",
+        "幽影"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7608702,
+          "title": "找到「阿德娜」的安眠处",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76087-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "幽影听闻双亲姓名决定归家",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "找到阿德娜安眠处之后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "菲林斯",
+        "哭泣的幽影",
+        "达诺妲",
+        "哈马莱宁"
+      ],
+      "summary": "找到安眠处之后，哭泣的幽影仍反复诉说自己找不到要寻找的事物。菲林斯告诉她，达诺妲与哈马莱宁已经被找到；幽影随即认出两人是自己的爸爸妈妈，并决定前去见他们。",
+      "motivation": "菲林斯试图用已经找到达诺妲与哈马莱宁的消息解除幽影的迷惘，而幽影渴望回到等待自己的父母身边。",
+      "outcome": "父母的姓名唤起了幽影的亲情记忆，她停止原地迷失并产生了明确的归家目标。",
+      "keywords": [
+        "哭泣的幽影",
+        "父母姓名",
+        "达诺妲",
+        "哈马莱宁",
+        "归家"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7608703,
+          "title": "与哭泣的幽影对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76087-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "阿德娜循着家中灯火归来",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "幽影决定寻找父母之后",
+      "locations": [
+        "阿德娜认知中的家"
+      ],
+      "characters": [
+        "阿德娜",
+        "阿德娜的母亲",
+        "阿德娜的父亲"
+      ],
+      "summary": "幽影决定寻找父母之后，她宣称自己已经找到回家的路。她感知到家中仍亮着灯、母亲做了热派、父亲也在等待自己，最终以向双亲宣告归来完成这段旅程。",
+      "motivation": "阿德娜受到父母等待和家庭温暖记忆的牵引，希望重新回到自己的家。",
+      "outcome": "阿德娜不再哭泣迷路，而是在对家与父母的确认中完成归家，使迷路孩童的诉说得到收束。",
+      "keywords": [
+        "回家的路",
+        "灯火",
+        "热派",
+        "父母重聚",
+        "归来"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7608704,
+          "title": "见证「阿德娜」归家",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:36:26.086Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

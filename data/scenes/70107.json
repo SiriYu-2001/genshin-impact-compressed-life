@@ -1,0 +1,85 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70107,
+    "slug": "70107_low-temperature-warning",
+    "title": "低温预警",
+    "chapter_num": "",
+    "premise": "旅行者与玉霞交谈，听取她针对雪山低温风险提出的忠告。主要目标是让旅行者了解雪山环境的危险并提高警惕。",
+    "central_conflict": "雪山低温可能威胁旅行者的行动安全，而玉霞试图通过事先提醒帮助旅行者应对风险。",
+    "summary": "时间未明确，旅行者在地点未明确处与玉霞展开对话。玉霞将话题指向雪山中的低温，并向旅行者提出忠告。她希望旅行者在进入或探索雪山时重视寒冷环境带来的危险。旅行者由此获得一项关于雪山行动安全的预警。原文没有记录忠告的具体内容，也未呈现进一步的冲突或行动。该场景以完成低温风险提示收束，并为旅行者之后的雪山活动提供安全提醒。",
+    "resolution": "玉霞完成了关于雪山低温的提醒，旅行者获知需要警惕寒冷风险。忠告的具体措施及其后续效果在原文中未明确。",
+    "themes": [
+      "低温风险",
+      "雪山环境",
+      "安全忠告",
+      "风险预警"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70107,
+      "title": "低温预警",
+      "summary": "本章围绕旅行者与玉霞的短暂交谈展开，目标是传达雪山低温的安全风险。玉霞提出相关忠告，使旅行者意识到寒冷环境需要谨慎应对。原文未记录忠告细节或后续行动，本章在完成风险提示后结束。",
+      "turning_point": "玉霞将雪山低温明确作为需要警惕的风险，并向旅行者提出忠告。",
+      "outcome": "旅行者获知雪山存在低温风险，但具体应对方式及后续影响原文未明确。",
+      "section_ids": [
+        "70107-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "关于雪山中的低温，玉霞有些忠告要告诉你…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70107-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "玉霞提醒雪山低温风险",
+      "narrative_role": "revelation",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "玉霞",
+        "旅行者"
+      ],
+      "summary": "时间未明确，旅行者在地点未明确处与玉霞交谈。玉霞针对雪山中的低温提出忠告，提醒旅行者重视寒冷环境可能带来的风险。原文未说明忠告的具体内容，对话以完成低温预警为直接结果。",
+      "motivation": "玉霞希望旅行者了解雪山低温的危险，并在相关行动中保持警惕。",
+      "outcome": "旅行者收到关于雪山低温的安全提醒；具体应对措施及后续行动原文未明确。",
+      "keywords": [
+        "玉霞",
+        "雪山",
+        "低温",
+        "安全忠告"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7010701,
+          "title": "与玉霞对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:51:53.959Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70006,
+    "slug": "70006_mutual-exchange",
+    "title": "互通有无？",
+    "chapter_num": "",
+    "premise": "艾拉·马斯克与旅行者尝试理解一名饥饿丘丘人的需求，并通过交付合适的物品与它建立交流。双方需要先跨越语言障碍，才能进一步交换信息。",
+    "central_conflict": "丘丘语的含义难以准确判断，旅行者可能因此交付错误物品。只有满足丘丘人的食物需求，艾拉才能继续询问并获得线索。",
+    "summary": "时间与地点均未明确，丘丘人用丘丘语表示自己饿了，并提出对“mita movo lata”的需求。艾拉·马斯克将其初步理解为某种肉类，但仍需借助手册确认。旅行者随后尝试向丘丘人交付物品，错误的选择会遭到拒绝。符合要求的物品则让丘丘人满意，双方的交流得以继续。艾拉趁机用丘丘语追问另一件事，丘丘人虽然不知道答案，却表示另有人知情并标出了位置。艾拉据此决定与旅行者前去寻找对方，使一次食物交换转化为后续调查的线索。",
+    "resolution": "旅行者最终满足了丘丘人的食物需求，艾拉也通过友善交流获得了新的位置线索。两人随即将目标转向寻找掌握答案的对象。",
+    "themes": [
+      "跨语言交流",
+      "互惠交换",
+      "试错与理解",
+      "友善合作"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70006,
+      "title": "互通有无？",
+      "summary": "艾拉·马斯克先判断丘丘人正在索要某种肉类，旅行者据此尝试交付物品。错误物品会被拒绝，而正确物品使丘丘人满意，并让艾拉得以继续询问。丘丘人最终提供了知情者的位置，推动艾拉与旅行者展开下一步寻找。",
+      "turning_point": "旅行者交付符合需求的物品后，丘丘人从索取食物转为提供知情者的位置线索。",
+      "outcome": "食物交换顺利完成，艾拉与旅行者获得了下一名目标的位置并决定前去寻找。",
+      "section_ids": [
+        "70006-c00-s01",
+        "70006-c00-s02",
+        "70006-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "与艾拉·马斯克一同前去与丘丘人交流，或许是一段新友谊的开始…？",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70006-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "艾拉辨认丘丘人的食物需求",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "初次与丘丘人交谈时",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "丘丘人",
+        "艾拉·马斯克",
+        "旅行者"
+      ],
+      "summary": "时间与地点均未明确，丘丘人用丘丘语表示饥饿，并反复提到“mita movo lata”。艾拉·马斯克认为它想要某种肉类，但并不完全确定，因此提出查阅手册以确认需求。",
+      "motivation": "丘丘人希望获得食物，艾拉则想准确理解其语言并促成友善交流。",
+      "outcome": "需求被初步缩小为某种肉类，旅行者接下来需要尝试交付合适的物品。",
+      "keywords": [
+        "丘丘语",
+        "饥饿",
+        "肉类",
+        "语言理解"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7000601,
+          "title": "与丘丘人对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70006-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "错误交付遭到丘丘人拒绝",
+      "narrative_role": "conflict",
+      "importance": 2,
+      "when": "确认需求并尝试交付物品时",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "丘丘人",
+        "旅行者"
+      ],
+      "summary": "旅行者依据丘丘人的要求尝试交付物品，但丘丘语造成的理解偏差可能使所选物品不符合需求。交付错误时，丘丘人明确表示不满意，旅行者也意识到选择有误。这一结果要求旅行者重新判断并再次尝试，而非同时构成成功交换。",
+      "motivation": "旅行者需要通过实际交付验证对“mita movo lata”的理解。",
+      "outcome": "错误物品被拒绝，交换尚未完成，旅行者需要改用符合要求的物品。",
+      "keywords": [
+        "物品交付",
+        "理解偏差",
+        "拒绝",
+        "重新尝试"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7000602,
+          "title": "向丘丘人交付物品",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70006-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "成功交换换来知情者线索",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "交付正确物品后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "丘丘人",
+        "艾拉·马斯克",
+        "旅行者"
+      ],
+      "summary": "旅行者交付符合需求的物品后，丘丘人高兴地接受食物，艾拉确认交换顺利完成。艾拉随即用丘丘语追问另一件事，丘丘人表示自己并不知道答案，但知道有人知情，并为他们标出了位置。艾拉因此决定与旅行者前去寻找该对象。",
+      "motivation": "艾拉在满足丘丘人需求后，希望借助建立起来的善意继续获取所需信息。",
+      "outcome": "双方完成互惠交流，艾拉与旅行者取得知情者的位置线索，行动目标转向前往该处寻找对方。",
+      "keywords": [
+        "成功交换",
+        "丘丘语交流",
+        "位置线索",
+        "后续寻找"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7000602,
+          "title": "向丘丘人交付物品",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:50:14.605Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

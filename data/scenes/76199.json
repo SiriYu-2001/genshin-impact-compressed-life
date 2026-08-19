@@ -1,0 +1,129 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 76199,
+    "slug": "76199_plant-research-frostlamp-flowers",
+    "title": "植物调查·霜盏花",
+    "chapter_num": "",
+    "premise": "调查者在霜月之坊以西发现丛生的霜盏花，并迅速为实地调查做好准备。主要目标是前往指定地点确认可调查对象并采集霜盏花。",
+    "central_conflict": "现场虽存在值得研究的植物线索，但如何借助对本地生态的了解取得有效收获仍待确认。调查必须从初步观察推进到实际采集。",
+    "summary": "调查者迅速完成准备，植物调查由此启动。抵达霜月之坊以西的指定地点后，调查者察觉附近存在值得调查的事物。调查者想到熟悉本地生态的莉奈娅或许能从中有所收获，使调查方向集中到当地植物上。现场丛生的霜盏花成为明确的采集目标。调查随后进入样本采集阶段，并以完成霜盏花采集收束。原文没有交代样本的研究结论或进一步用途。",
+    "resolution": "调查者完成了从准备、抵达现场到采集霜盏花的基本调查流程。霜盏花样本为可能的后续研究提供了基础，但具体发现原文未明确。",
+    "themes": [
+      "植物调查",
+      "本地生态",
+      "实地采集",
+      "霜盏花"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 76199,
+      "title": "植物调查·霜盏花",
+      "summary": "本章围绕霜月之坊以西的霜盏花展开一次简短的实地调查。调查者先完成准备，再前往指定地点观察环境，并想到熟悉本地生态的莉奈娅可能有助于取得收获。调查目标由泛泛的现场探索转为采集霜盏花，最终获得可供调查的植物样本，但具体研究结论没有被说明。",
+      "turning_point": "调查者在指定地点发现值得调查的线索，并将行动目标明确为采集霜盏花。",
+      "outcome": "霜盏花采集任务完成，调查获得植物样本，后续研究结果原文未明确。",
+      "section_ids": [
+        "76199-c00-s01",
+        "76199-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在霜月之坊以西发现了丛生的霜盏花…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "76199-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "调查者迅速完成准备",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "调查开始前",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "调查者"
+      ],
+      "summary": "调查开始前，调查者迅速做好了所需准备。该行动为前往指定地点开展植物调查奠定了基础。",
+      "motivation": "为即将进行的实地植物调查做好准备。",
+      "outcome": "准备工作完成，调查者可以前往指定地点开始调查。",
+      "keywords": [
+        "调查准备",
+        "植物调查"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7619901,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76199-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "现场线索转向霜盏花采集",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "抵达指定地点后",
+      "locations": [
+        "霜月之坊以西"
+      ],
+      "characters": [
+        "调查者",
+        "莉奈娅"
+      ],
+      "summary": "抵达霜月之坊以西的指定地点后，调查者察觉附近存在值得调查的事物。调查者想到熟悉本地生态的莉奈娅或许能从现场有所收获，调查方向随之集中到丛生的霜盏花上。随后调查者执行霜盏花采集任务，但原文没有提供进一步的观察或研究结论。",
+      "motivation": "确认现场的植物线索，并借助对本地生态的了解获得有价值的调查样本。",
+      "outcome": "调查者完成霜盏花采集，为可能的后续研究取得样本；样本揭示了什么原文未明确。",
+      "keywords": [
+        "霜月之坊",
+        "莉奈娅",
+        "本地生态",
+        "霜盏花",
+        "样本采集"
+      ],
+      "source_step_keys": [
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7619902,
+          "title": "前往指定地点开启调查",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7619903,
+          "title": "采集霜盏花",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:36:19.749Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

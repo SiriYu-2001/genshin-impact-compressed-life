@@ -1,0 +1,291 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 79026,
+    "slug": "79026_drama-phantasmagoria-tale-of-the-sword-wielding-princess",
+    "title": "极夜幻想剧·王女执剑记！",
+    "chapter_num": "",
+    "premise": "暮夜剧团团长认出旅行者与派蒙，并邀请两人观看剧团筹备的《王女执剑记》首演。两人需要依次完成序幕、中间幕和终幕的观演流程。",
+    "central_conflict": "目标文本未呈现舞台剧内部的具体矛盾，任务层面的核心推进是完成分幕演出，并在各阶段与团长交流直至演出收束。",
+    "summary": "首演开始前，暮夜剧团团长热情欢迎旅行者与派蒙，并以剧团团长的身份介绍自己。团长宣布《王女执剑记》即将首演，说明全剧共有五幕、每幕分为上下两场。旅行者与派蒙应邀入席，团长则暂时返回后台处理事务。此后，两人依次完成序幕和中间幕，并在演出推进期间多次与团长交谈。终幕完成后，两人再次与团长交流，使整场演出进入收束阶段。最后，旅行者与派蒙同剧团成员合影，并通过最终交谈结束此次观演经历。",
+    "resolution": "《王女执剑记》的分幕演出全部完成，旅行者与派蒙以剧团合影和最终交谈为这次首演经历收尾。原文未明确演出结束后产生的进一步影响。",
+    "themes": [
+      "舞台表演",
+      "宾主互动",
+      "分幕推进",
+      "剧团纪念"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 79026,
+      "title": "极夜幻想剧·王女执剑记！",
+      "summary": "暮夜剧团团长邀请旅行者与派蒙观看《王女执剑记》首演，并介绍全剧的分幕安排。两人依次完成序幕、中间幕和终幕，在各阶段与团长保持交流。终幕结束后，观演活动转入纪念与告别环节，最终以剧团合影和再次交谈收束。",
+      "turning_point": "终幕完成使任务从持续观演转入演出后的收束与纪念阶段。",
+      "outcome": "旅行者与派蒙完成整场演出、与剧团成员合影并进行最终交谈，此次首演观演流程结束。",
+      "section_ids": [
+        "79026-c00-s01",
+        "79026-c00-s02",
+        "79026-c00-s03",
+        "79026-c00-s04",
+        "79026-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "伟大皇女的忠诚子民，在此为所有来客献上特别的演出，一个关于爱与勇气的故事…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "79026-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "贵客受邀观看首演",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "《王女执剑记》首演开始前",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "暮夜剧团团长"
+      ],
+      "summary": "首演开始前，地点未明确，暮夜剧团团长认出旅行者与派蒙并热情欢迎两人。团长介绍自己的身份和《王女执剑记》的五幕十场安排，邀请两位贵客入席，随后前往后台处理事务。",
+      "motivation": "团长希望旅行者与派蒙欣赏暮夜剧团精心筹备的首演。",
+      "outcome": "旅行者与派蒙接受邀请，观演流程即将从序幕开始。",
+      "keywords": [
+        "暮夜剧团",
+        "首演邀请",
+        "五幕十场",
+        "入席"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7902601,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "79026-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "序幕结束后再会团长",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "序幕演出阶段及完成后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "暮夜剧团团长",
+        "暮夜剧团成员"
+      ],
+      "summary": "序幕演出阶段，地点未明确，旅行者与派蒙完成《王女执剑记》的序幕观演。序幕结束后，两人与暮夜剧团团长交谈，使演出流程继续向中间幕推进；交谈的具体内容原文未明确。",
+      "motivation": "旅行者与派蒙按照团长的邀请观看首演，并通过阶段性交谈继续后续流程。",
+      "outcome": "序幕顺利完成，旅行者与派蒙进入中间幕的观演阶段。",
+      "keywords": [
+        "序幕",
+        "阶段交谈",
+        "观演流程"
+      ],
+      "source_step_keys": [
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7902602,
+          "title": "完成演出·序幕",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7902613,
+          "title": "与剧团团长对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "79026-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "中间幕推进多次交流",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "中间幕演出阶段及完成后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "暮夜剧团团长",
+        "暮夜剧团成员"
+      ],
+      "summary": "中间幕演出阶段，地点未明确，旅行者与派蒙继续观看并完成这一部分演出。随后，两人多次与暮夜剧团团长交谈，维持演出各阶段之间的衔接；交谈内容及每次交流的具体差异原文未明确。",
+      "motivation": "旅行者与派蒙需要继续完成分幕演出，并在演出推进过程中与团长保持联系。",
+      "outcome": "中间幕及其后续交流完成，整场演出被推进至终幕。",
+      "keywords": [
+        "中间幕",
+        "多次交谈",
+        "流程衔接",
+        "终幕"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7902603,
+          "title": "完成演出·中间幕",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7902612,
+          "title": "与剧团团长对话",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7902617,
+          "title": "与剧团团长对话",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7902618,
+          "title": "与剧团团长对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "79026-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "终幕完成后再会团长",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "终幕演出阶段及完成后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "暮夜剧团团长",
+        "暮夜剧团成员"
+      ],
+      "summary": "终幕演出阶段，地点未明确，旅行者与派蒙完成《王女执剑记》的最后一部分演出。终幕结束后，两人再次与暮夜剧团团长交谈，使首演由正式演出转入演后收束；交谈的具体内容原文未明确。",
+      "motivation": "旅行者与派蒙需要完成整场首演，并在终幕后与团长进行阶段性确认。",
+      "outcome": "全部分幕演出完成，后续流程转向与剧团成员合影。",
+      "keywords": [
+        "终幕",
+        "演出完成",
+        "团长交谈",
+        "收束"
+      ],
+      "source_step_keys": [
+        "7",
+        "8"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 7902604,
+          "title": "完成演出·终幕",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7902606,
+          "title": "与剧团团长对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "79026-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "剧团合影并作最终交谈",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "整场演出完成后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "暮夜剧团团长",
+        "暮夜剧团成员"
+      ],
+      "summary": "整场演出完成后，地点未明确，旅行者与派蒙同暮夜剧团成员合影，为此次首演留下纪念。合影之后，两人再次与团长交谈并完成观演流程；最终交谈的具体内容原文未明确。",
+      "motivation": "旅行者、派蒙与剧团成员通过合影纪念已经完成的首演，并以最终交流结束活动。",
+      "outcome": "合影和最终交谈完成，《王女执剑记》的首演观演经历正式收束。",
+      "keywords": [
+        "剧团合影",
+        "演后纪念",
+        "最终交谈",
+        "首演收束"
+      ],
+      "source_step_keys": [
+        "9",
+        "10"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "9",
+          "id": 7902605,
+          "title": "与剧团成员合影",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 7902607,
+          "title": "与剧团团长对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:41:44.496Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73660,
+    "slug": "73660_arinas-nilotpala-lotuses",
+    "title": "阿里娜的月莲需求",
+    "chapter_num": "",
+    "premise": "须弥城的阿里娜需要五朵月莲装饰房间，旅行者前来交付她委托收集的花朵。",
+    "central_conflict": "阿里娜的装饰计划必须凑齐五朵月莲才能实现，旅行者需要备齐所需数量。",
+    "summary": "时间未明确，旅行者在须弥城找到正在考虑桌面装饰的阿里娜，并向她提起月莲委托。阿里娜确认自己就是委托人，询问旅行者是否已经准备好五朵月莲。她说明数量不足便无法完成房间装饰，还希望让阿尔明一同欣赏这些花。旅行者备齐并交付五朵月莲后，阿里娜欣然致谢。她感叹沙漠中见不到如此漂亮的月莲，并决定稍后邀请阿尔明前来观看。",
+    "resolution": "阿里娜收到了装饰房间所需的五朵月莲，委托就此完成。她准备邀请阿尔明欣赏月莲，使收集成果进一步促成了二人的分享与交流。",
+    "themes": [
+      "履行委托",
+      "房间装饰",
+      "分享美景",
+      "沙漠与雨林"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73660,
+      "title": "阿里娜的月莲需求",
+      "summary": "旅行者在须弥城与阿里娜确认月莲委托，并得知她需要完整的五朵月莲装饰房间，同时还想邀请阿尔明来欣赏。旅行者交付所需月莲后，阿里娜表达感谢，并准备叫阿尔明前来观看。",
+      "turning_point": "旅行者备齐并交付五朵月莲，使阿里娜的房间装饰计划得以实现。",
+      "outcome": "阿里娜收下五朵月莲并完成委托，随后计划邀请阿尔明共同欣赏这些在沙漠中难以见到的花。",
+      "section_ids": [
+        "73660-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "须弥城的阿里娜需要五朵月莲。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73660-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "阿里娜收下五朵月莲",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "须弥城"
+      ],
+      "characters": [
+        "阿里娜",
+        "旅行者"
+      ],
+      "summary": "时间未明确，旅行者在须弥城向阿里娜提起月莲委托，阿里娜确认自己需要五朵月莲装饰房间，并希望之后让阿尔明也来欣赏。她强调数量不足无法满足装饰需求，旅行者随后备齐并交付五朵月莲。阿里娜收下花朵并致谢，感叹沙漠中见不到如此漂亮的月莲，决定稍后邀请阿尔明前来观看。",
+      "motivation": "阿里娜想用足量月莲装饰房间，并将这种沙漠中难得一见的美景分享给阿尔明；旅行者则要履行收集与交付委托。",
+      "outcome": "五朵月莲顺利交到阿里娜手中，委托完成，她的装饰与邀请阿尔明赏花的计划得以继续。",
+      "keywords": [
+        "五朵月莲",
+        "阿里娜",
+        "房间装饰",
+        "阿尔明",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7366001,
+          "title": "将五朵月莲交给阿里娜",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7366002,
+          "title": "与阿里娜对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:17:22.273Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 20006,
+    "slug": "20006_food-delivery",
+    "title": "餐品订单",
+    "chapter_num": "",
+    "premise": "猎鹿人餐馆因顾客众多而人手不足，莎拉请旅行者帮忙把餐品送到清泉镇的欧琳手中，并许诺以一顿大餐作为回报。",
+    "central_conflict": "餐馆送餐人手不足，而清泉镇最近常有史莱姆捣乱，莎拉不敢亲自前往；旅行者必须在史莱姆的阻碍下完成送餐委托。",
+    "summary": "故事始于猎鹿人餐馆的送餐困境：莎拉因不敢独自前往有史莱姆出没的清泉镇，请前来用餐的旅行者代为送餐。旅行者接下委托，动身前往清泉镇，途中击退捣乱的史莱姆，把蜜酱胡萝卜煎肉送到欧琳手中。欧琳道谢并支付餐费，嘱托旅行者将餐费带回餐馆。旅行者返回猎鹿人餐馆交付餐费，莎拉确认无误后送上刚做好的蟹黄火腿焗时蔬作为酬劳。整段剧情围绕一次完整的送餐委托展开，依次经历委托、受阻、交付与回报，结构完整且自洽。",
+    "resolution": "旅行者将餐费交还莎拉，莎拉以刚做好的蟹黄火腿焗时蔬作为报酬，送餐委托圆满收束，未留下后续任务线索。",
+    "themes": [
+      "委托与帮忙",
+      "报酬与回馈",
+      "克服阻碍",
+      "小镇日常"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 20006,
+      "title": "餐品订单",
+      "summary": "本章讲述莎拉委托旅行者送餐的完整过程。莎拉因猎鹿人餐馆人手不足，请旅行者将蜜酱胡萝卜煎肉送到清泉镇的欧琳处，并许诺以一顿大餐作为回报。旅行者抵达清泉镇后击退捣乱的史莱姆，成功将餐品交给欧琳并收取餐费。回到餐馆后，旅行者把餐费交付莎拉，获得刚做好的蟹黄火腿焗时蔬作为酬劳，委托圆满结束。",
+      "turning_point": "旅行者击退史莱姆并把餐品送到欧琳手中，送餐任务由受阻转为完成，餐费随之交到旅行者手中。",
+      "outcome": "送餐委托圆满完成：欧琳收到餐品并支付餐费，莎拉收到餐费后以蟹黄火腿焗时蔬回报旅行者。",
+      "section_ids": [
+        "20006-c00-s01",
+        "20006-c00-s02",
+        "20006-c00-s03",
+        "20006-c00-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "为了满足顾客的需要，猎鹿人餐馆持续提供着送餐服务。但是因为顾客众多，餐馆里的人手严重不足，莎拉小姐想要找一个人来帮忙送餐。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "20006-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "前往猎鹿人餐馆接受送餐委托",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "猎鹿人餐馆"
+      ],
+      "characters": [
+        "旅行者",
+        "莎拉"
+      ],
+      "summary": "旅行者来到猎鹿人餐馆，正为送餐人手不足发愁的莎拉请他帮忙。莎拉告知清泉镇的欧琳订了一份蜜酱胡萝卜煎肉，但清泉镇最近常有史莱姆捣乱，她不敢亲自前往，希望旅行者代为送餐。旅行者答应帮忙后，莎拉许诺以一顿大餐作为回报。",
+      "motivation": "莎拉因餐馆人手不足且不敢前往有史莱姆出没的清泉镇而需要找人代劳；旅行者也需要食物，遂接受委托。",
+      "outcome": "旅行者接下送餐委托并动身前往清泉镇，故事进入执行阶段。",
+      "keywords": [
+        "猎鹿人餐馆",
+        "莎拉",
+        "送餐委托",
+        "蜜酱胡萝卜煎肉"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 2000601,
+          "title": "前往猎鹿人餐馆询问莎拉",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 2000602,
+          "title": "与莎拉对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20006-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "击退清泉镇捣乱的史莱姆",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "清泉镇"
+      ],
+      "characters": [
+        "旅行者",
+        "史莱姆"
+      ],
+      "summary": "旅行者抵达清泉镇，遇到在欧琳附近捣乱的史莱姆。为了顺利送餐，旅行者出手将这些史莱姆击退。",
+      "motivation": "史莱姆阻碍送餐并困扰欧琳，旅行者需要清除障碍才能完成委托。",
+      "outcome": "捣乱的史莱姆被击退，为向欧琳交付餐品扫清障碍。",
+      "keywords": [
+        "清泉镇",
+        "史莱姆",
+        "击退"
+      ],
+      "source_step_keys": [
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 2000607,
+          "title": "击退捣乱的史莱姆",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20006-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "将餐品送达欧琳并收取餐费",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "清泉镇"
+      ],
+      "characters": [
+        "旅行者",
+        "活跃的欧琳"
+      ],
+      "summary": "旅行者将蜜酱胡萝卜煎肉送到清泉镇的欧琳手中。欧琳表示史莱姆令她困扰，只因饿得没力气才无法应付；接过餐品后她十分满意，把餐费交给旅行者，嘱托其带回给莎拉小姐。该段送餐对话记录于标题带测试标记的步骤中，正式任务步骤与其内容一致，另有测试标记的桥接步骤无独立内容。",
+      "motivation": "完成送餐委托，并将餐费带回餐馆交还莎拉。",
+      "outcome": "欧琳收到餐品并支付餐费，旅行者带着餐费返回猎鹿人餐馆。",
+      "keywords": [
+        "欧琳",
+        "餐品交付",
+        "餐费",
+        "蜜酱胡萝卜煎肉"
+      ],
+      "source_step_keys": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 2000603,
+          "title": "(test)运送餐品给活跃的欧琳$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 2000604,
+          "title": "运送餐品给活跃的欧琳",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 2000605,
+          "title": "(test)桥接$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 2000606,
+          "title": "运送餐品给活跃的欧琳",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20006-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "回餐馆交付餐费领取酬劳",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "猎鹿人餐馆"
+      ],
+      "characters": [
+        "旅行者",
+        "莎拉"
+      ],
+      "summary": "旅行者返回猎鹿人餐馆，将餐费交给莎拉。莎拉确认餐费无误后向旅行者道谢，并把刚做好的美味的蟹黄火腿焗时蔬送给他，让其趁热享用，作为帮忙送餐的回报。",
+      "motivation": "交付餐费以完成委托闭环，莎拉以料理回报旅行者的帮助。",
+      "outcome": "送餐委托圆满完成，旅行者获得蟹黄火腿焗时蔬作为报酬。",
+      "keywords": [
+        "交付餐费",
+        "蟹黄火腿焗时蔬",
+        "报酬"
+      ],
+      "source_step_keys": [
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 2000610,
+          "title": "把餐费交给餐馆莎拉",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-18T17:07:02.103Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

@@ -1,0 +1,759 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 2015,
+    "slug": "2015_quest",
+    "title": "输入中的 quest.info.chapterTitle",
+    "chapter_num": "",
+    "premise": "旅行者与派蒙先后接触七七、阿桂及多名璃月居民，三章任务以连续交谈和两段剧情节点向前推进。由于输入中的标题、步骤描述和全部对白正文均为空，具体目标无法确认。",
+    "central_conflict": "任务结构显示七七一行需要通过多轮交流推动某件事情，但核心矛盾及各方立场在现有原文中未明确。",
+    "summary": "故事开端由沉香、红豆之间的交谈引出，派蒙和旅行者随后介入。七七、周顺儿与阿桂加入交流，第一章主体转为旅行者一行与七七的连续行动，并由阿桂出面收束。第二章开头重新汇合阿桂、沉香、红豆和七七，随后以七七、派蒙及旅行者之间的多轮对话和两段剧情节点继续推进。第三章先由阿桂把一行人与沉香、红豆重新联系起来，之后旅行者和派蒙依次接触嘉信、财进与于哥。于哥所在的会谈进一步汇集七七、周顺儿、嘉信和逢岩，形成全篇参与者最集中的推进阶段。最终白术与七七等人交谈，为三章任务提供结构上的收束；但因对白正文缺失，事件的具体解决方式及意义无法确认。",
+    "resolution": "最后一轮对白由白术、七七、旅行者和派蒙完成，任务结构至此结束。其是否留下后续影响，原文未明确。",
+    "themes": [
+      "协同行动",
+      "多方交流",
+      "线索推进",
+      "同伴关系",
+      "文本缺失"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 11200,
+      "title": "",
+      "summary": "本章先以沉香和红豆的交谈建立开端，再让旅行者、派蒙接触周顺儿、七七与阿桂。此后叙事重心转向七七与旅行者一行的连续交流，最后由阿桂再次出面。由于对白正文和步骤描述为空，本章的具体目标及谈话内容无法确认。",
+      "turning_point": "周顺儿、七七与阿桂加入后，叙事从沉香、红豆的开场转为围绕七七展开的连续行动。",
+      "outcome": "七七与旅行者一行完成多轮对话，阿桂在末段接续事件并把剧情推向下一章。",
+      "section_ids": [
+        "2015-c00-s01",
+        "2015-c00-s02",
+        "2015-c00-s03",
+        "2015-c00-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 11201,
+      "title": "",
+      "summary": "本章开头让阿桂、沉香、红豆、七七与旅行者一行重新汇合，延续上一章的人物关系。此后叙事转为七七、派蒙和旅行者之间的连续交谈，并穿插两个以完成剧情为条件的短步骤。后半章继续通过多轮对话推进，但具体行动、冲突和所得信息均因正文缺失而无法确认。",
+      "turning_point": "连续谈话中插入两个“完成剧情”条件步骤，使任务从多人汇合转入由七七与旅行者一行主导的下一阶段。",
+      "outcome": "七七、旅行者与派蒙完成一系列连续交流，为下一章重新接触阿桂及其他居民作出结构性过渡。",
+      "section_ids": [
+        "2015-c01-s01",
+        "2015-c01-s02",
+        "2015-c01-s03",
+        "2015-c01-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": 11202,
+      "title": "",
+      "summary": "本章由阿桂重新接续任务，并通过沉香、红豆参与的长段对话承接前情。旅行者和派蒙随后依次接触嘉信、财进和于哥，使参与者范围不断扩大。于哥主持的长段交流汇集七七、周顺儿、嘉信与逢岩，成为本章最显著的人员汇合点，最终再由白术、七七和旅行者一行完成收束。",
+      "turning_point": "于哥所在的会谈汇集此前分散出现的七七、周顺儿、嘉信和逢岩，使分段接触转为多方共同交流。",
+      "outcome": "白术与七七等人完成最后一轮对话，三章任务结构结束；具体问题是否解决及其后续影响原文未明确。",
+      "section_ids": [
+        "2015-c02-s01",
+        "2015-c02-s02",
+        "2015-c02-s03",
+        "2015-c02-s04",
+        "2015-c02-s05",
+        "2015-c02-s06"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_02.json",
+      "source_description": "",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "2015-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "沉香与红豆开启交谈",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "故事开端，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "沉香",
+        "红豆",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "故事开端，地点未明确，沉香与红豆先进行一段交谈，旅行者和派蒙随后进入对话流程。由于全部对白正文为空，他们谈论的事项及旅行者介入的原因均无法确认。",
+      "motivation": "原文未明确",
+      "outcome": "开场交谈完成，剧情转向周顺儿、七七与阿桂参与的下一轮交流。",
+      "keywords": [
+        "沉香",
+        "红豆",
+        "开场交谈",
+        "派蒙"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 1120001,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2015-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "七七与阿桂加入交流",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "开场交谈之后，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "周顺儿",
+        "七七",
+        "阿桂",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "开场之后，地点未明确，旅行者和派蒙与周顺儿、七七及阿桂进行长段交流。随后出现仅由阿桂发言的短步骤，但其内容为空，无法确认阿桂作出的说明或安排。",
+      "motivation": "原文未明确",
+      "outcome": "周顺儿、七七与阿桂被纳入任务流程，叙事重心转向七七与旅行者一行的连续行动。",
+      "keywords": [
+        "七七",
+        "阿桂",
+        "周顺儿",
+        "多人会谈"
+      ],
+      "source_step_keys": [
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 1120002,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 1120003,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2015-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "七七持续推动后续行动",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "多人会谈之后，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "七七",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "多人会谈之后，地点未明确，七七、旅行者与派蒙连续完成六个对话步骤。角色组合基本稳定，表明这些步骤属于同一段持续推进，但空缺的对白使其当前目标、遇到的阻碍和取得的信息均无法确认。",
+      "motivation": "原文未明确",
+      "outcome": "以七七为核心的连续对话完成，任务进入由阿桂出面接续的章末阶段。",
+      "keywords": [
+        "七七",
+        "旅行者",
+        "连续对话",
+        "任务推进"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 1120004,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 1120006,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 1120007,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 1120015,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 1120010,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 1120013,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2015-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "阿桂接续第一章进展",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "第一章末段，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "阿桂",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "第一章末段，地点未明确，阿桂与旅行者、派蒙完成一轮交谈。对话正文缺失，无法确认阿桂是在总结进展、交代新任务还是提供其他信息。",
+      "motivation": "原文未明确",
+      "outcome": "第一章在阿桂的交谈中结束，并为下一章的多人重新汇合建立衔接。",
+      "keywords": [
+        "阿桂",
+        "章末交谈",
+        "任务衔接"
+      ],
+      "source_step_keys": [
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "9",
+          "id": 1120014,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2015-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "众人重新汇合承接前情",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "第二章开端，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "阿桂",
+        "沉香",
+        "红豆",
+        "七七",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "第二章开端，地点未明确，阿桂、沉香、红豆、七七与旅行者一行共同参与长段交谈。该步骤重新汇集第一章出现的主要人物，但他们聚集的原因及形成的决定在原文中未明确。",
+      "motivation": "原文未明确",
+      "outcome": "主要人物重新建立联系，叙事随后转向七七、旅行者和派蒙的小范围交流。",
+      "keywords": [
+        "重新汇合",
+        "阿桂",
+        "七七",
+        "沉香",
+        "红豆"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 1120101,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2015-c01-s02",
+      "chapter_index": 1,
+      "order": 2,
+      "title": "剧情节点改变推进阶段",
+      "narrative_role": "transition",
+      "importance": 3,
+      "when": "多人汇合之后，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "七七",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "多人汇合之后，地点未明确，七七与旅行者一行先进行一轮对话。任务随后连续出现两个以“完成剧情”为条件的派蒙短步骤，并以派蒙的另一短句结束这一阶段；因文本为空，剧情演出的具体内容无法确认。",
+      "motivation": "原文未明确",
+      "outcome": "任务经过两个剧情条件节点，从章首汇合过渡到七七与旅行者一行主导的连续推进。",
+      "keywords": [
+        "七七",
+        "剧情节点",
+        "派蒙",
+        "阶段转换"
+      ],
+      "source_step_keys": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 1120102,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 1120124,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 1120125,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 1120104,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2015-c01-s03",
+      "chapter_index": 1,
+      "order": 3,
+      "title": "七七一行展开连续交谈",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "剧情节点之后，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "七七",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "剧情节点之后，地点未明确，七七、旅行者与派蒙进行两段较长对话和一段简短交流。其中一个步骤包含在另一任务开始与完成时触发的两套同构对话流程，但具体事项因正文缺失而无法辨认。",
+      "motivation": "原文未明确",
+      "outcome": "七七一行完成这一阶段的条件式及连续交流，任务进入第二章后半段。",
+      "keywords": [
+        "七七",
+        "条件对话",
+        "连续交流",
+        "旅行者"
+      ],
+      "source_step_keys": [
+        "5",
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 1120114,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 1120108,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 1120115,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2015-c01-s04",
+      "chapter_index": 1,
+      "order": 4,
+      "title": "对话推进至第二章结束",
+      "narrative_role": "transition",
+      "importance": 3,
+      "when": "第二章后半段，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "七七",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "第二章后半段，地点未明确，七七、旅行者和派蒙继续完成四个连续对话步骤。对白正文为空，无法确认这一系列交谈得出的结论，但稳定的参与者组合表明其延续同一推进阶段。",
+      "motivation": "原文未明确",
+      "outcome": "第二章在七七一行的持续交谈中结束，下一章由阿桂重新接续任务。",
+      "keywords": [
+        "七七",
+        "连续推进",
+        "章末过渡",
+        "派蒙"
+      ],
+      "source_step_keys": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "8",
+          "id": 1120110,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 1120118,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 1120111,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 1120113,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2015-c02-s01",
+      "chapter_index": 2,
+      "order": 1,
+      "title": "阿桂联络沉香与红豆",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "第三章开端，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "阿桂",
+        "沉香",
+        "红豆",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "第三章开端，地点未明确，阿桂先与旅行者短暂交流，随后沉香、红豆和派蒙加入长段对话。该段明显承接第一章的人物线索，但各人讨论的问题和下一步安排在原文中未明确。",
+      "motivation": "原文未明确",
+      "outcome": "阿桂、沉香和红豆完成本章开场交流，旅行者与派蒙随后转向接触嘉信。",
+      "keywords": [
+        "阿桂",
+        "沉香",
+        "红豆",
+        "前情承接"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 1120201,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 1120202,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2015-c02-s02",
+      "chapter_index": 2,
+      "order": 2,
+      "title": "旅行者一行接触嘉信",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "第三章开场交流之后，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "嘉信",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "开场交流之后，地点未明确，旅行者与派蒙同嘉信进行一段长谈。嘉信退出后，旅行者与派蒙又单独完成一轮交流；由于对白为空，是否取得线索及交谈目标均无法确认。",
+      "motivation": "原文未明确",
+      "outcome": "与嘉信的接触完成，旅行者一行继续转向其他居民。",
+      "keywords": [
+        "嘉信",
+        "接触居民",
+        "旅行者",
+        "线索未明"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 1120204,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 1120205,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2015-c02-s03",
+      "chapter_index": 2,
+      "order": 3,
+      "title": "财进提供单独回应",
+      "narrative_role": "investigation",
+      "importance": 2,
+      "when": "接触嘉信之后，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "财进",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "接触嘉信之后，地点未明确，旅行者和派蒙同财进进行一轮独立交谈。财进连续作出回应，但回应内容及其与前后事件的关系在原文中未明确。",
+      "motivation": "原文未明确",
+      "outcome": "与财进的短暂接触结束，叙事对象随即转为于哥。",
+      "keywords": [
+        "财进",
+        "独立交谈",
+        "居民接触"
+      ],
+      "source_step_keys": [
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 1120208,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2015-c02-s04",
+      "chapter_index": 2,
+      "order": 4,
+      "title": "于哥加入任务进程",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "接触财进之后，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "于哥",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "接触财进之后，地点未明确，旅行者与派蒙转而同于哥交谈。于哥成为本段的主要发言者，但其身份作用、提供的信息以及参与动机均无法从空缺对白中确认。",
+      "motivation": "原文未明确",
+      "outcome": "于哥被纳入任务进程，并在下一段多方会谈中继续担任主要参与者。",
+      "keywords": [
+        "于哥",
+        "任务推进",
+        "角色加入"
+      ],
+      "source_step_keys": [
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 1120209,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2015-c02-s05",
+      "chapter_index": 2,
+      "order": 5,
+      "title": "多方人物集中展开会谈",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "第三章后段，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "于哥",
+        "七七",
+        "周顺儿",
+        "嘉信",
+        "逢岩",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "第三章后段，地点未明确，于哥、七七、周顺儿、嘉信、逢岩与旅行者一行共同参与全篇最长、人物最集中的对话步骤。此前分散出现的多名人物在此汇合，形成结构上的高潮，但会谈的议题、冲突和决定因正文缺失而无法确认。",
+      "motivation": "原文未明确",
+      "outcome": "多方会谈完成并汇集主要参与者，任务随后转入白术与七七主导的最终交谈。",
+      "keywords": [
+        "多方会谈",
+        "七七",
+        "于哥",
+        "周顺儿",
+        "人物汇合"
+      ],
+      "source_step_keys": [
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 1120211,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2015-c02-s06",
+      "chapter_index": 2,
+      "order": 6,
+      "title": "白术与七七完成收束",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "任务末段，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "白术",
+        "七七",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "任务末段，地点未明确，白术先向旅行者一行发言，七七随后参与并成为后半段的重要发言者。该对话位于全部任务步骤的末尾，构成结构上的收束，但具体结论及人物关系变化在原文中未明确。",
+      "motivation": "原文未明确",
+      "outcome": "白术、七七与旅行者一行完成最终交流，目标 scene 至此结束，后续影响原文未明确。",
+      "keywords": [
+        "白术",
+        "七七",
+        "最终交谈",
+        "任务收束"
+      ],
+      "source_step_keys": [
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 1120212,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:21:28.759Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

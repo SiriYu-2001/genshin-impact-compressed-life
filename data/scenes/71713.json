@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71713,
+    "slug": "71713_master-zhangs-metal-commission",
+    "title": "老章的铁块需求",
+    "chapter_num": "",
+    "premise": "老章因店内铁块即将耗尽，委托受托者收集并交付十份铁块，以满足仍在等待的客人。",
+    "central_conflict": "店铺材料短缺，而后续订单亟待处理，受托者必须先凑齐十份铁块才能解决老章的燃眉之急。",
+    "summary": "老章说明店里的铁块已经快要用光，并确认受托者是否已收集齐十份铁块。若材料尚未凑齐，他便催促受托者尽快带来，因为还有不少客人在等待。受托者最终完成十份铁块的收集与交付，使委托得以继续推进。老章验收后判断这些材料足够店铺使用一段时间。随后，他向受托者表示感谢并交付酬谢物品。铁块短缺由此暂时缓解，等待中的店铺事务也获得了继续处理的条件。",
+    "resolution": "老章收下十份铁块，并以酬谢物品回报受托者。店铺的材料需求得到阶段性满足，本次委托随之完成。",
+    "themes": [
+      "材料短缺",
+      "委托履行",
+      "互助",
+      "劳动酬谢"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71713,
+      "title": "老章的铁块需求",
+      "summary": "本章围绕十份铁块的收集与交付展开。老章先说明店内库存即将耗尽，并以仍有客人等待为由催促受托者尽快完成收集。受托者交付材料后，老章确认铁块足够使用一段时间，并以物品致谢，委托由此完成。",
+      "turning_point": "受托者凑齐并交付十份铁块，使老章的材料短缺从待解决状态转为暂时缓解。",
+      "outcome": "老章收下铁块并给予酬谢，店铺获得可供一段时间使用的材料，本章委托完成。",
+      "section_ids": [
+        "71713-c00-s01",
+        "71713-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月港的老章需要十份铁块。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71713-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "老章催问十份铁块进度",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "委托交付阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "老章",
+        "受托者"
+      ],
+      "summary": "委托交付阶段，地点未明确，老章说明店里的铁块已经快要用光，并询问受托者是否已凑齐十份铁块。由于仍有不少客人在等待，若材料尚未收集齐，他便要求受托者完成收集后尽快送来。完成十份铁块的收集成为推进委托的必要条件。",
+      "motivation": "老章需要补充即将耗尽的铁块，以便处理仍在等待的客人所需事务；受托者则需履行收集与交付材料的委托。",
+      "outcome": "十份铁块的交付要求得到确认，尚未完成时委托继续等待；材料凑齐后，剧情进入验收与答谢阶段。",
+      "keywords": [
+        "十份铁块",
+        "库存短缺",
+        "客人等待",
+        "催促交付"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7171301,
+          "title": "将十份铁块交给老章",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71713-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "铁块交付缓解店铺短缺",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "十份铁块交付后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "老章",
+        "受托者"
+      ],
+      "summary": "十份铁块交付后，地点未明确，老章确认这些材料足够店铺使用一段时间。为感谢受托者提供帮助，他将酬谢物品交给对方。本次材料委托随之完成。",
+      "motivation": "老章需要验收补充的材料，并对受托者完成委托给予回报。",
+      "outcome": "店铺的铁块短缺得到阶段性缓解，受托者获得酬谢，本次委托正式收束。",
+      "keywords": [
+        "铁块交付",
+        "材料补充",
+        "致谢",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7171302,
+          "title": "与老章对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:04:15.077Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

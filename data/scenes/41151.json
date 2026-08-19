@@ -1,0 +1,176 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 41151,
+    "slug": "41151_wanmin-fresh",
+    "title": "万民鲜食",
+    "chapter_num": "",
+    "premise": "璃月港万民堂有一份香嫩椒椒鸡等待送给寡言的廷方，卯师傅需要有人代为配送。受托者必须在严格条件下及时将餐品送达。",
+    "central_conflict": "餐品的口感极易受配送过程影响，受托者不能乱飞攀爬、不能让餐品沾染元素，还要面对限时要求。卯师傅宁愿重新制作，也不愿因配送失误损害万民堂的名声。",
+    "summary": "受托者在璃月港万民堂询问特别订单，卯师傅说明寡言的廷方订了一份香嫩椒椒鸡。卯师傅提出不能乱飞攀爬、不能沾染任何元素且必须限时送达的严格要求，使普通送餐变成一项需要谨慎完成的委托。受托者若暂时有事可以先行离开，准备妥当后则答应承担配送。接受委托后，受托者携带餐品前往寡言的廷方所在之处，而廷方正在等待迟迟未到的订单。原文没有具体呈现沿途经过与配送手段，也没有记录餐品受损或重新制作的情况。最终，受托者将餐品交到廷方手中，廷方确认收到并致谢，特别订单顺利完成。",
+    "resolution": "寡言的廷方收下订购的餐品，万民堂的配送委托得到完成。剧情未明确交代更多后续影响。",
+    "themes": [
+      "诚信履约",
+      "谨慎配送",
+      "餐品品质",
+      "商家声誉"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 41151,
+      "title": "万民鲜食",
+      "summary": "本章围绕万民堂的一份特别订单展开，受托者从卯师傅处得知配送对象和保护餐品的严格条件。是否立即接单存在选择，但剧情在接受委托后转入配送阶段，寡言的廷方则在目的地等待。最终餐品被成功交付，万民堂的声誉与订单要求得到维护。",
+      "turning_point": "卯师傅提出限时送达、不得乱飞攀爬且不得沾染元素的要求，使普通送餐转变为受严格条件约束的配送任务。",
+      "outcome": "受托者将香嫩椒椒鸡交给寡言的廷方，对方确认收货并致谢，订单完成。",
+      "section_ids": [
+        "41151-c00-s01",
+        "41151-c00-s02",
+        "41151-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月港的万民堂里有一份特别订单正等待着派送…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "41151-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "卯师傅说明特别订单要求",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "接单阶段",
+      "locations": [
+        "璃月港",
+        "万民堂"
+      ],
+      "characters": [
+        "卯师傅",
+        "受托者"
+      ],
+      "summary": "受托者在璃月港万民堂询问特别订单，卯师傅说明寡言的廷方订购了香嫩椒椒鸡，需要之后送去。为保持餐品口感，卯师傅要求配送途中不得乱飞攀爬、不得沾染任何元素，并且必须限时送达；若途中出事，受托者应回来领取重新制作的餐品。受托者可以因另有事情暂缓接单，也可以在准备好后答应立即配送。",
+      "motivation": "卯师傅希望按客人的要求保持餐品口感，并维护万民堂的名声；受托者需要决定何时承担配送。",
+      "outcome": "配送对象、餐品及限制条件得到明确，受托者接受委托后可以开始送餐。",
+      "keywords": [
+        "万民堂",
+        "香嫩椒椒鸡",
+        "配送限制",
+        "商家声誉"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 4115104,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 4115101,
+          "title": "与卯师傅对话",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 4115103,
+          "title": "与寡言的廷方对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "41151-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "配送者赶往廷方所在处",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "接受委托后的配送阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "受托者",
+        "寡言的廷方"
+      ],
+      "summary": "接受委托后，受托者携带餐品前往寡言的廷方所在之处，具体路线与沿途情况未被呈现。寡言的廷方正在等待订单，并因餐品尚未送到而低声焦急。",
+      "motivation": "受托者需要依照卯师傅的要求及时完成配送，寡言的廷方则在等待自己订购的餐品。",
+      "outcome": "受托者抵达收餐对象所在之处，剧情进入当面交付阶段。",
+      "keywords": [
+        "限时配送",
+        "等待",
+        "寡言的廷方"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 4115102,
+          "title": "将餐品送给寡言的廷方",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "41151-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "廷方收下香嫩椒椒鸡",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "送餐抵达后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "受托者",
+        "寡言的廷方"
+      ],
+      "summary": "送达后，受托者当面说明带来了寡言的廷方订购的餐品。寡言的廷方确认收货，并向受托者表示感谢。",
+      "motivation": "受托者需要完成万民堂的配送委托，寡言的廷方需要接收已经等待的订单。",
+      "outcome": "香嫩椒椒鸡完成交付，特别订单与本次配送任务就此收束。",
+      "keywords": [
+        "餐品交付",
+        "确认收货",
+        "订单完成"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 4115103,
+          "title": "与寡言的廷方对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:48:51.736Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

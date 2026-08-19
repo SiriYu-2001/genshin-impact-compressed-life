@@ -1,0 +1,263 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70823,
+    "slug": "70823_blackcliff-woes",
+    "title": "黑岩之困",
+    "chapter_num": "",
+    "premise": "阿宽正为层岩巨渊外围的状况烦恼，旅行者受此事推动前往当地巡查并清除威胁。",
+    "central_conflict": "魔物、敌人和路障持续占据施工区域，使工地无法安全复工，并可能导致厂里的订单延期。",
+    "summary": "旅行者与忧心忡忡的阿宽交谈后，前往层岩巨渊外围调查工地的情况。巡查途中，旅行者接连击败魔物、清除路障，并在继续深入时处理另一批敌人。阿宽感叹魔物来历不明，显示外围的威胁并非偶发现象。旅行者随后进一步巡查并拆除魔物营地，以削弱其在当地的立足点。完成清理后，旅行者返回向阿宽说明外围仍存在大量威胁。阿宽据此确认原工地暂时无法复工，感谢旅行者并给予报酬。面对订单可能延期的压力，他决定尽快寻找另一片能够开工的地方。",
+    "resolution": "外围的敌人与营地得到清理，但安全问题并未被视为彻底解决，原工地仍不能复工。阿宽转而筹划寻找新工地，为后续生产安排留下新的问题。",
+    "themes": [
+      "工地危机",
+      "魔物侵扰",
+      "安全与生产",
+      "实地巡查",
+      "另寻出路"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70823,
+      "title": "黑岩之困",
+      "summary": "旅行者因阿宽的烦恼前往层岩巨渊外围巡查，在连续战斗中清除路障、敌人与魔物营地。虽然现场威胁受到打击，回报的情况仍使阿宽认定工地无法立即复工。为避免厂里的订单继续受影响，阿宽在答谢旅行者后决定另寻能够开工的地点。",
+      "turning_point": "旅行者回报外围仍有大量威胁后，阿宽正式判断原工地目前不能复工。",
+      "outcome": "现场的主要障碍与营地被清除，但复工计划仍然搁置，阿宽开始寻找替代工地。",
+      "section_ids": [
+        "70823-c00-s01",
+        "70823-c00-s02",
+        "70823-c00-s03",
+        "70823-c00-s04",
+        "70823-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "阿宽似乎正在因为某事而烦恼…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70823-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "阿宽为工地现状发愁",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "任务开始时",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "阿宽"
+      ],
+      "summary": "任务开始时，旅行者与正在烦恼的阿宽交谈。交谈的具体内容未被展示，但随后形成了前往层岩巨渊外围巡查的行动目标。",
+      "motivation": "阿宽正为某事烦恼，而外围工地的情况需要有人查明。",
+      "outcome": "旅行者开始前往层岩巨渊外围巡查。",
+      "keywords": [
+        "阿宽",
+        "工地烦恼",
+        "巡查委托"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7082301,
+          "title": "与阿宽对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70823-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "旅行者清除魔物与路障",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "首次巡查层岩巨渊外围时",
+      "locations": [
+        "层岩巨渊外围"
+      ],
+      "characters": [
+        "旅行者",
+        "魔物"
+      ],
+      "summary": "首次巡查层岩巨渊外围时，旅行者发现魔物与路障阻断了现场。旅行者击败全部魔物并清除路障，使巡查得以继续。",
+      "motivation": "旅行者需要排除外围的直接威胁并打通受阻区域。",
+      "outcome": "首处魔物与路障被清除，旅行者能够继续检查外围。",
+      "keywords": [
+        "层岩巨渊外围",
+        "魔物",
+        "路障",
+        "清理"
+      ],
+      "source_step_keys": [
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7082302,
+          "title": "在层岩巨渊外围巡查",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7082303,
+          "title": "打倒所有魔物，并清除路障",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70823-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "不明魔物引发新的忧虑",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "继续巡查层岩巨渊外围时",
+      "locations": [
+        "层岩巨渊外围"
+      ],
+      "characters": [
+        "旅行者",
+        "阿宽",
+        "敌人"
+      ],
+      "summary": "继续巡查层岩巨渊外围时，阿宽感叹不知这群魔物从何而来，显露出对威胁来源的忧虑。旅行者随后打倒现场的全部敌人，再次压制阻碍巡查的危险。",
+      "motivation": "外围仍有敌人活动，旅行者需要继续排除威胁；阿宽则希望弄清工地为何不断受到侵扰。",
+      "outcome": "第二处敌人被击败，但魔物的来源仍未查明，现场危机尚未完全解除。",
+      "keywords": [
+        "持续巡查",
+        "敌人",
+        "魔物来源",
+        "忧虑"
+      ],
+      "source_step_keys": [
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7082306,
+          "title": "在层岩巨渊外围巡查",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7082307,
+          "title": "打倒所有敌人",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70823-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "旅行者拆除魔物营地",
+      "narrative_role": "climax",
+      "importance": 4,
+      "when": "巡查深入阶段",
+      "locations": [
+        "层岩巨渊外围"
+      ],
+      "characters": [
+        "旅行者",
+        "魔物"
+      ],
+      "summary": "巡查深入阶段，旅行者继续检查层岩巨渊外围，并发现魔物建立的营地。旅行者将营地拆除，以削弱魔物对施工区域的占据。",
+      "motivation": "仅击败沿途敌人不足以解除隐患，旅行者还需要移除魔物在外围的据点。",
+      "outcome": "魔物营地被拆除，实地清理告一段落，旅行者转而返回汇报。",
+      "keywords": [
+        "魔物营地",
+        "拆除",
+        "外围巡查",
+        "据点"
+      ],
+      "source_step_keys": [
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 7082304,
+          "title": "在层岩巨渊外围巡查",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7082305,
+          "title": "拆除魔物的营地",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70823-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "阿宽决定另寻开工地点",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "完成外围巡查后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "阿宽"
+      ],
+      "summary": "完成外围巡查后，旅行者向阿宽回报当地仍有大量威胁；原文提供“很多魔物”或“很多盗宝团”两种可选表述。阿宽据此确认那片工地目前无法复工，并向旅行者致谢、给予报酬。忧虑厂里的订单可能延期后，他决定尽快寻找另一片能够开工的地方。",
+      "motivation": "旅行者需要交代巡查结果；阿宽则必须在安全风险与订单期限之间寻找可行的生产安排。",
+      "outcome": "阿宽接受了工地不能复工的现实，答谢旅行者，并将下一步转向寻找替代工地。",
+      "keywords": [
+        "回报",
+        "无法复工",
+        "订单延期",
+        "替代工地"
+      ],
+      "source_step_keys": [
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 7082308,
+          "title": "向阿宽回报",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:58:49.783Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

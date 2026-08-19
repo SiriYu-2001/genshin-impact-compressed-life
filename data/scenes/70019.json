@@ -1,0 +1,127 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70019,
+    "slug": "70019_mutual-exchange",
+    "title": "互通有无？",
+    "chapter_num": "",
+    "premise": "艾拉·马斯克陪同旅行者与另一名愿意交流的丘丘人接触，希望通过理解其诉求继续沟通。众人需要辨明丘丘人口中的“celi lata”，并以合适的物品安慰它。",
+    "central_conflict": "丘丘人的痛苦与物品需求只能通过丘丘语表达，旅行者必须正确理解并满足请求；错误交付会遭到拒绝，只有成功交换才能获得下一步线索。",
+    "summary": "艾拉·马斯克与旅行者找到另一名愿意交流的丘丘人，并尝试用丘丘语与它对话。丘丘人表达了对阳光、清醒乃至生存的强烈厌弃，艾拉据此判断它正承受痛苦。丘丘人随后明确索要“celi lata”，艾拉提议用它想要的东西加以安慰。旅行者据此尝试交付物品，交付错误时丘丘人会直接否定。正确的物品使丘丘人恢复喜悦，并促使它给出“unta nunu”这一提示。派蒙判断该词是在指示时间，双方随后以友好的丘丘语告别，使这次物品与情报的交换得以完成。",
+    "resolution": "旅行者以丘丘人需要的物品换得了关于“unta nunu”的时间线索，并与对方友好告别。该线索把后续行动从寻找交流对象推进到确认特定时间。",
+    "themes": [
+      "跨语言交流",
+      "互惠交换",
+      "理解与慰藉",
+      "线索获取"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70019,
+      "title": "互通有无？",
+      "summary": "本章围绕理解并满足一名痛苦丘丘人的请求展开。艾拉·马斯克翻译其悲观表述，提出交付“celi lata”作为安慰，旅行者随后通过物品交付验证理解。正确交付使丘丘人转变态度并提供“unta nunu”的时间提示，交流最终以友好告别收束。",
+      "turning_point": "旅行者正确交付丘丘人索要的物品后，对方由痛苦转为喜悦，并开始提供下一步所需的时间线索。",
+      "outcome": "丘丘人的需求得到满足，旅行者一行获得了“unta nunu”所指向的时间信息，为后续行动确定了新的方向。",
+      "section_ids": [
+        "70019-c00-s01",
+        "70019-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "与艾拉·马斯克一同前去与丘丘人交流，或许是一段新友谊的开始…？",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70019-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "丘丘人诉苦并提出物品请求",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "与另一名愿意交流的丘丘人接触时",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "丘丘人",
+        "艾拉·马斯克",
+        "旅行者"
+      ],
+      "summary": "艾拉·马斯克陪同旅行者与愿意交流的丘丘人对话，丘丘人以丘丘语表达对太阳、清醒和生存的厌弃。艾拉将这些话理解为深重的痛苦，随即听出它想要“celi lata”。为了安慰对方，艾拉建议旅行者把它索求的物品交给它。",
+      "motivation": "众人希望理解丘丘人的处境并延续交流，而艾拉试图通过满足其具体需求缓解它的痛苦。",
+      "outcome": "丘丘人的诉求被明确为“celi lata”，旅行者接下来需要以实际交付验证对这一词语的理解。",
+      "keywords": [
+        "丘丘语",
+        "痛苦诉求",
+        "celi lata",
+        "物品请求"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7001901,
+          "title": "与另一个愿意交流的丘丘人对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70019-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "正确交付换来时间线索",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "确认丘丘人的物品请求后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "丘丘人",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "旅行者依照“celi lata”的请求尝试向丘丘人交付物品，错误交付会被对方明确否定。正确的物品使丘丘人表现出喜悦，并促使它说出包含“unta nunu”的新信息。派蒙判断这一词语是在提示时间，随后旅行者可用不同的友好回应与丘丘人告别，但这些回答属于互斥选择。",
+      "motivation": "旅行者需要用正确物品安慰丘丘人，并通过互惠交流取得继续行动所需的情报。",
+      "outcome": "成功交付完成了物品与信息的交换，旅行者一行获得“unta nunu”的时间提示；若交付错误，则本次尝试不被接受。",
+      "keywords": [
+        "物品交付",
+        "互惠交换",
+        "unta nunu",
+        "时间线索",
+        "友好告别"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7001902,
+          "title": "向丘丘人交付物品",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:52:03.427Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

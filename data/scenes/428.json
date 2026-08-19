@@ -1,0 +1,158 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 428,
+    "slug": "428_amber-abyss",
+    "title": "安柏深渊$UNRELEASED",
+    "chapter_num": "",
+    "premise": "“安柏深渊”是一段未发布的测试内容，目标是让测试者完成“掉下去、被吹起来”并抵达深渊对岸的流程验证。",
+    "central_conflict": "核心矛盾原文未明确——本章没有正式的剧情冲突，只有“坠落—被吹起—抵达对岸”的机制测试流程作为推进线索。",
+    "summary": "场景 428“安柏深渊”是未发布的测试场景，仅含一个章节，标题与说明均带 $UNRELEASED 标记。场景以“掉下去，吹起来”为核心：测试者（玩家角色）坠落后被气流吹起，经过“测试前”的预备阶段，在“测试中”抵达深渊对岸，走完整个测试流程。全场景没有正式剧情、NPC 或任务数据，属于验证坠落与升空机制的占位测试内容。该测试场景的后续影响与正式定位，原文未明确。",
+    "resolution": "本场景以测试者在“测试中”抵达对岸收束，“掉下去、吹起来”的机制流程就此完成。由于内容标记为未发布且没有后续章节信息，该场景对正式剧情的影响原文未明确。",
+    "themes": [
+      "机制测试",
+      "坠落",
+      "气流",
+      "深渊",
+      "未发布内容"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 428,
+      "title": "安柏深渊$UNRELEASED",
+      "summary": "本章为未发布的测试章节（标题含 $UNRELEASED 标记），围绕“掉下去，吹起来”这一机制展开。全章仅含三个测试步骤：“掉下去，吹起来”（测试起始动作）、“测试前”（预备阶段）、“测试中，到达对岸”（完成阶段），测试者被吹起后最终抵达深渊对岸。原文未提供任何 step 描述、任务数据或 NPC 信息，本章属于占位性质的测试内容，不构成正式主线剧情。",
+      "turning_point": "原文未明确（本章为无剧情转折的测试占位内容）",
+      "outcome": "三个测试步骤按序执行完毕，测试者在“测试中”抵达对岸，“坠落—被吹起—抵达对岸”的机制流程走完；因内容未发布且无后续信息，对后续剧情的影响原文未明确。",
+      "section_ids": [
+        "428-c00-s01",
+        "428-c00-s02",
+        "428-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "掉下去，吹起来$UNRELEASED",
+      "is_hidden": true
+    }
+  ],
+  "sections": [
+    {
+      "id": "428-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "坠入深渊后被气流吹起",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确（处于测试流程的起始阶段）",
+      "locations": [
+        "安柏深渊"
+      ],
+      "characters": [
+        "玩家角色"
+      ],
+      "summary": "这是未发布的测试章节（标题含 $UNRELEASED 与 $HIDDEN 标记），第一个步骤为“掉下去，吹起来”：测试者（玩家角色）坠落后被气流吹起，构成整个机制测试的起始动作。原文未提供该 step 的描述与任务数据，坠落的起点、高度以及吹起后的去向均未明确。",
+      "motivation": "原文未明确，仅能从标题判断该步骤是在执行“掉下去、被吹起来”的测试动作。",
+      "outcome": "完成坠落与被吹起的测试动作，为后续“测试中，到达对岸”的步骤提供流程衔接；具体验证结果原文未明确。",
+      "keywords": [
+        "测试",
+        "坠落",
+        "气流",
+        "吹起"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 42801,
+          "title": "(test)掉下去，吹起来$UNRELEASED$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "428-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "测试开始前的阶段",
+      "narrative_role": "transition",
+      "importance": 1,
+      "when": "测试前阶段，具体时间未明确",
+      "locations": [
+        "安柏深渊"
+      ],
+      "characters": [
+        "玩家角色"
+      ],
+      "summary": "该步骤标注为“测试前”，即正式测试开始之前的预备阶段。原文未提供此阶段的具体描述、任务数据或行为内容，仅能确认它处于测试流程中“测试前”的位置，承接起始动作并通向“测试中”阶段。",
+      "motivation": "原文未明确（该步骤仅标注为“测试前”）。",
+      "outcome": "流程由“测试前”推进至“测试中”阶段；预备阶段的具体内容与结果原文未明确。",
+      "keywords": [
+        "测试前",
+        "预备阶段",
+        "测试流程"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 42802,
+          "title": "(test)测试前$UNRELEASED",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "428-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "测试进行中抵达对岸",
+      "narrative_role": "resolution",
+      "importance": 2,
+      "when": "测试进行中阶段，具体时间未明确",
+      "locations": [
+        "安柏深渊"
+      ],
+      "characters": [
+        "玩家角色"
+      ],
+      "summary": "该步骤标注为“测试中，到达对岸”，说明测试进行过程中测试者最终抵达深渊对岸，完成坠落、被吹起之后的跨越动作，整个测试流程由此收束。原文未提供该阶段的详细描述与任务数据，抵达对岸后的后续内容未明确。",
+      "motivation": "原文未明确；从标题看，推动力是完成测试并抵达对岸。",
+      "outcome": "测试者抵达深渊对岸，测试流程走完并收束；对后续剧情的影响原文未明确。",
+      "keywords": [
+        "测试中",
+        "抵达对岸",
+        "测试收束"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 42803,
+          "title": "(test)测试中，到达对岸$UNRELEASED",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-18T09:47:32.550Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

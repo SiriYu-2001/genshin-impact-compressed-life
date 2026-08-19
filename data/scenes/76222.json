@@ -1,0 +1,172 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 76222,
+    "slug": "76222_tea-party-re-invitation-nefer",
+    "title": "茶会的再邀·奈芙尔",
+    "chapter_num": "",
+    "premise": "桑多涅前往秘闻馆布置茶桌并落座，准备与奈芙尔共度茶会时光。",
+    "central_conflict": "这场茶会没有激烈对抗，核心变化在于奈芙尔表达再次相聚的意愿，而「木偶」需要决定继续停留还是结束聚会。",
+    "summary": "时间未明确，桑多涅前往秘闻馆放置茶桌并落座，由此开启与奈芙尔的茶会。相处期间，奈芙尔表示若喜欢阿舍鲁，今后可以常来，把此次会面转化为长期邀请。「木偶」随后可以选择再坐一会儿，也可以直接表示茶会该结束了。两种选择最终汇合，奈芙尔让阿舍鲁向桑多涅小姐道别。阿舍鲁以叫声回应，茶会在轻松而亲近的气氛中收束，并为未来再次造访留下可能。",
+    "resolution": "无论「木偶」选择暂时停留还是结束茶会，奈芙尔都会安排阿舍鲁道别。此次聚会就此结束，但奈芙尔的邀请为双方后续重聚保留了空间。",
+    "themes": [
+      "茶会相聚",
+      "再次邀请",
+      "陪伴",
+      "温柔告别"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 76222,
+      "title": "茶会的再邀·奈芙尔",
+      "summary": "桑多涅在秘闻馆布置茶桌并落座，开启与奈芙尔的茶会。奈芙尔借阿舍鲁表达欢迎常来的态度，使一次聚会成为面向未来的再次邀请。「木偶」虽可选择继续停留或结束茶会，但两个分支最终都以奈芙尔和阿舍鲁向桑多涅道别收束。",
+      "turning_point": "奈芙尔明确表示喜欢阿舍鲁便可以常来，使茶会从短暂相聚转向持续往来的邀请。",
+      "outcome": "茶会在阿舍鲁的道别声中结束，桑多涅与奈芙尔未来再次相聚的可能得到保留。",
+      "section_ids": [
+        "76222-c00-s01",
+        "76222-c00-s02",
+        "76222-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "前往秘闻馆放置茶桌并使用桑多涅落座后，与奈芙尔共度茶会时光吧…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "76222-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "桑多涅在秘闻馆开启茶会",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "茶会开启阶段",
+      "locations": [
+        "秘闻馆"
+      ],
+      "characters": [
+        "桑多涅"
+      ],
+      "summary": "时间未明确，桑多涅前往秘闻馆，为茶会放置茶桌并落座。连续的准备行动共同完成聚会所需条件，使与奈芙尔共度茶会时光成为可能。",
+      "motivation": "桑多涅需要完成茶桌布置并落座，以开启与奈芙尔的茶会。",
+      "outcome": "秘闻馆中的茶会正式开启，剧情转入双方相处与交谈。",
+      "keywords": [
+        "秘闻馆",
+        "桑多涅",
+        "茶桌",
+        "茶会开启"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7622201,
+          "title": "前往秘闻馆开启茶会",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7622202,
+          "title": "前往秘闻馆开启茶会",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76222-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "奈芙尔再次发出常来邀请",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "茶会进行期间",
+      "locations": [
+        "秘闻馆"
+      ],
+      "characters": [
+        "奈芙尔",
+        "「木偶」",
+        "阿舍鲁"
+      ],
+      "summary": "茶会进行期间，奈芙尔告诉「木偶」，若喜欢阿舍鲁便可以常来。她以平静直接的邀请确认了对再次来访的欢迎，也让这次相聚获得延续至未来的意义。",
+      "motivation": "奈芙尔希望借对阿舍鲁的喜爱，表达欢迎对方日后再次到访的态度。",
+      "outcome": "再次相聚的可能被明确提出，「木偶」继而需要决定继续停留还是结束本次茶会。",
+      "keywords": [
+        "奈芙尔",
+        "阿舍鲁",
+        "再次邀请",
+        "常来"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7622203,
+          "title": "享受茶会时光",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76222-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "阿舍鲁为茶会温柔作别",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "茶会收束阶段",
+      "locations": [
+        "秘闻馆"
+      ],
+      "characters": [
+        "「木偶」",
+        "奈芙尔",
+        "阿舍鲁",
+        "桑多涅"
+      ],
+      "summary": "茶会收束时，「木偶」可以选择再坐一会儿，也可以表示茶会该结束了，这两个选项不会同时发生。无论选择哪条回应，奈芙尔最终都会让阿舍鲁向桑多涅小姐说再见，阿舍鲁则以一声猫叫完成道别。",
+      "motivation": "「木偶」需要决定是否结束眼前的相处，奈芙尔则以正式道别为本次聚会收尾。",
+      "outcome": "两条选择分支汇合，茶会在阿舍鲁的回应中结束，同时保留奈芙尔此前提出的再访邀请。",
+      "keywords": [
+        "分支选择",
+        "茶会结束",
+        "阿舍鲁",
+        "道别"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7622203,
+          "title": "享受茶会时光",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:36:39.070Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

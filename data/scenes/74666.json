@@ -1,0 +1,84 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 74666,
+    "slug": "74666_hydro-phantasm-havoc",
+    "title": "浊水幻灵引起的混乱",
+    "chapter_num": "",
+    "premise": "浊水幻灵正在作乱，任务以击退它们、制止混乱为主要目标。",
+    "central_conflict": "作乱的浊水幻灵构成直接威胁，而执行任务者需要通过战斗将其击退。",
+    "summary": "浊水幻灵在地点未明确的区域作乱，由此引发混乱。任务随即将击退浊水幻灵确立为唯一目标。执行任务者需要正面应对这些敌对生物，以制止它们继续造成影响。原文没有提供战斗过程、参与者身份或事后对话，剧情以完成击退目标收束。",
+    "resolution": "浊水幻灵被击退，当前混乱因任务目标的完成而得到处理。原文未交代更长期的影响或后续安排。",
+    "themes": [
+      "平息混乱",
+      "魔物作乱",
+      "正面战斗"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 74666,
+      "title": "浊水幻灵引起的混乱",
+      "summary": "本章以处理浊水幻灵造成的混乱为目标，并直接进入击退敌人的行动。由于原文仅包含一个任务步骤，战斗的具体经过与参与者身份均未展开；本章最终以浊水幻灵被击退而结束。",
+      "turning_point": "执行任务者击退正在作乱的浊水幻灵，使局面由魔物制造混乱转为威胁得到处理。",
+      "outcome": "浊水幻灵被击退，本章所指向的直接威胁得到解除，但原文未说明后续影响。",
+      "section_ids": [
+        "74666-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "浊水幻灵正在作乱…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "74666-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "浊水幻灵遭到击退",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "浊水幻灵作乱期间",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "执行任务者",
+        "浊水幻灵"
+      ],
+      "summary": "浊水幻灵正在地点未明确的区域作乱，并由此造成混乱。执行任务者以制止骚乱为目的与其交战，将这些浊水幻灵击退；原文未展开战斗经过。",
+      "motivation": "浊水幻灵正在作乱，执行任务者需要击退它们以制止混乱。",
+      "outcome": "浊水幻灵被击退，当前任务目标完成；原文未明确交代进一步影响。",
+      "keywords": [
+        "浊水幻灵",
+        "作乱",
+        "击退",
+        "战斗"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7466601,
+          "title": "击退浊水幻灵",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:26:47.594Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

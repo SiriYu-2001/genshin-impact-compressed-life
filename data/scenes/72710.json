@@ -1,0 +1,86 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72710,
+    "slug": "72710_kairagi-vagrant-pandemonium",
+    "title": "海乱鬼与浮浪人引起的混乱",
+    "chapter_num": "",
+    "premise": "八酝岛某处受到海乱鬼与浮浪人侵扰，九条政仁希望有人出面平息混乱。主要目标是击退这两股作乱者。",
+    "central_conflict": "海乱鬼与浮浪人的作乱破坏了当地秩序，而九条政仁需要借助他人力量解除威胁。",
+    "summary": "时间未明确，八酝岛某处出现海乱鬼与浮浪人共同作乱的情况。九条政仁希望有人协助解决由此引发的混乱。剧情随即把应对方式明确为击退海乱鬼与浮浪人，使平息骚乱成为唯一行动目标。原文未提供交涉、战斗过程、任务完成状态或事后影响。",
+    "resolution": "本 scene 以“击退海乱鬼与浮浪人”的任务目标收束。敌人是否已被击退以及八酝岛当地秩序是否恢复，原文未明确。",
+    "themes": [
+      "平息骚乱",
+      "共同威胁",
+      "武力驱逐"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72710,
+      "title": "海乱鬼与浮浪人引起的混乱",
+      "summary": "八酝岛某处的海乱鬼与浮浪人正在作乱，九条政仁希望有人帮助解决混乱。本章将应对目标明确为击退两股作乱者，但没有展开具体战斗过程，也未说明任务完成后的结果。",
+      "turning_point": "九条政仁的求助被转化为击退海乱鬼与浮浪人的明确行动目标。",
+      "outcome": "平息混乱的行动方向已经确定，但敌人是否被击退及当地后续状况均未明确。",
+      "section_ids": [
+        "72710-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "八酝岛上某处，海乱鬼与浮浪人正在作乱，九条政仁希望能有人帮忙解决这场混乱。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72710-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "九条政仁请求平息匪乱",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "八酝岛某处"
+      ],
+      "characters": [
+        "九条政仁",
+        "海乱鬼",
+        "浮浪人"
+      ],
+      "summary": "时间未明确，八酝岛某处的海乱鬼与浮浪人正在作乱，造成当地混乱。九条政仁希望有人提供帮助，剧情据此提出击退两股作乱者的直接目标。原文未交代具体战斗经过或目标是否完成。",
+      "motivation": "九条政仁希望消除海乱鬼与浮浪人作乱造成的混乱。",
+      "outcome": "击退海乱鬼与浮浪人成为明确的后续行动目标；实际执行结果原文未明确。",
+      "keywords": [
+        "八酝岛",
+        "九条政仁",
+        "海乱鬼",
+        "浮浪人",
+        "平息混乱"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7271001,
+          "title": "击退海乱鬼与浮浪人",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:11:50.821Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 74655,
+    "slug": "74655_pabans-milk-run",
+    "title": "帕班的牛奶需求",
+    "chapter_num": "",
+    "premise": "帕班正在接洽牛奶供应商，并要求对方提交8瓶牛奶作为投标样品。供应商需要备齐牛奶并完成交付。",
+    "central_conflict": "供应商必须及时备妥牛奶样品，而帕班明确表示投标者不止一家，迟延可能影响竞争结果。",
+    "summary": "时间与地点均未明确，帕班将来访者视为参与投标的牛奶供应商。帕班确认对方是否已经准备好8瓶牛奶样品，并要求备妥后直接交给他。若供应商尚未准备完成，帕班便以还有其他投标者为由催促其加快进度。供应商备齐牛奶后完成样品交付，使接洽进入结算阶段。帕班收下样品，并支付样品费与服务费。此次交付完成了供应商当前的投标手续，但最终结果仍需等待后续通知。",
+    "resolution": "帕班验收牛奶样品并结清相应费用，当前委托就此完成。投标结果没有在本场景中揭晓，供应商只能等待通知。",
+    "themes": [
+      "样品交付",
+      "商业投标",
+      "限时竞争",
+      "等待结果"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 74655,
+      "title": "帕班的牛奶需求",
+      "summary": "本章围绕8瓶牛奶样品的交付展开，帕班先确认供应商的准备情况，并以其他竞争者的存在催促尚未备妥者。供应商完成交付后，帕班收下样品并支付样品费与服务费。当前接洽已经结束，但投标是否成功仍未确定。",
+      "turning_point": "供应商备齐并交出8瓶牛奶，使接洽从样品准备阶段转入验收结算阶段。",
+      "outcome": "帕班收下牛奶样品并支付费用，供应商完成本次投标手续，随后等待结果通知。",
+      "section_ids": [
+        "74655-c00-s01",
+        "74655-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "帕班需要8瓶牛奶。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "74655-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "帕班催促供应商提交牛奶样品",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "牛奶样品交付阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "帕班",
+        "供应商"
+      ],
+      "summary": "时间未明确，帕班向前来接洽的供应商确认8瓶牛奶样品是否已经备妥，并要求对方直接交付。若供应商尚未准备完成，帕班便指出参与投标者不止一家，催促其抓紧时间。供应商备齐牛奶后完成样品交付，接洽由准备阶段转入验收结算。",
+      "motivation": "帕班需要取得牛奶样品以推进供应商投标，而供应商需要及时满足数量要求以免在竞争中失去机会。",
+      "outcome": "8瓶牛奶样品完成交付，帕班随后可以收货并结算费用；未备妥时则需继续准备后再推进。",
+      "keywords": [
+        "8瓶牛奶",
+        "样品交付",
+        "供应商",
+        "投标竞争"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7465501,
+          "title": "将8瓶牛奶交给帕班",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "74655-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "帕班收下样品并结清费用",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "牛奶样品交付完成后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "帕班",
+        "供应商"
+      ],
+      "summary": "牛奶样品交付完成后，帕班确认收下样品。他向供应商支付样品费与服务费，并告知对方回去等待投标结果。当前交易手续至此结束，但是否中标仍未揭晓。",
+      "motivation": "帕班需要完成样品验收与费用结算，供应商则需要完成投标所要求的交付手续。",
+      "outcome": "供应商取得样品费与服务费并完成本次接洽，后续影响取决于尚未公布的投标结果。",
+      "keywords": [
+        "样品验收",
+        "费用结算",
+        "投标结果",
+        "等待通知"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7465502,
+          "title": "与帕班对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:26:14.104Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

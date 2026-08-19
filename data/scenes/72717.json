@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72717,
+    "slug": "72717_kozues-ironwork",
+    "title": "梢的铁块需求",
+    "chapter_num": "",
+    "premise": "鸣神岛的梢委托他人准备十份铁块，委托承接者需要将足量材料交给她。",
+    "central_conflict": "委托能否完成取决于承接者是否备齐十份铁块；材料不足时，梢不会继续接收。",
+    "summary": "时间未明确，委托承接者在鸣神岛找到梢，谈及她需要的铁块。梢确认对方是否接下委托，并询问十份铁块是否已经备齐。若材料尚未准备好，她会要求对方备齐后再来；在完成委托的路径中，承接者表示已经准备妥当。梢随后核对数量，确认收到的铁块正好是十份。她说明稍后会把这些铁块转交给太郎丸老板，使材料收集与交付顺利完成。",
+    "resolution": "梢收下并确认十份铁块无误，委托至此完成。铁块之后将由她转交给太郎丸老板。",
+    "themes": [
+      "委托履行",
+      "材料筹备",
+      "数量核验",
+      "代为转交"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72717,
+      "title": "梢的铁块需求",
+      "summary": "本章围绕向梢交付十份铁块展开。梢先核实委托承接者是否已经备齐材料，并在完成路径中收到铁块。她确认数量恰好符合要求，随后表示将把材料转交给太郎丸老板。",
+      "turning_point": "委托承接者确认材料已经准备妥当，使任务从询问筹备情况转入正式验收。",
+      "outcome": "梢收下十份铁块并确认数量无误，材料将由她转交给太郎丸老板。",
+      "section_ids": [
+        "72717-c00-s01",
+        "72717-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "鸣神岛的梢需要十份铁块。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72717-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "梢核实十份铁块的筹备情况",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "鸣神岛"
+      ],
+      "characters": [
+        "梢",
+        "委托承接者"
+      ],
+      "summary": "时间未明确，委托承接者在鸣神岛与梢谈及铁块委托。梢确认对方是否接下委托，并询问十份铁块是否已经备齐；若尚未备齐，她会要求对方准备完成后再来。在完成委托的路径中，承接者表示材料已经准备妥当，使交付得以继续。",
+      "motivation": "梢需要先确认委托承接者已经备齐约定数量的铁块，才能接收材料。",
+      "outcome": "承接者确认已经准备好十份铁块，任务进入材料验收阶段；材料不足的可选路径则暂时中止交付。",
+      "keywords": [
+        "铁块委托",
+        "材料筹备",
+        "数量要求",
+        "交付确认"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7271701,
+          "title": "将十份铁块交给梢",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "72717-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "梢验收铁块并安排转交",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "交付十份铁块后",
+      "locations": [
+        "鸣神岛"
+      ],
+      "characters": [
+        "梢",
+        "委托承接者"
+      ],
+      "summary": "交付十份铁块后，梢核对了收到的材料。她确认数量正好是十份，并说明稍后会将这些铁块转交给太郎丸老板。材料需求得到满足，委托随之完成。",
+      "motivation": "梢需要核验铁块数量，并按原定安排把材料交给太郎丸老板。",
+      "outcome": "十份铁块通过验收并由梢收下，后续转交太郎丸老板的安排得到明确。",
+      "keywords": [
+        "数量核验",
+        "材料验收",
+        "太郎丸老板",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7271702,
+          "title": "与梢对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:12:05.071Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

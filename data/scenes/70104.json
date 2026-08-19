@@ -1,0 +1,277 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70104,
+    "slug": "70104_the-great-mountain-survey",
+    "title": "雪山大勘测",
+    "chapter_num": "",
+    "premise": "环境学家艾斯特尔随探险队进山勘测时遭到魔物袭击，丢失了大部分勘测信标。她委托旅行者找回设备，以挽救雪山勘测工作。",
+    "central_conflict": "魔物袭击造成信标遗失和损坏，艾斯特尔又不敢独自重返危险的雪山，使勘测计划面临设备不足与人员受限的双重困难。",
+    "summary": "探险队遇袭后，艾斯特尔寻找能够替她进入雪山的帮手，并请旅行者回收散落的勘测信标。旅行者完成回收，但艾斯特尔清点时发现设备数量不足，部分信标也已无法使用。旅行者交回的信标虽未彻底损坏，却暂时不能继续工作，完整勘测雪山的计划因此落空。为了尽可能取得一些数据，艾斯特尔将仅存的可用信标交给旅行者，请其放置到地图标注的雪山高处。旅行者完成多处信标布设并回来复命，艾斯特尔支付报酬并表示感谢。任务最终保住了有限的勘测能力，但艾斯特尔仍担心少量信标无法收集足够的有用信息。",
+    "resolution": "旅行者成功回收遗失设备并布设剩余的可用信标，使雪山勘测得以有限度地继续。由于信标数量不足且受损设备尚不能使用，勘测成果仍存在明显的不确定性。",
+    "themes": [
+      "雪山勘测",
+      "受损设备",
+      "冒险互助",
+      "有限资源",
+      "风险应对"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70104,
+      "title": "雪山大勘测",
+      "summary": "艾斯特尔因探险队遇袭而失去大部分勘测信标，遂委托旅行者进入雪山回收设备。找回的信标数量不足且暂时无法使用后，她改变方案，请旅行者把仅存的可用信标布设在雪山高处。旅行者完成全部布设并领取报酬，使勘测工作得以缩小规模继续，但可获得的信息量仍令艾斯特尔担忧。",
+      "turning_point": "艾斯特尔确认找回的信标暂时不能使用，因而放弃完整勘测，转而委托旅行者布设手中仅存的可用信标。",
+      "outcome": "剩余信标被放置到雪山的指定高处，艾斯特尔得以继续有限勘测并向旅行者支付报酬。",
+      "section_ids": [
+        "70104-c00-s01",
+        "70104-c00-s02",
+        "70104-c00-s03",
+        "70104-c00-s04",
+        "70104-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "环境学家艾斯特尔与一支探险队进山勘测时，因为遭遇怪物袭击，她的大部分勘测信标都丢失了，她正在寻找愿意帮她拿回信标的人…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70104-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "艾斯特尔委托回收信标",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "探险队遇袭并丢失信标后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "艾斯特尔",
+        "旅行者"
+      ],
+      "summary": "探险队进山勘测期间遭到魔物袭击，艾斯特尔的大部分勘测信标随之丢失。为了恢复雪山勘测，她找到旅行者并委托其取回散落的设备。",
+      "motivation": "艾斯特尔需要找回勘测设备，但探险队遇袭的经历使她无法自行解决问题。",
+      "outcome": "旅行者接受回收信标的任务，勘测计划进入设备搜寻阶段。",
+      "keywords": [
+        "艾斯特尔",
+        "探险队遇袭",
+        "信标遗失",
+        "回收委托"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7010401,
+          "title": "与艾斯特尔对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70104-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "回收途中发现设备受损",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "接受回收委托后",
+      "locations": [
+        "雪山"
+      ],
+      "characters": [
+        "旅行者",
+        "艾斯特尔"
+      ],
+      "summary": "旅行者进入雪山回收艾斯特尔遗失的勘测信标。随着设备被找回和检查，艾斯特尔发现剩余信标数量不足，并先后辨认出若干设备已经不能正常使用。",
+      "motivation": "旅行者需要尽可能找回遗失设备，艾斯特尔则希望借此恢复完整的雪山勘测能力。",
+      "outcome": "信标受损和数量不足的问题显现，迫使艾斯特尔重新评估原定勘测方案。",
+      "keywords": [
+        "雪山",
+        "信标回收",
+        "设备受损",
+        "数量不足"
+      ],
+      "source_step_keys": [
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7010402,
+          "title": "回收勘测信标",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7010404,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7010405,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70104-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "受损信标促成方案转变",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "旅行者交还信标时",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "艾斯特尔",
+        "旅行者"
+      ],
+      "summary": "旅行者将找回的信标交给艾斯特尔，她确认这些设备虽未彻底损坏，却暂时无法继续使用。艾斯特尔放弃完整勘测的打算，转而把手中仅存的几个信标交给旅行者，请其放到地图标出的雪山高处。她解释自己畏惧魔物且找不到新的进山队伍，只能依靠已经证明身手的旅行者。",
+      "motivation": "艾斯特尔希望在设备不足的情况下尽量取得勘测数据，同时因雪山危险和缺少探险队而无法亲自布设信标。",
+      "outcome": "任务目标从回收受损设备转为布设剩余可用信标，艾斯特尔标出了放置地点并说明了高处布设的要求。",
+      "keywords": [
+        "信标损坏",
+        "方案调整",
+        "地图标注",
+        "高处布设",
+        "再次委托"
+      ],
+      "source_step_keys": [
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 7010406,
+          "title": "与艾斯特尔对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70104-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "旅行者完成多处信标布设",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "取得剩余信标和地图标记后",
+      "locations": [
+        "雪山高处"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "旅行者携带艾斯特尔仅存的可用信标前往雪山，在多个指定地点完成布设。各处信标被安放在有利于勘测的高处，使缩减后的调查方案具备了执行条件。",
+      "motivation": "旅行者需要按照艾斯特尔的标记和要求完成布设，以便在现有设备条件下尽可能收集雪山信息。",
+      "outcome": "全部指定信标完成布设，旅行者可以返回向艾斯特尔报告结果。",
+      "keywords": [
+        "信标布设",
+        "雪山高处",
+        "指定地点",
+        "勘测恢复"
+      ],
+      "source_step_keys": [
+        "5",
+        "6",
+        "8",
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 7010408,
+          "title": "放置勘测信标",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7010409,
+          "title": "放置勘测信标",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7010412,
+          "title": "放置勘测信标",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7010413,
+          "title": "放置勘测信标",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70104-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "艾斯特尔接受布设回报",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "全部信标放置完成后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "艾斯特尔",
+        "旅行者"
+      ],
+      "summary": "旅行者返回告知艾斯特尔所有信标均已放置妥当。艾斯特尔感谢旅行者的多次帮助并支付报酬，但仍担忧少量信标无法勘测出足够的有用信息。",
+      "motivation": "旅行者需要完成复命，艾斯特尔则要确认布设结果并履行报酬承诺。",
+      "outcome": "委托正式完成，有限规模的雪山勘测得以继续，但数据收集效果仍不确定。",
+      "keywords": [
+        "任务回报",
+        "支付报酬",
+        "有限勘测",
+        "成果忧虑"
+      ],
+      "source_step_keys": [
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 7010410,
+          "title": "向艾斯特尔回报",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:52:22.681Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

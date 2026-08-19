@@ -1,0 +1,2188 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 2068,
+    "slug": "2068_the-magic-known-as-storytelling",
+    "title": "名为故事的魔法",
+    "chapter_num": "赤龙之章 第一幕",
+    "premise": "艾莉丝召集旅行者、派蒙与杜林，委托他们借助魔法书补全魔女M留给杜林的最后一个故事。众人需要收集散落在回忆中的篇章，并以有限的魔法墨水帮助杜林完成母亲的遗愿。",
+    "central_conflict": "杜林在提瓦特的存在受到既有“命运”排斥，正逐渐被世界遗忘，而维系其故事的墨水也濒临枯竭。他必须摆脱母亲笔下角色的身份，获得亲自续写人生的权力。",
+    "summary": "艾莉丝以魔女M的遗愿为引，引导杜林、旅行者和派蒙进入魔法书，重访杜林从诞生、获得祝福到离开希穆兰卡的经历。众人从蒙德图书馆、魔女聚会旧址和风龙废墟收集回忆，逐渐发现多位魔女曾以预言、炼金术和魔法共同筹划改写杜林的命运。原以为诅咒已经解除时，蒙德居民却开始遗忘杜林，他与身体的联系也随之减弱，使深渊力量濒临失控。杜林一行在须弥与阿帽重演离开故事世界的抉择，确认逃回旧世界或割舍珍贵关系都会使他的故事消失。阿贝多最终指出，杜林的“故事”被嫁接到雪山杜林的“命运”之上，但故事若无人持续书写，便无法像命运一样自行延伸。墨水耗尽后，杜林穿过故事之外的空白，见证魔女M为把创作权限交给他而耗尽余生准备“故事的魔法”。杜林接受母亲的笔，在旅行者这位见证者翻开新页后击败“命运”，稳定自身力量，并成为自己故事的书写者。",
+    "resolution": "杜林不再依赖魔女M有限的笔墨维系存在，也不再受星辰所映照的既定命运束缚。艾莉丝收回魔法书前，魔女M的魔法意识准备代已故的母亲传达早已写好的寄语，而杜林的新人生仍将继续。",
+    "themes": [
+      "母爱与遗愿",
+      "故事与命运",
+      "成长与告别",
+      "自我书写",
+      "友谊与见证"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 16000,
+      "title": "一位母亲的遗愿",
+      "summary": "艾莉丝向杜林、旅行者和派蒙说明魔女M留下了一部必须由杜林补全的魔法书，并交代收集回忆与节约墨水的规则。众人在蒙德图书馆找到三本作为故事种子的禁书，进入书中见证杜林的诞生以及母亲对他的期待与爱。首个篇章得到补全，但故事为何仍未完成尚无答案。",
+      "turning_point": "魔法书中的故事被确认是在映射杜林的经历，而魔女M亲自留下了对新生杜林的爱与祝福。",
+      "outcome": "首个篇章被写入书中，墨水有所消耗；众人暂时休息，等待魔法书生成后续提示。",
+      "section_ids": [
+        "2068-c00-s01",
+        "2068-c00-s02",
+        "2068-c00-s03",
+        "2068-c00-s04",
+        "2068-c00-s05",
+        "2068-c00-s06"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在外游历的你忽然收到了艾莉丝的邀请，她希望你和派蒙能帮助杜林完成一件事，而这件事正好与杜林的母亲——那位已经逝世的魔女M有关…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 16001,
+      "title": "来自过去的预言",
+      "summary": "魔法书的新谜语把众人引向温迪和魔女们的聚会地点，随后让他们进入杜林的庆生会回忆。杜林通过挑选礼物首次认真思考自己的未来，却在宴会上得知自己因继承邪龙之名而背负相同命运。魔女们决定分别以预言、炼金术、魔法和故事帮助他改写命运，但当前篇章究竟补全了什么仍不清楚。",
+      "turning_point": "预言女巫宣告杜林必将面对邪龙的命运，其他魔女随即决定共同挑战这一预言。",
+      "outcome": "众人获知改写杜林命运的四重助力，并在篇章补全后等待下一条提示。",
+      "section_ids": [
+        "2068-c01-s01",
+        "2068-c01-s02",
+        "2068-c01-s03",
+        "2068-c01-s04",
+        "2068-c01-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "书中的故事所描述的似乎是杜林的经历，你和杜林都很好奇这个故事还有什么等待补全的地方。于是你们再次进入了书中的世界，寻找那些尚未被揭示的秘密…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": 16002,
+      "title": "命运的诡计",
+      "summary": "杜林一行根据新提示前往风龙废墟，在魔法书中重演希穆兰卡城堡里的经历。杜林以现在的自己成为过去所需的奇迹，引导故事中的朋友穿过高墙，并让封闭的小龙接受友谊和祝福。众人一度以为遗愿已经完成，回到蒙德后却发现普通居民正在遗忘杜林，而他的深渊力量也因此失控。",
+      "turning_point": "看似圆满的故事结局没有解决现实问题，杜林反而在被人遗忘后失去与身体的联系并突然倒下。",
+      "outcome": "骑士团照看昏迷的杜林并召回阿贝多，旅行者和派蒙开始怀疑魔法书仍藏有未完成的篇章。",
+      "section_ids": [
+        "2068-c02-s01",
+        "2068-c02-s02",
+        "2068-c02-s03",
+        "2068-c02-s04",
+        "2068-c02-s05",
+        "2068-c02-s06"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_02.json",
+      "source_description": "书中的故事告诉你们，杜林背负着来自一个预言的诅咒。但你想起了在希穆兰卡用祝福帮助杜林战胜诅咒的往事，在书中重现这件往事，或许就是补全这个故事的办法…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": 16003,
+      "title": "星空降下的启示",
+      "summary": "杜林醒来后收到指向须弥的新提示，并在智慧宫遇见早已察觉异常的阿帽。众人进入巨树般的故事世界，得知提瓦特正在排斥第二个“杜林的命运”，并检验回归希穆兰卡、割舍阿帽等道路。错误选择均会让杜林的故事终结或被邪龙取代，唯有相信故事之外的可能性，乘折纸船继续前行，才得到真正线索。",
+      "turning_point": "阿帽确认希穆兰卡杜林与雪山杜林的命运发生冲突，因此这个世界正主动抹除前者的存在。",
+      "outcome": "众人排除逃避和割舍关系的解法，确认答案指向参与杜林重生的阿贝多，并约定一同前往雪山。",
+      "section_ids": [
+        "2068-c03-s01",
+        "2068-c03-s02",
+        "2068-c03-s03",
+        "2068-c03-s04",
+        "2068-c03-s05",
+        "2068-c03-s06"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_03.json",
+      "source_description": "杜林为何会被他人遗忘？对于如何解答这个问题，你和派蒙都没有头绪。这时，魔法书又给出了新的提示——原来魔女M书写的故事并没有在希穆兰卡迎来结局，新的篇章似乎指向了杜林刚刚来到这个世界时落脚的地方…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": 16004,
+      "title": "命运的题解",
+      "summary": "阿贝多在雪山确认杜林的身体本身没有缺陷，并还原魔女们以预言、炼金术和魔法改写命运的计划。众人在书中尝试回避、摧毁邪龙心脏或压制黑暗力量，却不断遭遇杜林故事消失和墨水耗尽的结局。阿贝多由此发现，杜林仍是依赖作者续写才能存在的故事角色。杜林穿过故事之外的空白，得知魔女M真正的遗愿是把笔交给孩子，让他获得书写自身未来的权力。杜林接受创作权限并击败“命运”，现实中的遗忘与力量失控随之消失。",
+      "turning_point": "杜林明白母亲最大的遗憾并非故事没有结局，而是结局会夺走角色的一切可能，于是决定放下母亲的故事书并接过她的笔。",
+      "outcome": "杜林成为自己故事的作者，脱离既定星辰命运；众人完成委托并将魔法书带回艾莉丝处。",
+      "section_ids": [
+        "2068-c04-s01",
+        "2068-c04-s02",
+        "2068-c04-s03",
+        "2068-c04-s04",
+        "2068-c04-s05",
+        "2068-c04-s06",
+        "2068-c04-s07",
+        "2068-c04-s08",
+        "2068-c04-s09"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_04.json",
+      "source_description": "根据从上一个篇章中获得的线索，你们前往蒙德雪山寻找阿贝多。杜林身上的谜团似乎都将在这里获得解答，但「命运」准备的难题也已经等候多时…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": 16005,
+      "title": "幕间小憩",
+      "summary": "魔法书尚未给出后续篇章的提示，旅行者决定暂时休息。行动因此停留在等待书中魔法完成准备的阶段。",
+      "turning_point": "原文未明确",
+      "outcome": "调查暂缓，直至魔法书出现新的篇章提示。",
+      "section_ids": [
+        "2068-c05-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_05.json",
+      "source_description": "魔法书还没有给出后续篇章的提示，你决定休息一段时间再去找杜林…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": 16006,
+      "title": "幕间小憩",
+      "summary": "魔法书仍未给出后续篇章的提示，旅行者继续等待。原文没有记载等待期间发生的其他事件。",
+      "turning_point": "原文未明确",
+      "outcome": "众人保持休整状态，等待下一阶段开启。",
+      "section_ids": [
+        "2068-c06-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_06.json",
+      "source_description": "魔法书还没有给出后续篇章的提示，你决定休息一段时间再去找杜林…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": 16007,
+      "title": "幕间小憩",
+      "summary": "杜林遭遇意外后尚未醒来，原定计划被迫中断。众人只能等待他的情况稳定。",
+      "turning_point": "杜林的意外使原有行动计划暂停。",
+      "outcome": "调查在杜林苏醒前无法继续。",
+      "section_ids": [
+        "2068-c07-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_07.json",
+      "source_description": "杜林遭遇的意外打乱了你们原先的计划，你们不得不先等待杜林醒来…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": 16008,
+      "title": "幕间小憩",
+      "summary": "众人已经取得关键线索，但阿贝多尚未返回，完整答案仍无法确认。行动暂时停留在等待其消息的阶段。",
+      "turning_point": "关键线索把解答问题的必要条件指向阿贝多。",
+      "outcome": "众人等待阿贝多提供进一步判断。",
+      "section_ids": [
+        "2068-c08-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_08.json",
+      "source_description": "你们已经找到了关键的线索，但在阿贝多回来之前，你们仍旧无从得知完整的答案…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "2068-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "艾莉丝以遗愿召集众人",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "艾莉丝发出邀请后",
+      "locations": [
+        "星砂滩"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "艾莉丝"
+      ],
+      "summary": "旅行者和派蒙在星砂滩遇见力量变得更难控制的杜林，确认他的深渊力量暂时仍然稳定。艾莉丝以预言女巫的口吻现身，说明此行与杜林的母亲魔女M有关，并让众人打开一本书。",
+      "motivation": "艾莉丝要让杜林亲自处理母亲留下的遗憾，杜林则渴望了解母亲的遗愿。",
+      "outcome": "众人接受艾莉丝的引导，进入与魔女M有关的故事魔法。",
+      "keywords": [
+        "艾莉丝",
+        "魔女M",
+        "遗愿",
+        "力量异常"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 1600002,
+          "title": "前往星砂滩",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "魔法书的规则得到说明",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "打开魔法书后",
+      "locations": [
+        "魔法书内的构造世界"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "艾莉丝"
+      ],
+      "summary": "艾莉丝说明魔女M留下的这本书才是她最大的遗憾，并要求杜林在旅行者和派蒙协助下补全它。书中篇章散落在过往回忆中，写入内容还会消耗数量有限的魔法墨水。",
+      "motivation": "杜林希望完成母亲的遗愿，艾莉丝则要按照魔女M的嘱托把任务交给他。",
+      "outcome": "杜林接受考验，众人明确了寻找回忆、补全篇章和节约墨水的行动规则。",
+      "keywords": [
+        "魔法书",
+        "回忆",
+        "墨水",
+        "未完故事"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 1600003,
+          "title": "与艾莉丝对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "首条谜语指向蒙德藏书",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "离开艾莉丝的构造世界后",
+      "locations": [
+        "星砂滩",
+        "蒙德图书馆"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "魔女M",
+        "丽莎"
+      ],
+      "summary": "魔女M留下的谜语把“故事的种子”指向众多故事长眠之地，旅行者据此判断目标是蒙德图书馆。众人抵达后向丽莎求助，获悉馆内正出现不属于馆藏目录、还会自行转移的神秘书籍。",
+      "motivation": "众人需要找到开启首个篇章的回忆与创作素材。",
+      "outcome": "丽莎把三本异常书籍确定为调查目标，众人开始搜寻。",
+      "keywords": [
+        "谜语",
+        "蒙德图书馆",
+        "故事种子",
+        "丽莎"
+      ],
+      "source_step_keys": [
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 1600004,
+          "title": "与杜林商谈",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 1600005,
+          "title": "前往蒙德图书馆",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "三本禁书组成故事种子",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "在蒙德图书馆搜寻期间",
+      "locations": [
+        "蒙德图书馆"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "丽莎"
+      ],
+      "summary": "众人辨认多本可疑藏书，并排除《蹦蹦宝藏大全》和《野猪公主》等干扰项。最终找到的三本禁书分别涉及危险创生炼金术、艾莉丝创造世界的魔法，以及把雪山邪龙描写成寻友孩子的诗歌。",
+      "motivation": "众人要从异常藏书中找齐魔女M创作杜林故事时参考的三本书。",
+      "outcome": "三本真正的故事种子被集齐并获准暂借，魔法书随即开启首个篇章。",
+      "keywords": [
+        "禁书",
+        "炼金术",
+        "创造世界",
+        "邪龙诗歌"
+      ],
+      "source_step_keys": [
+        "1",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "14"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 1600019,
+          "title": "进入魔法书里的世界",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 1600014,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 1600015,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 1600016,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 1600017,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 1600018,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 1600006,
+          "title": "寻找不存在于馆藏目录中的书籍",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 1600007,
+          "title": "与丽莎对话",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 1600020,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "杜林见证自己被爱着诞生",
+      "narrative_role": "development",
+      "importance": 5,
+      "when": "集齐三本禁书后",
+      "locations": [
+        "魔法书中的故事世界"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "魔女M"
+      ],
+      "summary": "众人进入书中，确认眼前等待孵化的龙蛋映射着杜林的诞生，并按旁白提示用杜林的火焰帮助它破壳。魔女M通过故事告诉孩子，他的降生出于自己的愿望，并保证他自诞生起便被期待和爱着。",
+      "motivation": "众人要推动首个篇章前进，杜林也希望亲自理解母亲创造自己的心意。",
+      "outcome": "龙蛋成功孵化，杜林向母亲表达感谢，首个篇章获得补全。",
+      "keywords": [
+        "龙蛋",
+        "诞生",
+        "母爱",
+        "故事旁白"
+      ],
+      "source_step_keys": [
+        "12",
+        "13",
+        "15",
+        "16",
+        "17"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "12",
+          "id": 1600008,
+          "title": "进入魔法书里的世界",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 1600009,
+          "title": "与杜林商讨",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 1600010,
+          "title": "探索周围",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 1600011,
+          "title": "帮助龙蛋孵化",
+          "is_hidden": false
+        },
+        {
+          "key": "17",
+          "id": 1600012,
+          "title": "与杜林对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c00-s06",
+      "chapter_index": 0,
+      "order": 6,
+      "title": "首篇完成仍留下疑问",
+      "narrative_role": "transition",
+      "importance": 3,
+      "when": "完成首个书中篇章后",
+      "locations": [
+        "蒙德城"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "艾莉丝"
+      ],
+      "summary": "众人回到蒙德城，确认书页新增内容且墨水有所减少，却不明白杜林已有的美好结局为何仍被魔女M视为未完成。艾莉丝预留的语音说明魔法书需要时间消化墨水，杜林于是提议先行休息。",
+      "motivation": "众人想确认任务进度并寻找后续篇章的线索。",
+      "outcome": "首篇被确认完成，杜林归还借书并等待魔法书生成新提示。",
+      "keywords": [
+        "篇章完成",
+        "墨水消耗",
+        "等待提示",
+        "未解疑问"
+      ],
+      "source_step_keys": [
+        "18"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "18",
+          "id": 1600013,
+          "title": "与杜林讨论故事里的见闻",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "温迪解开风与乐章之谜",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "魔法书生成第二条提示后",
+      "locations": [
+        "蒙德城",
+        "魔女们的聚会地点"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "温迪",
+        "魔女M"
+      ],
+      "summary": "魔女M以风、诗歌和曲谱留下谜语，杜林一行循风找到温迪。温迪通过魔女会与风神和解的旧事解出地点，并提供开启回忆所需的三段曲谱。",
+      "motivation": "众人需要找到第二个篇章的回忆，杜林也想知道母亲为何认为故事尚未完成。",
+      "outcome": "众人抵达魔女们的聚会地点并完成演奏，进入新的故事篇章。",
+      "keywords": [
+        "温迪",
+        "魔女会",
+        "曲谱",
+        "聚会地点"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 1600102,
+          "title": "与杜林会合",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 1600103,
+          "title": "跟随指引寻找温迪",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 1600104,
+          "title": "前往魔女们的聚会地点",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 1600110,
+          "title": "进入魔法书里的世界",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c01-s02",
+      "chapter_index": 1,
+      "order": 2,
+      "title": "庆生会要求来客准备礼物",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "演奏曲谱并进入第二篇章后",
+      "locations": [
+        "魔法书中的魔女长桌"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "魔女M"
+      ],
+      "summary": "众人来到为小龙举行庆生会的魔女长桌，却因两手空空而不能入席。旁白引导他们在周围寻找战士长剑、游侠弹弓和学者典籍等礼物。",
+      "motivation": "众人必须满足庆生会的入席条件，才能让故事继续。",
+      "outcome": "可供选择的礼物被找到，杜林开始思考自己真正向往的未来。",
+      "keywords": [
+        "庆生会",
+        "礼物",
+        "魔女长桌",
+        "未来选择"
+      ],
+      "source_step_keys": [
+        "4",
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 1600105,
+          "title": "从旁白口中了解故事",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 1600111,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 1600106,
+          "title": "寻找礼物",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c01-s03",
+      "chapter_index": 1,
+      "order": 3,
+      "title": "礼物映照杜林未来愿望",
+      "narrative_role": "revelation",
+      "importance": 4,
+      "when": "庆生会入席前",
+      "locations": [
+        "魔法书中的魔女长桌附近"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "魔女M"
+      ],
+      "summary": "不同礼物分别象征保护他人的战士、追逐故事的游侠和理解世界的学者，具体选择取决于玩家分支。无论选择何物，杜林都第一次摆脱母亲预先写好的故事，认真设想自己希望成为怎样的人。",
+      "motivation": "杜林需要为过去的自己送出礼物，也借此寻找属于自己的未来方向。",
+      "outcome": "众人完成礼物选择，杜林形成了主动思考自身人生的意识。",
+      "keywords": [
+        "玩家分支",
+        "战士",
+        "游侠",
+        "学者",
+        "自我选择"
+      ],
+      "source_step_keys": [
+        "5",
+        "6",
+        "7",
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 1600111,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 1600106,
+          "title": "寻找礼物",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 1600107,
+          "title": "挑选礼物",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 1600112,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c01-s04",
+      "chapter_index": 1,
+      "order": 4,
+      "title": "魔女们共同挑战邪龙命运",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "众人带礼物参加庆生会时",
+      "locations": [
+        "魔法书中的魔女长桌"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "魔女M",
+        "预言女巫",
+        "智慧女巫",
+        "快乐女巫"
+      ],
+      "summary": "预言女巫因杜林继承邪龙之名，预言他必将面对相同命运，魔女M则决意改写孩子的人生。快乐女巫说服众人共同挑战规则，魔女们分别许诺以预言、炼金术、魔法和最后一个故事帮助杜林。",
+      "motivation": "魔女M要让孩子摆脱邪龙命运，其他魔女则因友情与对挑战规则的兴趣提供援助。",
+      "outcome": "杜林命运开始转动，贯穿后续篇章的四重解法首次得到完整揭示。",
+      "keywords": [
+        "预言",
+        "邪龙命运",
+        "魔女祝福",
+        "四重奇迹"
+      ],
+      "source_step_keys": [
+        "8"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "8",
+          "id": 1600108,
+          "title": "带着礼物参加庆生会",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c01-s05",
+      "chapter_index": 1,
+      "order": 5,
+      "title": "篇章完成却不知补在何处",
+      "narrative_role": "transition",
+      "importance": 3,
+      "when": "庆生会篇章结束后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林"
+      ],
+      "summary": "众人确认篇章和墨水发生变化，却发现新增内容更像补写回忆，无法判断真正缺失的部分。杜林因这是母亲的遗愿而格外谨慎，最终决定先等待下一条提示。",
+      "motivation": "众人需要确认补全行为是否正确，并避免浪费有限墨水。",
+      "outcome": "任务表面顺利推进，但“补全”的真实目的仍成为悬念。",
+      "keywords": [
+        "补写回忆",
+        "墨水",
+        "遗愿",
+        "悬念"
+      ],
+      "source_step_keys": [
+        "9",
+        "10"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "9",
+          "id": 1600112,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 1600109,
+          "title": "与杜林讨论故事里的见闻",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c02-s01",
+      "chapter_index": 2,
+      "order": 1,
+      "title": "异常骰运预示命运仍在作祟",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "第三篇章开启前",
+      "locations": [
+        "蒙德城",
+        "风龙废墟"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "凯亚",
+        "可莉",
+        "菲谢尔",
+        "奥兹"
+      ],
+      "summary": "杜林学习七圣召唤以融入人类社交，却连续投出相同骰面，被众人戏称为命运的诡计。新提示随后把众人引向有巨龙与孤堡的风龙废墟，他们由此进入映射希穆兰卡经历的篇章。",
+      "motivation": "杜林想结交更多朋友，同时要继续完成母亲留下的故事。",
+      "outcome": "众人抵达风龙废墟并开启以城堡和诅咒为核心的新篇章。",
+      "keywords": [
+        "七圣召唤",
+        "命运诡计",
+        "风龙废墟",
+        "新提示"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "10",
+        "11"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 1600202,
+          "title": "与杜林会合",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 1600203,
+          "title": "和杜林一起前往风龙废墟",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 1600204,
+          "title": "深入风龙废墟",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 1600215,
+          "title": "进入魔法书里的世界",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 1600216,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 1600217,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c02-s02",
+      "chapter_index": 2,
+      "order": 2,
+      "title": "众人重返小龙封闭的城堡",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "进入风龙废墟对应的书中篇章后",
+      "locations": [
+        "魔法书中的城堡"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "魔女M"
+      ],
+      "summary": "书中城堡重现杜林在希穆兰卡自我封闭的经历，小龙藏在高塔并以阴影阻隔来客。现在的杜林熟悉过去的拒绝方式，主动带领众人穿过高墙并击败阻碍。",
+      "motivation": "众人希望再次帮助过去的小龙解除诅咒，推动既有故事走向圆满。",
+      "outcome": "队伍深入城堡，接近小龙藏身的高塔。",
+      "keywords": [
+        "希穆兰卡",
+        "城堡",
+        "心灵壁障",
+        "自我封闭"
+      ],
+      "source_step_keys": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 1600205,
+          "title": "与杜林商讨",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 1600206,
+          "title": "设法进入城堡",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 1600207,
+          "title": "深入城堡",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 1600208,
+          "title": "击败拦路的敌人",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c02-s03",
+      "chapter_index": 2,
+      "order": 3,
+      "title": "现在的杜林成为昔日奇迹",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "深入书中城堡期间",
+      "locations": [
+        "魔法书中的城堡"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "飞鼠仙子",
+        "长颈鹿国王",
+        "箱子里的猫",
+        "魔女M"
+      ],
+      "summary": "众人遇见杜林记忆中的飞鼠仙子、长颈鹿国王和箱子里的猫，但她们被小龙的孤独挡在火光之外。杜林意识到自己可以成为过去等待的奇迹，以自身火光带领这些朋友继续前进。",
+      "motivation": "杜林想弥补过去对友谊的拒绝，并让伙伴抵达孤独的小龙身边。",
+      "outcome": "故事中的朋友突破阴影，队伍共同前往小龙的藏身处。",
+      "keywords": [
+        "故事伙伴",
+        "火光",
+        "友谊",
+        "奇迹"
+      ],
+      "source_step_keys": [
+        "8",
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "8",
+          "id": 1600209,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 1600210,
+          "title": "继续深入城堡",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c02-s04",
+      "chapter_index": 2,
+      "order": 4,
+      "title": "小龙接受朋友们的祝福",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "抵达书中高塔后",
+      "locations": [
+        "魔法书中的高塔"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "小龙",
+        "飞鼠仙子",
+        "长颈鹿国王",
+        "箱子里的猫",
+        "快乐女巫",
+        "魔女M"
+      ],
+      "summary": "小龙因害怕伤害他人而拒绝现身，现在的杜林以自身经历证明他终会交到朋友。伙伴们依次发出邀请，快乐女巫也借出创造世界的魔法，小龙最终主动请求并接受众人的祝福。",
+      "motivation": "众人要帮助小龙走出心灵牢笼，杜林则愿意把自己获得过的希望送给过去。",
+      "outcome": "小龙再次实现成为人并结交朋友的愿望，故事呈现出圆满结局。",
+      "keywords": [
+        "祝福",
+        "解除诅咒",
+        "快乐女巫",
+        "成为人"
+      ],
+      "source_step_keys": [
+        "12"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "12",
+          "id": 1600211,
+          "title": "前往小龙的藏身之处",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c02-s05",
+      "chapter_index": 2,
+      "order": 5,
+      "title": "众人误以为遗愿已经完成",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "书中愿望实现后",
+      "locations": [
+        "风龙废墟"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "温迪",
+        "特瓦林"
+      ],
+      "summary": "众人认为墨水仍有剩余且故事已经圆满，准备回蒙德庆祝，杜林却因母亲最后的故事结束而流露不舍。暗中观察的温迪和特瓦林认为二者相见时机未到，并期待故事获得更好的结局。",
+      "motivation": "众人想庆祝完成遗愿，杜林则在告别母亲故事与珍惜现实朋友之间调整心情。",
+      "outcome": "一行人返回蒙德，但尚未意识到真正的命运危机即将显现。",
+      "keywords": [
+        "误判完成",
+        "告别母亲",
+        "特瓦林",
+        "庆祝"
+      ],
+      "source_step_keys": [
+        "13"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "13",
+          "id": 1600212,
+          "title": "与杜林讨论故事里的见闻",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c02-s06",
+      "chapter_index": 2,
+      "order": 6,
+      "title": "遗忘引发杜林力量失控",
+      "narrative_role": "conflict",
+      "importance": 5,
+      "when": "返回蒙德城后",
+      "locations": [
+        "蒙德城"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "凯亚",
+        "可莉",
+        "琴",
+        "丽莎"
+      ],
+      "summary": "庆祝开始前，普通居民把杜林误认成雪山邪龙，凯亚由此发现不熟悉杜林的人已经忘记他的存在。魔女M宣告命运的诡计尚未结束，杜林随即与身体失去联系并爆发力量，最终因过度消耗而昏迷。",
+      "motivation": "杜林试图维持自我、避免伤害他人，骑士团则必须控制潜在危险并查明原因。",
+      "outcome": "杜林被骑士团照看，琴召回阿贝多，魔法书也被暂时保管以供继续调查。",
+      "keywords": [
+        "集体遗忘",
+        "力量失控",
+        "昏迷",
+        "阿贝多"
+      ],
+      "source_step_keys": [
+        "14",
+        "15"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "14",
+          "id": 1600213,
+          "title": "与杜林一起返回蒙德城",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 1600214,
+          "title": "向众人了解现状",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c03-s01",
+      "chapter_index": 3,
+      "order": 1,
+      "title": "杜林醒来并追索新提示",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "杜林从昏迷中醒来后",
+      "locations": [
+        "蒙德城"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "琴",
+        "丽莎",
+        "魔女M"
+      ],
+      "summary": "杜林解释自己在被人遗忘时会失去与身体的联系，封印其中的深渊力量也会因此失控。魔法书随即给出指向世间最高大树的新提示，丽莎鼓励他把失去的记忆也当作故事中需要补全的部分。",
+      "motivation": "杜林想恢复众人的记忆并控制自身力量，众人则要在艾莉丝和阿贝多缺席时继续寻找答案。",
+      "outcome": "一行人把谜底锁定为须弥，并前往智慧宫调查。",
+      "keywords": [
+        "苏醒",
+        "身体联系",
+        "新提示",
+        "须弥"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 1600302,
+          "title": "去看望杜林",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c03-s02",
+      "chapter_index": 3,
+      "order": 2,
+      "title": "阿帽揭示世界正在排斥杜林",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "抵达须弥智慧宫后",
+      "locations": [
+        "须弥智慧宫"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "阿帽",
+        "卡塔扬"
+      ],
+      "summary": "众人在智慧宫遇见试图补回缺失书卷的阿帽，他说明所有关于希穆兰卡杜林的文字都会逐渐消失，并最终被雪山杜林的记录取代。阿帽判断世界正主动拒绝杜林，遗忘现象若继续扩大，他终将失去一切现实联系。",
+      "motivation": "阿帽担心杜林重演被世界抹除的命运，众人则急需找到开启新篇章的回忆。",
+      "outcome": "与杜林初到提瓦特相关的回忆在阿帽身上显现，魔法书开启巨树篇章。",
+      "keywords": [
+        "阿帽",
+        "世界树",
+        "记录消失",
+        "存在排斥"
+      ],
+      "source_step_keys": [
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 1600303,
+          "title": "与杜林一起前往须弥智慧宫",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 1600322,
+          "title": "进入魔法书里的世界",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c03-s03",
+      "chapter_index": 3,
+      "order": 3,
+      "title": "巨树岔路检验三种去向",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "进入巨树般的故事世界后",
+      "locations": [
+        "魔法书中的巨树"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "小龙",
+        "阿帽",
+        "预言女巫",
+        "魔女M"
+      ],
+      "summary": "预言女巫再次宣告城堡外的邪龙终将复活，并让众人寻找离开巨树的道路。众人分别考察按原计划前往蒙德、退回希穆兰卡，以及走上阿帽无法前进之路等选择，发现每条道路都牵涉杜林是否保有现实联系与重要回忆。",
+      "motivation": "众人要找出既能离开故事又能阻止杜林被世界遗忘的方向。",
+      "outcome": "常规道路无法解释或解决存在危机，错误选择的危险逐渐显现。",
+      "keywords": [
+        "巨树",
+        "预言",
+        "道路选择",
+        "现实联系"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "12",
+        "19"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 1600304,
+          "title": "与众人商讨",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 1600305,
+          "title": "向先知寻求答案",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 1600306,
+          "title": "寻找离开的办法",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 1600308,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 1600312,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 1600315,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 1600307,
+          "title": "寻找离开的办法",
+          "is_hidden": false
+        },
+        {
+          "key": "19",
+          "id": 1600318,
+          "title": "寻找其他的可能性",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c03-s04",
+      "chapter_index": 3,
+      "order": 4,
+      "title": "错误结局抹去杜林自我",
+      "narrative_role": "conflict",
+      "importance": 5,
+      "when": "尝试巨树中的错误道路时",
+      "locations": [
+        "魔法书中的巨树",
+        "魔法书中的城堡"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "小龙",
+        "阿帽",
+        "魔女M"
+      ],
+      "summary": "回到城堡会让小龙在无事可做的安逸中沉睡，使故事直接终结；切断与阿帽的联系则会抹去关键缘起，使杜林的故事只剩邪龙影子。每次错误结局都令现实中的杜林失去力量或自我，迫使众人返回选择之前继续寻找。",
+      "motivation": "众人必须验证各种可能，同时避免用逃避或牺牲珍贵关系换取表面安全。",
+      "outcome": "回归旧世界和割舍朋友均被否决，杜林确认自己的故事不能靠删除经历来补全。",
+      "keywords": [
+        "错误结局",
+        "故事终结",
+        "记忆割舍",
+        "邪龙影子"
+      ],
+      "source_step_keys": [
+        "9",
+        "10",
+        "11",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "9",
+          "id": 1600319,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 1600320,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 1600321,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 1600313,
+          "title": "回到城堡中去…",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 1600314,
+          "title": "「故事」早晚要迎来结局…",
+          "is_hidden": false
+        },
+        {
+          "key": "17",
+          "id": 1600316,
+          "title": "走上流浪猫无法前进的路…",
+          "is_hidden": false
+        },
+        {
+          "key": "18",
+          "id": 1600317,
+          "title": "「预言」注定会应验…",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c03-s05",
+      "chapter_index": 3,
+      "order": 5,
+      "title": "折纸船驶向故事外的可能",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "排除错误道路后",
+      "locations": [
+        "魔法书中的巨树"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "小龙",
+        "阿帽",
+        "魔女M"
+      ],
+      "summary": "众人发现来自另一段故事的折纸船“杜林号”，旁白却断言城堡外的折纸船不会飞。杜林不再受既有故事规则限制，坚持尝试新的办法，最终让折纸船乘风飞向预言指示的方向。",
+      "motivation": "杜林要证明故事外的世界仍有未被写定的可能，并寻找真正的出口。",
+      "outcome": "众人成功离开巨树，杜林用主动选择突破了旁白设下的限制。",
+      "keywords": [
+        "杜林号",
+        "折纸船",
+        "突破规则",
+        "可能性"
+      ],
+      "source_step_keys": [
+        "13",
+        "14"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "13",
+          "id": 1600309,
+          "title": "前往风吹来的地方",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 1600323,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c03-s06",
+      "chapter_index": 3,
+      "order": 6,
+      "title": "两段杜林命运无法并存",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "离开书中巨树后",
+      "locations": [
+        "须弥智慧宫"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "阿帽",
+        "卡塔扬"
+      ],
+      "summary": "阿帽结合书中经历指出，希穆兰卡杜林与雪山杜林互为命运映射，而提瓦特无法容纳两段同名命运同时存在。魔女们似乎试图像把新书卷加入馆藏一样，为杜林创造一段可独立成立的新命运。",
+      "motivation": "众人要解释遗忘现象的根源，阿帽也要确认自己是否给杜林带来了连带影响。",
+      "outcome": "问题被明确为命运层面的冲突，阿帽放弃切断联系的想法，并与众人一同等待阿贝多。",
+      "keywords": [
+        "命运映射",
+        "两位杜林",
+        "新书卷",
+        "阿贝多"
+      ],
+      "source_step_keys": [
+        "20"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "20",
+          "id": 1600311,
+          "title": "与众人讨论故事里的见闻",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c04-s01",
+      "chapter_index": 4,
+      "order": 1,
+      "title": "阿贝多还原魔女们的计划",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "阿贝多返回蒙德后",
+      "locations": [
+        "龙脊雪山"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "阿帽",
+        "阿贝多",
+        "魔女M"
+      ],
+      "summary": "阿贝多检查后确认杜林的身体和深渊封印没有缺陷，真正减弱的是主观意志与身体的联系。他推断魔女们以预言、炼金术和魔法共同安排杜林继承雪山邪龙的命运，而尚未完成的最后部分正藏在魔法书里。",
+      "motivation": "众人要阻止杜林彻底失去现实联系，阿贝多则要补全自己尚未理解的魔法环节。",
+      "outcome": "阿贝多身上的回忆开启最终篇章，众人进入书中寻找命运题解。",
+      "keywords": [
+        "阿贝多",
+        "炼金术",
+        "命运嫁接",
+        "最终篇章"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 1600402,
+          "title": "和众人一起前往蒙德雪山",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 1600440,
+          "title": "进入魔法书里的世界",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c04-s02",
+      "chapter_index": 4,
+      "order": 2,
+      "title": "众人检验邪龙心脏的解法",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "进入最终书中篇章后",
+      "locations": [
+        "魔法书中的炼金术空间"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "小龙",
+        "阿帽",
+        "阿贝多",
+        "魔女M"
+      ],
+      "summary": "炼金术空间呈现阿贝多把邪龙心脏移植给小龙、使其重生的既有方案，也显露通往未写篇章的隐藏道路。众人先后考虑退回城堡、彻底破坏心脏或让小龙接受它，杜林最终从过去的自己身上重新获得面对成为“人”之考验的勇气。",
+      "motivation": "众人试图找出既能消除邪龙隐患，又能保存杜林故事的稳定方案。",
+      "outcome": "逃避和单纯破坏均显得不足，杜林选择继续向前并接受重生所需的挑战。",
+      "keywords": [
+        "邪龙心脏",
+        "重生",
+        "隐藏道路",
+        "方案检验"
+      ],
+      "source_step_keys": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 1600403,
+          "title": "与众人商讨",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 1600404,
+          "title": "选择接下来的行动",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 1600406,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 1600407,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 1600412,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 1600411,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 1600405,
+          "title": "选择接下来的行动",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 1600439,
+          "title": "寻找隐藏的可能性",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c04-s03",
+      "chapter_index": 4,
+      "order": 3,
+      "title": "错误方案耗尽最后墨水",
+      "narrative_role": "conflict",
+      "importance": 5,
+      "when": "检验最终篇章的不同方案时",
+      "locations": [
+        "魔法书中的炼金术空间"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "小龙",
+        "阿帽",
+        "阿贝多",
+        "魔女M"
+      ],
+      "summary": "退回城堡仍会令故事终结，摧毁邪龙心脏则只让其根系潜入冻土，同时使无根的杜林故事枯萎。众人尝试继续改写时，有限墨水终于耗尽，未写出的前路只剩空白。",
+      "motivation": "杜林因害怕被所有朋友遗忘而愿意尝试任何解法，众人则要避免他被邪龙命运取代。",
+      "outcome": "常规书写手段全部陷入死局，墨水枯竭使故事无法继续推进。",
+      "keywords": [
+        "错误方案",
+        "心脏根系",
+        "墨水耗尽",
+        "故事枯萎"
+      ],
+      "source_step_keys": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "17",
+        "18",
+        "19"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "10",
+          "id": 1600410,
+          "title": "「故事」早晚要迎来结局…",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 1600408,
+          "title": "「预言」注定会应验…",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 1600413,
+          "title": "「命运」总是难以被改写…",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 1600414,
+          "title": "寻找其他的可能性",
+          "is_hidden": false
+        },
+        {
+          "key": "17",
+          "id": 1600424,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "18",
+          "id": 1600430,
+          "title": "选择接下来的行动",
+          "is_hidden": false
+        },
+        {
+          "key": "19",
+          "id": 1600423,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c04-s04",
+      "chapter_index": 4,
+      "order": 4,
+      "title": "故事必须拥有持续的作者",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "杜林完成重生却仍受深渊威胁时",
+      "locations": [
+        "魔法书中的炼金术空间"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "阿帽",
+        "阿贝多",
+        "魔女M"
+      ],
+      "summary": "即使小龙重生，压制深渊力量仍被视为需要墨水书写的新事件，止步不前又会让邪龙吞噬他的灵魂。阿贝多由此确认，命运能按既定轨道自行延伸，而杜林的故事必须始终有作者续写；作者墨水枯竭正是遗忘和失控的根源。",
+      "motivation": "众人要解释为何所有看似正确的结局仍无法让杜林稳定存在。",
+      "outcome": "真正问题从如何选择结局转变为如何让杜林的故事在没有魔女M后继续书写。",
+      "keywords": [
+        "持续书写",
+        "作者",
+        "深渊力量",
+        "存在根源"
+      ],
+      "source_step_keys": [
+        "14",
+        "15",
+        "16",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "14",
+          "id": 1600415,
+          "title": "改写「命运」…",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 1600416,
+          "title": "与众人商讨现状",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 1600417,
+          "title": "选择接下来的行动",
+          "is_hidden": false
+        },
+        {
+          "key": "20",
+          "id": 1600418,
+          "title": "尽快做出选择",
+          "is_hidden": false
+        },
+        {
+          "key": "21",
+          "id": 1600420,
+          "title": "「故事」早晚要迎来结局…",
+          "is_hidden": false
+        },
+        {
+          "key": "22",
+          "id": 1600422,
+          "title": "「预言」注定会应验…",
+          "is_hidden": false
+        },
+        {
+          "key": "23",
+          "id": 1600425,
+          "title": "寻找其他的可能性",
+          "is_hidden": false
+        },
+        {
+          "key": "24",
+          "id": 1600427,
+          "title": "与众人商讨对策",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c04-s05",
+      "chapter_index": 4,
+      "order": 5,
+      "title": "杜林穿越故事之外的空白",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "墨水耗尽并确认故事需要作者后",
+      "locations": [
+        "故事之外的空白"
+      ],
+      "characters": [
+        "杜林",
+        "阿贝多"
+      ],
+      "summary": "杜林决定亲自踏入尚未书写的空白，以验证故事角色能否越过作者留下的边界。空白不断剥夺他的知觉和力量，阿贝多则以杜林拥有完整灵魂、骨肉与生命的事实引导他找回自我。",
+      "motivation": "杜林不愿在过往篇章中徘徊，必须突破故事边界寻找不依赖旧作者的生路。",
+      "outcome": "杜林以完整生命的自我认知穿过空白，抵达魔女M隐藏的最后真相。",
+      "keywords": [
+        "故事边界",
+        "空白",
+        "完整生命",
+        "找回自我"
+      ],
+      "source_step_keys": [
+        "25",
+        "26",
+        "27"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "25",
+          "id": 1600428,
+          "title": "打破故事的边界",
+          "is_hidden": false
+        },
+        {
+          "key": "26",
+          "id": 1600429,
+          "title": "前往故事之外的空白",
+          "is_hidden": false
+        },
+        {
+          "key": "27",
+          "id": 1600431,
+          "title": "找回自我",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c04-s06",
+      "chapter_index": 4,
+      "order": 6,
+      "title": "魔女M穷尽余生延续故事",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "杜林穿过故事空白后所见的过去",
+      "locations": [
+        "魔女们讨论计划的回忆"
+      ],
+      "characters": [
+        "魔女M",
+        "快乐女巫",
+        "智慧女巫",
+        "预言女巫"
+      ],
+      "summary": "过去的魔女M因寿命无法等到数百年后的预言应验，请艾莉丝创造能够学习自己文字并代为续写的“故事的魔法”。她明知有限文字终会无法描述持续变化的世界，仍决定穷尽余生为杜林争取抵达未来的时间。",
+      "motivation": "魔女M希望孩子能活到改写命运的时刻，又坚持以普通人身份走完自己的生命。",
+      "outcome": "魔法书与自动续写机制的来历得到揭示，但其有限性也解释了当前墨水枯竭。",
+      "keywords": [
+        "故事的魔法",
+        "有限寿命",
+        "自动续写",
+        "艾莉丝"
+      ],
+      "source_step_keys": [
+        "28"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "28",
+          "id": 1600432,
+          "title": "「故事的魔法」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c04-s07",
+      "chapter_index": 4,
+      "order": 7,
+      "title": "母亲把故事的笔交给杜林",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "故事魔法的真相显现后",
+      "locations": [
+        "魔女M留下的最终回忆"
+      ],
+      "characters": [
+        "旅行者",
+        "杜林",
+        "魔女M",
+        "艾莉丝"
+      ],
+      "summary": "魔女M说明自己最大的遗憾是每个结局都会夺走角色的可能，因此她把旧故事还原为墨水，让杜林在重历人生并留下愿望后接过创作权限。杜林接受母亲的魔法意识将随交接消散，决定放下依赖母亲讲故事的童年，请求母亲让自己长大。",
+      "motivation": "魔女M要让孩子挣脱自己的笔触，杜林则要为现实中的朋友和未来承担书写人生的责任。",
+      "outcome": "杜林成为笔的新主人，旅行者作为见证者翻开新页，使故事进入由杜林书写的篇章。",
+      "keywords": [
+        "创作权限",
+        "母子告别",
+        "成长",
+        "见证者"
+      ],
+      "source_step_keys": [
+        "29"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "29",
+          "id": 1600433,
+          "title": "魔女M的期冀",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c04-s08",
+      "chapter_index": 4,
+      "order": 8,
+      "title": "杜林亲手击败既定命运",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "旅行者翻开新篇章后",
+      "locations": [
+        "魔法书的新篇章"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "阿帽",
+        "阿贝多",
+        "命运"
+      ],
+      "summary": "新篇章中的“命运”宣称自己无法死亡并终将以邪龙复生，杜林则否定这段既定轨道，宣布最终留下的是自己的故事。杜林在伙伴见证下击败“命运”，并向母亲表达感谢。",
+      "motivation": "杜林要用自己获得的书写权终结邪龙命运对身份和未来的支配。",
+      "outcome": "既定命运被击败，杜林的故事不再以邪龙复生为唯一结局。",
+      "keywords": [
+        "命运之战",
+        "新篇章",
+        "自我书写",
+        "未完待续"
+      ],
+      "source_step_keys": [
+        "30",
+        "31",
+        "32"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "30",
+          "id": 1600434,
+          "title": "新的篇章",
+          "is_hidden": false
+        },
+        {
+          "key": "31",
+          "id": 1600435,
+          "title": "击败「命运」",
+          "is_hidden": false
+        },
+        {
+          "key": "32",
+          "id": 1600436,
+          "title": "他的故事，未完待续",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c04-s09",
+      "chapter_index": 4,
+      "order": 9,
+      "title": "杜林获得不被星辰限定的未来",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "击败命运后",
+      "locations": [
+        "龙脊雪山",
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林",
+        "阿帽",
+        "阿贝多",
+        "艾莉丝",
+        "温迪",
+        "预言女巫",
+        "魔女M"
+      ],
+      "summary": "阿贝多确认杜林的深渊力量重新稳定、异常症状完全消失，阿帽和阿贝多随后告别，艾莉丝则召回众人归还魔法书。预言女巫确认杜林的命运不再映于星辰，魔女M的魔法意识在最后时间里向艾莉丝道别，并准备代母亲传达早已写好的寄语。",
+      "motivation": "众人要确认改写是否真正生效并完成还书约定，杜林则开始规划由自己书写的未来。",
+      "outcome": "杜林的存在危机得到解决，母亲的遗愿完成；魔法书将由他继续书写，故事保持未完待续。",
+      "keywords": [
+        "力量稳定",
+        "星辰之外",
+        "还书",
+        "母亲寄语"
+      ],
+      "source_step_keys": [
+        "33",
+        "34"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "33",
+          "id": 1600437,
+          "title": "他的故事，未完待续",
+          "is_hidden": false
+        },
+        {
+          "key": "34",
+          "id": 1600438,
+          "title": "找艾莉丝还书",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c05-s01",
+      "chapter_index": 5,
+      "order": 1,
+      "title": "众人等待魔法书的新提示",
+      "narrative_role": "transition",
+      "importance": 1,
+      "when": "篇章间等待阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "魔法书尚未给出后续篇章的提示，旅行者决定暂时休息。原文没有说明等待期间发生了其他事件。",
+      "motivation": "魔法书需要时间生成后续提示，现阶段没有可继续执行的线索。",
+      "outcome": "行动暂停，等待新的篇章提示出现。",
+      "keywords": [
+        "幕间",
+        "等待",
+        "魔法书提示"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 1600502,
+          "title": "等待魔法书给出后续篇章的提示",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c06-s01",
+      "chapter_index": 6,
+      "order": 1,
+      "title": "后续篇章仍未开放",
+      "narrative_role": "transition",
+      "importance": 1,
+      "when": "篇章间等待阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "魔法书依然没有给出后续篇章的提示，旅行者继续休息。原文未提供更多行动或对话。",
+      "motivation": "后续调查依赖魔法书出现新的引导。",
+      "outcome": "剧情保持等待状态，直至下一篇章可进入。",
+      "keywords": [
+        "幕间",
+        "休息",
+        "后续篇章"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 1600602,
+          "title": "等待魔法书给出后续篇章的提示",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c07-s01",
+      "chapter_index": 7,
+      "order": 1,
+      "title": "杜林昏迷迫使计划暂停",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "杜林遭遇意外后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "杜林"
+      ],
+      "summary": "杜林遭遇意外并尚未醒来，打乱了众人原先的行动计划。原文只记录了等待杜林苏醒这一状态。",
+      "motivation": "杜林是继续调查与补全故事的关键参与者，必须先确认其恢复。",
+      "outcome": "所有后续行动暂缓，直至杜林醒来。",
+      "keywords": [
+        "幕间",
+        "杜林昏迷",
+        "计划中断"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 1600702,
+          "title": "等待杜林醒来",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "2068-c08-s01",
+      "chapter_index": 8,
+      "order": 1,
+      "title": "关键答案等待阿贝多确认",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "取得关键线索后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "阿贝多"
+      ],
+      "summary": "众人已经找到关键线索，却因阿贝多尚未回来而无法获得完整答案。原文没有记载等待期间的其他事件。",
+      "motivation": "问题涉及杜林的身体、炼金术和命运嫁接，必须由阿贝多提供判断。",
+      "outcome": "调查停留在等待阿贝多消息的阶段。",
+      "keywords": [
+        "幕间",
+        "阿贝多",
+        "关键线索",
+        "等待消息"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 1600802,
+          "title": "等待阿贝多的消息",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:29:58.118Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

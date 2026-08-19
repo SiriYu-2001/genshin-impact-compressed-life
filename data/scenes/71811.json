@@ -1,0 +1,202 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71811,
+    "slug": "71811_snapshots",
+    "title": "暂留此影",
+    "chapter_num": "",
+    "premise": "飞云商会的阿旭因「留影机」相关事务忙得不可开交，旅行者代他将机器印出的「画」送给两名顾客，并在完成后回报结果。",
+    "central_conflict": "阿旭无暇亲自处理顾客交付，而「留影机」作为来自枫丹的试用产品，也需要通过实际使用获得认可和宣传。",
+    "summary": "阿旭因飞云商会的「留影机」事务分身乏术，旅行者承担了向顾客送交成画的工作。旅行者先后找到阿山婆和茶博士刘苏，说明来意并交付他们此前委托拍摄的成画。两名顾客都认可成画效果，其中阿山婆甚至萌生了购买「留影机」的念头。完成交付后，旅行者回到阿旭处报告结果，缓解了他的忙乱。阿旭为表达谢意，将一架来自枫丹的试用装「留影机」赠给旅行者，并说明它虽与正式产品略有区别，但具备基本功能。与此同时，阿旭也希望旅行者在使用满意后帮助飞云商会宣传产品，使这次酬谢兼具推广目的。",
+    "resolution": "两份成画顺利送达，阿旭的交付难题得到解决。旅行者获得试用装「留影机」，并承接了体验和潜在宣传这一后续影响。",
+    "themes": [
+      "委托与互助",
+      "新式技术",
+      "顾客认可",
+      "商业推广"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71811,
+      "title": "暂留此影",
+      "summary": "旅行者代忙碌的阿旭向阿山婆和茶博士刘苏交付「留影机」印出的成画，两名顾客均对结果表示满意。顾客的积极反馈证明了产品的吸引力，阿山婆还产生了购买意愿。旅行者回报完成情况后，阿旭以枫丹试用装「留影机」作为谢礼，并希望借旅行者的使用体验扩大宣传。",
+      "turning_point": "阿旭在确认全部成画送达后，将试用装「留影机」赠给旅行者，使一次代为交付的委托转化为产品体验与推广。",
+      "outcome": "顾客完成验收，阿旭的交付事务得到解决，旅行者获得具备基本功能的「留影机」并被期待协助宣传。",
+      "section_ids": [
+        "71811-c00-s01",
+        "71811-c00-s02",
+        "71811-c00-s03",
+        "71811-c00-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月港飞云商会的阿旭正在为了一架名叫「留影机」的机器而苦恼…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71811-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "阿山婆收到留影机成画",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "送交顾客成画阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "阿山婆"
+      ],
+      "summary": "在送交顾客成画阶段，旅行者找到阿山婆并提起「留影机」。阿山婆确认自己此前曾委托飞云商会前来留影，得知旅行者专程送来印好的「画」后向其道谢。",
+      "motivation": "旅行者需要代飞云商会把「留影机」印出的成画交给对应顾客。",
+      "outcome": "阿山婆顺利收到成画，第一份顾客交付完成。",
+      "keywords": [
+        "阿山婆",
+        "留影机",
+        "成画交付",
+        "飞云商会"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7181103,
+          "title": "将「画」送给顾客",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71811-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "茶博士刘苏验收成画",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "继续送交顾客成画阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "茶博士刘苏"
+      ],
+      "summary": "在继续送交顾客成画时，旅行者向茶博士刘苏询问「留影机」委托。刘苏确认自己曾请飞云商会为其留影，并在查看印出的成画后认可效果，感谢旅行者专门送来。",
+      "motivation": "旅行者需要完成另一名顾客的成画交付，以落实阿旭未能亲自处理的事务。",
+      "outcome": "茶博士刘苏验收并认可成画，顾客交付工作全部完成。",
+      "keywords": [
+        "茶博士刘苏",
+        "成画验收",
+        "留影机",
+        "顾客认可"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7181104,
+          "title": "将「画」送给顾客",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71811-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "阿山婆萌生购机念头",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "阿山婆收到成画后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "阿山婆"
+      ],
+      "summary": "阿山婆收到成画后，对「留影机」给出了积极评价。成画带来的良好体验使她开始考虑自行购买一台，显示这项新产品已经引起顾客兴趣。",
+      "motivation": "阿山婆因认可「留影机」的实际效果而产生进一步使用它的意愿。",
+      "outcome": "顾客满意从单次验收发展为潜在购买需求，为阿旭随后提出的产品宣传诉求提供了呼应。",
+      "keywords": [
+        "顾客反馈",
+        "购买意愿",
+        "留影机",
+        "产品吸引力"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7181107,
+          "title": "向阿旭回报",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71811-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "阿旭赠送试用留影机",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "全部成画送达后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "阿旭"
+      ],
+      "summary": "全部成画送达后，旅行者向阿旭报告完成情况，忙得晕头转向的阿旭连声致谢。阿旭将一架枫丹供货方提供的试用装「留影机」赠给旅行者，说明它虽与正式装有所区别，但基本功能齐全。作为酬谢之外的考虑，阿旭还希望旅行者在使用满意后帮助飞云商会宣传产品。",
+      "motivation": "阿旭既要感谢旅行者代为完成交付，也希望通过试用体验为「留影机」扩大口碑。",
+      "outcome": "委托正式结束，旅行者获得试用装「留影机」，并成为产品的潜在宣传者。",
+      "keywords": [
+        "阿旭",
+        "任务回报",
+        "试用装",
+        "赠礼",
+        "商业宣传"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7181107,
+          "title": "向阿旭回报",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:04:55.920Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

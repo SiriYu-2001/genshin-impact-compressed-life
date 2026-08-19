@@ -1,0 +1,131 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 76223,
+    "slug": "76223_tea-party-re-invitation-lauma",
+    "title": "茶会的再邀·菈乌玛",
+    "chapter_num": "",
+    "premise": "桑多涅前往霜月之坊布置茶桌并落座，与菈乌玛共度一段茶会时光。",
+    "central_conflict": "茶会临近尾声时，桑多涅需要决定继续小坐还是结束茶会，而菈乌玛希望延续两人的相聚。",
+    "summary": "桑多涅依照邀约前往霜月之坊，为与菈乌玛相聚布置茶桌并落座。准备完成后，两人开始享用香草茶。菈乌玛称赞桑多涅准备的茶饮，表现出对这段茶会时光的满意。桑多涅可以选择再坐一会儿，也可以提出茶会该结束了。两种选择最终都使谈话进入茶会之后的安排。菈乌玛随即邀请桑多涅继续留在霜月之坊共进晚餐，让原本即将结束的相聚得到延续。",
+    "resolution": "菈乌玛以晚餐邀请承接茶会的尾声，两人的会面没有直接散场，而是留下继续相处的后续。",
+    "themes": [
+      "茶会相聚",
+      "闲适陪伴",
+      "再度邀约",
+      "时光延续"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 76223,
+      "title": "茶会的再邀·菈乌玛",
+      "summary": "桑多涅前往霜月之坊完成茶桌布置并落座，与菈乌玛开启茶会。菈乌玛品尝香草茶后表达赞赏，桑多涅则可选择继续停留或提出结束。茶会走向尾声之际，菈乌玛发出共进晚餐的邀请，使两人的相聚得以延续。",
+      "turning_point": "当桑多涅考虑继续小坐或结束茶会时，菈乌玛主动提出一起共进晚餐，将茶会的收尾转化为新的邀约。",
+      "outcome": "茶会顺利完成，菈乌玛邀请桑多涅继续留在霜月之坊共进晚餐。",
+      "section_ids": [
+        "76223-c00-s01",
+        "76223-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "前往霜月之坊放置茶桌并使用桑多涅落座后，与菈乌玛共度茶会时光吧…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "76223-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "桑多涅赴约开启茶会",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "茶会开始阶段",
+      "locations": [
+        "霜月之坊"
+      ],
+      "characters": [
+        "桑多涅",
+        "菈乌玛"
+      ],
+      "summary": "桑多涅前往霜月之坊，为与菈乌玛举行茶会放置茶桌并落座。相关准备完成后，两人得以开始共度茶会时光。",
+      "motivation": "桑多涅依照茶会安排前去赴约，与菈乌玛相聚。",
+      "outcome": "茶会场地与座席准备就绪，桑多涅和菈乌玛进入正式品茶阶段。",
+      "keywords": [
+        "霜月之坊",
+        "桑多涅",
+        "茶桌",
+        "茶会"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7622301,
+          "title": "前往霜月之坊开启茶会",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7622302,
+          "title": "前往霜月之坊开启茶会",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76223-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "菈乌玛将茶会延续至晚餐",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "茶会进行至尾声时",
+      "locations": [
+        "霜月之坊"
+      ],
+      "characters": [
+        "菈乌玛",
+        "「木偶」"
+      ],
+      "summary": "菈乌玛品尝香草茶后称赞其美味，并称呼对方为桑多涅小姐。「木偶」可以选择继续小坐或提出结束茶会，两种回应都会将谈话引向后续安排。菈乌玛随后邀请她一起在霜月之坊共进晚餐，使这次相聚得以继续。",
+      "motivation": "菈乌玛享受与桑多涅相处的茶会时光，希望在茶会之后继续陪伴彼此。",
+      "outcome": "茶会以菈乌玛提出晚餐邀约收束，并为两人继续相处留下直接后续。",
+      "keywords": [
+        "香草茶",
+        "菈乌玛",
+        "选择回应",
+        "晚餐邀请"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7622303,
+          "title": "享受茶会时光",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:36:43.241Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

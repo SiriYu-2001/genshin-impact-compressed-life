@@ -1,0 +1,349 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 22030,
+    "slug": "22030_the-gourmet-supremos-extreme-cookery",
+    "title": "全能美食队·厨道的极意",
+    "chapter_num": "",
+    "premise": "受旭东雇佣的龟井宗久为报答收留之恩，想亲手制作美食相赠，但看中的两处食材被两股魔物占据并摘走，他请求旅行者协助一同击倒魔物、抢在食材变质前取回食材。",
+    "central_conflict": "两股魔物分别占据并摘走了龟井宗久所需的两处食材，而那道菜最重食材新鲜，必须在变质前全部取回；龟井宗久一人无法兼顾两处营地，需要旅行者与他分头清剿。",
+    "summary": "故事开端，受旭东雇佣的龟井宗久为报答收留之恩打算亲手制作美食相赠，却发现看中的两处食材已被两股魔物占据并提前摘走。由于那道菜最重食材新鲜，他分身乏术，便请求旅行者同行相助。双方抵达营地侦察敌情后约定分工，旅行者选择一侧营地，龟井宗久独力清剿另一侧。旅行者清剿魔物并在营地搜得食材后，将其交付给龟井宗久，后者赶在食材变质前完成烹饪。龟井宗久感谢旅行者并赠予一份美食，谈及自己奉行的「极意」之道与旭东所说的「中庸」之理，随后带着其余食物回去找旭东。整段故事围绕一次食材争夺的协作任务展开，在烹饪完成与处世之谈中收束。",
+    "resolution": "旅行者与龟井宗久分头清剿两处营地并取回食材，龟井宗久赶在食材变质前完成烹饪，将一份美食赠予旅行者，其余带回去给旭东；任务圆满收束，并留下「极意」与「中庸」两种处世之道的对照。",
+    "themes": [
+      "报恩",
+      "厨道极致",
+      "协作分工",
+      "处世哲学",
+      "食材时效"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 22030,
+      "title": "全能美食队·厨道的极意",
+      "summary": "龟井宗久为报答旭东的收留之恩欲亲手制作美食相赠，却因两处食材被魔物占据且分身乏术而向旅行者求助。旅行者随其抵达营地、侦察敌情后，双方约定分头清剿：旅行者选择一侧营地，龟井宗久独力对付另一侧。清剿与搜寻完成后，旅行者将食材交予龟井宗久，后者赶在食材变质前完成烹饪，分赠美食并谈及「极意」与「中庸」的处世之别，随后带着其余食物回去找旭东。",
+      "turning_point": "旅行者与龟井宗久分头击倒两处营地魔物并取回食材，使原本被魔物拖延的烹饪得以赶在食材变质前完成。",
+      "outcome": "食材全部到手、美食顺利完成，旅行者获赠一份，龟井宗久将剩余食物带回给旭东，本章以报恩之礼完成收束。",
+      "section_ids": [
+        "22030-c00-s01",
+        "22030-c00-s02",
+        "22030-c00-s03",
+        "22030-c00-s04",
+        "22030-c00-s05",
+        "22030-c00-s06",
+        "22030-c00-s07"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "全能美食队的龟井宗久似乎有什么事想要找人帮忙…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "22030-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "龟井宗久请求协助取回食材",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "龟井宗久",
+        "旅行者"
+      ],
+      "summary": "龟井宗久与旅行者重逢，说明自己受旭东雇佣后一直随行，为报答收留之恩想亲手制作美食相赠。他原本看好两处食材并等待其成熟，却被两股魔物分别占据并提前摘走；由于这道菜最重要的就是食材新鲜，他必须尽快把两处食材都拿到手，但分身乏术，遂请求旅行者与他一同击倒魔物、取得食材。",
+      "motivation": "报答旭东的收留之恩，以及食材新鲜度不容拖延，独自无法兼顾两处营地。",
+      "outcome": "旅行者应允协助，龟井宗久邀请其一同前往前方营地再作商议。",
+      "keywords": [
+        "报恩",
+        "食材被夺",
+        "求助",
+        "旭东"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 2203001,
+          "title": "与龟井宗久对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "22030-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "抵达营地侦察两处魔物",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "两处魔物营地附近"
+      ],
+      "characters": [
+        "龟井宗久",
+        "旅行者"
+      ],
+      "summary": "旅行者跟随龟井宗久来到两处魔物扎营之地。龟井宗久说明已悄悄侦察过敌情：左边营地的魔物虽然弱小但数量众多，右边营地的魔物数量略少却格外强壮；他提出由旅行者清剿一处营地，另一处交给他即可。",
+      "motivation": "让旅行者了解两处营地的敌情并确立分工，以便同时拿下两处食材。",
+      "outcome": "双方确定了分头清剿两处营地的方案。",
+      "keywords": [
+        "侦察",
+        "魔物营地",
+        "分工",
+        "敌情"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 2203002,
+          "title": "跟随龟井宗久",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "22030-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "约定分工分头出击",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "两处魔物营地附近"
+      ],
+      "characters": [
+        "龟井宗久",
+        "旅行者"
+      ],
+      "summary": "旅行者选择前往左边或右边其中一处营地，龟井宗久则前往另一处。旅行者询问其独自应敌是否可行，龟井宗久表示区区魔物不足为虑，若不是担心食材，他一人便能对付两处营地；他叮嘱旅行者清剿完魔物、取到食材后到另一处营地与他会合，并催促尽快出发以免食材变质。",
+      "motivation": "双方同时清剿两处营地，赶在食材变质前把两处食材都取到手。",
+      "outcome": "旅行者与龟井宗久分头出发，各自前往一处魔物营地。",
+      "keywords": [
+        "分头行动",
+        "选择营地",
+        "食材保鲜"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 2203003,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 2203004,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "22030-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "清剿两处营地的魔物",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "魔物营地"
+      ],
+      "characters": [
+        "龟井宗久",
+        "旅行者"
+      ],
+      "summary": "旅行者清剿自己所选一侧营地内的所有魔物，另一侧营地则由龟井宗久独自解决。清剿完成后，龟井宗久询问旅行者是否已经取到食材。",
+      "motivation": "扫除占据营地的魔物，为取回被夺的食材清除障碍。",
+      "outcome": "两处营地的魔物均被肃清，通往食材的阻碍解除。",
+      "keywords": [
+        "清剿",
+        "魔物",
+        "营地战斗"
+      ],
+      "source_step_keys": [
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 2203005,
+          "title": "打倒左侧魔物营地内所有魔物",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 2203006,
+          "title": "打倒右侧魔物营地内所有魔物",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "22030-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "在营地搜取被夺食材",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "魔物营地"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "清剿结束后，旅行者在魔物营地中搜寻被魔物摘下的食材并成功取得，随后带着食材前往另一处营地与龟井宗久会合。",
+      "motivation": "取回龟井宗久制作美食所必需的食材。",
+      "outcome": "食材到手，旅行者携食材前往龟井宗久所在的另一处营地。",
+      "keywords": [
+        "搜寻",
+        "食材",
+        "营地"
+      ],
+      "source_step_keys": [
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 2203007,
+          "title": "在左侧魔物营地内寻找食材",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 2203008,
+          "title": "在右侧魔物营地内寻找食材",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "22030-c00-s06",
+      "chapter_index": 0,
+      "order": 6,
+      "title": "将食材交付给龟井宗久",
+      "narrative_role": "transition",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "龟井宗久所在的魔物营地"
+      ],
+      "characters": [
+        "龟井宗久",
+        "旅行者"
+      ],
+      "summary": "旅行者将取到的食材交给龟井宗久。龟井宗久确认这些食材还可以使用，并表示不能再拖下去，随即开始烹饪。",
+      "motivation": "尽快把新鲜食材交到龟井宗久手中，以便赶在食材变质前开始烹饪。",
+      "outcome": "食材顺利交付，龟井宗久立即着手烹饪。",
+      "keywords": [
+        "交付",
+        "食材",
+        "开始烹饪"
+      ],
+      "source_step_keys": [
+        "8",
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "8",
+          "id": 2203009,
+          "title": "将食材交给龟井宗久",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 2203010,
+          "title": "将食材交给龟井宗久",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "22030-c00-s07",
+      "chapter_index": 0,
+      "order": 7,
+      "title": "美食完成赠礼话别",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "时间未明确",
+      "locations": [
+        "龟井宗久所在的魔物营地"
+      ],
+      "characters": [
+        "龟井宗久",
+        "旅行者"
+      ],
+      "summary": "龟井宗久在食材变质前完成了那道菜，感谢旅行者的帮助。他向旅行者谈及自己奉行「极意」之道——插花、茶道、烹饪、挥剑皆追求极致，却不理解旭东所说的「中庸」之理，猜测旭东必是经历了许多事才有此心得。龟井宗久将一份美食赠予旅行者，表示会将其余的带回去给旭东，随后道别。",
+      "motivation": "完成对旭东的报恩之礼，并向出手相助的旅行者表达谢意。",
+      "outcome": "美食完成并分赠，旅行者获赠一份，其余由龟井宗久带回给旭东；对话在「极意」与「中庸」的对照中收束。",
+      "keywords": [
+        "极意",
+        "中庸",
+        "赠礼",
+        "报恩完成"
+      ],
+      "source_step_keys": [
+        "10",
+        "11"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "10",
+          "id": 2203011,
+          "title": "与龟井宗久对话",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 2203012,
+          "title": "与龟井宗久对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-18T21:42:57.199Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

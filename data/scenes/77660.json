@@ -1,0 +1,136 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 77660,
+    "slug": "77660_looming-shadows-part-iii",
+    "title": "危影重重·其三",
+    "chapter_num": "",
+    "premise": "影域被认为是极不安定的灾害，行动者需要借助锚定装置处理其中潜藏的危险因素。",
+    "central_conflict": "影域内部存在必须尽快清除的敌人，而其不安定性质要求行动者迅速完成连续清剿。",
+    "summary": "处理影域危险的行动从启动影域锚定装置开始。装置启动后，任务目标转向影域内部的敌人。行动者随后连续执行三段以尽快消灭敌人为目标的清剿任务。反复出现的清剿要求表明，敌对威胁需要经过多个连续阶段才能处理。随着最后一段清剿任务结束，本次对影域危险因素的处置推进至当前阶段的终点。原文没有交代影域此后的稳定状态或行动者完成任务后的具体去向。",
+    "resolution": "行动者完成装置启动与连续清剿，本scene在最后一段消灭敌人的任务后收束。影域是否已经彻底稳定以及后续处置方式，原文未明确。",
+    "themes": [
+      "灾害处置",
+      "影域锚定",
+      "连续清剿",
+      "紧迫行动"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77660,
+      "title": "危影重重·其三",
+      "summary": "本章以妥善处理影域危险因素为目标，行动者首先启动影域锚定装置，为后续处置创造条件。任务随后转入影域内部的连续战斗，行动者依次执行三段要求尽快消灭敌人的清剿。最后一段清剿结束后，本次行动收束，但影域是否恢复稳定并未得到明确说明。",
+      "turning_point": "影域锚定装置启动后，任务由准备和锚定阶段转入连续清剿敌人的直接冲突阶段。",
+      "outcome": "行动者推进并完成三段影域敌人清剿任务，本次危险处置告一段落，但影域的最终状态原文未明确。",
+      "section_ids": [
+        "77660-c00-s01",
+        "77660-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "根据雅洛维娅的说法，影域可能是最不安定的一种「灾害」。因此，必须让潜藏其中的危险因素尽快得到妥善的处理…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77660-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "启动装置锚定影域",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "处理影域危险的初始阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "行动者（身份未明确）"
+      ],
+      "summary": "处理影域危险的初始阶段，行动者启动影域锚定装置。该行动为进入影域并处置其中的危险因素建立前提，任务随后转向对内部敌人的清剿。",
+      "motivation": "影域被认为具有高度不安定性，潜藏其中的危险因素需要尽快得到妥善处理。",
+      "outcome": "影域锚定装置得到启动，处置行动由准备阶段推进到直接清剿阶段。",
+      "keywords": [
+        "影域",
+        "锚定装置",
+        "危险处置"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7766002,
+          "title": "启动影域锚定装置",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77660-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "连续清剿影域敌人",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "影域锚定装置启动后",
+      "locations": [
+        "影域"
+      ],
+      "characters": [
+        "行动者（身份未明确）",
+        "影域中的敌人"
+      ],
+      "summary": "影域锚定装置启动后，行动者在影域中连续执行三段清剿任务，每一阶段都要求尽快消灭敌人。连续出现的同类目标显示敌对威胁并非一次交锋即可处理，行动者需要持续推进战斗。本次行动在最后一段清剿任务后收束，但原文没有说明影域是否由此彻底稳定。",
+      "motivation": "行动者需要尽快排除影域中的敌对因素，以应对影域的不安定性及其潜在危险。",
+      "outcome": "三段连续清剿目标依次推进至结束，本次影域处置告一段落；清剿后的长期影响原文未明确。",
+      "keywords": [
+        "影域敌人",
+        "连续战斗",
+        "限时清剿",
+        "危险因素"
+      ],
+      "source_step_keys": [
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7766007,
+          "title": "尽快消灭影域中的敌人",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7766006,
+          "title": "尽快消灭影域中的敌人",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7766003,
+          "title": "尽快消灭影域中的敌人",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:40:18.560Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

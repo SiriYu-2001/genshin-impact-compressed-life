@@ -1,0 +1,249 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70144,
+    "slug": "70144_chilled-to-the-bone",
+    "title": "(test)刺骨幽寒$HIDDEN",
+    "chapter_num": "",
+    "premise": "龙脊雪山突然出现毫无征兆的强烈寒流，多支调查队因此受伤或脱力。玉霞委托旅行者调查寒流源头并排除威胁。",
+    "central_conflict": "冒险家协会缺少能够继续深入雪山的人手，而异常寒流及源头附近的无相之冰阻碍了调查。旅行者必须独自完成调查和战斗，但原文没有明确揭示寒流与无相之冰之间的因果关系。",
+    "summary": "该场景是带有“(test)”及“$HIDDEN”标记的测试、隐藏内容。玉霞向旅行者说明，多支队伍在龙脊雪山的安全路线上遭遇了不像自然现象的猛烈寒流，后续调查者也因冻伤或脱力而无法继续行动。旅行者接受委托，前往已经定位的寒流源头展开调查。调查过程中，旅行者遭遇并打倒无相之冰，使任务得以进入回报阶段。旅行者向玉霞提交原文未具体说明的发现，玉霞决定将情况报告给冒险家协会并支付报酬。文本还保留了一条替代测试路径，其中旅行者在玉霞提出委托时表示自己已经完成调查，随后直接提交发现并获得结算。",
+    "resolution": "常规路径以无相之冰被打倒、调查结果交由玉霞上报协会而收束，但寒流的成因及相关事物出现于雪山的时间仍未得到解释。替代测试路径提供了直接回报的完成方式，不构成常规路径之后再次发生的事件。",
+    "themes": [
+      "异常自然现象",
+      "雪山调查",
+      "冒险委托",
+      "危机处置",
+      "测试分支"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70144,
+      "title": "(test)刺骨幽寒$HIDDEN",
+      "summary": "本章围绕龙脊雪山异常寒流的调查展开：玉霞因调查队伤病和人手不足，委托旅行者前往已经确定的寒流源头。旅行者深入雪山并打倒无相之冰，随后带着未被具体描述的发现返回营地。玉霞决定向冒险家协会报告，并用报酬完成委托结算；此外，文本还收录了一条旅行者事先完成调查的替代测试路径。",
+      "turning_point": "旅行者在寒流源头打倒无相之冰，使受阻的调查从深入处置转入成果回报阶段。",
+      "outcome": "玉霞取得旅行者带回的调查发现，准备将异常情况报告给冒险家协会，并向旅行者支付报酬，但寒流的完整成因仍未明确。",
+      "section_ids": [
+        "70144-c00-s01",
+        "70144-c00-s02",
+        "70144-c00-s03",
+        "70144-c00-s04",
+        "70144-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "(test)最近，龙脊雪山中突然出现了一股不同寻常的寒流。玉霞正在寻找愿意帮忙调查的人…$HIDDEN",
+      "is_hidden": true
+    }
+  ],
+  "sections": [
+    {
+      "id": "70144-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "玉霞说明异常寒流危机",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "委托开始阶段",
+      "locations": [
+        "龙脊雪山营地"
+      ],
+      "characters": [
+        "玉霞",
+        "旅行者",
+        "调查队冒险家"
+      ],
+      "summary": "委托开始时，玉霞在龙脊雪山营地向旅行者说明，多支考察或勘探队伍曾在安全路线上遭遇毫无征兆的猛烈寒流。寒流不像自然现象，后续调查虽然确定了其来源，却导致参与者冻伤或脱力，协会暂时无法抽调更多人手。玉霞因此请求经验丰富的旅行者前往源头调查，旅行者接受了委托。",
+      "motivation": "玉霞需要在现有调查人员无法继续行动的情况下查明异常寒流，而旅行者愿意承接这项冒险委托。",
+      "outcome": "旅行者获知寒流的异常性和调查队面临的困境，并开始前往源头执行调查。",
+      "keywords": [
+        "玉霞",
+        "异常寒流",
+        "调查队",
+        "委托"
+      ],
+      "source_step_keys": [
+        "0",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7014403,
+          "title": "(test)与玉霞对话$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7014402,
+          "title": "(test)向玉霞回报$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70144-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "旅行者深入寒流源头调查",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "接受委托后",
+      "locations": [
+        "龙脊雪山",
+        "异常寒流源头"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "接受委托后，旅行者前往龙脊雪山中已经定位的异常寒流源头展开调查。原文没有展示途中经过、调查方法或具体发现，只将前往调查列为任务推进步骤。",
+      "motivation": "旅行者需要代替无法继续深入的调查队查明寒流源头的情况。",
+      "outcome": "调查行动推进至异常源头的威胁处置阶段，但这一阶段取得的具体发现原文未明确。",
+      "keywords": [
+        "龙脊雪山",
+        "寒流源头",
+        "深入调查"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7014405,
+          "title": "(test)前往调查异常的寒流$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70144-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "旅行者打倒无相之冰",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "调查寒流源头期间",
+      "locations": [
+        "异常寒流源头（龙脊雪山）"
+      ],
+      "characters": [
+        "旅行者",
+        "无相之冰"
+      ],
+      "summary": "调查寒流源头期间，旅行者与无相之冰发生战斗并将其打倒。原文没有明确说明无相之冰与异常寒流之间的因果关系，但这场胜利使调查任务转入向玉霞回报的阶段。",
+      "motivation": "旅行者需要排除调查地点出现的强大威胁，以完成对异常源头的处置和调查。",
+      "outcome": "无相之冰被打倒，旅行者得以带着调查发现返回玉霞处回报。",
+      "keywords": [
+        "无相之冰",
+        "战斗",
+        "寒流源头",
+        "威胁排除"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7014401,
+          "title": "(test)打倒无相之冰$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70144-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "玉霞接收发现并上报协会",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "打倒无相之冰后",
+      "locations": [
+        "龙脊雪山营地"
+      ],
+      "characters": [
+        "旅行者",
+        "玉霞"
+      ],
+      "summary": "打倒无相之冰后，旅行者回到营地向玉霞提交调查发现，但原文没有具体说明发现的内容。玉霞对相关事物何时出现在雪山感到疑惑，决定向冒险家协会报告此事，并向旅行者支付报酬。",
+      "motivation": "旅行者需要完成委托回报，玉霞则需要取得调查结果并交由协会继续处理。",
+      "outcome": "委托完成结算，异常情况进入协会的报告流程，但相关事物的来历和寒流成因仍未明确。",
+      "keywords": [
+        "调查回报",
+        "冒险家协会",
+        "报酬",
+        "未解成因"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7014402,
+          "title": "(test)向玉霞回报$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70144-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "预先调查分支直接结算",
+      "narrative_role": "resolution",
+      "importance": 2,
+      "when": "替代测试路径的委托提出阶段",
+      "locations": [
+        "龙脊雪山营地"
+      ],
+      "characters": [
+        "旅行者",
+        "玉霞"
+      ],
+      "summary": "在另一条带有“(test)”标记的对话路径中，玉霞提出调查委托后，旅行者表示自己此前已经前往目标地点调查。旅行者随即提交已有发现，玉霞决定向协会报告并支付报酬，使该替代路径直接完成结算。",
+      "motivation": "旅行者已经掌握调查发现，因而无需再次执行玉霞刚刚提出的调查流程。",
+      "outcome": "该测试路径跳过前往源头和战斗的任务推进，直接以提交发现、上报协会和领取报酬收束。",
+      "keywords": [
+        "测试路径",
+        "预先调查",
+        "直接回报",
+        "替代结算"
+      ],
+      "source_step_keys": [
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 7014406,
+          "title": "(test)与玉霞对话$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:53:04.787Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

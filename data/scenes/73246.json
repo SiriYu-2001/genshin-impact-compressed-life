@@ -1,0 +1,84 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73246,
+    "slug": "73246_an-unwavering-culinary-dream",
+    "title": "愿为一炊之梦",
+    "chapter_num": "",
+    "premise": "兰帕卡提最近似乎在为某件事情发愁，任务的主要目标是与她对话并了解情况。",
+    "central_conflict": "兰帕卡提的烦恼与标题所示的烹饪梦想构成故事引子，但其具体成因、阻碍与诉求均未在正文中说明。",
+    "summary": "兰帕卡提最近似乎在为某事发愁。任务随即将行动目标设为与她对话，以便接触这份烦恼。标题将事件与一项坚定的烹饪梦想联系起来，但正文没有说明梦想的具体内容、烦恼的成因或冲突对象。输入也未收录实际对话、剧情转折与完成结果，因此故事停留在接触兰帕卡提的起始阶段。",
+    "resolution": "任务进入与兰帕卡提对话的阶段，但实际交谈内容及其结果原文未明确，后续影响也未得到交代。",
+    "themes": [
+      "烹饪梦想",
+      "烦恼",
+      "交流"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73246,
+      "title": "愿为一炊之梦",
+      "summary": "本章以兰帕卡提正在为某事发愁为起点，并将与她对话设为当前目标。标题暗示事件涉及一项坚定的烹饪梦想，但正文没有记录对话内容或进一步发展。",
+      "turning_point": "任务从发现兰帕卡提似乎在发愁，推进到要求与她直接对话。",
+      "outcome": "与兰帕卡提对话成为明确目标，但对话的直接结果原文未明确。",
+      "section_ids": [
+        "73246-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "兰帕卡提最近好像在为什么事情发愁…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73246-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "对话目标指向发愁的兰帕卡提",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "兰帕卡提为某事发愁时",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "兰帕卡提",
+        "旅行者"
+      ],
+      "summary": "兰帕卡提似乎正在为某件事情发愁，旅行者需要与她对话以了解情况。正文没有提供实际交谈内容，也未明确说明她的烦恼与烹饪梦想之间的具体关系。",
+      "motivation": "旅行者希望通过对话了解兰帕卡提发愁的原因；更具体的行动推动力原文未明确。",
+      "outcome": "任务推进到与兰帕卡提对话的环节，但谈话结果及其对后续的影响原文未明确。",
+      "keywords": [
+        "兰帕卡提",
+        "对话",
+        "烦恼",
+        "烹饪梦想"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7324601,
+          "title": "与兰帕卡提对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:14:47.424Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

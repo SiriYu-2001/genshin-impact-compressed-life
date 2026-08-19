@@ -1,0 +1,101 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 74259,
+    "slug": "74259_tea-party-re-invitation-narzissenkreuz-reunion",
+    "title": "茶会的再邀·水仙的重聚",
+    "chapter_num": "",
+    "premise": "「木偶」前往隐居处开启茶会，并与玛丽安一同享受平静的相聚时光。主要目标是在落座后陪伴众人度过茶会。",
+    "central_conflict": "这段相聚没有明显的对抗，核心变化在于「木偶」决定继续陪坐片刻或结束茶会，而两种选择最终都导向玛丽安的感谢。",
+    "summary": "「木偶」前往隐居处开启茶会，并在落座后与玛丽安共度平静时光。玛丽安感叹当下的日子平静而惬意。茶会进行一段时间后，「木偶」可以选择再坐一会儿，也可以宣布茶会该结束了。无论作出哪一种选择，玛丽安都接受茶会即将收束的安排。她感谢桑多涅的邀请，并以略带迟疑的语气称其为妹妹。这场简短的重聚由此在安宁而亲近的氛围中结束。",
+    "resolution": "玛丽安以感谢回应桑多涅的邀请，茶会随之收束。她对“妹妹”这一称呼的试探，为两人关系留下含蓄的情感余韵。",
+    "themes": [
+      "重聚",
+      "茶会",
+      "宁静陪伴",
+      "姐妹关系",
+      "短暂相聚"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 74259,
+      "title": "茶会的再邀·水仙的重聚",
+      "summary": "「木偶」前往隐居处开启茶会，与玛丽安共同享受平静惬意的相处时光。茶会临近收束时，「木偶」可以选择继续陪坐或宣布结束，两种选择均由玛丽安的感谢作结。玛丽安最后试探性地称桑多涅为妹妹，使这次重聚获得亲近而含蓄的情感落点。",
+      "turning_point": "「木偶」面对是否延长茶会的选择，使单纯的静坐相聚进入告别阶段。",
+      "outcome": "玛丽安感谢桑多涅的邀请，并以“妹妹”相称，茶会在平静而亲近的氛围中结束。",
+      "section_ids": [
+        "74259-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "前往隐居处放置茶桌并使用桑多涅落座后，与众人共度茶会时光吧…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "74259-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "众人在隐居处共度茶会",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "茶会期间",
+      "locations": [
+        "隐居处"
+      ],
+      "characters": [
+        "「木偶」",
+        "玛丽安"
+      ],
+      "summary": "「木偶」前往隐居处开启茶会并落座，与玛丽安共同享受平静惬意的相处时光。茶会进行一段时间后，「木偶」可以选择继续陪坐片刻或宣布茶会结束，两种选择随后汇合。玛丽安感谢桑多涅的邀请，并试探性地称其为妹妹，使这场重聚在亲近的氛围中收束。",
+      "motivation": "「木偶」通过发起茶会陪伴玛丽安，延续众人重聚后的安宁时光。",
+      "outcome": "茶会顺利结束，玛丽安表达感谢并以“妹妹”称呼桑多涅，为两人的关系留下含蓄而亲近的余韵。",
+      "keywords": [
+        "隐居处",
+        "茶会",
+        "玛丽安",
+        "桑多涅",
+        "妹妹"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7425901,
+          "title": "前往隐居处开启茶会",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7425902,
+          "title": "前往隐居处开启茶会",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7425903,
+          "title": "享受茶会时光",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:24:51.307Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

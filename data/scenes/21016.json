@@ -1,0 +1,226 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 21016,
+    "slug": "21016_pubuqun-time-trial-challenge",
+    "title": "瀑布群限时抵达挑战$HIDDEN",
+    "chapter_num": "",
+    "premise": "玩家在瀑布群地区接受限时抵达挑战，通过与未具名NPC对话开启任务，并按「对话—完成玩法」的节奏连续完成多轮限时抵达挑战。",
+    "central_conflict": "本 scene 无叙事层面的冲突，核心矛盾是时间限制下的抵达挑战本身——玩家需在限定时间内完成每一轮抵达目标。",
+    "summary": "本 scene 是隐藏性质的限时抵达挑战任务。玩家与未具名NPC对话开启任务后，以「对话NPC—完成玩法」交替的结构连续完成四轮限时抵达挑战，每一轮之间由再次对话衔接。原文未提供NPC身份、对话内容、挑战规则细节及奖励信息，任务全程为流程化的玩法推进。任务以最后一轮挑战完成而收束，整体属于测试/隐藏内容，未展开任何剧情叙述。",
+    "resolution": "任务在完成最后一轮限时抵达挑战后收束，四轮流程全部结束；原文未交代奖励发放与后续衔接，属隐藏内容，未构成正式主线事实。",
+    "themes": [
+      "限时挑战",
+      "隐藏内容",
+      "探索玩法",
+      "重复任务流程"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 21016,
+      "title": "瀑布群限时抵达挑战$HIDDEN",
+      "summary": "本章围绕瀑布群限时抵达挑战展开，玩家与未具名NPC对话开启任务，随后按「对话—完成玩法」的循环连续完成四轮限时抵达挑战。全程无对白文本、NPC身份、地点细节或奖励说明，属于隐藏测试性质的内容，叙事信息极少，仅呈现重复的挑战流程。",
+      "turning_point": "原文未明确（四轮流程结构完全重复，未见明显叙事转折）",
+      "outcome": "玩家完成全部四轮限时抵达挑战，任务流程收束结束；具体达成判定与奖励原文未明确。",
+      "section_ids": [
+        "21016-c00-s01",
+        "21016-c00-s02",
+        "21016-c00-s03",
+        "21016-c00-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "",
+      "is_hidden": true
+    }
+  ],
+  "sections": [
+    {
+      "id": "21016-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "与NPC对话并完成首轮限时挑战",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "瀑布群"
+      ],
+      "characters": [
+        "玩家",
+        "未具名NPC"
+      ],
+      "summary": "任务开始阶段，玩家在瀑布群地区与未具名NPC对话，随后完成第一轮限时抵达挑战。原文未提供对话内容、NPC身份及挑战规则细节，仅能确认以对话开启挑战流程。",
+      "motivation": "接受NPC发起的限时抵达挑战，开启任务流程。",
+      "outcome": "首轮挑战完成，任务进入下一轮对话衔接环节，流程继续推进。",
+      "keywords": [
+        "对话NPC",
+        "限时抵达",
+        "首轮挑战"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 2101601,
+          "title": "对话NPC$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 2101602,
+          "title": "完成玩法$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "21016-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "再次对话并完成第二轮限时挑战",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "瀑布群"
+      ],
+      "characters": [
+        "玩家",
+        "未具名NPC"
+      ],
+      "summary": "玩家再次与未具名NPC对话，随后完成第二轮限时抵达挑战，流程与首轮一致。原文未给出本轮对话内容与挑战细节，仅呈现重复的完成玩法环节。",
+      "motivation": "延续限时挑战任务，继续完成下一轮抵达玩法。",
+      "outcome": "第二轮挑战完成，任务继续进入下一轮对话，流程保持推进。",
+      "keywords": [
+        "对话NPC",
+        "限时抵达",
+        "第二轮挑战"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 2101603,
+          "title": "对话NPC$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 2101604,
+          "title": "完成玩法$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "21016-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "第三次对话并完成第三轮限时挑战",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "瀑布群"
+      ],
+      "characters": [
+        "玩家",
+        "未具名NPC"
+      ],
+      "summary": "玩家第三次与未具名NPC对话，并完成第三轮限时抵达挑战，结构与前两轮相同。原文未提供任何对白或规则信息，仅延续既定的挑战循环。",
+      "motivation": "按任务既定节奏完成第三轮限时抵达挑战。",
+      "outcome": "第三轮挑战完成，任务进入末轮对话与挑战环节。",
+      "keywords": [
+        "对话NPC",
+        "限时抵达",
+        "第三轮挑战"
+      ],
+      "source_step_keys": [
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 2101605,
+          "title": "对话NPC$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 2101606,
+          "title": "完成玩法$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "21016-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "末轮对话并完成最终限时挑战",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "瀑布群"
+      ],
+      "characters": [
+        "玩家",
+        "未具名NPC"
+      ],
+      "summary": "玩家进行第四次也是最后一次与NPC对话，并完成最后一轮限时抵达挑战，四轮循环至此全部结束。原文未交代最终结果、奖励或后续内容。",
+      "motivation": "完成任务规定的最后一轮限时抵达挑战，使任务流程收束。",
+      "outcome": "最后一轮挑战完成，全部四轮流程结束，任务收束；奖励与后续衔接原文未明确。",
+      "keywords": [
+        "对话NPC",
+        "限时抵达",
+        "最终挑战",
+        "任务收束"
+      ],
+      "source_step_keys": [
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 2101607,
+          "title": "对话NPC$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 2101608,
+          "title": "完成玩法$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-18T20:02:05.792Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

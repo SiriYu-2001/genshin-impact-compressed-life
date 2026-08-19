@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71704,
+    "slug": "71704_herbalists-forage",
+    "title": "阿桂的药材需求",
+    "chapter_num": "",
+    "premise": "璃月港的阿桂需要十份薄荷，旅行者前去回应委托并交付所需药材。",
+    "central_conflict": "阿桂的需求能否得到满足，取决于旅行者是否已经集齐十份薄荷；未集齐时，交付只能暂缓。",
+    "summary": "时间未明确，旅行者在璃月港就薄荷委托与阿桂交谈。阿桂询问十份薄荷是否已经搜集齐全，等待旅行者完成交付。旅行者可以表示尚未集齐并继续搜集，也可以在备齐后确认完成委托。交付成功后，阿桂清点薄荷并确认数量足够使用。他随后向旅行者致谢，并交出作为答谢的物品。阿桂的药材需求由此得到解决，委托随双方完成交接而收束。",
+    "resolution": "阿桂收下十份薄荷并确认足够使用，随后以物品答谢旅行者。该委托至此完成，原文未说明进一步影响。",
+    "themes": [
+      "委托履行",
+      "药材搜集",
+      "互助",
+      "答谢"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71704,
+      "title": "阿桂的药材需求",
+      "summary": "旅行者在璃月港回应阿桂对十份薄荷的需求，并根据搜集进度决定暂缓或完成交付。关键变化发生在旅行者备齐薄荷后，阿桂得以清点药材并确认数量足够。阿桂随即表示感谢、交付答谢物品，委托因此完成。",
+      "turning_point": "旅行者确认已经集齐十份薄荷，使对话从催促搜集转入正式交付与验收。",
+      "outcome": "阿桂获得足够使用的薄荷，旅行者收到他的答谢物品，本章委托结束。",
+      "section_ids": [
+        "71704-c00-s01",
+        "71704-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月港的阿桂需要十份薄荷。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71704-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "旅行者回应薄荷委托",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确，薄荷搜集与交付阶段",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "旅行者",
+        "阿桂"
+      ],
+      "summary": "旅行者在璃月港与阿桂谈及薄荷委托，阿桂询问十份薄荷是否已经搜集齐全。若旅行者尚未完成搜集，阿桂请其集齐后尽快送来；在推动委托完成的分支中，旅行者确认药材已经备齐。该确认使委托进入实际验收阶段。",
+      "motivation": "阿桂需要十份薄荷，旅行者则为履行委托而搜集并准备交付药材。",
+      "outcome": "未集齐时交付暂缓，集齐并确认后则触发阿桂对薄荷的验收。",
+      "keywords": [
+        "薄荷委托",
+        "搜集进度",
+        "药材交付",
+        "阿桂"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7170401,
+          "title": "将十份薄荷交给阿桂",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71704-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "阿桂验收药材并答谢",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "时间未明确，十份薄荷交付后",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "旅行者",
+        "阿桂"
+      ],
+      "summary": "旅行者交付十份薄荷后，阿桂清点药材并确认这些薄荷已经够用。他向旅行者表示感谢，并将答谢物品交给对方。药材需求得到满足，双方完成委托交接。",
+      "motivation": "阿桂需要确认收到的薄荷能满足使用需求，并答谢旅行者提供的帮助。",
+      "outcome": "阿桂收下足量薄荷，旅行者获得答谢物品，委托直接完成。",
+      "keywords": [
+        "药材验收",
+        "数量足够",
+        "感谢",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7170402,
+          "title": "与阿桂对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:03:37.402Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

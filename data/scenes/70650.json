@@ -1,0 +1,84 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70650,
+    "slug": "70650_knight-of-the-realm",
+    "title": "蒙德城的骑士",
+    "chapter_num": "",
+    "premise": "西风骑士赫塔似乎有话想说，旅行者需要与她交谈。",
+    "central_conflict": "原文未呈现明确的对立冲突；当前问题是赫塔的意图尚未说明，需要通过对话获知。",
+    "summary": "西风骑士赫塔似乎有话想说，由此引出旅行者与她接触的目标。整个 scene 仅包含“与赫塔对话”这一项剧情步骤。旅行者前往与赫塔交谈，以回应她主动传达信息的意图。原文没有收录具体对话，也未说明赫塔所谈之事及其进一步影响，因此剧情在建立双方交流后收束。",
+    "resolution": "旅行者与赫塔的对话构成该 scene 的直接收束，但交谈内容与后续影响均未在原文中明确。",
+    "themes": [
+      "骑士委托",
+      "信息交流",
+      "主动接触"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70650,
+      "title": "蒙德城的骑士",
+      "summary": "赫塔似乎有话要对旅行者说，本章因此以与她交谈为唯一目标。旅行者与赫塔建立交流，但原文没有提供谈话内容或更具体的事件结果。",
+      "turning_point": "旅行者从得知赫塔似乎有话想说，转为与她直接交谈。",
+      "outcome": "旅行者与赫塔建立对话；交谈传达的信息及其后续影响原文未明确。",
+      "section_ids": [
+        "70650-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "西风骑士赫塔似乎有话想说…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70650-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "旅行者与赫塔展开交谈",
+      "narrative_role": "resolution",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "赫塔"
+      ],
+      "summary": "时间未明确，地点未明确，旅行者按照当前目标与西风骑士赫塔交谈。赫塔似乎有话想说，但原文没有提供具体的谈话内容。此次接触完成了本章唯一明确的剧情行动，其进一步结果原文未明确。",
+      "motivation": "赫塔似乎希望传达某件事情，旅行者因此与她交谈。",
+      "outcome": "旅行者与赫塔建立交流，但谈话内容及其对后续的推动原文未明确。",
+      "keywords": [
+        "赫塔",
+        "西风骑士",
+        "对话",
+        "信息传达"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7065001,
+          "title": "与赫塔对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:55:04.010Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

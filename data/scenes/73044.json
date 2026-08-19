@@ -1,0 +1,86 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73044,
+    "slug": "73044_rescue-the-aranara",
+    "title": "解救兰那罗",
+    "chapter_num": "",
+    "premise": "一名爱音乐的兰那罗被魔物包围，解救行动由此展开。主要目标是帮助兰那罗摆脱眼前威胁。",
+    "central_conflict": "魔物对兰那罗形成包围，而原文没有交代包围的起因、解救过程或具体交锋。",
+    "summary": "时间未明确，地点未明确，一名爱音乐的兰那罗陷入魔物包围。整个 scene 围绕解救这名兰那罗的单一目标展开。唯一的 story step 进入由三条空白内容组成的结果对话流程，其中两条标注为爱音乐的兰那罗发言。该流程随后结束，表明任务步骤已经推进至结果确认阶段。由于对话文本为空，原文没有明确呈现解救手段、参与解救者身份及兰那罗的具体回应。scene 因而以完成结果对话收束，但未交代事件的进一步影响。",
+    "resolution": "唯一剧情步骤完成结果对话流程，解救任务由此收束。兰那罗此后的去向以及事件对后续剧情的影响均未明确。",
+    "themes": [
+      "援救",
+      "魔物威胁",
+      "兰那罗",
+      "结果确认"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73044,
+      "title": "解救兰那罗",
+      "summary": "本章以解救被魔物包围的爱音乐的兰那罗为目标，并直接进入任务结果对话。对话内容全部为空，因此只能确认流程由兰那罗相关发言节点推进至结束，无法还原具体解救过程与交流内容。",
+      "turning_point": "剧情由兰那罗遭魔物包围的待解救状态推进至结果对话完成。",
+      "outcome": "结果对话结束，解救任务完成流程收束，但兰那罗的具体状态和后续去向未被说明。",
+      "section_ids": [
+        "73044-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "解救被魔物包围的兰那罗",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73044-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "解救行动进入结果确认",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "解救被魔物包围的兰那罗后，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "爱音乐的兰那罗",
+        "魔物",
+        "解救者（原文未具名）"
+      ],
+      "summary": "时间未明确，地点未明确，解救行动针对一名被魔物包围的爱音乐的兰那罗展开。唯一剧情步骤呈现三条内容为空的结果对话节点，其中兰那罗被标注为首尾两个节点的发言者。对话流程随后结束，但原文没有说明具体交谈内容、解救方式或兰那罗的最终去向。",
+      "motivation": "解除魔物对爱音乐的兰那罗形成的包围。",
+      "outcome": "结果对话流程完成并结束，任务由此收束；更具体的救援结果及后续影响原文未明确。",
+      "keywords": [
+        "解救兰那罗",
+        "魔物包围",
+        "结果对话",
+        "流程结束"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7304404,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:12:47.297Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

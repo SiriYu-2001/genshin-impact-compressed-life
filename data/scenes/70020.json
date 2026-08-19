@@ -1,0 +1,164 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70020,
+    "slug": "70020_hilichurl-justice",
+    "title": "替丘丘行道！",
+    "chapter_num": "",
+    "premise": "旅行者与艾拉·马斯克找到另一个愿意交流的丘丘人，希望通过帮助它取得新的线索。艾拉负责跨越语言障碍，弄清丘丘人的求助内容。",
+    "central_conflict": "丘丘人要求旅行者替它对付强大的敌人，而沟通障碍使委托内容与事后线索都需要翻译和查证。",
+    "summary": "旅行者与艾拉·马斯克接触另一个愿意交流的丘丘人，艾拉主动用丘丘语询问它是否需要帮助。经过交流，艾拉判断丘丘人希望旅行者打败一名强大的敌人，并取得了标注在地图上的位置。旅行者随后前往指定地点战斗，替丘丘人解决威胁。完成战斗后，旅行者返回向丘丘人回复。丘丘人表达感谢，并说出包含“Unta nunu”的信息。派蒙意识到这个词组与时间有关，提醒旅行者查阅手册，从而把一次援助转化为继续追查的关键线索。",
+    "resolution": "丘丘人的求助得到解决，双方以友好的道别结束交流。旅行者获得了与时间有关的“Unta nunu”线索，后续需要借助手册确定其准确含义。",
+    "themes": [
+      "跨语言交流",
+      "互助",
+      "伸张正义",
+      "线索追查"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70020,
+      "title": "替丘丘行道！",
+      "summary": "旅行者与艾拉·马斯克向另一个愿意交流的丘丘人询问需求，并确认它希望有人替自己击败强敌。旅行者依照地图标记完成战斗，再返回向丘丘人回复。丘丘人在感谢之余提供“Unta nunu”这一时间相关信息，使帮助丘丘人的行动转化为新的调查线索。",
+      "turning_point": "丘丘人在委托完成后说出“Unta nunu”，派蒙由此判断新线索与时间有关。",
+      "outcome": "丘丘人的敌人得到处理，旅行者获得需要查阅手册进一步解释的时间线索。",
+      "section_ids": [
+        "70020-c00-s01",
+        "70020-c00-s02",
+        "70020-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "与艾拉·马斯克一同前去为被欺负的丘丘人打抱不平，或许能够借此得到新的线索？",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70020-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "艾拉译出丘丘人的求助",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "与另一个愿意交流的丘丘人接触时",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "艾拉·马斯克",
+        "丘丘人"
+      ],
+      "summary": "旅行者与艾拉·马斯克在地点未明确之处接触另一个愿意交流的丘丘人，艾拉阻止旅行者贸然交涉并主动使用丘丘语询问需求。她从丘丘人的回答中判断，对方希望旅行者帮助打败强大的敌人。艾拉确认目标位置已经标在地图上，将执行战斗的任务交给旅行者。",
+      "motivation": "艾拉希望通过丘丘语帮助双方沟通，丘丘人则因受到强敌困扰而寻求援助。",
+      "outcome": "丘丘人的求助被成功译出，敌人的位置得到标记，旅行者开始执行战斗委托。",
+      "keywords": [
+        "丘丘语",
+        "求助",
+        "艾拉·马斯克",
+        "地图标记"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7002001,
+          "title": "与另一个愿意交流的丘丘人对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70020-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "旅行者前往指定地点战斗",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "接受丘丘人的求助后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "接受求助后，旅行者按照地图上的标记前往指定地点战斗。原文未说明敌人的具体身份与战斗过程，但后续能够返回回复表明这一战斗任务已经完成。",
+      "motivation": "旅行者为帮助受欺负的丘丘人而前去对付其所说的强大敌人。",
+      "outcome": "战斗任务完成，旅行者得以返回丘丘人处报告结果并继续获取线索。",
+      "keywords": [
+        "指定地点",
+        "战斗",
+        "强敌",
+        "援助"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7002002,
+          "title": "前往指定地点战斗",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70020-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "丘丘人给出时间线索",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "指定地点的战斗结束后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "丘丘人",
+        "派蒙"
+      ],
+      "summary": "战斗结束后，旅行者返回地点未明确之处向丘丘人回复，丘丘人以丘丘语表达高兴与感谢。它随后说出包含“Unta nunu”的信息，派蒙判断这个词组似乎与时间有关，并提醒旅行者查阅手册。旅行者可用不同方式回应，但双方最终友好道别。",
+      "motivation": "旅行者需要报告战斗结果并寻找新线索，丘丘人则以感谢和丘丘语信息回报帮助。",
+      "outcome": "丘丘人的委托得到收束，旅行者获得“Unta nunu”这一待查证的时间线索，为后续行动提供方向。",
+      "keywords": [
+        "回复",
+        "Unta nunu",
+        "时间线索",
+        "手册"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7002003,
+          "title": "向丘丘人回复",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:52:59.318Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

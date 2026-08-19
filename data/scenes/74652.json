@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 74652,
+    "slug": "74652_muirnes-better-butter",
+    "title": "缪妮的黄油需求",
+    "chapter_num": "",
+    "premise": "缪妮因吃面包时总缺少黄油，请玩家角色为她准备并交付3份黄油。",
+    "central_conflict": "缪妮需要一次性收到足量黄油，而玩家角色只有在备齐3份后才能完成交付。",
+    "summary": "时间与地点均未明确，缪妮向玩家角色谈起自己吃面包时总觉得黄油不够。她因此打算以后随身携带黄油，并询问所需的黄油是否已经备齐。玩家角色若尚未准备完成，缪妮会要求对方备齐后再一次性交付，任务随之暂缓。玩家角色确认准备完成后，将3份黄油交给缪妮。收到黄油的缪妮十分高兴，并表明没有黄油时自己宁愿不吃面包。她的黄油需求得到满足，本次委托随之结束。",
+    "resolution": "玩家角色最终向缪妮交付3份黄油，解决了她吃面包时黄油不足的问题。缪妮欣喜地收下黄油，任务完成且未留下明确的后续冲突。",
+    "themes": [
+      "物资委托",
+      "饮食偏好",
+      "准备与交付",
+      "日常需求"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 74652,
+      "title": "缪妮的黄油需求",
+      "summary": "缪妮需要3份黄油，以解决吃面包时总是缺少黄油的问题。她先确认玩家角色是否已经备齐物资，并在物资不足时要求对方准备妥当后一次性交付。玩家角色完成交付后，缪妮欣喜地收下黄油，本章委托就此完成。",
+      "turning_point": "玩家角色确认已经备齐3份黄油，使委托从准备阶段转入实际交付并完成。",
+      "outcome": "缪妮收到所需的3份黄油，对交付结果十分满意，委托结束。",
+      "section_ids": [
+        "74652-c00-s01",
+        "74652-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "缪妮需要3份黄油。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "74652-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "缪妮确认黄油是否备齐",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "交付黄油时，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "缪妮",
+        "玩家角色"
+      ],
+      "summary": "时间未明确，地点未明确，玩家角色就黄油一事与缪妮交谈。缪妮说明自己吃面包时总是缺少黄油，甚至考虑以后随身携带，并询问3份黄油是否已经备齐。若玩家角色尚未备齐，她会要求对方准备完成后再一次性交付；确认备齐后，交付流程得以继续。",
+      "motivation": "缪妮希望获得足量黄油来搭配面包，玩家角色则需要确认物资准备情况以推进委托。",
+      "outcome": "物资不足时委托暂缓；确认3份黄油已经备齐后，任务进入完成交付的收束阶段。",
+      "keywords": [
+        "黄油需求",
+        "物资确认",
+        "一次性交付",
+        "准备阶段"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7465201,
+          "title": "将3份黄油交给缪妮",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "74652-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "缪妮欣喜收下三份黄油",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "3份黄油交付完成后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "缪妮",
+        "玩家角色"
+      ],
+      "summary": "3份黄油交付完成后，地点未明确，缪妮欣喜地收下黄油。她强调没有黄油时宁愿不吃面包，进一步表明黄油对其饮食偏好的重要性。她的物资需求得到满足，本次委托随即完成。",
+      "motivation": "缪妮对黄油搭配面包有强烈偏好，因此期待收到玩家角色准备的物资。",
+      "outcome": "缪妮获得3份黄油并表达满意，委托目标达成且剧情在此收束。",
+      "keywords": [
+        "完成交付",
+        "缪妮",
+        "饮食偏好",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7465202,
+          "title": "与缪妮对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:25:52.617Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73681,
+    "slug": "73681_good-as-new",
+    "title": "装点一新",
+    "chapter_num": "",
+    "premise": "旅行者和派蒙参加寻找「丰饶之箱」的活动后，获得了各式各样的装饰品。伯恩哈德提议用这些物品装点众人经营的小吃店。",
+    "central_conflict": "小吃店需要借助现有资源改善店面、吸引顾客，同时妥善回应赠礼者的心意。",
+    "summary": "伯恩哈德见到旅行者和派蒙后，询问他们参加寻找「丰饶之箱」活动的感受。派蒙表示活动很有趣，并提到他们还获得了美酒集市提供的各式装饰品。伯恩哈德由此提议将装饰品陈列在正在经营的小吃店中，希望美化店铺并吸引更多客人。他进一步指出，赠礼者看到自己的心意成为店铺陈设也会感到高兴。派蒙认同这一提议，并决定与旅行者一起认真装饰店面。",
+    "resolution": "旅行者一方接受了伯恩哈德的建议，店铺装饰由讨论转为待执行的明确安排。此举将同时服务于招揽顾客和回应赠礼者心意。",
+    "themes": [
+      "店铺经营",
+      "装饰改造",
+      "善意回馈",
+      "伙伴协作"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73681,
+      "title": "装点一新",
+      "summary": "伯恩哈德从旅行者和派蒙参加寻找「丰饶之箱」活动的经历中得知，他们获得了不少装饰品。他提议把这些物品用于装点小吃店，以提升店面吸引力并回应赠礼者的心意。派蒙接受建议，决定与旅行者着手布置店铺。",
+      "turning_point": "伯恩哈德将活动所得的装饰品与小吃店经营联系起来，提出把它们陈列在店内的具体方案。",
+      "outcome": "旅行者和派蒙确定了装饰小吃店的下一步行动。",
+      "section_ids": [
+        "73681-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "伯恩哈德听说你们参加了寻找「丰饶之箱」的活动…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73681-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "伯恩哈德提议装点店面",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "寻找「丰饶之箱」活动及美酒集市举办期间",
+      "locations": [
+        "旅行者一方经营的小吃店"
+      ],
+      "characters": [
+        "伯恩哈德",
+        "派蒙",
+        "旅行者"
+      ],
+      "summary": "伯恩哈德在小吃店与旅行者和派蒙交谈，得知他们参加寻找「丰饶之箱」活动后获得了各式装饰品。他建议把这些物品摆在店里，既让店面更美观、吸引更多客人，也让赠礼者看到自己的心意得到珍视。派蒙认同这一理由，并决定和旅行者一起好好装饰店面。",
+      "motivation": "伯恩哈德希望利用现有装饰品改善小吃店的经营形象，同时回应赠礼者的善意。",
+      "outcome": "装饰品有了明确用途，旅行者和派蒙决定着手布置小吃店。",
+      "keywords": [
+        "丰饶之箱",
+        "装饰品",
+        "小吃店",
+        "招揽顾客",
+        "赠礼心意"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7368101,
+          "title": "与伯恩哈德对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:18:31.308Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

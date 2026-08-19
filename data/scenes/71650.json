@@ -1,0 +1,84 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71650,
+    "slug": "71650_ministry-missions",
+    "title": "「总务司」的事务",
+    "chapter_num": "",
+    "premise": "璃月总务司的资源管理专员小雨似乎有话要说，任务执行者需要与她交谈。",
+    "central_conflict": "原文未呈现具体矛盾，唯一明确的推进是回应小雨的谈话需求。",
+    "summary": "本场景围绕小雨所要交代的总务司事务展开。任务执行者前去与小雨对话，以回应她似乎有话要说的情况。原文没有提供对话正文，因此事务的具体内容、相关矛盾及处理过程均未明确。该任务设置了完成奖励，但没有说明交谈造成的进一步剧情影响。",
+    "resolution": "任务以执行“与小雨对话”这一目标收束。谈话结论及其后续影响原文未明确。",
+    "themes": [
+      "总务司事务",
+      "职务沟通",
+      "任务交接"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71650,
+      "title": "「总务司」的事务",
+      "summary": "本章的目标是与璃月总务司资源管理专员小雨交谈。任务由小雨似乎有话要说的情况引出，并以对话作为唯一明确的剧情行动；由于没有收录对话正文，事务内容和交谈结果均未明确。",
+      "turning_point": "任务执行者开始与小雨对话，但具体交流内容原文未明确。",
+      "outcome": "与小雨对话这一目标得到执行，任务配置了完成奖励；除此之外的直接结果原文未明确。",
+      "section_ids": [
+        "71650-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "「璃月总务司」的资源管理专员小雨似乎有话要说…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71650-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "任务执行者与小雨交谈",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "小雨",
+        "任务执行者"
+      ],
+      "summary": "时间未明确，地点未明确，任务执行者前去与璃月总务司的资源管理专员小雨对话，以回应她似乎有话要说的情况。原文未收录对话正文，因此小雨所谈事务的具体内容和双方得出的结论均未明确。",
+      "motivation": "任务执行者需要了解小雨准备传达的总务司事务。",
+      "outcome": "与小雨对话这一唯一目标得到执行；任务配置了完成奖励，但具体谈话结果及后续影响原文未明确。",
+      "keywords": [
+        "小雨",
+        "总务司",
+        "资源管理",
+        "对话"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7165001,
+          "title": "与小雨对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:02:27.647Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

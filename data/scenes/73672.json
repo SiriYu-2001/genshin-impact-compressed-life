@@ -1,0 +1,84 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73672,
+    "slug": "73672_fungal-fracas",
+    "title": "蕈兽引起的混乱",
+    "chapter_num": "",
+    "premise": "时间与地点均未明确，蕈兽正在作乱，行动执行者需要制止由其引发的混乱。",
+    "central_conflict": "蕈兽的作乱构成直接威胁，而行动执行者必须通过击退它们来平息事态。",
+    "summary": "时间未明确，地点未明确，蕈兽的活动引发了一场混乱。事件的主要目标是击退这些正在作乱的蕈兽。行动执行者与蕈兽发生对抗，以阻止混乱继续扩大。蕈兽最终遭到击退，当前威胁因此得到处理。原文没有交代冲突的具体过程、参与者身份及更长期的后续影响。",
+    "resolution": "蕈兽被击退，其引发的混乱得到直接处理。原文未明确这一结果是否带来进一步任务或长期影响。",
+    "themes": [
+      "制止混乱",
+      "威胁应对",
+      "蕈兽冲突"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73672,
+      "title": "蕈兽引起的混乱",
+      "summary": "本章围绕击退作乱蕈兽这一单一目标展开。蕈兽造成混乱后，行动执行者采取对抗行动，并以击退蕈兽作为本章的直接结果。原文未提供更具体的战斗经过或后续发展。",
+      "turning_point": "蕈兽从持续作乱的威胁转变为遭到击退。",
+      "outcome": "蕈兽被击退，其造成的当前混乱得到处理。",
+      "section_ids": [
+        "73672-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "蕈兽正在作乱…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73672-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "作乱蕈兽遭到击退",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "蕈兽",
+        "行动执行者（原文未明确）"
+      ],
+      "summary": "时间未明确，地点未明确，蕈兽正在作乱并引发混乱。身份未明确的行动执行者为制止事态而击退蕈兽，使当前威胁得到直接处理。原文未交代对抗过程及后续影响。",
+      "motivation": "制止蕈兽作乱并平息由其引发的混乱。",
+      "outcome": "蕈兽被击退，当前混乱得到处理；更长期的影响原文未明确。",
+      "keywords": [
+        "蕈兽",
+        "作乱",
+        "击退",
+        "平息混乱"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7367201,
+          "title": "击退蕈兽",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:17:55.455Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

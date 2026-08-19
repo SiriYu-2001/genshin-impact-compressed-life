@@ -1,0 +1,398 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 10016,
+    "slug": "10016_beneath-splendent-lanterns",
+    "title": "霄灯玲珑照此地",
+    "chapter_num": "",
+    "premise": "海灯节期间，璃月港冒险家协会的小千邀请玩家试玩换新后的第二期「玲珑霄灯图」：转动三盏连轴联动的灯拼出「摩拉」图案，再依据图案上隐藏的线索寻找协会准备的宝藏。",
+    "central_conflict": "本次灯图的难度在于三盏灯「连轴」联动，转一盏可能带动另一盏，玩家需摸索转灯规律拼出正确图案；拼成后还需循图案线索找到三处藏宝地并取得全部宝藏。",
+    "summary": "小千认出玩家上次解开过一盏灯，特意换了灯后再次邀请其试玩「玲珑霄灯图」，说明本次难点在「连轴」转灯方式、目标图案是「摩拉」。玩家转动连轴灯拼出「摩拉」图案后，小千称赞其越发熟练并提示图案中隐藏着宝藏线索；玩家观察图案，得知宝藏是冒险家协会特意准备的。玩家随后循图案标注先后找到三处藏宝地并取得全部宝藏，其间与小千对话会依情境收到「图案是摩拉」「需等晚上再来」等提示（灯图玩法与夜晚相关）。全部取宝后玩家回报小千，她称赞其寻宝功夫出色并送上协会奖励，祝其海灯节愉快。收尾章仅有一段小千的空台词对话，作为系列流程的结束步骤。",
+    "resolution": "玩家取得全部宝藏并向小千交差，领取协会准备的奖励，本章以海灯节祝福圆满收束；第一章的空台词对话作为系列流程的收尾钩子，为这一期「玲珑霄灯图」画上句号。",
+    "themes": [
+      "海灯节",
+      "灯图拼图",
+      "寻宝",
+      "连轴机关",
+      "冒险家协会"
+    ],
+    "context_ref_ids": [
+      "ctx-01",
+      "ctx-02"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 41358,
+      "title": "玲珑霄灯图之二",
+      "summary": "本章是「玲珑霄灯图」系列的第二期。小千在璃月港冒险家协会邀请玩家试玩换新后的灯图，说明本次难度在于三盏灯的「连轴」联动，需拼出「摩拉」图案。玩家完成拼图并观察图案后，从图案隐藏的线索中找到三处藏宝地，先后取得全部宝藏；最终回报小千领取协会奖励，并收到海灯节祝福。",
+      "turning_point": "玩家拼出「摩拉」图案并观察后发现图案中藏着宝藏线索，剧情由玩灯图转向循图寻宝。",
+      "outcome": "玩家找到并取得三处藏宝地的全部宝藏，回报小千后领取协会奖励，本章以海灯节祝福收束。",
+      "section_ids": [
+        "10016-c00-s01",
+        "10016-c00-s02",
+        "10016-c00-s03",
+        "10016-c00-s04",
+        "10016-c00-s05",
+        "10016-c00-s06"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月港冒险家协会的小千似乎还在招揽人过去试玩「玲珑霄灯图」…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 71028,
+      "title": "",
+      "summary": "本章为系列流程的收尾步骤，仅包含一段与小千的空台词对话（原文无文本内容），且需在三个外部任务全部完成后才会触发，作为本 scene 的结束钩子。",
+      "turning_point": "原文未明确（本章无实际剧情内容）。",
+      "outcome": "触发收尾对话后本章即告结束，对话无实际台词，不推进新剧情。",
+      "section_ids": [
+        "10016-c01-s01"
+      ],
+      "context_ref_ids": [
+        "ctx-02"
+      ],
+      "source_file": "chapter_01.json",
+      "source_description": "",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "10016-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "小千邀玩家试玩新灯图",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "海灯节期间，具体时刻未明确",
+      "locations": [
+        "璃月港冒险家协会"
+      ],
+      "characters": [
+        "小千",
+        "旅行者"
+      ],
+      "summary": "小千认出玩家是上次解开过一盏灯的人，说自己特意换了几盏灯，邀请其试玩新的「玲珑霄灯图」。她说明本次图案仍分三份、不难理解，难度在于三盏灯「连轴」联动，转一盏可能带动另一盏，并叮嘱要拼出「摩拉」图案后才能去找宝藏。",
+      "motivation": "小千想继续招揽玩家试玩冒险家协会新布置的灯图，玩家应约接受挑战。",
+      "outcome": "玩家接下新灯图挑战，目标确定为拼出「摩拉」图案。",
+      "keywords": [
+        "玲珑霄灯图",
+        "小千",
+        "连轴",
+        "摩拉"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 4135801,
+          "title": "与小千对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10016-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "转动连轴灯拼出摩拉图案",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "海灯节期间，具体时刻未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "玩家操作三盏连轴联动的灯，摸索转灯规律，将映出的图案拼成「摩拉」形状，完成「玲珑霄灯图·摩拉」。",
+      "motivation": "玩家需拼出正确图案，才能让图案映出并发现隐藏的宝藏线索。",
+      "outcome": "「玲珑霄灯图·摩拉」完成，图案可供观察，寻宝线索随之浮现。",
+      "keywords": [
+        "连轴",
+        "转灯",
+        "摩拉",
+        "拼图"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 4135802,
+          "title": "完成「玲珑霄灯图·摩拉」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10016-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "观察灯图获知宝藏线索",
+      "narrative_role": "transition",
+      "importance": 3,
+      "when": "海灯节期间，具体时刻未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "小千"
+      ],
+      "summary": "拼好图案后，小千称赞玩家玩得越来越熟练，催促其去看图案，说图案上隐藏着宝藏的线索。玩家观察「玲珑霄灯图·摩拉」后，小千说明那些宝藏是冒险家协会特意准备的，祝玩家寻宝开心。",
+      "motivation": "玩家为获知藏宝地线索而观察图案；小千借此说明宝藏的来历。",
+      "outcome": "玩家得知宝藏由协会准备、线索藏在图案中，随即开始按标注寻宝。",
+      "keywords": [
+        "观察图案",
+        "宝藏线索",
+        "冒险家协会"
+      ],
+      "source_step_keys": [
+        "2",
+        "9",
+        "11"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 4135803,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 4135807,
+          "title": "与小千对话",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 4135815,
+          "title": "观察「玲珑霄灯图·摩拉」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10016-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "循灯图标注寻找三处藏宝地",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "海灯节期间，具体时刻未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "玩家依据「玲珑霄灯图」图案上标注的位置，先后找到三处藏宝地，确认了宝藏所在的三个地点。",
+      "motivation": "根据灯图隐藏的线索定位冒险家协会标注的藏宝地，以便后续取宝。",
+      "outcome": "三处藏宝地全部找到，进入取宝阶段。",
+      "keywords": [
+        "藏宝地",
+        "灯图标注",
+        "寻宝"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 4135808,
+          "title": "找到「玲珑霄灯图」上标注的藏宝地",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 4135809,
+          "title": "找到「玲珑霄灯图」上标注的藏宝地",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 4135810,
+          "title": "找到「玲珑霄灯图」上标注的藏宝地",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10016-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "前往藏宝地取得协会宝藏",
+      "narrative_role": "climax",
+      "importance": 4,
+      "when": "夜间21点至5点（与小千的对话限定在该时段），取宝具体时刻未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "小千"
+      ],
+      "summary": "玩家前往三处藏宝地寻找并取得冒险家协会准备的宝藏。取宝期间若与小千对话，她会依情境给出提示：在夜晚（21点至5点）对话时，她表示想玩「玲珑霄灯图」要等晚上再来；开始拼图后再次对话，她则提醒本次要拼的图案是「摩拉」。",
+      "motivation": "兑现灯图上的宝藏线索，取得协会准备的奖励。",
+      "outcome": "三处宝藏全部取得，玩家可以向小千回报。",
+      "keywords": [
+        "取宝",
+        "夜间对话",
+        "小千提示",
+        "宝藏"
+      ],
+      "source_step_keys": [
+        "6",
+        "7",
+        "8",
+        "10"
+      ],
+      "context_ref_ids": [
+        "ctx-01"
+      ],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 4135804,
+          "title": "寻找宝藏",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 4135805,
+          "title": "寻找宝藏",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 4135806,
+          "title": "寻找宝藏",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 4135812,
+          "title": "在晚上（21点~5点）与小千对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10016-c00-s06",
+      "chapter_index": 0,
+      "order": 6,
+      "title": "回报小千领取寻宝奖励",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "海灯节期间，具体时刻未明确",
+      "locations": [
+        "璃月港冒险家协会"
+      ],
+      "characters": [
+        "旅行者",
+        "小千"
+      ],
+      "summary": "玩家找到全部宝藏后与小千对话，她询问寻宝是否顺利，玩家告知已找到全部宝藏。小千称赞其寻宝功夫出色，提到好多人只是转了一下灯就走了，随后送上协会准备的奖励，并祝玩家在海灯节玩得开心。",
+      "motivation": "寻宝完成后向小千交差，领取协会准备的奖励。",
+      "outcome": "玩家领取协会奖励，本章以海灯节祝福收束。",
+      "keywords": [
+        "回报",
+        "奖励",
+        "海灯节"
+      ],
+      "source_step_keys": [
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "9",
+          "id": 4135807,
+          "title": "与小千对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10016-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "与小千的收尾空对话",
+      "narrative_role": "transition",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "小千",
+        "旅行者"
+      ],
+      "summary": "本章仅包含一段与小千的对话步骤，台词文本为空，且需在三个外部任务全部完成后才会触发，作为系列流程的收尾钩子，不承载实际剧情内容。",
+      "motivation": "原文未明确（作为系列流程的收尾触发步骤）。",
+      "outcome": "触发收尾对话后本章结束，对话无实际台词，本 scene 至此完结。",
+      "keywords": [
+        "收尾",
+        "空对话",
+        "系列流程"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [
+        "ctx-02"
+      ],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7102801,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [
+    {
+      "id": "ctx-01",
+      "path": "10015_beneath-splendent-lanterns/chapter_00.json",
+      "reason": "目标 chapter 中与小千的互动限定在晚上21点至5点，其成因由系列前作说明：灯图图案只有夜晚才看得最清楚，这解释了夜间对话条件的由来。",
+      "fact": "小千在系列前作（10015「玲珑霄灯图之一」）中说明，「玲珑霄灯图」上的灯图案只有在晚上才看得最清楚，玩家应等晚上再过来玩。"
+    },
+    {
+      "id": "ctx-02",
+      "path": "10015_beneath-splendent-lanterns/chapter_01.json",
+      "reason": "目标 scene 第一章仅有一段空台词对话且需完成三个外部任务才触发，对照系列前作与后作第一章的相同结构，确认这是系列各作共有的收尾步骤而非数据异常。",
+      "fact": "系列前作10015与后作10017的第一章同样只包含一段小千的空台词对话，且需完成三个外部任务后才触发，说明目标 scene 第一章是系列流程共有的收尾钩子。"
+    }
+  ],
+  "generated": {
+    "at": "2026-08-18T11:49:53.677Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

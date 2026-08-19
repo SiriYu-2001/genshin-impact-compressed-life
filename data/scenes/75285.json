@@ -1,0 +1,121 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 75285,
+    "slug": "75285_test-hidden",
+    "title": "(test)隐藏$HIDDEN",
+    "chapter_num": "",
+    "premise": "这段隐藏测试内容以任务执行者寻找指定地点、设法返回地面为起点，随后转入名为「飘飘巡风阿夏」的任务环节。",
+    "central_conflict": "原文未呈现明确的对抗者或具体阻碍，核心行动要求仅体现为抵达指定地点并推进至后续环节。",
+    "summary": "任务开始后，任务执行者需要前往一个未具体说明的指定地点，以便返回地面。原文没有交代其出发位置、移动过程或返回地面时面对的阻碍。按照固定的任务步骤顺序，流程随后进入名为「飘飘巡风阿夏」的环节。该环节的地点、具体目标以及阿夏与任务执行者之间的互动均未展开。由于输入属于隐藏测试内容且只包含步骤标题，剧情没有呈现可确认的高潮、冲突解决过程或最终状态。",
+    "resolution": "本段以「飘飘巡风阿夏」作为最后出现的任务环节，但其执行结果与后续影响均未在原文中明确。",
+    "themes": [
+      "返回地面",
+      "任务推进",
+      "未知目标",
+      "隐藏测试内容"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 75285,
+      "title": "(test)隐藏$HIDDEN",
+      "summary": "本章要求任务执行者先前往指定地点返回地面，再进入「飘飘巡风阿夏」环节。任务目标由明确的移动要求转向信息不足的后续步骤，但原文没有展开其中的互动、冲突或完成结果。",
+      "turning_point": "任务流程从返回地面的行动要求转入「飘飘巡风阿夏」环节。",
+      "outcome": "两个任务步骤依次出现，但最终环节的内容与结果均未明确。",
+      "section_ids": [
+        "75285-c00-s01",
+        "75285-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "(test)隐藏$HIDDEN",
+      "is_hidden": true
+    }
+  ],
+  "sections": [
+    {
+      "id": "75285-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "任务执行者前往指定地点返回地面",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "任务开始阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "任务执行者"
+      ],
+      "summary": "在任务开始阶段，任务执行者被要求前往一个未具体说明的指定地点，以便返回地面。该步骤明确了移动与脱离当前区域的目标，但原文没有交代出发位置、沿途阻碍或实际抵达过程。",
+      "motivation": "通过抵达指定地点返回地面。",
+      "outcome": "任务流程按既定顺序推进至「飘飘巡风阿夏」环节，但返回地面的具体结果未被展开。",
+      "keywords": [
+        "指定地点",
+        "返回地面",
+        "移动目标"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7528503,
+          "title": "前往指定地点以返回地面$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "75285-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "后续环节转入飘飘巡风阿夏",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "返回地面步骤之后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "任务执行者",
+        "阿夏"
+      ],
+      "summary": "在返回地面的步骤之后，剧情进入名为「飘飘巡风阿夏」的后续任务环节，地点未明确。原文仅提供该环节的标题，没有说明任务执行者与阿夏的具体互动、行动目标或冲突。",
+      "motivation": "原文未明确",
+      "outcome": "该环节成为本章最后出现的任务步骤，其完成状态及对后续剧情的影响均未明确。",
+      "keywords": [
+        "飘飘巡风阿夏",
+        "阿夏",
+        "后续环节"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7528504,
+          "title": "「飘飘巡风阿夏」$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:30:45.691Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

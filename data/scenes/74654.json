@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 74654,
+    "slug": "74654_prunieres-white-iron-impetration",
+    "title": "普吕尼埃的白铁块需求",
+    "chapter_num": "",
+    "premise": "普吕尼埃通过报纸发布求助消息，希望有人为他送来5份白铁块，以便修理损坏的扳手。",
+    "central_conflict": "普吕尼埃缺少修理工具所需的白铁块，前来帮忙的人必须备齐指定数量才能解决他的困难。",
+    "summary": "普吕尼埃通过欧芙女士所说的报纸求助方式征集白铁块，并惊喜地迎来了愿意帮忙的人。他向对方确认5份白铁块是否已经备齐，若材料不足便请求对方继续设法收集。前来帮忙的人最终备齐并交付了所需材料。拿到白铁块后，普吕尼埃确认自己已经能够修理几个损坏的扳手。这次简短的物资援助由此完成，报纸求助也取得了实际效果。",
+    "resolution": "普吕尼埃获得5份白铁块，修理坏扳手所面临的材料短缺得到解决，原文未留下明确的后续任务。",
+    "themes": [
+      "物资援助",
+      "报纸求助",
+      "工具修理",
+      "善意互助"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 74654,
+      "title": "普吕尼埃的白铁块需求",
+      "summary": "本章围绕为普吕尼埃筹集5份白铁块展开。普吕尼埃确认报纸求助带来了帮助，并询问材料是否备齐；材料交付后，他得以着手修理损坏的扳手。",
+      "turning_point": "前来帮忙的人备齐并交付5份白铁块，使普吕尼埃的修理计划能够继续。",
+      "outcome": "普吕尼埃取得所需白铁块，确认可以修理几个坏扳手。",
+      "section_ids": [
+        "74654-c00-s01",
+        "74654-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "普吕尼埃需要5份白铁块。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "74654-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "普吕尼埃确认白铁块是否备齐",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "普吕尼埃刊登报纸求助消息后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "普吕尼埃",
+        "前来帮忙的好心人"
+      ],
+      "summary": "普吕尼埃在地点未明确之处见到响应报纸求助的好心人，并惊喜于欧芙女士建议的办法确实有效。他询问对方是否已经备齐5份白铁块；若尚未备齐，他便说明自己需要的数量不少，请对方继续设法收集。对方最终确认材料已经准备好并完成交付。",
+      "motivation": "普吕尼埃需要足量白铁块处理自己的修理需求，前来帮忙的人则为响应他的公开求助而筹备材料。",
+      "outcome": "5份白铁块被备齐并交给普吕尼埃，材料短缺问题得到直接解决。",
+      "keywords": [
+        "白铁块",
+        "报纸求助",
+        "材料交付",
+        "普吕尼埃"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7465401,
+          "title": "将5份白铁块交给普吕尼埃",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "74654-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "白铁块到手使坏扳手可修复",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "5份白铁块交付后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "普吕尼埃",
+        "前来帮忙的好心人"
+      ],
+      "summary": "收到白铁块后，普吕尼埃对材料准备情况表示满意。他确认这些白铁块足以让自己修理几个损坏的扳手，使求助事项得到收束。",
+      "motivation": "普吕尼埃取得白铁块是为了修复损坏的扳手。",
+      "outcome": "普吕尼埃可以开始修理坏扳手，本次白铁块求助完成。",
+      "keywords": [
+        "坏扳手",
+        "修理",
+        "材料到手",
+        "求助完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7465402,
+          "title": "与普吕尼埃对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:26:03.111Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

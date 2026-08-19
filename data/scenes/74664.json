@@ -1,0 +1,86 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 74664,
+    "slug": "74664_crabby-chaos",
+    "title": "重甲蟹引起的混乱",
+    "chapter_num": "",
+    "premise": "重甲蟹突然作乱并袭击民众，现场需要有人阻止其继续制造混乱。主要目标是击退重甲蟹，保护遭袭民众。",
+    "central_conflict": "重甲蟹对民众构成直接威胁，而负责处置危机的行动者需要将其击退。",
+    "summary": "时间未明确，地点未明确，重甲蟹正在作乱并袭击民众。它的攻击使保护民众成为当前最紧迫的目标。身份未明确的行动者介入现场，承担击退重甲蟹的任务。剧情围绕这场直接冲突展开，并以制止重甲蟹的袭击作为关键推进。目标文本未交代战斗细节、人物身份或更深层原因。该事件最终以击退重甲蟹这一处置目标收束。",
+    "resolution": "重甲蟹的袭民行动受到正面制止，危机以将其击退为直接解决方式。原文未明确交代事后影响或后续安排。",
+    "themes": [
+      "保护民众",
+      "怪物袭击",
+      "危机处置",
+      "正面冲突"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 74664,
+      "title": "重甲蟹引起的混乱",
+      "summary": "重甲蟹作乱并袭击民众，引发需要立即处理的现场危机。身份未明确的行动者以保护民众为推动力，着手将重甲蟹击退。本章以制止袭击作为核心目标和直接结果，但未交代具体战斗过程及后续影响。",
+      "turning_point": "行动者介入重甲蟹袭击民众的危机，并将局势导向正面击退。",
+      "outcome": "重甲蟹的袭击以将其击退为直接处置结果，原文未明确后续影响。",
+      "section_ids": [
+        "74664-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "重甲蟹正在作乱…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "74664-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "重甲蟹袭民并遭击退",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "重甲蟹",
+        "遭袭民众",
+        "行动者（身份未明确）"
+      ],
+      "summary": "时间未明确，地点未明确，重甲蟹正在作乱并袭击民众。身份未明确的行动者为保护民众而介入冲突，目标是击退重甲蟹并终止其袭击。原文未交代具体交战过程，事件以击退威胁作为直接处置方向。",
+      "motivation": "重甲蟹正在危害民众，保护遭袭者并制止混乱推动行动者出手。",
+      "outcome": "重甲蟹的袭民行为受到制止，直接结果是其遭到击退；原文未明确交代后续影响。",
+      "keywords": [
+        "重甲蟹",
+        "袭击民众",
+        "击退",
+        "危机处置"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7466401,
+          "title": "击退袭击民众的重甲蟹",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:26:50.891Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70707,
+    "slug": "70707_alfreds-bouquet",
+    "title": "阿尔弗雷德的花束",
+    "chapter_num": "",
+    "premise": "蒙德城的阿尔弗雷德需要三朵风车菊，受托人前来向他交付所需花朵。",
+    "central_conflict": "委托能否完成取决于三朵风车菊是否已经集齐，而阿尔弗雷德还希望在花朵凋谢前尽快收到它们。",
+    "summary": "受托人就风车菊一事与阿尔弗雷德交谈，阿尔弗雷德确认对方是否已经集齐三朵风车菊。若花朵尚未集齐，他便催促对方尽快完成收集，以免花谢。完成收集后，受托人将三朵风车菊交给阿尔弗雷德。阿尔弗雷德透露这些花是为女儿准备的，相信女儿会喜欢。随后他向受托人致谢并交付报酬，委托就此完成。",
+    "resolution": "阿尔弗雷德顺利获得送给女儿的风车菊，并以谢礼回报受托人的帮助；本段剧情未留下明确的后续冲突。",
+    "themes": [
+      "亲情",
+      "委托履行",
+      "赠花",
+      "感谢"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70707,
+      "title": "阿尔弗雷德的花束",
+      "summary": "本章围绕三朵风车菊的交付展开：阿尔弗雷德先确认花朵是否已经集齐，并在收集未完成时提醒受托人不要耽搁。花朵交付后，他说明这些风车菊是为女儿准备的，并向受托人致谢、送出报酬。委托由此顺利收束。",
+      "turning_point": "受托人集齐并交付三朵风车菊后，阿尔弗雷德透露花束是为女儿准备的。",
+      "outcome": "阿尔弗雷德取得所需的风车菊，受托人获得谢礼，委托完成。",
+      "section_ids": [
+        "70707-c00-s01",
+        "70707-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "蒙德城的阿尔弗雷德需要三朵风车菊。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70707-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "受托人交付三朵风车菊",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "受托人前来交付风车菊时",
+      "locations": [
+        "蒙德城"
+      ],
+      "characters": [
+        "阿尔弗雷德",
+        "受托人"
+      ],
+      "summary": "在蒙德城，受托人就风车菊一事与阿尔弗雷德交谈，阿尔弗雷德询问三朵风车菊是否已经集齐。若收集尚未完成，他会要求受托人尽快带来，以免花朵凋谢；集齐花朵后，受托人才能完成交付并推动委托继续。",
+      "motivation": "阿尔弗雷德希望及时取得三朵状态完好的风车菊，受托人则要完成他发布的委托。",
+      "outcome": "三朵风车菊集齐并交付后，阿尔弗雷德得以说明花朵的用途并结算委托；若尚未集齐，任务则停留在继续收集的阶段。",
+      "keywords": [
+        "风车菊",
+        "收集",
+        "交付",
+        "催促"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7070701,
+          "title": "将三朵风车菊交给阿尔弗雷德",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70707-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "阿尔弗雷德说明赠花心意",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "三朵风车菊交付后",
+      "locations": [
+        "蒙德城"
+      ],
+      "characters": [
+        "阿尔弗雷德",
+        "受托人",
+        "阿尔弗雷德的女儿"
+      ],
+      "summary": "收到风车菊后，阿尔弗雷德说明这些花是为女儿准备的，并相信女儿会喜欢。随后他感谢受托人的帮助，将谢礼交给对方，使这项委托正式结束。",
+      "motivation": "阿尔弗雷德想用风车菊取悦女儿，并回报受托人为收集花朵付出的辛劳。",
+      "outcome": "花束有了明确的赠送对象，受托人收到报酬，阿尔弗雷德的委托顺利完成。",
+      "keywords": [
+        "女儿",
+        "花束",
+        "谢礼",
+        "亲情"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7070702,
+          "title": "与阿尔弗雷德对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:56:44.764Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

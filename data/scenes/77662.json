@@ -1,0 +1,137 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 77662,
+    "slug": "77662_looming-shadows-part-v",
+    "title": "危影重重·其五",
+    "chapter_num": "",
+    "premise": "雅洛维娅认为影域可能是最不安定的一种「灾害」，行动者因此需要尽快处理其中潜藏的危险因素。行动首先从启动影域锚定装置开始。",
+    "central_conflict": "影域中的敌人构成持续威胁，行动者必须在锚定装置启动后迅速完成连续清剿。",
+    "summary": "任务开始后，行动者前往地点未明确的装置所在处，启动影域锚定装置，为处理影域危险建立行动条件。装置启动后，任务目标立即转为消灭影域中的敌人。行动者连续面对三轮清敌要求，清剿过程构成本 scene 的主要冲突。三轮行动都服务于尽快排除影域危险因素这一共同目标，因此形成一段连续推进的战斗过程。随着最后一轮敌人清理完成，本次影域处置行动告一段落，但原文没有交代影域灾害是否被永久消除。",
+    "resolution": "行动者完成锚定装置的启动并处理连续出现的敌人，使本次清剿任务得以收束。影域整体的不安定性仍是后续行动需要面对的潜在威胁。",
+    "themes": [
+      "灾害处置",
+      "影域清剿",
+      "连续战斗",
+      "风险控制"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77662,
+      "title": "危影重重·其五",
+      "summary": "本章围绕处理影域危险展开，行动者先启动影域锚定装置，再进入连续清敌阶段。三轮清剿要求逐步推进任务，使处置重点从建立锚定条件转向直接排除敌对威胁。最终，本次影域清理行动完成，但原文未说明影域的不安定性是否由此彻底解除。",
+      "turning_point": "影域锚定装置启动后，任务由准备阶段转入连续消灭敌人的直接冲突阶段。",
+      "outcome": "锚定装置得到启动，影域中的三轮敌人被连续处理，本次任务随之收束。",
+      "section_ids": [
+        "77662-c00-s01",
+        "77662-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "根据雅洛维娅的说法，影域可能是最不安定的一种「灾害」。因此，必须让潜藏其中的危险因素尽快得到妥善的处理…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77662-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "锚定装置正式启动",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "任务开始阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "行动者"
+      ],
+      "summary": "任务开始阶段，行动者启动影域锚定装置。该行动旨在为处理影域中潜藏的危险因素建立必要条件，并使任务进入后续清剿阶段。",
+      "motivation": "雅洛维娅认为影域可能是极不安定的「灾害」，其中的危险因素需要尽快得到处理。",
+      "outcome": "影域锚定装置启动，行动目标随即转向消灭影域中的敌人。",
+      "keywords": [
+        "影域",
+        "锚定装置",
+        "启动",
+        "灾害处置"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7766202,
+          "title": "启动影域锚定装置",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77662-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "影域敌人遭到连续清剿",
+      "narrative_role": "conflict",
+      "importance": 5,
+      "when": "影域锚定装置启动后",
+      "locations": [
+        "影域"
+      ],
+      "characters": [
+        "行动者",
+        "影域中的敌人"
+      ],
+      "summary": "影域锚定装置启动后，行动者开始尽快消灭影域中的敌人。连续三轮清敌步骤围绕同一处置目标展开，使战斗成为本次任务的核心阶段。随着最后一轮敌人被处理，本次清剿行动告一段落。",
+      "motivation": "行动者需要迅速排除影域中的敌对因素，降低这种不安定「灾害」带来的威胁。",
+      "outcome": "三轮敌人清理任务完成，本次影域处置行动收束，但影域整体风险是否彻底消失仍未明确。",
+      "keywords": [
+        "影域",
+        "敌人",
+        "连续清剿",
+        "危险因素"
+      ],
+      "source_step_keys": [
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7766207,
+          "title": "尽快消灭影域中的敌人",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7766206,
+          "title": "尽快消灭影域中的敌人",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7766203,
+          "title": "尽快消灭影域中的敌人",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:40:08.757Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

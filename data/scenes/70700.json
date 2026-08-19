@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70700,
+    "slug": "70700_helens-special-blend",
+    "title": "海伦的特效润喉茶",
+    "chapter_num": "",
+    "premise": "海伦因嗓子越来越难受，请接受委托者为她收集十朵甜甜花，以便泡制润喉茶。故事从接受委托者向她说明甜甜花的收集情况开始。",
+    "central_conflict": "海伦急需甜甜花缓解嗓子不适，但委托能否完成取决于十朵甜甜花是否已经集齐并交付。",
+    "summary": "时间未明确，接受委托者就甜甜花一事找到海伦，海伦确认对方是因委托而来。她询问十朵甜甜花是否已经收集齐全，显露出嗓子不断恶化所带来的急迫。若材料尚未集齐，她请求对方尽快完成收集；剧情的完成路线则由交付十朵甜甜花继续推进。收到甜甜花后，海伦向接受委托者表示感谢并给予谢礼。她准备稍后用这些花泡茶，希望借此减轻嗓子的不适。委托由此完成，甜甜花也将被用于海伦的润喉茶。",
+    "resolution": "海伦收到十朵甜甜花并回赠谢礼，解决了泡制润喉茶所缺的材料问题。茶能否实际缓解她的嗓子不适，原文未明确。",
+    "themes": [
+      "互助委托",
+      "材料收集",
+      "身体不适",
+      "感谢回报"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70700,
+      "title": "海伦的特效润喉茶",
+      "summary": "本章围绕向海伦交付十朵甜甜花展开。海伦先确认材料是否集齐，并以嗓子越来越难受说明委托的紧迫性；完成交付后，她向接受委托者致谢并给予谢礼。最终，她取得泡制润喉茶所需的材料，准备稍后泡茶缓解不适。",
+      "turning_point": "接受委托者集齐并交付十朵甜甜花，使委托从材料收集阶段转入完成与答谢阶段。",
+      "outcome": "海伦获得甜甜花并准备泡茶，接受委托者收到谢礼，本章委托完成。",
+      "section_ids": [
+        "70700-c00-s01",
+        "70700-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "蒙德城的海伦需要十朵甜甜花。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70700-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "海伦确认甜甜花收集进度",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "甜甜花交付阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "海伦",
+        "接受委托者"
+      ],
+      "summary": "甜甜花交付阶段，接受委托者就委托找到海伦，海伦确认对方是否已经集齐十朵甜甜花。玩家可选择表示已经集齐或尚未集齐；若尚未完成，海伦因嗓子越来越难受而请求对方尽快带来材料。完成路线以十朵甜甜花已经集齐并交付为直接推进条件。",
+      "motivation": "海伦希望尽快取得甜甜花，以缓解不断加重的嗓子不适；接受委托者则需要完成材料收集与交付。",
+      "outcome": "甜甜花的收集状态得到确认；完成交付后，剧情进入海伦答谢并说明材料用途的阶段，未集齐则暂时停留在收集阶段。",
+      "keywords": [
+        "甜甜花",
+        "材料交付",
+        "嗓子不适",
+        "委托进度"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7070001,
+          "title": "将十朵甜甜花交给海伦",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70700-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "海伦答谢并准备泡制润喉茶",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "十朵甜甜花交付后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "海伦",
+        "接受委托者"
+      ],
+      "summary": "十朵甜甜花交付后，海伦感谢接受委托者的帮助，并请对方收下谢礼。她说明自己稍后会用这些甜甜花泡茶，希望让嗓子好受一些。材料短缺的问题由此解决，委托随之收束。",
+      "motivation": "海伦因获得急需的材料而表达感谢，并打算用甜甜花泡茶缓解嗓子不适。",
+      "outcome": "接受委托者获得谢礼，海伦取得泡茶材料并准备使用，委托完成。",
+      "keywords": [
+        "答谢",
+        "谢礼",
+        "泡茶",
+        "润喉"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7070002,
+          "title": "与海伦对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:56:18.325Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71166,
+    "slug": "71166_good-fortune-shared",
+    "title": "吉事共赏",
+    "chapter_num": "",
+    "premise": "在萍溪的建议下，行动队伍决定寻找「吉事宝树」，并以修剪宝树为当前目标。",
+    "central_conflict": "行动队伍需要先在附近找到「吉事宝树」并完成修剪，但原文没有交代具体位置、寻找过程或执行结果。",
+    "summary": "萍溪提出寻找「吉事宝树」的建议，为行动队伍确立了新的目标。众人据此决定在附近展开搜寻，并准备修剪找到的宝树。剧情的关键推进是建议转化为明确的行动任务。原文没有呈现搜寻与修剪的具体经过，也没有说明任务是否完成。故事因此收束于行动目标的建立，并衔接后续任务「上许佳愿」。",
+    "resolution": "本 scene 以寻找并修剪「吉事宝树」的任务目标作为收束。宝树是否被找到及修剪结果均未在原文中明确，后续将转入「上许佳愿」。",
+    "themes": [
+      "吉事祈愿",
+      "共同寻访",
+      "目标确立"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71166,
+      "title": "吉事共赏",
+      "summary": "在萍溪的建议下，行动队伍决定寻找「吉事宝树」。本章将建议落实为在附近搜寻并修剪宝树的明确任务，但没有展示行动过程或完成结果。该目标为后续「上许佳愿」提供了衔接。",
+      "turning_point": "行动队伍采纳萍溪的建议，将寻找并修剪「吉事宝树」确立为下一步行动。",
+      "outcome": "寻找并修剪「吉事宝树」成为当前任务；是否找到宝树以及修剪是否完成，原文未明确。",
+      "section_ids": [
+        "71166-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在萍溪的建议下，你们决定去寻找「吉事宝树」…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71166-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "众人寻找并修剪吉事宝树",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "在萍溪提出建议后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "萍溪",
+        "行动队伍"
+      ],
+      "summary": "在萍溪提出建议后，行动队伍决定在附近寻找「吉事宝树」，并将修剪宝树作为当前任务。原文只明确了行动目标，没有呈现具体的搜寻过程、修剪经过或完成情况。",
+      "motivation": "萍溪的建议推动众人寻找「吉事宝树」，以参与和分享吉事。",
+      "outcome": "寻找并修剪「吉事宝树」被确立为下一步行动，并为后续「上许佳愿」提供衔接；任务结果原文未明确。",
+      "keywords": [
+        "萍溪",
+        "吉事宝树",
+        "寻找",
+        "修剪"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7116601,
+          "title": "在附近寻找并修剪「吉事宝树」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:00:47.177Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72240,
+    "slug": "72240_dates-challenge",
+    "title": "伊达的挑战状",
+    "chapter_num": "",
+    "premise": "旅行者决定接受伊达留下的迷宫挑战，并与残影接触以推进考验。主要目标是取得另一个「伊达的认可状」，随后开启密室获得宝藏。",
+    "central_conflict": "旅行者必须完成迷宫挑战并取得认可，才能继续与伊达的残影交涉并进入密室。",
+    "summary": "旅行者决定接受迷宫挑战，并首先与残影对话。挑战过程中，旅行者取得另一个「伊达的认可状」，使考验获得实质性推进。旅行者随后与伊达的残影再次对话，完成取得认可后的交涉。此后，旅行者得以开启伊达的密室并取得其中的宝藏。最后，《白夜国地理水文考》也被收入囊中，整场挑战以获取密室藏品告终。",
+    "resolution": "伊达的密室被开启，宝藏与《白夜国地理水文考》均由旅行者取得。迷宫挑战由此完成，并留下与白夜国相关的文献收获。",
+    "themes": [
+      "迷宫挑战",
+      "资格认可",
+      "残影交涉",
+      "密室寻宝",
+      "白夜国文献"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72240,
+      "title": "伊达的挑战状",
+      "summary": "旅行者接受迷宫挑战，通过与残影接触开始考验，并在过程中取得另一个「伊达的认可状」。获得认可后，旅行者再次与伊达的残影对话，继而开启密室、取得宝藏和《白夜国地理水文考》。本章以挑战完成和密室藏品入手作为结果。",
+      "turning_point": "旅行者取得另一个「伊达的认可状」，使挑战从接受考验转入开启密室的收获阶段。",
+      "outcome": "伊达的密室被成功开启，旅行者取得宝藏及《白夜国地理水文考》。",
+      "section_ids": [
+        "72240-c00-s01",
+        "72240-c00-s02",
+        "72240-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "你决定接受这场迷宫挑战。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72240-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "残影引出迷宫挑战",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "接受迷宫挑战之初",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "残影"
+      ],
+      "summary": "接受迷宫挑战之初，旅行者在地点未明确之处与残影对话。旅行者已经决定接受这场考验，因此这次接触使挑战正式进入推进阶段。",
+      "motivation": "旅行者决定接受迷宫挑战，需要通过与残影接触开始考验。",
+      "outcome": "旅行者进入迷宫挑战流程，下一步转为取得另一个「伊达的认可状」。",
+      "keywords": [
+        "残影",
+        "迷宫挑战",
+        "接受考验"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7224001,
+          "title": "与残影对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "72240-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "认可状推动挑战转折",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "迷宫挑战进行期间",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "伊达的残影"
+      ],
+      "summary": "迷宫挑战进行期间，旅行者在地点未明确之处取得另一个「伊达的认可状」。旅行者随后与伊达的残影对话，使取得认可这一成果得到进一步承接，并把挑战推向密室开启阶段。",
+      "motivation": "旅行者需要取得挑战所要求的认可，并在获得认可后继续与伊达的残影交涉。",
+      "outcome": "另一个「伊达的认可状」被取得，与伊达残影的后续对话也已完成，开启密室成为接下来的直接目标。",
+      "keywords": [
+        "伊达的认可状",
+        "伊达的残影",
+        "挑战转折",
+        "后续交涉"
+      ],
+      "source_step_keys": [
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7224002,
+          "title": "获得另一个「伊达的认可状」",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7224004,
+          "title": "与伊达的残影对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "72240-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "密室宝藏与文献入手",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "取得认可并完成对话后",
+      "locations": [
+        "伊达的密室"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "取得认可并完成对话后，旅行者开启伊达的密室并取得其中的宝藏。随后，旅行者获得《白夜国地理水文考》，使这场迷宫挑战以宝藏和文献入手收束。",
+      "motivation": "旅行者完成前置挑战后开启密室，以取得伊达留下的宝藏。",
+      "outcome": "密室被开启，宝藏与《白夜国地理水文考》均被取得，迷宫挑战告一段落。",
+      "keywords": [
+        "伊达的密室",
+        "宝藏",
+        "白夜国地理水文考",
+        "挑战完成"
+      ],
+      "source_step_keys": [
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7224005,
+          "title": "开启伊达的密室，取得宝藏",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7224006,
+          "title": "获得《白夜国地理水文考》",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:08:24.131Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

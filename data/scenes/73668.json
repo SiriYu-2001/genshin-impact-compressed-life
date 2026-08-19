@@ -1,0 +1,83 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73668,
+    "slug": "73668_hilichurl-hullaballoo",
+    "title": "丘丘人引起的混乱",
+    "chapter_num": "",
+    "premise": "丘丘人正在作乱，任务由此要求采取行动并将其击退。",
+    "central_conflict": "作乱的丘丘人构成直接威胁，而行动者需要通过正面冲突制止混乱。",
+    "summary": "时间与地点均未明确，丘丘人的作乱构成故事起点。目标 scene 没有提供对话、旁白或更具体的事件背景，仅将“击退丘丘人”列为唯一剧情步骤。剧情因此直接进入处理混乱的冲突阶段，核心推进是对丘丘人采取驱逐行动。原文没有记录战斗过程、明确的行动者身份或额外转折。原文也未交代击退行动是否已经完成，以及此事产生了何种后续影响。",
+    "resolution": "本 scene 以击退作乱的丘丘人为预期收束目标，但原文未明确记载目标完成情况或后续发展。",
+    "themes": [
+      "制止作乱",
+      "正面冲突",
+      "驱逐威胁"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73668,
+      "title": "丘丘人引起的混乱",
+      "summary": "本章以丘丘人作乱为背景，将击退丘丘人设为唯一明确目标。剧情直接指向对威胁的正面处理，但没有提供具体过程、人物对话或结果旁白，因此实际完成情况与后续影响均未明确。",
+      "turning_point": "剧情从丘丘人作乱的局面直接转入击退丘丘人的行动目标。",
+      "outcome": "击退丘丘人成为本章的直接处理方向，但行动是否完成及其影响原文未明确。",
+      "section_ids": [
+        "73668-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "丘丘人正在作乱…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73668-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "行动者着手击退作乱丘丘人",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "丘丘人",
+        "行动者（原文未明确）"
+      ],
+      "summary": "时间未明确、地点未明确，丘丘人正在作乱。任务要求身份未明确的行动者击退丘丘人，以制止其造成的混乱。原文没有提供行动过程、完成状态或进一步结果。",
+      "motivation": "制止丘丘人作乱并消除其造成的直接威胁。",
+      "outcome": "剧情确立了击退丘丘人的行动目标；该目标是否完成以及如何推动后续，原文未明确。",
+      "keywords": [
+        "丘丘人作乱",
+        "击退目标",
+        "正面冲突"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7366801,
+          "title": "击退丘丘人",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:17:45.914Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

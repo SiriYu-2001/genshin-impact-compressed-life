@@ -1,0 +1,86 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72705,
+    "slug": "72705_vagrant-havoc",
+    "title": "浮浪人引起的混乱",
+    "chapter_num": "",
+    "premise": "鸣神岛某处有浮浪人作乱，天野希望有人出手制止。主要目标是击退浮浪人并平息当地混乱。",
+    "central_conflict": "浮浪人的骚乱威胁当地秩序，而天野需要借助他人之力解决这一问题。",
+    "summary": "时间未明确，鸣神岛某处遭到浮浪人滋扰。天野希望有人帮助解决这场混乱。响应求助者以击退浮浪人为直接目标展开行动。浮浪人随后被击退，骚乱由此得到平息。该事件以完成天野的请求收束，原文未交代更进一步的影响。",
+    "resolution": "浮浪人被击退，天野所担忧的混乱得到解决。原文未明确留下后续事件。",
+    "themes": [
+      "平息骚乱",
+      "受托助人",
+      "维护秩序"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72705,
+      "title": "浮浪人引起的混乱",
+      "summary": "鸣神岛某处发生浮浪人作乱事件，天野希望有人协助恢复秩序。响应求助者以击退浮浪人为目标采取行动，并最终消除这场混乱。",
+      "turning_point": "响应求助者击退浮浪人，使局势从持续骚乱转为恢复平静。",
+      "outcome": "浮浪人的骚乱得到解决，天野的求助获得回应。",
+      "section_ids": [
+        "72705-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "鸣神岛上某处，浮浪人正在作乱，天野希望能有人帮忙解决这场混乱。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72705-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "天野求援并平息浮浪人混乱",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "鸣神岛某处"
+      ],
+      "characters": [
+        "天野",
+        "浮浪人",
+        "响应求助者"
+      ],
+      "summary": "时间未明确，鸣神岛某处有浮浪人作乱，天野希望有人帮助解决混乱。响应求助者为平息骚乱而击退浮浪人，使当地局势得到控制。",
+      "motivation": "天野希望制止浮浪人造成的混乱，响应求助者据此出手相助。",
+      "outcome": "浮浪人被击退，骚乱得到平息；原文未明确交代进一步后续。",
+      "keywords": [
+        "鸣神岛",
+        "天野",
+        "浮浪人",
+        "击退",
+        "平息骚乱"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7270501,
+          "title": "击退浮浪人",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:11:31.465Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

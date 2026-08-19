@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72713,
+    "slug": "72713_murakamis-meal-making",
+    "title": "村上的食材需求",
+    "chapter_num": "",
+    "premise": "鸣神岛的村上为了创造具有不同风味的新料理，需要委托接取者交付十五份薄荷。故事围绕食材是否备齐及委托的最终完成展开。",
+    "central_conflict": "村上开始研制新料理的前提是获得足量薄荷；若委托接取者尚未备齐食材，交付与料理研发便只能推迟。",
+    "summary": "时间未明确，委托接取者在鸣神岛找到正惦记薄荷与新风味的村上。村上确认对方正是接下委托的人，并询问十五份薄荷是否已经备妥。若食材尚未备齐，村上要求对方准备好后再来，委托因而暂时无法推进；当食材准备完成后，交付得以成立。获得薄荷的村上随即表示可以开始创造新料理，并在想起约定后向委托接取者支付报酬。至此，食材需求得到满足，村上的料理尝试进入实施阶段。",
+    "resolution": "村上取得十五份薄荷并具备了研发新料理的条件，委托接取者也获得相应报酬。新料理的具体成果在本 scene 中尚未展示。",
+    "themes": [
+      "委托履行",
+      "食材筹备",
+      "料理创新",
+      "劳动回报"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72713,
+      "title": "村上的食材需求",
+      "summary": "本章以向村上交付十五份薄荷为目标，先通过他的自言自语说明薄荷是创造新风味的关键。村上核实委托接取者的身份与准备情况，未备齐食材会使任务暂缓，而备齐后则完成交付。取得薄荷后，村上准备开始创造新料理，并支付委托报酬。",
+      "turning_point": "十五份薄荷被确认已经备妥并交给村上，使委托从食材筹备转入料理研发与结算阶段。",
+      "outcome": "村上获得所需薄荷并开始筹备新料理，委托接取者收到报酬，本章委托完成。",
+      "section_ids": [
+        "72713-c00-s01",
+        "72713-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "鸣神岛的村上需要十五份薄荷。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72713-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "村上确认十五份薄荷已备妥",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "时间未明确，食材交付阶段",
+      "locations": [
+        "鸣神岛"
+      ],
+      "characters": [
+        "村上",
+        "委托接取者"
+      ],
+      "summary": "时间未明确，委托接取者在鸣神岛与村上谈及薄荷，村上正期待用这种食材融合出不同风味。村上确认对方是承接委托的人，并询问十五份薄荷是否已经准备好。若对方尚未备齐，村上要求其准备好后再来；只有确认准备完成，食材交付才能继续推进。",
+      "motivation": "村上需要十五份薄荷尝试创造新的料理风味，委托接取者则需备齐并交付食材以履行委托。",
+      "outcome": "十五份薄荷准备完成后，村上的食材需求得到满足，剧情转入新料理的筹备与委托结算；未备齐时则暂缓至完成准备。",
+      "keywords": [
+        "十五份薄荷",
+        "食材交付",
+        "准备确认",
+        "新风味"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7271301,
+          "title": "将十五个薄荷交给村上",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "72713-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "村上着手新料理并支付报酬",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "薄荷交付完成后",
+      "locations": [
+        "鸣神岛"
+      ],
+      "characters": [
+        "村上",
+        "委托接取者"
+      ],
+      "summary": "薄荷交付完成后，村上表示自己终于可以开始创造新料理。随后他想起尚未结算委托，便将报酬交给委托接取者。食材需求与报酬结算均告完成，但新料理的具体成果尚未出现。",
+      "motivation": "村上取得食材后希望立即推进新料理的创造，同时履行向委托接取者支付报酬的约定。",
+      "outcome": "村上进入新料理研发阶段，委托接取者获得报酬，食材委托正式收束。",
+      "keywords": [
+        "新料理",
+        "料理研发",
+        "委托报酬",
+        "任务完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7271302,
+          "title": "与村上对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:11:48.390Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

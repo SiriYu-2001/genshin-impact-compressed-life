@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72716,
+    "slug": "72716_kano-nanas-healthy-diet",
+    "title": "鹿野奈奈的健康饮食计划",
+    "chapter_num": "",
+    "premise": "鹿野奈奈需要受托人在鸣神岛交付十五根胡萝卜，以纠正一个孩子挑食的问题。受托人必须备齐胡萝卜并完成交付。",
+    "central_conflict": "鹿野奈奈希望孩子摄取胡萝卜、健康成长，但计划能否推进取决于受托人是否已经备齐十五根胡萝卜。",
+    "summary": "在委托履行阶段，受托人与鹿野奈奈谈及胡萝卜。鹿野奈奈强调挑食会影响孩子成长，表明她要求孩子吃胡萝卜的原因。她随后确认受托人是否已经准备好十五根胡萝卜；若尚未备齐，交付便暂时无法完成，需要准备后再来。受托人备齐并交付所需胡萝卜后，委托进入收束阶段。鹿野奈奈确认这次要亲自看着孩子吃下胡萝卜，使健康饮食计划从物资准备转向实际监督。",
+    "resolution": "十五根胡萝卜完成交付后，鹿野奈奈决定监督孩子食用，委托的物资目标就此达成。孩子是否真正吃下胡萝卜以及计划的长期效果，原文未明确。",
+    "themes": [
+      "健康饮食",
+      "纠正挑食",
+      "委托交付",
+      "成长关怀"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72716,
+      "title": "鹿野奈奈的健康饮食计划",
+      "summary": "本章围绕十五根胡萝卜的交付展开，鹿野奈奈先说明孩子不能挑食，并确认受托人的准备情况。胡萝卜是否备齐构成交付能否继续的关键条件；成功交付后，她决定亲自监督孩子食用。由此，委托从收集物资转入执行健康饮食计划的阶段。",
+      "turning_point": "受托人确认已经备齐十五根胡萝卜，使委托得以从准备阶段转入交付和监督阶段。",
+      "outcome": "十五根胡萝卜完成交付，鹿野奈奈准备看着孩子把胡萝卜吃下去。",
+      "section_ids": [
+        "72716-c00-s01",
+        "72716-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "鸣神岛的鹿野奈奈需要十五根胡萝卜。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72716-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "鹿野奈奈确认胡萝卜交付",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "委托履行阶段",
+      "locations": [
+        "鸣神岛"
+      ],
+      "characters": [
+        "鹿野奈奈",
+        "玩家"
+      ],
+      "summary": "在委托履行阶段，玩家与鹿野奈奈谈及胡萝卜。鹿野奈奈以孩子的成长为由反对挑食，要求料理中的胡萝卜也必须吃掉，并向接取委托的玩家确认十五根胡萝卜是否已经备齐。若玩家尚未准备好，她会要求玩家备齐后再来；只有确认准备完成，交付才能继续。",
+      "motivation": "鹿野奈奈希望纠正孩子挑食的习惯，而玩家需要备齐十五根胡萝卜以完成委托。",
+      "outcome": "十五根胡萝卜是否备齐成为推进委托的条件；成功路径中玩家确认已经准备完成，剧情随即进入交付后的收束。",
+      "keywords": [
+        "十五根胡萝卜",
+        "交付确认",
+        "挑食",
+        "委托条件"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7271601,
+          "title": "将十五根胡萝卜交给鹿野奈奈",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "72716-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "鹿野奈奈决定监督孩子进食",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "胡萝卜交付后",
+      "locations": [
+        "鸣神岛"
+      ],
+      "characters": [
+        "鹿野奈奈",
+        "玩家"
+      ],
+      "summary": "胡萝卜交付后，鹿野奈奈对准备结果表示满意。她决定这次亲自看着孩子把胡萝卜吃下去，使计划的重点由取得食材转为监督实际进食。",
+      "motivation": "鹿野奈奈希望确保孩子不再回避胡萝卜，真正落实健康饮食要求。",
+      "outcome": "物资交付目标完成，鹿野奈奈开始承担监督进食的后续工作；孩子实际进食的结果原文未明确。",
+      "keywords": [
+        "监督进食",
+        "健康饮食",
+        "完成交付",
+        "孩子"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7271602,
+          "title": "与鹿野奈奈对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:11:40.464Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

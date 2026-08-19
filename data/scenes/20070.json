@@ -1,0 +1,378 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 20070,
+    "slug": "20070_fresh-flora",
+    "title": "愿鲜花气息逗留",
+    "chapter_num": "",
+    "premise": "芙萝拉为了确认「冷藏花卉」的效果，请旅行者再次前往雪山，取回之前埋进雪中的花卉。主要目标是回收七天神像旁、山里的水边和洞窟附近三处埋藏点的包裹并带回查验。",
+    "central_conflict": "雪山回收之旅险阻不断：旅行者在回收途中遭遇魔物袭击，洞窟附近的包裹又被盗宝团取走，必须战斗夺回，才能把完整的样本交到芙萝拉手中。",
+    "summary": "故事始于芙萝拉的委托：她前一天请旅行者把花埋进雪山，如今过了一天，想查看冷藏效果，便请旅行者再去雪山把花取回。旅行者抵达雪山后，先后取回七天神像旁和水域边的包裹，并击败了途中出现的魔物。前往洞窟附近回收时，包裹已不在原处，旅行者循着踪迹一路追查，最终找到拿走包裹的盗宝团并将其击败，夺回全部花卉。旅行者回到芙萝拉处交付花卉后，芙萝拉验看后确认低温冷藏保存花卉的方法确实可行，但因雪山离蒙德城太远，她表示以后要想个更方便的办法，并向旅行者道谢、送上谢礼。任务由此圆满收束，也为芙萝拉日后可能的新委托留下伏笔。",
+    "resolution": "冷藏花卉实验以成功告终，芙萝拉确认低温保存的方法可行，并计划日后寻找更方便的保存方式；旅行者获得谢礼。若花卉受损或未全部取回，芙萝拉则惋惜花材被毁或认为样本不足难以对比，并考虑改用莎拉小姐的办法。",
+    "themes": [
+      "冷藏保鲜实验",
+      "委托与回报",
+      "雪山冒险",
+      "花艺经营"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 20070,
+      "title": "愿鲜花气息逗留",
+      "summary": "本章承接芙萝拉的委托：为验证雪山冷藏花卉的效果，旅行者前往雪山回收埋藏的花卉。回收途中旅行者先后取回七天神像旁、水域边的包裹并击败出现的魔物，随后在洞窟附近发现包裹去向不明，循踪迹追至盗宝团处并将其击败、夺回包裹。返回后旅行者将花卉交给芙萝拉查验，冷藏保存花卉的方法得到确认，芙萝拉亦表示日后需另寻更方便的办法并送上谢礼。",
+      "turning_point": "旅行者击败盗宝团、夺回被取走的包裹，使全部花卉得以回收，冷藏实验得以完整进行。",
+      "outcome": "冷藏保存花卉的方法得到验证，芙萝拉确认方法可行，并决定日后另寻更方便的保存方式；旅行者获得谢礼。若回收不全或花材受损，芙萝拉则另有惋惜或改换办法的回应。",
+      "section_ids": [
+        "20070-c00-s01",
+        "20070-c00-s02",
+        "20070-c00-s03",
+        "20070-c00-s04",
+        "20070-c00-s05",
+        "20070-c00-s06",
+        "20070-c00-s07",
+        "20070-c00-s08"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "为了帮芙萝拉小姐确认「冷藏花卉」的效果，你需要再次前往雪山，取回之前埋进雪中的花卉…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "20070-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "芙萝拉委托取回冷藏花卉",
+      "narrative_role": "setup",
+      "importance": 5,
+      "when": "花卉埋入雪山约一天之后",
+      "locations": [
+        "蒙德城"
+      ],
+      "characters": [
+        "芙萝拉",
+        "旅行者"
+      ],
+      "summary": "芙萝拉叫住旅行者，提起前一天拜托埋进雪山的花卉，表示想看冷藏的效果，请旅行者再去雪山把花取回。若旅行者表示忘记位置，芙萝拉会提醒花卉埋在七天神像旁、山里的水边和洞窟附近，并在地图上重新标记。旅行者接下委托后，芙萝拉在原地等待他快去快回。",
+      "motivation": "芙萝拉想验证雪山低温冷藏花卉的效果是否可行，需要取回埋藏的样本查看。",
+      "outcome": "旅行者接下委托并获知三处埋花位置，启程前往雪山回收花卉。",
+      "keywords": [
+        "芙萝拉",
+        "冷藏花卉",
+        "雪山",
+        "回收委托",
+        "地图标记"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 2007015,
+          "title": "与芙萝拉对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20070-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "启程前往雪山回收花卉",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "雪山"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "旅行者动身前往雪山，准备按芙萝拉标记的位置回收埋藏的花卉包裹。",
+      "motivation": "履行对芙萝拉的承诺，前往雪山取回花卉。",
+      "outcome": "旅行者抵达雪山，回收工作随即展开。",
+      "keywords": [
+        "雪山",
+        "行程",
+        "回收包裹"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 2007008,
+          "title": "前往雪山回收包裹",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20070-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "回收七天神像旁与水域边包裹",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "雪山"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "旅行者先后抵达七天神像附近和山中的水域边，取回埋在这两处的花卉包裹，回收过程顺利。",
+      "motivation": "按芙萝拉标记的位置逐一回收花卉，凑齐冷藏实验所需的样本。",
+      "outcome": "两处包裹顺利回收，为继续回收洞窟附近的包裹作准备。",
+      "keywords": [
+        "七天神像",
+        "水域边",
+        "包裹回收",
+        "雪山"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 2007009,
+          "title": "回收雪山中七天神像附近的包裹",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 2007010,
+          "title": "回收雪山中水域边的包裹",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20070-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "击败雪山出现的魔物",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "雪山"
+      ],
+      "characters": [
+        "旅行者",
+        "魔物"
+      ],
+      "summary": "旅行者在雪山回收花卉的途中遭遇魔物袭击，双方发生战斗。旅行者将出现的魔物全部击败，排除了回收路上的阻碍。",
+      "motivation": "魔物阻挠回收行动，为保障自身安全并继续完成任务而应战。",
+      "outcome": "魔物被击败，旅行者得以继续回收剩余的花卉包裹。",
+      "keywords": [
+        "魔物",
+        "战斗",
+        "雪山"
+      ],
+      "source_step_keys": [
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 2007011,
+          "title": "击败出现的魔物",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20070-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "回收洞窟附近的包裹",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "雪山"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "旅行者来到洞窟附近回收花卉包裹，却发现该处的包裹已不在原位，现场只留下可供追寻的踪迹。",
+      "motivation": "收齐全部分散埋藏的花卉包裹，以便向芙萝拉交付完整的冷藏样本。",
+      "outcome": "洞窟附近包裹去向不明，旅行者转而循着踪迹追查包裹下落。",
+      "keywords": [
+        "洞窟",
+        "包裹",
+        "踪迹"
+      ],
+      "source_step_keys": [
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 2007001,
+          "title": "回收洞窟附近的包裹",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20070-c00-s06",
+      "chapter_index": 0,
+      "order": 6,
+      "title": "循着踪迹寻找被取走的包裹",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "雪山"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "旅行者循着现场留下的踪迹一路追查，最终追至拿走包裹的盗宝团处，查明了包裹的去向。",
+      "motivation": "查明包裹去向，追回被取走的花卉。",
+      "outcome": "踪迹将旅行者引向拿走包裹的盗宝团，冲突一触即发。",
+      "keywords": [
+        "踪迹",
+        "追踪",
+        "盗宝团"
+      ],
+      "source_step_keys": [
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 2007006,
+          "title": "循着踪迹寻找包裹",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20070-c00-s07",
+      "chapter_index": 0,
+      "order": 7,
+      "title": "击败盗宝团夺回包裹",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "雪山"
+      ],
+      "characters": [
+        "旅行者",
+        "盗宝团"
+      ],
+      "summary": "旅行者追上拿走包裹的盗宝团并与之交战，最终将其击败，成功夺回被取走的花卉包裹，三处花卉至此全部回收。",
+      "motivation": "夺回被盗宝团拿走的包裹，确保冷藏实验的花卉样本齐全。",
+      "outcome": "包裹被夺回，全部花卉回收完毕，旅行者携花卉返回芙萝拉处交付。",
+      "keywords": [
+        "盗宝团",
+        "战斗",
+        "夺回包裹"
+      ],
+      "source_step_keys": [
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 2007003,
+          "title": "击败盗宝团",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20070-c00-s08",
+      "chapter_index": 0,
+      "order": 8,
+      "title": "向芙萝拉交付花卉听取结果",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "时间未明确",
+      "locations": [
+        "蒙德城"
+      ],
+      "characters": [
+        "芙萝拉",
+        "旅行者"
+      ],
+      "summary": "旅行者回到芙萝拉处交付回收的花卉，芙萝拉验看后确认低温冷藏保存花卉的方法确实可行，并表示雪山距蒙德城太远、日后需另寻更方便的办法，随后道谢并送上谢礼。若花卉受损或未全部取回，芙萝拉则会惋惜花材被毁、或认为样本不足难以对比，并考虑改试莎拉小姐的办法。",
+      "motivation": "向芙萝拉交付回收结果，确认冷藏花卉实验的效果。",
+      "outcome": "冷藏保存花卉的方法得到验证（成功情况下），芙萝拉表示今后需寻找更便捷的保存方式并送上谢礼，为日后可能的新委托留下伏笔。",
+      "keywords": [
+        "交付",
+        "冷藏效果",
+        "低温保存",
+        "谢礼",
+        "莎拉的办法"
+      ],
+      "source_step_keys": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 2007003,
+          "title": "击败盗宝团",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 2007007,
+          "title": "向芙萝拉道歉",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 2007004,
+          "title": "将回收的包裹交给芙萝拉",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 2007014,
+          "title": "将回收的包裹交给芙萝拉",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-18T18:41:31.840Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72709,
+    "slug": "72709_automaton-attack",
+    "title": "自律机关引起的混乱",
+    "chapter_num": "",
+    "premise": "八酝岛上某处有自律机关作乱，佐藤希望有人出手平息混乱。主要目标是击退这些自律机关。",
+    "central_conflict": "作乱的自律机关威胁当地秩序，而佐藤需要借助他人的力量消除威胁。",
+    "summary": "时间未明确，八酝岛上某处出现自律机关作乱的情况。佐藤因无法独自解决混乱而希望获得帮助。受托者以击退自律机关为目标展开行动。自律机关随后被击退，这场局部混乱得到平息。",
+    "resolution": "自律机关遭到击退，佐藤所担忧的混乱得到直接解决。原文未说明此事是否产生进一步影响。",
+    "themes": [
+      "平息混乱",
+      "受托援助",
+      "机械威胁"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72709,
+      "title": "自律机关引起的混乱",
+      "summary": "八酝岛上某处的自律机关正在作乱，佐藤希望有人帮助解决危机。受托者据此击退自律机关，使当地的混乱得到平息。",
+      "turning_point": "受托者击退作乱的自律机关，使局势由混乱转为平息。",
+      "outcome": "自律机关被击退，佐藤请求解决的直接威胁得到清除。",
+      "section_ids": [
+        "72709-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "八酝岛上某处，自律机关正在作乱，佐藤希望能有人帮忙解决这场混乱。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72709-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "佐藤请求击退作乱的自律机关",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "八酝岛上某处"
+      ],
+      "characters": [
+        "佐藤",
+        "受托者",
+        "自律机关"
+      ],
+      "summary": "时间未明确，八酝岛上某处的自律机关正在作乱，佐藤希望有人帮助解决这场混乱。受托者以平息事态为目标击退自律机关，使当地面临的直接威胁得到解除。",
+      "motivation": "佐藤希望制止自律机关引发的混乱，受托者因此出手排除威胁。",
+      "outcome": "自律机关被击退，八酝岛上的这场局部混乱得到平息。",
+      "keywords": [
+        "八酝岛",
+        "佐藤",
+        "自律机关",
+        "击退",
+        "混乱"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7270901,
+          "title": "击退自律机关",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:11:39.487Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

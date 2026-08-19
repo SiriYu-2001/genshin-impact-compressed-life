@@ -1,0 +1,171 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 76105,
+    "slug": "76105_testhiddenhidden",
+    "title": "(test)隐藏$HIDDEN",
+    "chapter_num": "",
+    "premise": "在一段隐藏测试剧情中，玛尔塔注意到岩居蟹似乎正在举行神秘仪式，并希望玩家角色设法让它们聚集到小水潭里。主要目标是回应她的请求并启动这项挑战。",
+    "central_conflict": "玛尔塔的好奇心推动她提出聚集岩居蟹的设想，但玩家角色是否有空参与会使测试流程进入立即接受或暂时搁置的不同状态。",
+    "summary": "玛尔塔观察到岩居蟹的群体行为，并将其理解为当地生态的一部分。她由此联想到那夏镇中人们聚散和争斗的情形，形成了一套略显天真的类比。为了看看岩居蟹全部聚集后会发生什么，她请玩家角色把它们引入小水潭。玩家角色可以表示愿意尝试，玛尔塔随即把行动托付给对方。若玩家角色选择暂时无暇参与，玛尔塔会接受延期并请对方有空后再来。隐藏测试流程还保留了废弃的中间步骤，并在相关条件满足后让玛尔塔再次询问玩家角色是否已有时间，但没有展示聚集岩居蟹的实际过程或结果。",
+    "resolution": "本段剧情收束于委托被接受或等待玩家角色日后回应的状态。由于内容带有测试、隐藏和废弃标记，原文只呈现挑战的邀约与流程分支，未呈现挑战完成后的后续影响。",
+    "themes": [
+      "生态观察",
+      "童真联想",
+      "好奇心",
+      "委托邀约",
+      "测试分支"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 76105,
+      "title": "(test)隐藏$HIDDEN",
+      "summary": "本章围绕玛尔塔对岩居蟹群体行为的好奇展开，她先将岩居蟹与那夏镇居民的交往方式相类比，随后请玩家角色把所有岩居蟹聚集到小水潭。玩家角色可以立即答应，也可以暂时推迟；延期分支会通过带有废弃标记的测试节点回到玛尔塔再次询问是否有空的状态。全章最终只建立或重启挑战委托，没有描写挑战的执行与完成。",
+      "turning_point": "玛尔塔把单纯的生态观察转化为具体请求，而玩家角色是否有空决定委托立即启动还是进入等待状态。",
+      "outcome": "玛尔塔将聚集岩居蟹的任务托付给玩家角色，或等待对方有空后再回来；岩居蟹聚集后的结果原文未明确。",
+      "section_ids": [
+        "76105-c00-s01",
+        "76105-c00-s02",
+        "76105-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "(test)隐藏$HIDDEN",
+      "is_hidden": true
+    }
+  ],
+  "sections": [
+    {
+      "id": "76105-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "玛尔塔提出聚蟹请求",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "初次与玛尔塔交谈时",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "玛尔塔",
+        "玩家角色"
+      ],
+      "summary": "玛尔塔发现岩居蟹像是在举行神秘仪式，玩家角色将这种表现解释为它们的生态。她随即用那夏镇居民结伴或争斗后分开的现象作类比，并产生观察岩居蟹全部聚集时会发生什么的念头。她请求玩家角色把岩居蟹引入小水潭；若玩家角色表示愿意尝试，她便欣然将此事托付给对方。",
+      "motivation": "玛尔塔出于对岩居蟹群聚现象的好奇，希望亲眼看到它们全部聚在一起的结果。",
+      "outcome": "聚集岩居蟹的设想被转化为具体委托，并可在玩家角色答应后进入挑战流程。",
+      "keywords": [
+        "岩居蟹",
+        "生态观察",
+        "那夏镇",
+        "聚集请求"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7610501,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76105-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "玩家暂缓接受挑战",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "玩家角色选择暂时无暇参与时",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "玛尔塔",
+        "玩家角色"
+      ],
+      "summary": "在可替代的延期分支中，玩家角色表示目前有些忙，未立即投入玛尔塔提出的挑战。玛尔塔接受这一答复，并请玩家角色有空后一定再来找她。",
+      "motivation": "玩家角色因当下无暇参与而暂缓行动，玛尔塔则仍希望日后实现聚集岩居蟹的设想。",
+      "outcome": "委托没有被取消，而是进入等待玩家角色再次回应的状态。",
+      "keywords": [
+        "暂缓",
+        "延期分支",
+        "等待",
+        "挑战"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7610503,
+          "title": "(test)废弃$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76105-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "测试流程重新发出邀约",
+      "narrative_role": "resolution",
+      "importance": 2,
+      "when": "废弃测试条件触发并再次交谈时",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "玛尔塔",
+        "玩家角色"
+      ],
+      "summary": "隐藏测试流程设置了一个无任务内容且标记为废弃的中间步骤，并把它作为再次询问的启动条件。条件满足后，玛尔塔重申自己想看岩居蟹聚集的愿望，并询问玩家角色现在是否有空。原文在这次询问后结束，没有展示玩家角色的新答复或挑战结果。",
+      "motivation": "玛尔塔仍想观察岩居蟹全部聚集后的情形，因此在等待状态之后再次确认玩家角色能否参与。",
+      "outcome": "聚蟹挑战的邀约被重新提出，但委托是否正式启动以及实际结果均未明确。",
+      "keywords": [
+        "废弃步骤",
+        "测试条件",
+        "再次询问",
+        "未决邀约"
+      ],
+      "source_step_keys": [
+        "3",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7610502,
+          "title": "(test)废弃$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7610504,
+          "title": "开始挑战$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:34:41.660Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

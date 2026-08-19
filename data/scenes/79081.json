@@ -1,0 +1,324 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 79081,
+    "slug": "79081_explore-this-world",
+    "title": "探索这个世界",
+    "chapter_num": "",
+    "premise": "一名身份未明确的探索者不知如何来到神奇之地，并由森林小屋启程展开冒险。主要目标是帮助当地居民并持续深入这个陌生世界。",
+    "central_conflict": "探索者需要在缺少明确背景与指引的情况下穿越森林、王城、迷雾和瀑布区域，最终完成地城。原文未交代具体敌人或更深层矛盾。",
+    "summary": "探索者来到神奇之地后，首先前往森林小屋，并连续帮助森林居民。完成当地事务后，探索者返回小屋，继而通过森林车站继续前进。行程随后抵达王城，探索者登上王城顶端，又转往王城车站踏上下一段路途。离开王城后，探索者朝迷雾尽头与瀑布方向深入未知区域。冒险最终进入地城阶段，并以连续完成地城相关目标形成高潮与收束。整个过程确立了探索者由森林走向更广阔世界的冒险路线，但其来历、各地事件细节及此后去向均未明确。",
+    "resolution": "探索者完成了从森林到地城的一系列探索目标，本段冒险以地城阶段结束。原文没有说明完成地城后的处境或下一步目的。",
+    "themes": [
+      "异世界探索",
+      "帮助居民",
+      "长途跋涉",
+      "未知冒险",
+      "地城挑战"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 79081,
+      "title": "探索这个世界",
+      "summary": "探索者从森林小屋开始冒险，先帮助森林居民，再经森林车站前往更远的区域。旅程在王城经历登顶与转乘后，继续穿过迷雾尽头和瀑布，最终进入地城阶段。关键变化是行动目标由帮助森林居民转为持续深入陌生世界，最后以完成地城相关目标结束。",
+      "turning_point": "探索者结束森林居民的委托并前往森林车站，由局部援助转入跨区域探索。",
+      "outcome": "探索者依次经过森林、王城、迷雾尽头和瀑布，并完成地城阶段的任务流程。",
+      "section_ids": [
+        "79081-c00-s01",
+        "79081-c00-s02",
+        "79081-c00-s03",
+        "79081-c00-s04",
+        "79081-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "不知怎么来到了一个神奇的地方，开始冒险吧！",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "79081-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "探索者帮助森林居民",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "抵达神奇之地后的冒险初期",
+      "locations": [
+        "森林小屋",
+        "森林"
+      ],
+      "characters": [
+        "探索者",
+        "森林居民"
+      ],
+      "summary": "探索者首先前往森林小屋，由此开始在神奇之地的冒险。探索者随后连续帮助森林居民，并在完成这些事务后返回森林小屋。原文未说明居民面临的具体问题及援助过程。",
+      "motivation": "探索者需要从森林小屋展开冒险，并回应帮助森林居民的任务目标。",
+      "outcome": "森林地区的援助阶段结束，探索者回到森林小屋，为离开当地并继续旅行作准备。",
+      "keywords": [
+        "森林小屋",
+        "森林居民",
+        "帮助",
+        "冒险起点"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7908101,
+          "title": "前往森林小屋",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7908102,
+          "title": "帮助森林的居民",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7908103,
+          "title": "帮助森林的居民",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7908104,
+          "title": "帮助森林的居民",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7908106,
+          "title": "回到森林小屋",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "79081-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "探索者从森林车站启程",
+      "narrative_role": "transition",
+      "importance": 3,
+      "when": "完成森林居民的援助后",
+      "locations": [
+        "森林车站"
+      ],
+      "characters": [
+        "探索者"
+      ],
+      "summary": "探索者离开森林小屋阶段，前往森林车站。抵达车站后，探索者继续向下一处区域前进，但原文没有交代交通方式和途中事件。",
+      "motivation": "森林地区的事务已经告一段落，探索者需要借由森林车站推进对陌生世界的探索。",
+      "outcome": "探索者从森林区域启程，行程转向王城。",
+      "keywords": [
+        "森林车站",
+        "启程",
+        "继续前进"
+      ],
+      "source_step_keys": [
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 7908107,
+          "title": "前往森林车站",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7908108,
+          "title": "继续前进",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "79081-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "探索者登临王城再度出发",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "离开森林区域后",
+      "locations": [
+        "王城",
+        "王城顶端",
+        "王城车站"
+      ],
+      "characters": [
+        "探索者"
+      ],
+      "summary": "探索者抵达王城，并继续前往王城顶端。完成登顶行程后，探索者转往王城车站，再次向未知区域前进。原文未说明登顶的具体目的或王城内发生的事件。",
+      "motivation": "探索者持续推进跨区域冒险，并依次完成抵达王城、登顶和前往车站的行动目标。",
+      "outcome": "王城阶段结束，探索者通过王城车站进入下一段旅程。",
+      "keywords": [
+        "王城",
+        "王城顶端",
+        "王城车站",
+        "远行"
+      ],
+      "source_step_keys": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 7908109,
+          "title": "前往王城",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7908110,
+          "title": "前往王城顶端",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7908111,
+          "title": "前往王城车站",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 7908112,
+          "title": "继续前进",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "79081-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "探索者穿越迷雾抵达瀑布",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "从王城车站继续前进后",
+      "locations": [
+        "迷雾尽头",
+        "瀑布"
+      ],
+      "characters": [
+        "探索者"
+      ],
+      "summary": "探索者离开王城后前往迷雾尽头，继而抵达瀑布。探索者从瀑布区域继续深入，但沿途环境、阻碍和具体目的均未明确。",
+      "motivation": "探索者需要沿既定路线继续探索，以接近旅程末段的地城目标。",
+      "outcome": "探索者通过迷雾与瀑布区域，进入地城阶段。",
+      "keywords": [
+        "迷雾尽头",
+        "瀑布",
+        "深入探索"
+      ],
+      "source_step_keys": [
+        "11",
+        "12",
+        "13"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "11",
+          "id": 7908113,
+          "title": "前往迷雾尽头",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 7908114,
+          "title": "前往瀑布",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 7908115,
+          "title": "继续前进",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "79081-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "探索者完成地城阶段",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "通过瀑布区域后的冒险末段",
+      "locations": [
+        "地城"
+      ],
+      "characters": [
+        "探索者"
+      ],
+      "summary": "探索者进入地城，并连续推进三个以完成地城为目标的任务步骤。这一阶段构成本章冒险的最终目标，但原文没有提供地城结构、具体挑战或完成方式。",
+      "motivation": "探索者需要完成地城，以结束从森林一路深入未知区域的探索流程。",
+      "outcome": "地城相关目标完成，本章在此收束；探索者之后的行动原文未明确。",
+      "keywords": [
+        "地城",
+        "最终目标",
+        "完成挑战",
+        "冒险收束"
+      ],
+      "source_step_keys": [
+        "14",
+        "15",
+        "16"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "14",
+          "id": 7908116,
+          "title": "完成地城",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 7908117,
+          "title": "完成地城",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 7908118,
+          "title": "完成地城",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:41:38.036Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

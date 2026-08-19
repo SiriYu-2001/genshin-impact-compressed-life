@@ -1,0 +1,305 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 41333,
+    "slug": "41333_iron-ingot-meets-ziwei",
+    "title": "铁块紫微一相逢…",
+    "chapter_num": "",
+    "premise": "海灯节期间，铁块儿想借题诗霄灯和紫微拉近关系，委托旅行者考察合适的放灯地点并准备吃食。",
+    "central_conflict": "铁块儿把共同放灯视为表达心意的机会，紫微却专注于观星，并希望远离会干扰观测的霄灯光亮。",
+    "summary": "海灯节期间，铁块儿模仿文雅诗句，在霄灯上构思一首送给紫微的诗，并请旅行者替他考察两处璃月港外的景观点。旅行者完成拍照和回报后，铁块儿比较两处景观，选定正面看去更亮堂气派的地点。为让见面更周到，他又决定准备杏仁豆腐，并继续修改霄灯上的诗句。食物和霄灯准备妥当后，铁块儿与旅行者找到紫微，紧张地展示写有诗句的霄灯并试图邀请她同行。紫微觉得诗句有趣，却没有领会铁块儿的心意，还因霄灯光亮妨碍观星而谢绝邀请、独自前往更远处。铁块儿虽受挫，仍把失败归因于诗意过于隐晦，决定以后继续表达心意，并至少独自放掉这盏霄灯。",
+    "resolution": "紫微离去后，铁块儿感谢旅行者的帮助并接受了此次邀请失败的结果。他没有放弃追求紫微，留下了日后继续尝试表达心意的可能。",
+    "themes": [
+      "含蓄示爱",
+      "错位期待",
+      "海灯节",
+      "笨拙诗意",
+      "坚持"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 41333,
+      "title": "铁块紫微一相逢…",
+      "summary": "铁块儿希望利用海灯节的霄灯、诗句和吃食向紫微表达心意，于是请旅行者考察景观点并准备杏仁豆腐。各项准备完成后，他在旅行者陪同下邀请紫微一起放灯，却因紫微专注观星且有意避开灯光而遭到婉拒。铁块儿虽然失落，仍决定不放弃，并准备独自放掉写有诗句的霄灯。",
+      "turning_point": "紫微没有领会霄灯诗句中的心意，并明确表示霄灯光亮会妨碍观星，因而谢绝了铁块儿的邀请。",
+      "outcome": "铁块儿的海灯节邀约未能实现，但他感谢旅行者的协助，决定以后继续尝试让紫微明白自己的心意。",
+      "section_ids": [
+        "41333-c00-s01",
+        "41333-c00-s02",
+        "41333-c00-s03",
+        "41333-c00-s04",
+        "41333-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月港的铁块儿似乎正在为某事而烦恼…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "41333-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "铁块儿筹划霄灯邀约",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "海灯节期间",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "铁块儿",
+        "旅行者"
+      ],
+      "summary": "海灯节期间，旅行者在璃月港遇见模仿文雅诗句的铁块儿。铁块儿透露自己想把亲作的诗写在霄灯上，再和紫微到清静漂亮的地方放灯，并请旅行者代为考察两处候选地点。",
+      "motivation": "铁块儿想借海灯节的氛围、霄灯和诗句感谢紫微，并含蓄地拉近与她的关系。",
+      "outcome": "旅行者接受委托，开始考察铁块儿选出的两处放灯地点。",
+      "keywords": [
+        "海灯节",
+        "霄灯",
+        "作诗",
+        "紫微",
+        "委托"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 4133301,
+          "title": "与铁块儿对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "41333-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "旅行者考察两处景观点",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "接受铁块儿委托后",
+      "locations": [
+        "璃月港外两处候选景观点",
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "铁块儿"
+      ],
+      "summary": "旅行者前往璃月港外的两处候选景观点完成考察和拍照，并向铁块儿回报。铁块儿查看两处景观后，选择了从正面看去更亮堂气派的地点，同时继续琢磨霄灯上的诗句。",
+      "motivation": "旅行者需要替专心作诗的铁块儿筛选一处气氛清静、景色漂亮且适合放霄灯的地点。",
+      "outcome": "放灯地点得到确定，铁块儿的筹备重点转向见面时的吃食和霄灯诗句。",
+      "keywords": [
+        "景观点",
+        "拍照",
+        "地点考察",
+        "回报",
+        "选址"
+      ],
+      "source_step_keys": [
+        "1",
+        "2",
+        "3",
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 4133302,
+          "title": "寻找第一处合适的景观点并<color=#00E1FFFF>拍照</color>",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 4133303,
+          "title": "寻找第二处合适的景观点并<color=#00E1FFFF>拍照</color>",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 4133304,
+          "title": "向铁块儿回报",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 4133313,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "41333-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "杏仁豆腐与霄灯备妥",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "选定放灯地点后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "铁块儿",
+        "旅行者"
+      ],
+      "summary": "选定地点后，铁块儿认为与紫微交谈时还应准备吃食，最终决定请旅行者带来一份杏仁豆腐，自己则继续修改诗句。交付时，不合格的杏仁豆腐会被要求更换，达到可接受程度后铁块儿便准备出发，品相上佳时他更确信已经万事俱备。",
+      "motivation": "铁块儿希望以合适的点心和完善的霄灯诗句让这次见面显得更加周到。",
+      "outcome": "杏仁豆腐和写有诗句的霄灯准备完成，铁块儿与旅行者动身去找紫微。",
+      "keywords": [
+        "杏仁豆腐",
+        "诗句",
+        "准备",
+        "食物品质",
+        "出发"
+      ],
+      "source_step_keys": [
+        "1",
+        "2",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 4133302,
+          "title": "寻找第一处合适的景观点并<color=#00E1FFFF>拍照</color>",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 4133303,
+          "title": "寻找第二处合适的景观点并<color=#00E1FFFF>拍照</color>",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 4133305,
+          "title": "将杏仁豆腐带给铁块儿",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 4133306,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 4133307,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 4133308,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "41333-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "紫微婉拒共同放灯",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "各项准备完成后",
+      "locations": [
+        "紫微观星处（具体地点未明确）"
+      ],
+      "characters": [
+        "铁块儿",
+        "紫微",
+        "旅行者"
+      ],
+      "summary": "铁块儿和旅行者找到正在观星的紫微，铁块儿紧张地介绍选好的地点与霄灯，并让她看到自己写下的诗句。紫微认为诗句有趣，却没有理解其中的心意；当旅行者代为提出共同放灯的邀约后，她说明霄灯光亮会影响观星，婉拒好意并前往更远处。",
+      "motivation": "铁块儿想借展示霄灯和邀请紫微同行来传达心意，紫微则希望避开灯光以继续观星。",
+      "outcome": "双方目标发生直接冲突，紫微离开，铁块儿精心准备的共同放灯计划落空。",
+      "keywords": [
+        "紫微",
+        "邀约",
+        "观星",
+        "霄灯干扰",
+        "婉拒"
+      ],
+      "source_step_keys": [
+        "8"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "8",
+          "id": 4133309,
+          "title": "与铁块儿一起去找紫微",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "41333-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "铁块儿受挫仍不放弃",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "紫微离开后",
+      "locations": [
+        "紫微观星处（具体地点未明确）"
+      ],
+      "characters": [
+        "铁块儿",
+        "旅行者"
+      ],
+      "summary": "紫微离开后，铁块儿把她未能领会心意归因于自己的诗写得太隐晦。尽管邀约失败，他仍表示不会气馁，相信紫微终有一天会明白，并在感谢旅行者后决定至少独自放掉这盏霄灯。",
+      "motivation": "铁块儿不愿因一次误解和拒绝放弃对紫微的心意，也不想让此前的霄灯准备完全落空。",
+      "outcome": "本次邀约以失败收束，但铁块儿保留继续追求紫微的决心，并准备完成独自放灯。",
+      "keywords": [
+        "失落",
+        "误解",
+        "坚持",
+        "感谢",
+        "独自放灯"
+      ],
+      "source_step_keys": [
+        "8"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "8",
+          "id": 4133309,
+          "title": "与铁块儿一起去找紫微",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:49:45.846Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

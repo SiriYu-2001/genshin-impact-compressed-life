@@ -1,0 +1,1737 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 10083,
+    "slug": "10083_agnihotra-sutra",
+    "title": "正法炬书",
+    "chapter_num": "",
+    "premise": "旅行者与派蒙受兰那罗所托，为拯救遭「无留陀」侵蚀的「无郁夷摩」，分别寻找「须罗蕈」「钵参花」与「耶然草」，以配制灵药「兰赫玛」。",
+    "central_conflict": "三种灵药材料散落在受封印、蕈兽与死域污染阻隔的洞穴和林地中，其中「须罗蕈」还遭卢妮雅率领的镀金旅团觊觎。即使材料齐备，众人仍须深入「无郁夷摩」清除「无留陀」，并面对兰那罗因付出记忆而产生的遗忘。",
+    "summary": "输入的前四章只保留了无文本的状态对话步骤，未呈现可以确认的完整事件，实质剧情从「星夜之章」展开。旅行者与派蒙遇见兰纳真，得知「无郁夷摩」正受「无留陀」侵蚀，并借助承载兰那罗记忆与力量的「苦舍桓」寻找「须罗蕈」。他们穿越积水与死域污染的洞穴，又与企图夺取材料交差的卢妮雅一行发生冲突，最终夺回「须罗蕈」。随后，兰迦鲁带领两人探索埋藏古代那菈记忆的洞穴和「呿波境」，解除封印并取得自愿成为灵药材料的「钵参花」。在无郁稠林，兰纳迦又引导他们取得最后一株「耶然草」，三位兰那罗遂于月上中天时举行仪式，炼成「兰赫玛」并献给「阎迦由玛」。众人进入「无郁夷摩」，借「苦舍桓」的力量逐步清除死域污染，击败特异蕈兽并解除最后的「无留陀」核心，使森林的生命源泉重新苏醒。胜利之后，兰那罗已经开始模糊共同经历，却相信记忆会在土地、根系、歌声与梦中延续，并与旅行者约定将来再会。",
+    "resolution": "「无留陀」的重负被清除，「无郁夷摩」苏醒并重新与兰那罗分享梦和故事。三位兰那罗留下花与歌作为纪念，但他们逐渐淡去的个人记忆预示着此次拯救以遗忘和牺牲为代价。",
+    "themes": [
+      "记忆与遗忘",
+      "生命循环",
+      "牺牲与新生",
+      "森林守护",
+      "信任与友谊"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73005,
+      "title": "",
+      "summary": "本章包含卢妮雅与兰纳真的状态对话步骤，但所有对话正文、步骤标题和章节描述均为空。原文因而未呈现可以确认的行动目标、冲突发展或事件结果。",
+      "turning_point": "原文未明确",
+      "outcome": "本章只保留无文本的对话状态数据，未形成可确认的正式剧情推进。",
+      "section_ids": [
+        "10083-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 73006,
+      "title": "",
+      "summary": "本章包含兰迦鲁的若干状态对话步骤，但全部对话正文及章节描述均为空。原文没有提供足以复原具体剧情的事件信息。",
+      "turning_point": "原文未明确",
+      "outcome": "本章仅记录无文本步骤，直接结果原文未明确。",
+      "section_ids": [
+        "10083-c01-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": 73007,
+      "title": "",
+      "summary": "本章保存了兰纳迦相关的状态对话结构，但对话正文、步骤标题和章节描述均为空。其目标、发展与结果无法由目标文本确认。",
+      "turning_point": "原文未明确",
+      "outcome": "本章未呈现可以确认的剧情结果。",
+      "section_ids": [
+        "10083-c02-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_02.json",
+      "source_description": "",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": 73008,
+      "title": "",
+      "summary": "本章包含兰纳真的三个状态对话步骤，所有正文及章节描述均为空。除参与者信息外，原文没有给出可确认的剧情内容。",
+      "turning_point": "原文未明确",
+      "outcome": "本章只保留无文本状态数据，没有明确推动后续事件。",
+      "section_ids": [
+        "10083-c03-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_03.json",
+      "source_description": "",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": 73061,
+      "title": "星夜之章",
+      "summary": "旅行者与派蒙在雨林中识破卢妮雅一行可疑的热情，并从兰纳真处得知必须取得「须罗蕈」以配制拯救「无郁夷摩」的「兰赫玛」。众人借「苦舍桓」穿越两处洞穴、排除积水和死域阻隔，却发现镀金旅团同样受雇追寻「须罗蕈」。卢妮雅趁解除封印之际夺走材料，迫使旅行者追击，并在交涉施压或正面战斗的分支中夺回「须罗蕈」。",
+      "turning_point": "卢妮雅撕下以朋友相称的伪装，趁众人解除封印时夺走「须罗蕈」，使寻药行动转为直接争夺。",
+      "outcome": "旅行者最终从镀金旅团手中夺回「须罗蕈」，为配制「兰赫玛」取得第一种关键材料，并获知还应前往无郁稠林与其他兰那罗会合。",
+      "section_ids": [
+        "10083-c04-s01",
+        "10083-c04-s02",
+        "10083-c04-s03",
+        "10083-c04-s04",
+        "10083-c04-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_04.json",
+      "source_description": "",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": 73063,
+      "title": "月升之章",
+      "summary": "旅行者与派蒙找到兰迦鲁，得知「兰赫玛」还需要生长在昔日那菈遗迹中的「钵参花」。他们借「苦舍桓」进入洞穴，在蕈兽占据的遗迹中阅读用于保存往事的石刻符文，随后抵达草木梦境「呿波境」。众人解除「钵参花」的封印并取得其同意，虽然梦境消散引发洪水，但第二种材料顺利到手，兰迦鲁也指引他们前往无郁稠林寻找兰纳迦。",
+      "turning_point": "「钵参花」同意为拯救「无郁夷摩」加入众人，随后其梦境「呿波境」消散并释放积水。",
+      "outcome": "旅行者取得「钵参花」，并明确应携材料前往无郁稠林，与兰纳迦准备「兰赫玛」仪式。",
+      "section_ids": [
+        "10083-c05-s01",
+        "10083-c05-s02",
+        "10083-c05-s03",
+        "10083-c05-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_05.json",
+      "source_description": "",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": 73066,
+      "title": "终章",
+      "summary": "旅行者与派蒙在无郁稠林见到兰纳迦，解除最后一株「耶然草」的封印，并带着三种材料返回守护入口的「阎迦由玛」。三位兰那罗在月上中天时以材料和记忆炼成「兰赫玛」，旅行者将灵药献上，从而打开通往「无郁夷摩」的道路。众人深入其中，连续清除死域污染、击败特异蕈兽并解除最终核心，使「无郁夷摩」摆脱「无留陀」而苏醒。胜利后，兰那罗的共同经历已经变得模糊，他们以花、歌声和森林中流动的记忆回应即将到来的遗忘。",
+      "turning_point": "「兰赫玛」唤醒「阎迦由玛」并打开道路，使寻药与仪式阶段转入直接清除「无郁夷摩」内部污染的决战。",
+      "outcome": "「无郁夷摩」获救，森林摆脱「无留陀」的重负；三位兰那罗留下纪念并继续陪伴苏醒的「无郁夷摩」，但他们逐渐失去与旅行者共同经历的个人记忆。",
+      "section_ids": [
+        "10083-c06-s01",
+        "10083-c06-s02",
+        "10083-c06-s03",
+        "10083-c06-s04",
+        "10083-c06-s05",
+        "10083-c06-s06",
+        "10083-c06-s07"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_06.json",
+      "source_description": "",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "10083-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "无文本状态步骤留存",
+      "narrative_role": "transition",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "卢妮雅",
+        "兰纳真"
+      ],
+      "summary": "本章保留了卢妮雅与兰纳真的多个对话任务结构，但全部对话正文、步骤标题及章节描述为空。原文未呈现能够确认的行动、动机或冲突。",
+      "motivation": "原文未明确",
+      "outcome": "仅形成无文本的状态记录，未能确认其对后续剧情的直接影响。",
+      "keywords": [
+        "空白对话",
+        "状态数据",
+        "剧情未明确"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7300522,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7300503,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7300504,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7300508,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7300513,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7300523,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7300511,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7300512,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7300516,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7300517,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 7300521,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 7300515,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 7300506,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10083-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "兰迦鲁状态对话留存",
+      "narrative_role": "transition",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "兰迦鲁"
+      ],
+      "summary": "本章的六个步骤均为兰迦鲁相关的对话状态结构，但对话正文与章节说明全部为空。具体事件及其发生阶段无法从原文确定。",
+      "motivation": "原文未明确",
+      "outcome": "原文未明确",
+      "keywords": [
+        "兰迦鲁",
+        "空白对话",
+        "状态数据"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7300603,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7300604,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7300614,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7300607,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7300609,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7300611,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10083-c02-s01",
+      "chapter_index": 2,
+      "order": 1,
+      "title": "兰纳迦状态对话留存",
+      "narrative_role": "transition",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "兰纳迦"
+      ],
+      "summary": "本章七个步骤只保存兰纳迦相关对话节点，所有正文、标题和章节描述均为空。原文没有提供可以确认的目标、冲突或结果。",
+      "motivation": "原文未明确",
+      "outcome": "原文未明确",
+      "keywords": [
+        "兰纳迦",
+        "空白对话",
+        "状态数据"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7300703,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7300704,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7300707,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7300709,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7300711,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7300714,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7300715,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10083-c03-s01",
+      "chapter_index": 3,
+      "order": 1,
+      "title": "兰纳真状态对话留存",
+      "narrative_role": "transition",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "兰纳真"
+      ],
+      "summary": "本章三个步骤保留兰纳真相关对话结构，但没有任何有效正文或章节描述。其所对应的具体剧情无法由目标文本确认。",
+      "motivation": "原文未明确",
+      "outcome": "原文未明确",
+      "keywords": [
+        "兰纳真",
+        "空白对话",
+        "状态数据"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7300801,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7300802,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7300805,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10083-c04-s01",
+      "chapter_index": 4,
+      "order": 1,
+      "title": "可疑旅团引出寻药委托",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "寻找兰纳真期间",
+      "locations": [
+        "雨林中，具体地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "卢妮雅",
+        "米农",
+        "齐里",
+        "兰纳真"
+      ],
+      "summary": "旅行者与派蒙在雨林中遇见卢妮雅、米农和齐里，卢妮雅以夸张的好客套问两人的来意，又以警告暗示潜在威胁。兰纳真随后现身，指出这些「沙子」心怀不轨，并说明「无郁夷摩」正遭不断扩大的「无留陀」侵害。为配制救治她的「兰赫玛」，兰纳真把「苦舍桓」托付给旅行者，并带领两人寻找「须罗蕈」。",
+      "motivation": "兰纳真希望尽快取得「须罗蕈」，阻止「无留陀」继续危害「无郁夷摩」与森林；卢妮雅一行则受雇寻找同一目标。",
+      "outcome": "旅行者接受兰纳真的委托并获得「苦舍桓」，寻药目标确立，同时镀金旅团的竞争威胁浮现。",
+      "keywords": [
+        "卢妮雅",
+        "兰纳真",
+        "苦舍桓",
+        "须罗蕈",
+        "无留陀"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7306133,
+          "title": "寻找兰纳真",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7306105,
+          "title": "前去打探镀金旅团",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7306106,
+          "title": "与兰那罗对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10083-c04-s02",
+      "chapter_index": 4,
+      "order": 2,
+      "title": "首处洞穴显露污染踪迹",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "取得「苦舍桓」后",
+      "locations": [
+        "积水洞穴"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "兰纳真"
+      ],
+      "summary": "旅行者使用「苦舍桓」打开通路，并在兰纳真指引下降低洞穴水面、寻找受石头与藤蔓保护的「须罗蕈」。众人只发现普通蘑菇，兰纳真通过询问它得知「须罗蕈」已经前往另一处充满「无留陀」的洞穴，试图独自压制污染。兰纳真因此催促众人立即转移，并提醒旅行者之后还要与其他兰那罗会合。",
+      "motivation": "众人需要赶在「须罗蕈」被大量「无留陀」耗尽力量前找到并保护它。",
+      "outcome": "第一处洞穴的搜索落空，但众人锁定了「须罗蕈」所在的污染洞穴，寻药行动继续推进。",
+      "keywords": [
+        "积水洞穴",
+        "蘑菇私语",
+        "污染线索",
+        "须罗蕈"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7306108,
+          "title": "使用「苦舍桓」开辟通路",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7306134,
+          "title": "进入洞穴",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7306132,
+          "title": "与兰纳真对话",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7306109,
+          "title": "降下山洞内的水面",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7306110,
+          "title": "探索洞穴",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7306129,
+          "title": "与兰纳真对话",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7306128,
+          "title": "前往洞穴出口",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 7306135,
+          "title": "离开洞穴",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10083-c04-s03",
+      "chapter_index": 4,
+      "order": 3,
+      "title": "死域洞口再遇旅团阻挠",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "追踪「须罗蕈」期间",
+      "locations": [
+        "「须罗蕈」所在山洞入口",
+        "受死域污染的山洞"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "兰纳真",
+        "卢妮雅",
+        "米农",
+        "齐里"
+      ],
+      "summary": "旅行者继续用「苦舍桓」开路，却在目标洞口再次遭卢妮雅一行阻挡；对方以死域危险为由劝退众人，实际意图仍十分可疑。进入山洞后，兰纳真确认「无留陀」已渗入水中，而「须罗蕈」正在勉力抑制污染。众人决定排水并解除封印，兰纳真还将自己的歌赠给旅行者，托付两人珍惜这段记忆。",
+      "motivation": "旅行者必须突破镀金旅团的阻挠并尽快救出承受污染的「须罗蕈」。",
+      "outcome": "众人进入核心洞穴并确定排水、解除封印的办法，双方对「须罗蕈」的争夺进入直接冲突阶段。",
+      "keywords": [
+        "镀金旅团",
+        "死域",
+        "歌的叶子",
+        "封印"
+      ],
+      "source_step_keys": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "11",
+          "id": 7306111,
+          "title": "使用「苦舍桓」开辟通路",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 7306112,
+          "title": "前往「须罗蕈」所在的山洞",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 7306113,
+          "title": "与占据洞口的家伙们交涉",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 7306114,
+          "title": "前往「须罗蕈」所在的山洞",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 7306130,
+          "title": "与兰纳真对话",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 7306116,
+          "title": "降下山洞内的水面",
+          "is_hidden": false
+        },
+        {
+          "key": "17",
+          "id": 7306137,
+          "title": "前去调查须罗蕈",
+          "is_hidden": false
+        },
+        {
+          "key": "18",
+          "id": 7306136,
+          "title": "与兰纳真对话$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10083-c04-s04",
+      "chapter_index": 4,
+      "order": 4,
+      "title": "排水解封遭遇刺客伏击",
+      "narrative_role": "climax",
+      "importance": 4,
+      "when": "进入污染洞穴深处后",
+      "locations": [
+        "「须罗蕈」所在山洞深处"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "兰纳真",
+        "镀金旅团刺客"
+      ],
+      "summary": "旅行者排净积水，以「苦舍桓」逐处解除保护「须罗蕈」的封印。解除过程中，镀金旅团派出的刺客发动阻挠，但未能击败旅行者。众人一度接近取得「须罗蕈」，却给卢妮雅留下了趁乱夺取材料的机会。",
+      "motivation": "旅行者需要解除全部封印并保护「须罗蕈」，镀金旅团则企图抢先拿到材料向雇主交差。",
+      "outcome": "封印被解除、刺客被击退，但「须罗蕈」随即被卢妮雅夺走，迫使众人展开追击。",
+      "keywords": [
+        "排净积水",
+        "解除封印",
+        "刺客伏击",
+        "材料争夺"
+      ],
+      "source_step_keys": [
+        "19",
+        "20",
+        "21",
+        "23",
+        "24",
+        "25"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "19",
+          "id": 7306115,
+          "title": "排净积水，取得「须罗蕈」",
+          "is_hidden": false
+        },
+        {
+          "key": "20",
+          "id": 7306117,
+          "title": "使用「苦舍桓」解除「须罗蕈」的封印",
+          "is_hidden": false
+        },
+        {
+          "key": "21",
+          "id": 7306141,
+          "title": "使用「苦舍桓」解除「须罗蕈」的封印$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "23",
+          "id": 7306139,
+          "title": "使用「苦舍桓」解除「须罗蕈」的封印$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "24",
+          "id": 7306118,
+          "title": "击败镀金旅团刺客",
+          "is_hidden": false
+        },
+        {
+          "key": "25",
+          "id": 7306119,
+          "title": "取得「须罗蕈」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10083-c04-s05",
+      "chapter_index": 4,
+      "order": 5,
+      "title": "追击卢妮雅夺回须罗蕈",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "「须罗蕈」被夺走后",
+      "locations": [
+        "污染洞穴出口附近，具体地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "兰纳真",
+        "卢妮雅",
+        "米农",
+        "齐里"
+      ],
+      "summary": "兰纳真发现「须罗蕈」失踪后，与旅行者和派蒙追上正准备撤离的卢妮雅一行。卢妮雅承认受雇夺取材料，并试图将争夺包装成交易；分支记录中，旅行者或以对其人手和收益的威慑迫使她交还材料，或直接击败镀金旅团。两条路径均以卢妮雅一行退去、旅行者重新取得「须罗蕈」收束。",
+      "motivation": "旅行者必须夺回拯救森林所需的材料，卢妮雅则试图在避免更多人手损失的同时完成有利可图的委托。",
+      "outcome": "「须罗蕈」被成功夺回，第一项灵药材料得到保障，众人可以继续寻找其余材料。",
+      "keywords": [
+        "追击",
+        "交涉分支",
+        "战斗分支",
+        "夺回须罗蕈"
+      ],
+      "source_step_keys": [
+        "22",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "22",
+          "id": 7306140,
+          "title": "使用「苦舍桓」解除「须罗蕈」的封印$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "26",
+          "id": 7306120,
+          "title": "与兰纳真对话",
+          "is_hidden": false
+        },
+        {
+          "key": "27",
+          "id": 7306131,
+          "title": "追上卢妮雅",
+          "is_hidden": false
+        },
+        {
+          "key": "28",
+          "id": 7306121,
+          "title": "从卢妮雅手中夺回「须罗蕈」",
+          "is_hidden": false
+        },
+        {
+          "key": "29",
+          "id": 7306122,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "30",
+          "id": 7306123,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "31",
+          "id": 7306124,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "32",
+          "id": 7306107,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "33",
+          "id": 7306125,
+          "title": "击败镀金旅团",
+          "is_hidden": false
+        },
+        {
+          "key": "34",
+          "id": 7306127,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "35",
+          "id": 7306126,
+          "title": "与兰纳真对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10083-c05-s01",
+      "chapter_index": 5,
+      "order": 1,
+      "title": "兰迦鲁托付寻花使命",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "寻找「钵参花」之初",
+      "locations": [
+        "洞穴入口附近，具体地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "兰迦鲁"
+      ],
+      "summary": "旅行者与派蒙找到兰迦鲁，得知不断扩大的「无留陀」令森林不敢呼吸，而「兰赫玛」还缺少「钵参花」。兰迦鲁说明目标位于曾经属于那菈、如今被草木与蕈类占据的遗迹，并将能击碎特定岩石的「苦舍桓」力量托付给两人。他还解释「钵参花」只有牺牲汁液，才能成为灵药的源泉。",
+      "motivation": "兰迦鲁希望在残存的「钵参花」进一步减少前取得材料，帮助兰纳迦完成「兰赫玛」。",
+      "outcome": "旅行者接受寻花任务，并在兰迦鲁带领下进入古老洞穴。",
+      "keywords": [
+        "兰迦鲁",
+        "钵参花",
+        "苦舍桓",
+        "那菈遗迹"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7306330,
+          "title": "寻找兰迦鲁",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7306305,
+          "title": "与突然相遇的兰那罗对话",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7306306,
+          "title": "与兰迦鲁对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10083-c05-s02",
+      "chapter_index": 5,
+      "order": 2,
+      "title": "古老符文保存那菈记忆",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "进入古老洞穴后",
+      "locations": [
+        "古代那菈遗迹洞穴"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "兰迦鲁"
+      ],
+      "summary": "旅行者利用「苦舍桓」打开洞穴，击退蕈兽并探索被湿土与草木覆盖的古代那菈居所。众人调查蕈兽围绕的符文，兰迦鲁解释这些石刻是那菈为防止遗忘而保存的记忆，记载了草木之主、勇者那菈与兰那罗的往事。他们继续寻找其余符文，确认这片遗迹既是人类沉睡之地，也是新草木从旧日记忆中生长的所在。",
+      "motivation": "众人需要循遗迹与符文找到通往「钵参花」梦境的道路，同时理解这片土地保存记忆的方式。",
+      "outcome": "洞穴中的阻碍被清除，符文线索得到解读，众人找到离开遗迹并前往「呿波境」的方向。",
+      "keywords": [
+        "古代遗迹",
+        "石刻符文",
+        "那菈记忆",
+        "蕈兽"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7306307,
+          "title": "使用「苦舍桓」开辟通路",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7306308,
+          "title": "击败蕈兽",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7306309,
+          "title": "探索山洞",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7306310,
+          "title": "击败蕈兽",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7306311,
+          "title": "调查蕈兽围绕的符文",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7306336,
+          "title": "与兰迦鲁对话",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 7306312,
+          "title": "继续寻找符文",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 7306313,
+          "title": "继续寻找符文$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 7306314,
+          "title": "继续寻找符文$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 7306315,
+          "title": "继续寻找符文$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 7306337,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 7306316,
+          "title": "与兰迦鲁对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10083-c05-s03",
+      "chapter_index": 5,
+      "order": 3,
+      "title": "藤蔓让路进入呿波境",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "离开遗迹洞穴后",
+      "locations": [
+        "「钵参花」所在山洞",
+        "「呿波境」"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "兰迦鲁"
+      ],
+      "summary": "众人离开遗迹洞穴，抵达被藤蔓封住的「钵参花」所在处，兰迦鲁通过与藤蔓对话打开通路。他们进入草木美梦隐藏之地「呿波境」，发现这里已因蕈类吞噬养分而变得脆弱。尽管「钵参花」尚未受伤，众人必须尽快解除其封印。",
+      "motivation": "众人需要在「呿波境」彻底衰败前保护「钵参花」并取得其协助。",
+      "outcome": "通往「钵参花」的道路被打开，众人抵达目标并准备解除封印。",
+      "keywords": [
+        "藤蔓通路",
+        "呿波境",
+        "草木梦境",
+        "钵参花"
+      ],
+      "source_step_keys": [
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "16",
+          "id": 7306317,
+          "title": "离开洞穴",
+          "is_hidden": false
+        },
+        {
+          "key": "17",
+          "id": 7306318,
+          "title": "离开洞穴",
+          "is_hidden": false
+        },
+        {
+          "key": "18",
+          "id": 7306319,
+          "title": "前往「钵参花」所在的山洞",
+          "is_hidden": false
+        },
+        {
+          "key": "19",
+          "id": 7306331,
+          "title": "与兰迦鲁对话",
+          "is_hidden": false
+        },
+        {
+          "key": "20",
+          "id": 7306320,
+          "title": "与兰迦鲁对话",
+          "is_hidden": false
+        },
+        {
+          "key": "21",
+          "id": 7306321,
+          "title": "进入「钵参花」的所在",
+          "is_hidden": false
+        },
+        {
+          "key": "22",
+          "id": 7306322,
+          "title": "探索「呿波境」",
+          "is_hidden": false
+        },
+        {
+          "key": "23",
+          "id": 7306323,
+          "title": "和兰迦鲁对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10083-c05-s04",
+      "chapter_index": 5,
+      "order": 4,
+      "title": "钵参花苏醒梦境消散",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "抵达「呿波境」后",
+      "locations": [
+        "「呿波境」",
+        "山洞外"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "兰迦鲁"
+      ],
+      "summary": "旅行者使用「苦舍桓」解除「钵参花」的多重封印，兰迦鲁随后与被惊醒的花私语，请它为拯救「无郁夷摩」加入众人。「钵参花」同意同行，但它的梦境随苏醒消散，洞穴积水突然奔涌，众人险些被冲走。脱险后，兰迦鲁确认材料已经取得，并指引旅行者前往无郁稠林与兰纳迦会合；相关对话存在因「须罗蕈」是否已取得而变化的状态版本。",
+      "motivation": "「钵参花」愿以自身汁液成就「兰赫玛」，众人则需要保护它并汇集其余材料。",
+      "outcome": "第二种灵药材料「钵参花」到手，寻药行动转向无郁稠林及最后的仪式准备。",
+      "keywords": [
+        "解除封印",
+        "钵参花苏醒",
+        "梦境消散",
+        "洪水"
+      ],
+      "source_step_keys": [
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "24",
+          "id": 7306324,
+          "title": "使用「苦舍桓」解除「钵参花」的封印",
+          "is_hidden": false
+        },
+        {
+          "key": "25",
+          "id": 7306325,
+          "title": "使用「苦舍桓」解除「钵参花」的封印$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "26",
+          "id": 7306326,
+          "title": "使用「苦舍桓」解除「钵参花」的封印$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "27",
+          "id": 7306327,
+          "title": "使用「苦舍桓」解除「钵参花」的封印$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "28",
+          "id": 7306328,
+          "title": "拾取「钵参花」",
+          "is_hidden": false
+        },
+        {
+          "key": "29",
+          "id": 7306329,
+          "title": "和兰迦鲁对话",
+          "is_hidden": false
+        },
+        {
+          "key": "30",
+          "id": 7306334,
+          "title": "和兰迦鲁对话",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7306335,
+          "title": "继续探索山洞",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10083-c06-s01",
+      "chapter_index": 6,
+      "order": 1,
+      "title": "无郁稠林揭示最后材料",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "取得前两种材料后",
+      "locations": [
+        "无郁稠林",
+        "兰纳迦的园地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "兰纳迦"
+      ],
+      "summary": "旅行者与派蒙抵达无郁稠林，见到看守「无郁夷摩」的兰纳迦。兰纳迦说明「无郁夷摩」原本供养并保护森林，却被「无留陀」侵入，只有把三种植物炼成「兰赫玛」才能打开救援道路。他带领众人寻找最后的「耶然草」，并指出时间已经十分紧迫。",
+      "motivation": "兰纳迦希望在「无留陀」进一步吞噬森林前补齐材料、唤醒守门的「阎迦由玛」。",
+      "outcome": "拯救方案和最后一个寻药目标得到确认，众人抵达「耶然草」的封印处。",
+      "keywords": [
+        "无郁稠林",
+        "兰纳迦",
+        "无郁夷摩",
+        "耶然草"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7306602,
+          "title": "前往无郁稠林",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7306603,
+          "title": "和兰那罗对话",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7306604,
+          "title": "与兰纳迦一同前去寻找「耶然草」",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7306605,
+          "title": "和兰纳迦对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10083-c06-s02",
+      "chapter_index": 6,
+      "order": 2,
+      "title": "最后一株耶然草应允牺牲",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "抵达「耶然草」封印处后",
+      "locations": [
+        "「耶然草」生长处"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "兰纳迦"
+      ],
+      "summary": "旅行者使用「苦舍桓」解除「耶然草」周围的多处封印，并与兰纳迦接近仅存的植株。兰纳迦说明过去曾有许多「耶然草」，但大多已在「无留陀」与蕈类侵袭中死去，所幸重要种子仍由「阎迦由玛」保存。最后一株「耶然草」同意成为「兰赫玛」，众人遂将它带回园地。",
+      "motivation": "众人需要取得第三种材料完成灵药；「耶然草」则愿为恢复「无郁夷摩」和延续同类种子作出牺牲。",
+      "outcome": "三种材料全部备齐，众人返回「阎迦由玛」准备举行仪式。",
+      "keywords": [
+        "耶然草",
+        "解除封印",
+        "最后植株",
+        "自愿牺牲"
+      ],
+      "source_step_keys": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 7306606,
+          "title": "使用「苦舍桓」解除「耶然草」的封印$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7306608,
+          "title": "使用「苦舍桓」解除「耶然草」的封印",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7306610,
+          "title": "使用「苦舍桓」解除「耶然草」的封印",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7306612,
+          "title": "使用「苦舍桓」解除「耶然草」的封印",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7306613,
+          "title": "前往拾取耶然草",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7306615,
+          "title": "前往拾取耶然草",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 7306616,
+          "title": "与兰纳迦对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10083-c06-s03",
+      "chapter_index": 6,
+      "order": 3,
+      "title": "阎迦由玛等待记忆灵药",
+      "narrative_role": "revelation",
+      "importance": 4,
+      "when": "三种材料备齐后",
+      "locations": [
+        "兰纳迦的小小园圃",
+        "「阎迦由玛」前"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "兰纳迦"
+      ],
+      "summary": "众人返回兰纳迦的园地，来到守护「无郁夷摩」入口的「阎迦由玛」前。兰纳迦解释「兰赫玛」由三种草木在月光下提炼宝贵记忆而成，能使「阎迦由玛」忆起一切并打开道路。他进一步阐明记忆并非凝固和消失之物，而是会流动、受滋养并生出生命、希望与智慧的力量。",
+      "motivation": "众人需要理解并完成以记忆为核心的仪式，才能唤醒「阎迦由玛」并进入受污染区域。",
+      "outcome": "仪式条件全部明确，旅行者受邀在月亮升至最高处时返回。",
+      "keywords": [
+        "阎迦由玛",
+        "兰赫玛",
+        "流动记忆",
+        "仪式准备"
+      ],
+      "source_step_keys": [
+        "11",
+        "12"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "11",
+          "id": 7306617,
+          "title": "返回兰纳迦的小小园圃",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 7306618,
+          "title": "与兰纳迦对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10083-c06-s04",
+      "chapter_index": 6,
+      "order": 4,
+      "title": "月上中天炼成兰赫玛",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "月上中天之时（23点到1点）",
+      "locations": [
+        "无郁稠林",
+        "「阎迦由玛」附近"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "兰纳迦",
+        "兰纳真",
+        "兰迦鲁"
+      ],
+      "summary": "旅行者等到月上中天，三位兰那罗在仪式前将花作为有生命的纪念赠给旅行者，并谈及遗忘之风以及榨取梦与记忆的机关。随后他们以「须罗蕈」「钵参花」「耶然草」举行「兰赫玛」仪式，将材料承载的记忆与生命力量炼成灵药。仪式完成后，众人准备把「兰赫玛」献给「阎迦由玛」。",
+      "motivation": "三位兰那罗希望以材料和自身记忆炼成救治「无郁夷摩」的灵药，同时让旅行者保存彼此相遇的纪念。",
+      "outcome": "「兰赫玛」成功炼成，进入「无郁夷摩」并清除污染的条件已经具备。",
+      "keywords": [
+        "月上中天",
+        "纪念之花",
+        "兰赫玛仪式",
+        "记忆"
+      ],
+      "source_step_keys": [
+        "13",
+        "29",
+        "21",
+        "14",
+        "15"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "13",
+          "id": 7306619,
+          "title": "等到月上中天之时（23点到1点）",
+          "is_hidden": false
+        },
+        {
+          "key": "29",
+          "id": 7306641,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "21",
+          "id": 7306644,
+          "title": "和兰那罗对话",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 7306633,
+          "title": "举行兰赫玛仪式",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 7306636,
+          "title": "与兰那罗们对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10083-c06-s05",
+      "chapter_index": 6,
+      "order": 5,
+      "title": "奉上灵药开启救援道路",
+      "narrative_role": "transition",
+      "importance": 5,
+      "when": "「兰赫玛」炼成后",
+      "locations": [
+        "「阎迦由玛」",
+        "通往「无郁夷摩」的道路"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "兰纳迦",
+        "兰纳真",
+        "兰迦鲁"
+      ],
+      "summary": "旅行者把「兰赫玛」献给「阎迦由玛」，灵药被接受后，通往「无郁夷摩」的道路随之开启。三位兰那罗准备与旅行者一同对抗「无留陀」，兰纳迦则请两人见证他们可能付出的牺牲，并把它留在记忆与梦中。抵达内部污染区域后，众人确认必须借助「苦舍桓」的记忆之力战斗。",
+      "motivation": "众人要用已经炼成的灵药打开入口，并在污染彻底吞噬「无郁夷摩」前展开救援。",
+      "outcome": "救援队伍进入「无郁夷摩」，寻药阶段正式转入清除死域的最终行动。",
+      "keywords": [
+        "奉上灵药",
+        "开启道路",
+        "苦舍桓",
+        "牺牲预告"
+      ],
+      "source_step_keys": [
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "16",
+          "id": 7306637,
+          "title": "前往「阎迦由玛」奉上灵药",
+          "is_hidden": false
+        },
+        {
+          "key": "17",
+          "id": 7306638,
+          "title": "前往「阎迦由玛」奉上灵药",
+          "is_hidden": false
+        },
+        {
+          "key": "18",
+          "id": 7306639,
+          "title": "和兰那罗对话",
+          "is_hidden": false
+        },
+        {
+          "key": "19",
+          "id": 7306622,
+          "title": "前往「无郁夷摩」",
+          "is_hidden": false
+        },
+        {
+          "key": "20",
+          "id": 7306623,
+          "title": "到达「无郁夷摩」",
+          "is_hidden": false
+        },
+        {
+          "key": "21",
+          "id": 7306644,
+          "title": "和兰那罗对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10083-c06-s06",
+      "chapter_index": 6,
+      "order": 6,
+      "title": "清除死域唤醒无郁夷摩",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "进入「无郁夷摩」后",
+      "locations": [
+        "「无郁夷摩」内部"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "兰纳迦",
+        "兰纳真",
+        "兰迦鲁"
+      ],
+      "summary": "旅行者以「苦舍桓」的力量逐处清除「无郁夷摩」内部的死域污染，并继续向最后的污染核心推进。众人击败特异的蕈兽，最终解除残余死域，使「无郁夷摩」摆脱「无留陀」的重负。原始步骤中另含三个标为“(tes)”的到达封印区域步骤和一个“(tset)”解除核心步骤，这些测试标记只作为同一清除流程的数据记录，不构成额外正式事件。",
+      "motivation": "众人必须彻底消灭「无留陀」的污染核心，才能让「无郁夷摩」与森林重新获得生命。",
+      "outcome": "最后的死域被清除，「无郁夷摩」苏醒，拯救森林的核心目标达成。",
+      "keywords": [
+        "死域清除",
+        "特异蕈兽",
+        "最终核心",
+        "无郁夷摩苏醒"
+      ],
+      "source_step_keys": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "31",
+        "32",
+        "33",
+        "34"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "21",
+          "id": 7306644,
+          "title": "和兰那罗对话",
+          "is_hidden": false
+        },
+        {
+          "key": "22",
+          "id": 7306625,
+          "title": "清除死域的污染",
+          "is_hidden": false
+        },
+        {
+          "key": "23",
+          "id": 7306626,
+          "title": "清除死域的污染",
+          "is_hidden": false
+        },
+        {
+          "key": "24",
+          "id": 7306627,
+          "title": "清除死域的污染",
+          "is_hidden": false
+        },
+        {
+          "key": "25",
+          "id": 7306628,
+          "title": "清除死域的污染",
+          "is_hidden": false
+        },
+        {
+          "key": "26",
+          "id": 7306643,
+          "title": "前去清除最后的死域",
+          "is_hidden": false
+        },
+        {
+          "key": "27",
+          "id": 7306629,
+          "title": "击败特异的蕈兽",
+          "is_hidden": false
+        },
+        {
+          "key": "28",
+          "id": 7306630,
+          "title": "清除最后的死域",
+          "is_hidden": false
+        },
+        {
+          "key": "31",
+          "id": 7306607,
+          "title": "(tes)到达一处封印区域",
+          "is_hidden": false
+        },
+        {
+          "key": "32",
+          "id": 7306609,
+          "title": "(tes)到达一处封印区域",
+          "is_hidden": false
+        },
+        {
+          "key": "33",
+          "id": 7306611,
+          "title": "(tes)到达一处封印区域",
+          "is_hidden": false
+        },
+        {
+          "key": "34",
+          "id": 7306632,
+          "title": "(tset)解除最终核心",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10083-c06-s07",
+      "chapter_index": 6,
+      "order": 7,
+      "title": "胜利伴随记忆逐渐消散",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "「无郁夷摩」苏醒后",
+      "locations": [
+        "「无郁夷摩」附近"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "兰纳迦",
+        "兰纳真",
+        "兰迦鲁"
+      ],
+      "summary": "三位兰那罗感谢旅行者与派蒙，并确认「无郁夷摩」已摆脱「无留陀」、重新开始分享梦和故事。兰纳迦却发现共同经历已像雾和云一样模糊，兰纳真也以歌声请求旅行者保存彼此的记忆。兰那罗没有正面否认自己会遗忘，只相信记忆会留在土地、根系与梦中，并与旅行者约定日后在无忧节重逢。",
+      "motivation": "兰那罗需要继续陪伴刚苏醒的「无郁夷摩」，同时希望共同经历即使脱离个人记忆也能在森林与朋友心中延续。",
+      "outcome": "本次救援在成功与告别中收束，兰那罗留下再会约定，而遗忘的代价成为后续关系的不安伏笔。",
+      "keywords": [
+        "遗忘代价",
+        "歌声纪念",
+        "森林记忆",
+        "再会约定"
+      ],
+      "source_step_keys": [
+        "30"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "30",
+          "id": 7306631,
+          "title": "与兰那罗对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:33:59.060Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

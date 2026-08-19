@@ -1,0 +1,859 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 10059,
+    "slug": "10059_erebos-secret",
+    "title": "厄瑞玻斯的秘密",
+    "chapter_num": "",
+    "premise": "乌帽子为保留渊下宫被刻意隐去的真相，邀请取得珊瑚枝的旅行者接受追加试炼。旅行者需要在三处边陲试炼地获得末代地走官的认可，换取知晓秘密的资格。",
+    "central_conflict": "古代珊瑚宫希望借取珊瑚枝的制度让后人遗忘危险历史，乌帽子却主张为合格者留下真相。旅行者必须以智慧、明察和战斗能力通过试炼，并承担不将秘密带离海渊的责任。",
+    "summary": "乌帽子表明自己是名为厄伯斯的渊下宫巫女，并说明海祇大御神曾带领白夜国民通往地上、学习鸣神文化。她揭示古代珊瑚宫为防止后人接触事件全貌而设计了取珊瑚枝的试炼，自己则获准追加一道保存真相的考验。旅行者接受挑战，依照三道天光的线索前往狭间之街、常夜灵庙和蛇心之地的边陲试炼场。在宇陀主持的智慧试炼与江木主持的明察试炼中，旅行者解开机关并使全部「高门之火」归位；在大门主持的勇武试炼中，旅行者击败阳炎幻法构成的强敌虚像。三位末代地走官分别认可旅行者的智慧、洞察力与战斗能力，使其取得知晓秘密的资格。乌帽子随后讲明深海龙蜥与圣土化、海祇大御神被迫献身、白夜国坠入海渊的远古历史以及大日御舆的来历，并要求旅行者将这一切永远留在海渊之内。",
+    "resolution": "旅行者完成三隅道的全部考验，获得地走官与海祇意志的认可，也由此获准接触被刻意封存的渊下宫真相。乌帽子的告诫使这些历史得以被知晓，却仍以不得外传的秘密形式延续。",
+    "themes": [
+      "试炼与资格",
+      "记忆与遗忘",
+      "被封存的历史",
+      "勇武与智慧",
+      "秘密的代价"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72268,
+      "title": "八衢彦之试炼",
+      "summary": "旅行者在常夜中由狭间之街的「天光流泻之处」进入试炼地，得到末代地走官宇陀的接待。宇陀以智慧为考核核心，要求旅行者解开谜题并让所有「高门之火」归位。旅行者完成目标后获得宇陀认可，其智慧被称为「智圆行方」。",
+      "turning_point": "旅行者使全部「高门之火」归位，将宇陀提出的智慧考验转化为正式认可。",
+      "outcome": "宇陀认可旅行者的智慧与勇武，八衢彦之试炼完成。",
+      "section_ids": [
+        "10059-c00-s01",
+        "10059-c00-s02",
+        "10059-c00-s03",
+        "10059-c00-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "你接受了试炼，准备前往狭间之街寻找「天光流泻之处」…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 72269,
+      "title": "八衢姬之试炼",
+      "summary": "旅行者在常夜中从常夜灵庙的「天光流泻之处」进入另一处试炼地，并与末代地走官江木会面。江木要求旅行者凭借明察把握环境中的变数，找到并解放全部「高门之火」。旅行者利落完成考验，获得江木对其洞察力与勇武的认可。",
+      "turning_point": "旅行者找到并解放全部「高门之火」，证明自己具备江木要求的明察能力。",
+      "outcome": "江木认可旅行者的表现，并以「微察冬鳗」称许其明察，八衢姬之试炼完成。",
+      "section_ids": [
+        "10059-c01-s01",
+        "10059-c01-s02",
+        "10059-c01-s03",
+        "10059-c01-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "你接受了试炼，准备前往常夜灵庙寻找「天光流泻之处」…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": 72270,
+      "title": "歧之试炼",
+      "summary": "旅行者在常夜中由蛇心之地的「天光流泻之处」抵达试炼地，接受末代地走官大门主持的勇武考验。试炼要求旅行者击败由阳炎幻法和自身强敌印象共同构成的虚像，从战斗中解放全部「高门之火」。旅行者粉碎所有强敌，获得大门以「常世无双」作出的认可。",
+      "turning_point": "旅行者战胜具有真实伤害威胁的全部强敌虚像，完成以实战能力为核心的勇武证明。",
+      "outcome": "大门认可旅行者的勇武，歧之试炼完成。",
+      "section_ids": [
+        "10059-c02-s01",
+        "10059-c02-s02",
+        "10059-c02-s03",
+        "10059-c02-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_02.json",
+      "source_description": "你接受了试炼，准备前往蛇心之地寻找「天光流泻之处」…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": 72275,
+      "title": "三隅道大演武",
+      "summary": "乌帽子向旅行者说明自己的身份及白夜国迁往地上的历史，并揭示取珊瑚枝的试炼承担着让后人远离历史全貌的作用。她因主张保留真相而启动追加试炼，指引旅行者前往渊下宫边陲三角，取得三位末代地走官的认可。旅行者完成全部挑战后获得知情资格，乌帽子遂说明深海龙蜥、海祇大御神、远古世界与大日御舆的秘密。她最终要求旅行者不得将这些真相带离海渊。",
+      "turning_point": "旅行者取得所有地走官的认可，由受试者转变为有权接触渊下宫隐秘历史的人。",
+      "outcome": "追加试炼完成，旅行者获知被古代珊瑚宫封存的多项真相，同时承担保守秘密的责任。",
+      "section_ids": [
+        "10059-c03-s01",
+        "10059-c03-s02",
+        "10059-c03-s03",
+        "10059-c03-s04",
+        "10059-c03-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_03.json",
+      "source_description": "听闻了乌帽子巫女的介绍，你觉得前往渊下宫边陲三角进行试炼也无不可。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "10059-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "旅行者循天光进入试炼",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "常夜时",
+      "locations": [
+        "狭间之街",
+        "天光流泻之处"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "旅行者前往狭间之街的「天光流泻之处」，并在常夜时调查池水。调查使其得以继续前往封印与试炼所在之处。",
+      "motivation": "依照试炼线索找到入口并进入边陲试炼地",
+      "outcome": "旅行者抵达封印前，能够与主持试炼的残魂接触。",
+      "keywords": [
+        "常夜",
+        "天光流泻之处",
+        "池水",
+        "试炼入口"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7226808,
+          "title": "前往「天光流泻之处」",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7226809,
+          "title": "在「常夜」时调查池水",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10059-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "宇陀宣布智慧试炼规则",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "抵达试炼地后",
+      "locations": [
+        "狭间之街的试炼地"
+      ],
+      "characters": [
+        "旅行者",
+        "宇陀"
+      ],
+      "summary": "末代地走官宇陀认可旅行者挑战的荣誉，并宣布自己将主持智慧试炼。旅行者需要解开全部谜题，使「高门之火」归位，以证明勇敢并非不加思考的鲁莽。",
+      "motivation": "宇陀希望检验挑战者是否具备与勇武相称的智慧",
+      "outcome": "智慧试炼正式开始，宇陀前往上方三界塔等待结果。",
+      "keywords": [
+        "宇陀",
+        "智慧试炼",
+        "谜题",
+        "高门之火"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7226801,
+          "title": "和封印前的残魂对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10059-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "旅行者解放全部高门之火",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "智慧试炼进行期间",
+      "locations": [
+        "狭间之街的试炼地"
+      ],
+      "characters": [
+        "旅行者",
+        "宇陀"
+      ],
+      "summary": "旅行者依照宇陀的要求破解试炼机关，逐一解放「高门之火」。相关步骤持续以火焰归位为共同目标，并包含宇陀在试炼未正式受领或尚未完成时作出的拒绝与催促。",
+      "motivation": "通过解谜使所有「高门之火」归位，从而证明自身智慧",
+      "outcome": "全部目标完成，旅行者具备向宇陀领取试炼认可的条件。",
+      "keywords": [
+        "机关谜题",
+        "高门之火",
+        "智慧",
+        "试炼推进"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7226802,
+          "title": "解放所有「高门之火」",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7226803,
+          "title": "解放所有「高门之火」",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7226804,
+          "title": "解放所有「高门之火」",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7226805,
+          "title": "解放所有「高门之火」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10059-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "宇陀认可旅行者的智慧",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "智慧试炼完成后",
+      "locations": [
+        "上方三界塔"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "宇陀"
+      ],
+      "summary": "宇陀确认旅行者完成试炼，认可其勇武，并称其智慧达到「智圆行方」。派蒙追问这一评价如何体现品德，宇陀解释它原是现人神巫女称赞青年才俊的话，后来成为地走官部门流传的锦旗用语。",
+      "motivation": "宇陀需要对通过考验的挑战者作出正式评定",
+      "outcome": "旅行者取得宇陀的认可，八衢彦之试炼结束。",
+      "keywords": [
+        "智圆行方",
+        "正式认可",
+        "地走官",
+        "试炼完成"
+      ],
+      "source_step_keys": [
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 7226807,
+          "title": "和宇陀对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10059-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "旅行者由常夜灵庙启程",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "常夜时",
+      "locations": [
+        "常夜灵庙",
+        "天光流泻之处"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "旅行者前往常夜灵庙的「天光流泻之处」，并在常夜时调查池水。由此开启的通路将其送往封印及另一处边陲试炼地。",
+      "motivation": "寻找乌帽子所指示的试炼入口",
+      "outcome": "旅行者抵达封印前，能够与当地的地走官残魂会面。",
+      "keywords": [
+        "常夜灵庙",
+        "常夜",
+        "池水",
+        "试炼入口"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7226908,
+          "title": "前往「天光流泻之处」",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7226913,
+          "title": "在「常夜」时调查池水",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10059-c01-s02",
+      "chapter_index": 1,
+      "order": 2,
+      "title": "江木提出明察能力考验",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "抵达试炼地后",
+      "locations": [
+        "常夜灵庙的试炼地"
+      ],
+      "characters": [
+        "旅行者",
+        "江木"
+      ],
+      "summary": "末代地走官江木认可旅行者的挑战资格，并宣布主持明察试炼。她要求旅行者解开谜题、使「高门之火」归位，以检验其能否在瞬息万变的局面中观察并把握变数。",
+      "motivation": "江木希望确认挑战者具备洞察环境和应对变化的能力",
+      "outcome": "明察试炼正式开始，寻找全部「高门之火」成为当前目标。",
+      "keywords": [
+        "江木",
+        "明察试炼",
+        "洞察力",
+        "高门之火"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7226901,
+          "title": "和封印前的残魂对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10059-c01-s03",
+      "chapter_index": 1,
+      "order": 3,
+      "title": "旅行者查明火焰所在",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "明察试炼进行期间",
+      "locations": [
+        "常夜灵庙的试炼地"
+      ],
+      "characters": [
+        "旅行者",
+        "江木"
+      ],
+      "summary": "旅行者运用观察力搜寻试炼地中的「高门之火」，并逐一完成解放。相关步骤围绕同一目标连续推进，同时记录江木在任务尚未受领或尚未完成时对挑战者的拒绝与提示。",
+      "motivation": "找到所有隐藏目标，以证明能够察觉战场中的细微变化",
+      "outcome": "全部「高门之火」获释，旅行者完成明察试炼的实际任务。",
+      "keywords": [
+        "搜寻",
+        "洞察力",
+        "高门之火",
+        "明察"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7226902,
+          "title": "解放所有「高门之火」",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7226903,
+          "title": "解放所有「高门之火」",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7226904,
+          "title": "解放所有「高门之火」",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7226905,
+          "title": "解放所有「高门之火」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10059-c01-s04",
+      "chapter_index": 1,
+      "order": 4,
+      "title": "江木确认明察试炼完成",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "明察试炼完成后",
+      "locations": [
+        "常夜灵庙的试炼地"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "江木"
+      ],
+      "summary": "江木称赞旅行者利落完成试炼，正式认可其勇武，并以「微察冬鳗」评价其明察。面对派蒙的疑问，她解释繁殖时节的小陆鳗鳗鱼苗极其细小，需要高度集中注意力才能看见。",
+      "motivation": "江木需要对旅行者展现出的观察能力作出正式评定",
+      "outcome": "旅行者取得江木的认可，八衢姬之试炼结束。",
+      "keywords": [
+        "微察冬鳗",
+        "江木认可",
+        "观察力",
+        "试炼完成"
+      ],
+      "source_step_keys": [
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 7226907,
+          "title": "和江木对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10059-c02-s01",
+      "chapter_index": 2,
+      "order": 1,
+      "title": "旅行者从蛇心之地升入试炼",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "常夜时",
+      "locations": [
+        "蛇心之地",
+        "天光流泻之处"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "旅行者前往蛇心之地的「天光流泻之处」，并在常夜时调查池水。调查开启通往封印与边陲试炼场的道路。",
+      "motivation": "循线进入最后一处地走官主持的试炼地",
+      "outcome": "旅行者抵达封印前，能够接受大门的勇武考验。",
+      "keywords": [
+        "蛇心之地",
+        "常夜",
+        "天光流泻之处",
+        "试炼入口"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7227008,
+          "title": "前往「天光流泻之处」",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7227009,
+          "title": "在「常夜」时调查池水",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10059-c02-s02",
+      "chapter_index": 2,
+      "order": 2,
+      "title": "大门说明强敌虚像真相",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "抵达试炼地后",
+      "locations": [
+        "蛇心之地的试炼地"
+      ],
+      "characters": [
+        "旅行者",
+        "大门"
+      ],
+      "summary": "末代地走官大门宣布以击败全部敌人、解放「高门之火」检验旅行者的勇武。他说明敌人是阳炎幻法与旅行者心中强敌印象共同构成的虚像，但这些虚像仍能使挑战者受伤甚至落败。",
+      "motivation": "大门希望通过具有真实风险的战斗检验挑战者战胜强敌的能力",
+      "outcome": "勇武试炼正式开始，旅行者需要扫清敌人并解放全部火焰。",
+      "keywords": [
+        "大门",
+        "勇武试炼",
+        "阳炎幻法",
+        "强敌虚像"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7227001,
+          "title": "和封印前的残魂对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10059-c02-s03",
+      "chapter_index": 2,
+      "order": 3,
+      "title": "旅行者击溃全部强敌虚像",
+      "narrative_role": "climax",
+      "importance": 4,
+      "when": "勇武试炼进行期间",
+      "locations": [
+        "蛇心之地的试炼地"
+      ],
+      "characters": [
+        "旅行者",
+        "大门"
+      ],
+      "summary": "旅行者与试炼生成的强敌虚像交战，清除阻碍并解放全部「高门之火」。相关步骤连续记录战斗目标，也包含大门在任务未受领或尚未完成时作出的拒绝与督促。",
+      "motivation": "以一切可用手段战胜敌人，证明自身具备大门所要求的勇武",
+      "outcome": "所有强敌被击败，全部火焰获释，勇武证明完成。",
+      "keywords": [
+        "战斗",
+        "强敌虚像",
+        "高门之火",
+        "勇武"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7227002,
+          "title": "解放所有「高门之火」",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7227003,
+          "title": "解放所有「高门之火」",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7227004,
+          "title": "解放所有「高门之火」",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7227005,
+          "title": "解放所有「高门之火」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10059-c02-s04",
+      "chapter_index": 2,
+      "order": 4,
+      "title": "大门授予常世无双评价",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "勇武试炼完成后",
+      "locations": [
+        "上方三界塔"
+      ],
+      "characters": [
+        "旅行者",
+        "大门"
+      ],
+      "summary": "大门赞扬旅行者粉碎了所有强敌，并以「常世无双」评价其威武。他以末代地走官的身份正式认可旅行者的勇武。",
+      "motivation": "大门需要确认旅行者已经达到勇武试炼的标准",
+      "outcome": "旅行者取得大门的认可，歧之试炼结束。",
+      "keywords": [
+        "常世无双",
+        "大门认可",
+        "勇武",
+        "试炼完成"
+      ],
+      "source_step_keys": [
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 7227007,
+          "title": "和大门对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10059-c03-s01",
+      "chapter_index": 3,
+      "order": 1,
+      "title": "乌帽子讲述白夜国迁徙旧事",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "旅行者取得珊瑚枝后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "乌帽子"
+      ],
+      "summary": "乌帽子因血枝珊瑚已落入海祇之手而现身，并自称厄伯斯，是珊瑚宫辅弼及渊下宫巫女。她从海祇大御神打通海渊之门讲起，说明白夜国民曾通往海祇岛、学习鸣神文化并与外界建立往来。",
+      "motivation": "乌帽子需要向取得珊瑚枝的勇者交代自己的身份和秘密试炼的历史背景",
+      "outcome": "旅行者确认乌帽子的古代身份，并开始接触渊下宫迁往地上的旧史。",
+      "keywords": [
+        "乌帽子",
+        "厄伯斯",
+        "海渊之门",
+        "白夜国"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7227501,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10059-c03-s02",
+      "chapter_index": 3,
+      "order": 2,
+      "title": "乌帽子揭开遗忘方案分歧",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "乌帽子介绍历史期间",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "乌帽子"
+      ],
+      "summary": "乌帽子说明罪影会令过去与真相长存，因此古代珊瑚宫设计取珊瑚枝的试炼，目的不是铭记历史，而是尽量让后人远离事件全貌。她反对彻底遗忘，并获海祇大御神许可追加一道试炼，让通过者知晓秘密；旅行者随后接受挑战。",
+      "motivation": "乌帽子希望在古代珊瑚宫的遗忘方案之外，为有资格的人保留真相",
+      "outcome": "追加试炼被正式启动，旅行者成为秘密知情资格的挑战者。",
+      "keywords": [
+        "罪影",
+        "遗忘",
+        "历史真相",
+        "追加试炼"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7227501,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10059-c03-s03",
+      "chapter_index": 3,
+      "order": 3,
+      "title": "乌帽子传达三道天光线索",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "追加试炼启动后",
+      "locations": [
+        "渊下宫"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "乌帽子"
+      ],
+      "summary": "乌帽子要求旅行者在常夜中远望白夜国边疆，寻找穹顶落下的三道光柱。她说明光柱指向「天光流泻之处」，旅行者需要解除封印并经天之门扉抵达试炼地，随后获得各位地走官的认可。",
+      "motivation": "为旅行者提供进入三处边陲试炼地所需的线索和规则",
+      "outcome": "三处试炼入口与总体目标得到明确，旅行者开始分别挑战地走官。",
+      "keywords": [
+        "三道光柱",
+        "常夜",
+        "天之门扉",
+        "地走官"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7227508,
+          "title": "乌帽子的对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10059-c03-s04",
+      "chapter_index": 3,
+      "order": 4,
+      "title": "旅行者取得全部地走官认可",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "三项边陲试炼进行期间",
+      "locations": [
+        "渊下宫边陲三角"
+      ],
+      "characters": [
+        "旅行者",
+        "乌帽子",
+        "宇陀",
+        "江木",
+        "大门"
+      ],
+      "summary": "旅行者推进并完成三项挑战，以智慧、明察和战斗能力向地走官的常世之灵证明勇武。等待期间，乌帽子重申只有完成所有挑战，自己才能说出全部秘密。",
+      "motivation": "旅行者需要获得所有地走官的认可，取得接触隐秘历史的资格",
+      "outcome": "全部挑战完成，乌帽子可以履行约定并公开被封存的真相。",
+      "keywords": [
+        "三隅道",
+        "全部挑战",
+        "地走官认可",
+        "知情资格"
+      ],
+      "source_step_keys": [
+        "2",
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7227502,
+          "title": "完成挑战",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7227503,
+          "title": "完成挑战",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7227504,
+          "title": "完成挑战",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10059-c03-s05",
+      "chapter_index": 3,
+      "order": 5,
+      "title": "乌帽子公开海渊隐秘历史",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "旅行者完成全部试炼后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "乌帽子"
+      ],
+      "summary": "乌帽子确认旅行者已获海祇意志认可，并要求其不得将真相带离海渊。在可逐项追问的对话中，她说明深海龙蜥能够进化、圣土化源于原始元素环境扩张，也揭示海祇大御神因接触禁忌真相而被迫献身，使白夜之民得以进入新的「七之秩序」。她还讲述统一文化时代因大战终结、白夜国坠入海渊且长期无法回归地表的历史，并说明大日御舆由阿布拉克设计、能够为海渊带来光。对话结束时，她再次要求旅行者将渊下宫经历当作永远的秘密。",
+      "motivation": "乌帽子履行向合格者保存并传达真相的承诺，同时避免禁忌历史扩散至海渊之外",
+      "outcome": "旅行者获知渊下宫的核心秘密，但必须承担保密责任，三隅道大演武由此收束。",
+      "keywords": [
+        "深海龙蜥",
+        "海祇大御神",
+        "日月之前",
+        "大日御舆",
+        "永远的秘密"
+      ],
+      "source_step_keys": [
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 7227506,
+          "title": "与乌帽子对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:32:09.106Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

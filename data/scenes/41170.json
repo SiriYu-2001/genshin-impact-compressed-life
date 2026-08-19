@@ -1,0 +1,85 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 41170,
+    "slug": "41170_fly-high",
+    "title": "展翼高飞",
+    "chapter_num": "",
+    "premise": "风之翼爱好者修斯在旅行中持续磨练飞行技巧，并于近期发现了几处适合使用风之翼的地点。剧情以与修斯交谈为主要目标。",
+    "central_conflict": "原文未呈现明确的对抗或危机，主要推进点是通过接触修斯开启与新飞行地点有关的事项。",
+    "summary": "修斯是一名热衷于风之翼的冒险家，长期在世界各地旅行并磨练飞行技巧。近期，他又发现了几处适合使用风之翼的地点。任务由此引导对话者前去与修斯交谈。目标文本未记录具体对话内容，因此修斯发现了哪些地点、提出了什么安排以及交谈后的进一步行动均未明确。该 scene 停留在接触修斯并开启相关话题的阶段。",
+    "resolution": "对话者与修斯交谈这一目标构成本 scene 的直接收束，但对话结果及后续飞行安排在原文中未明确。",
+    "themes": [
+      "风之翼",
+      "飞行探索",
+      "技巧磨练",
+      "冒险旅行"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 41170,
+      "title": "展翼高飞",
+      "summary": "修斯因热爱风之翼而四处旅行，并不断锻炼自己的飞行技巧；近期发现的新飞行地点成为本章的事件起点。本章要求对话者与修斯交谈，但没有提供具体对话或进一步行动，因而结果停留在双方建立接触的阶段。",
+      "turning_point": "修斯发现了几处新的适飞地点，使与他交谈成为当前目标。",
+      "outcome": "对话者与修斯建立接触；具体谈话结果和后续安排原文未明确。",
+      "section_ids": [
+        "41170-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "冒险家修斯是风之翼的狂热爱好者，他在全世界旅行，不断磨练着自己的风之翼使用技巧。而最近，他似乎又找到了几处十分适合使用风之翼飞行的地点…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "41170-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "修斯引出新的飞行地点",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "修斯发现新的适飞地点后，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "修斯",
+        "与修斯交谈者"
+      ],
+      "summary": "修斯在世界各地旅行并持续磨练风之翼使用技巧，近期又找到了几处适合飞行的地点。对话者随后与修斯交谈，以接触这名风之翼爱好者并开启相关事项。原文没有记录谈话内容，因此地点详情及双方的下一步行动均未明确。",
+      "motivation": "修斯对风之翼的热爱以及对飞行技巧的持续追求推动了新地点的发现，而当前任务要求对话者与他建立接触。",
+      "outcome": "对话目标得到推进，与新飞行地点有关的事项由此开启；具体交谈结果和后续影响原文未明确。",
+      "keywords": [
+        "修斯",
+        "风之翼",
+        "飞行地点",
+        "对话"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 4117001,
+          "title": "与修斯对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:48:51.141Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

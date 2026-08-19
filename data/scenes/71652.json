@@ -1,0 +1,206 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71652,
+    "slug": "71652_mr-melancholy",
+    "title": "忧郁先生",
+    "chapter_num": "",
+    "premise": "冒险家协会的盈珠在与须弥教令院派来的学者接洽时遇到麻烦，任务执行者由此介入，并开始搜集「碎果残块」。",
+    "central_conflict": "接洽工作的障碍需要通过搜集目标物与挑战秘境来推进，但原文没有进一步说明麻烦的具体性质。",
+    "summary": "故事始于盈珠与须弥教令院学者接洽不顺，任务执行者先与盈珠对话以介入此事。随后，任务执行者搜集「碎果残块」，并将阶段性进展回报给胡塞尼和盈珠。事情继而从搜集与沟通转入秘境挑战，行动风险和任务强度随之提高。完成这一关键环节后，任务执行者再次向胡塞尼回报。整个流程由接洽麻烦展开，经由物品搜集和秘境考验推进，最终以成果汇报暂时收束。胡塞尼与搜集、挑战成果的具体用途在原文中未获说明。",
+    "resolution": "秘境挑战后的成果被带回胡塞尼处，当前任务至此结束。接洽麻烦是否彻底解决以及相关成果的后续用途，原文未明确。",
+    "themes": [
+      "协作接洽",
+      "物品搜集",
+      "秘境考验",
+      "成果汇报"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71652,
+      "title": "忧郁先生",
+      "summary": "本章围绕协助盈珠处理接洽麻烦展开，任务执行者先了解情况，再搜集「碎果残块」并向胡塞尼和盈珠回报。行动随后升级为秘境挑战，并以向胡塞尼提交最终回报告终。原文呈现了从接洽、搜集到考验和汇报的完整任务链，但没有交代麻烦的具体成因及成果用途。",
+      "turning_point": "任务由搜集「碎果残块」和阶段性回报转入秘境挑战，目标从准备与调查升级为直接考验。",
+      "outcome": "任务执行者完成既定的搜集与秘境挑战流程，并向胡塞尼作出最终回报。",
+      "section_ids": [
+        "71652-c00-s01",
+        "71652-c00-s02",
+        "71652-c00-s03",
+        "71652-c00-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "冒险家协会的盈珠正在与须弥教令院派来的学者接洽，但接洽工作似乎遇到了一些麻烦…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71652-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "盈珠的接洽陷入麻烦",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "任务开始阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "任务执行者",
+        "盈珠"
+      ],
+      "summary": "任务开始时，冒险家协会的盈珠正在与须弥教令院派来的学者接洽，但工作遇到麻烦。任务执行者与盈珠对话并介入此事，随后获得搜集「碎果残块」的行动目标。",
+      "motivation": "协助盈珠推进遇阻的接洽工作。",
+      "outcome": "接洽麻烦转化为明确的搜集任务，任务执行者开始寻找「碎果残块」。",
+      "keywords": [
+        "盈珠",
+        "接洽麻烦",
+        "任务委托"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7165201,
+          "title": "与盈珠对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71652-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "碎果残块搜集取得进展",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "与盈珠对话后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "任务执行者",
+        "胡塞尼",
+        "盈珠"
+      ],
+      "summary": "任务执行者按照目标搜集「碎果残块」，其数量、分布与取得过程均未在原文中说明。搜集告一段落后，任务执行者向胡塞尼和盈珠回报，使接洽事务获得阶段性进展。",
+      "motivation": "完成盈珠接洽事务所引出的搜集目标，并将取得的成果交由相关人员确认。",
+      "outcome": "「碎果残块」的搜集成果得到回报，任务流程继而转入秘境挑战。",
+      "keywords": [
+        "碎果残块",
+        "搜集",
+        "胡塞尼",
+        "阶段回报"
+      ],
+      "source_step_keys": [
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7165202,
+          "title": "搜集「碎果残块」",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7165203,
+          "title": "向胡塞尼和盈珠回报",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71652-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "秘境挑战成为关键考验",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "阶段性回报后",
+      "locations": [
+        "秘境"
+      ],
+      "characters": [
+        "任务执行者"
+      ],
+      "summary": "完成搜集并向胡塞尼和盈珠回报后，任务执行者进入秘境挑战。挑战的具体敌人、规则与过程原文未明确，但这一环节构成任务中由准备转向直接行动的关键考验。",
+      "motivation": "完成接洽事务继续推进后出现的秘境挑战目标。",
+      "outcome": "秘境挑战环节结束，任务执行者随后前去向胡塞尼回报。",
+      "keywords": [
+        "秘境",
+        "挑战",
+        "关键考验"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7165204,
+          "title": "挑战秘境",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71652-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "胡塞尼接收最终回报",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "秘境挑战后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "任务执行者",
+        "胡塞尼"
+      ],
+      "summary": "秘境挑战结束后，任务执行者向胡塞尼回报。原文没有记录回报内容或胡塞尼的具体反应，但这次汇报使本次接洽、搜集与挑战组成的任务流程暂时收束。",
+      "motivation": "将秘境挑战后的结果告知胡塞尼，完成当前任务流程。",
+      "outcome": "胡塞尼收到最终回报，本章结束；接洽问题是否彻底解决原文未明确。",
+      "keywords": [
+        "胡塞尼",
+        "最终回报",
+        "任务收束"
+      ],
+      "source_step_keys": [
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 7165205,
+          "title": "向胡塞尼回报",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:03:54.593Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

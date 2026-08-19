@@ -1,0 +1,179 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 41152,
+    "slug": "41152_good-hunter-express",
+    "title": "猎鹿急送",
+    "chapter_num": "",
+    "premise": "猎鹿人餐馆的莎拉需要将一份讲究酥脆口感的蒙德土豆饼送给西瑞，并向接单者说明限时配送的要求。接单者需要避免餐品在途中受损，及时完成这份特别订单。",
+    "central_conflict": "配送既受时间限制，又要求接单者避免遭受元素攻击，以免土豆饼的脆皮因意外和激烈抖动而剥落。接单者是否接受这项有风险的差事，决定订单能否继续推进。",
+    "summary": "莎拉在猎鹿人餐馆说明，西瑞订购了一份蒙德土豆饼，希望在约定时段收到。由于餐品的脆皮容易因激烈抖动剥落，她要求接单者限时送达，并提醒途中不要被元素击中。接单者可以拒绝委托，使莎拉转而寻找别人，也可以接受任务并带着她的安全嘱咐出发。西瑞在等待期间已经十分饥饿，凸显订单的紧迫性。完成配送的接单者将餐品交给西瑞，西瑞因终于等到食物而表示感谢。特别订单由此完成，配送风险未再引出新的冲突。",
+    "resolution": "蒙德土豆饼最终交到西瑞手中，西瑞的等待和饥饿得到解决。莎拉事先承诺若途中发生意外可以重新备餐，但成功交付后无需启用这一补救方案。",
+    "themes": [
+      "限时配送",
+      "谨慎护送",
+      "受托责任",
+      "餐品品质"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 41152,
+      "title": "猎鹿急送",
+      "summary": "本章围绕莎拉委托配送蒙德土豆饼展开，她说明餐品易损、必须限时送达，并要求接单者避免遭受元素攻击。接单者的回应形成拒绝或接受两种分支；接受后，任务转向为饥饿等待的西瑞送餐。餐品最终交付，西瑞表达感谢，特别订单随之完成。",
+      "turning_point": "接单者接受莎拉的委托，使事件从订单说明转入受限制的实际配送。",
+      "outcome": "蒙德土豆饼被送到西瑞手中，西瑞结束等待，猎鹿人的特别订单完成。",
+      "section_ids": [
+        "41152-c00-s01",
+        "41152-c00-s02",
+        "41152-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "蒙德城的猎鹿人餐馆里有一份特别订单正等待着派送…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "41152-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "莎拉说明限时配送要求",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "西瑞预定收餐时段临近时",
+      "locations": [
+        "猎鹿人餐馆"
+      ],
+      "characters": [
+        "莎拉",
+        "接单者",
+        "西瑞"
+      ],
+      "summary": "莎拉在猎鹿人餐馆说明，西瑞订了一份蒙德土豆饼，希望在约定时段收到。她指出土豆饼的脆皮会因激烈抖动而剥落，因此要求限时送达，并提醒接单者不要在途中被元素击中。接单者若拒绝，莎拉会另找人帮忙；接单者若接受，莎拉便交付任务并嘱咐其注意安全。",
+      "motivation": "莎拉希望西瑞及时吃到口感酥脆的土豆饼，同时避免接单者在不太平的路途中受伤。",
+      "outcome": "接受分支使配送正式开始；拒绝分支则由莎拉寻找其他人，二者并非同时发生。",
+      "keywords": [
+        "莎拉",
+        "蒙德土豆饼",
+        "限时配送",
+        "元素攻击",
+        "选择分支"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 4115204,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 4115201,
+          "title": "与莎拉对话",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 4115203,
+          "title": "与卖力的西瑞对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "41152-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "饥饿的西瑞等待餐品",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "配送进行期间",
+      "locations": [
+        "西瑞所在处"
+      ],
+      "characters": [
+        "卖力的西瑞",
+        "接单者"
+      ],
+      "summary": "配送进行期间，接单者来到卖力的西瑞所在处。西瑞因餐品尚未送达而感到饥饿，他的等待进一步体现了订单需要及时完成。",
+      "motivation": "接单者需要把莎拉准备的餐品送达，西瑞则希望尽快吃到自己订购的食物。",
+      "outcome": "接单者找到正在等待的西瑞，为随后正式交付餐品创造条件。",
+      "keywords": [
+        "卖力的西瑞",
+        "等待",
+        "饥饿",
+        "送餐"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 4115202,
+          "title": "将餐品送给卖力的西瑞",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "41152-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "土豆饼交到西瑞手中",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "限时配送末段",
+      "locations": [
+        "西瑞所在处"
+      ],
+      "characters": [
+        "卖力的西瑞",
+        "接单者"
+      ],
+      "summary": "接单者向卖力的西瑞表明送来的是他订购的餐品，并完成交付。西瑞因终于等到食物而表示感谢，特别订单随之收束。",
+      "motivation": "接单者需要履行对莎拉的承诺并完成配送，西瑞则急切盼望收到餐品。",
+      "outcome": "餐品成功送达西瑞，限时配送目标完成，本章冲突得到解决。",
+      "keywords": [
+        "餐品交付",
+        "西瑞",
+        "感谢",
+        "订单完成"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 4115203,
+          "title": "与卖力的西瑞对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:48:35.761Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

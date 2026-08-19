@@ -1,0 +1,84 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 21014,
+    "slug": "21014_test",
+    "title": "(test)璃月入口镜头$UNRELEASED$HIDDEN",
+    "chapter_num": "",
+    "premise": "这是一个被标记为未发布且隐藏的测试任务场景，围绕璃月入口的镜头使用展开，其起点是开启一个镜头任务。",
+    "central_conflict": "本场景不包含实际剧情冲突，未呈现任何人物或目标对立，核心内容仅为单一测试性质的镜头任务开启步骤。",
+    "summary": "该场景为隐藏且未发布的测试任务，共一个章节。章节内仅含一个任务步骤“开启镜头任务”，该步骤没有步骤描述、任务数据与参与角色列表。任务标题与章节描述仅指向“璃月入口的镜头使用”，未展开任何实际剧情事件。由于内容高度简化且标注为测试，本场景不构成正式主线叙事，仅作为镜头功能验证的入口存在。",
+    "resolution": "场景以“开启镜头任务”作为唯一收束点，未提供完成条件、结果或后续步骤；作为隐藏测试内容，其对正式主线没有可见的推进或影响。",
+    "themes": [
+      "测试任务",
+      "隐藏未发布内容",
+      "镜头运用",
+      "璃月入口"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 21014,
+      "title": "(test)璃月入口镜头$UNRELEASED$HIDDEN",
+      "summary": "本章是隐藏且未发布的测试章节，包含唯一任务步骤“开启镜头任务”。该步骤既无步骤描述，也无任务数据，未展开任何剧情事件或角色互动。章节内容仅标示了一个与璃月入口相关的镜头任务入口，整体以极简形式存在，属于功能测试性质。",
+      "turning_point": "原文未明确；本章仅含单一测试步骤，无剧情转折。",
+      "outcome": "本章的直接结果仅是开启一个镜头任务；该任务为隐藏测试内容，未呈现完成条件，也未推动后续剧情。",
+      "section_ids": [
+        "21014-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月入口的镜头使用任务$UNRELEASED$HIDDEN",
+      "is_hidden": true
+    }
+  ],
+  "sections": [
+    {
+      "id": "21014-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "开启璃月入口镜头测试任务",
+      "narrative_role": "setup",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "未明确"
+      ],
+      "summary": "本 section 为隐藏且未发布的测试内容，时间与地点均未明确。其中仅包含一个任务步骤“开启镜头任务”，步骤没有描述文字、任务数据或参与角色。该步骤指向一个与璃月入口相关的镜头使用任务，但未展开任何实际剧情事件。",
+      "motivation": "该任务被设定为镜头使用任务，目的应是验证璃月入口相关镜头的表现；具体推动者与行动动机原文未明确。",
+      "outcome": "直接结果是开启一个镜头任务；由于无任务数据与后续步骤，该步骤停留在入口状态，未对后续剧情产生可见推动。",
+      "keywords": [
+        "测试任务",
+        "隐藏内容",
+        "镜头使用",
+        "璃月入口",
+        "未发布"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 2101400,
+          "title": "开启镜头任务$UNRELEASED$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-18T19:59:32.561Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

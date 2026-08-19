@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73662,
+    "slug": "73662_arayeshs-jam",
+    "title": "阿拉耶什的果酱需求",
+    "chapter_num": "",
+    "premise": "奥摩斯港的阿拉耶什需要两罐果酱，玩家角色前去完成这项需求。",
+    "central_conflict": "阿拉耶什坚持必须备齐两罐果酱才肯接受，任务能否完成取决于玩家角色是否满足数量要求。",
+    "summary": "时间未明确，玩家角色在奥摩斯港就果酱需求与阿拉耶什交涉。阿拉耶什询问两罐果酱是否已经备齐，并强调一罐很快就会吃完，因此至少需要两罐。玩家角色若尚未备齐，交付便无法继续；确认准备妥当后，需求进入完成阶段。阿拉耶什随后认可果酱的颜色，也肯定了玩家角色制作果酱的能力。他表示以后还会继续订购，使这次一次性的交付形成潜在的长期委托关系。",
+    "resolution": "两罐果酱的需求得到满足，阿拉耶什对成品表示满意。本次委托就此收束，并留下未来继续订购果酱的可能。",
+    "themes": [
+      "履行委托",
+      "数量要求",
+      "手艺认可",
+      "后续合作"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73662,
+      "title": "阿拉耶什的果酱需求",
+      "summary": "本章围绕向阿拉耶什交付两罐果酱展开。阿拉耶什先核验玩家角色是否满足数量要求，并明确拒绝只接受一罐；备齐两罐后，交付得以完成。随后他认可果酱的外观和玩家角色的手艺，并表达未来继续订购的意向。",
+      "turning_point": "玩家角色确认两罐果酱已经准备妥当，使任务从数量核验转入验收与认可。",
+      "outcome": "阿拉耶什接受需求对应的果酱并给予肯定，同时留下再次订购的后续可能。",
+      "section_ids": [
+        "73662-c00-s01",
+        "73662-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "奥摩斯港的阿拉耶什需要两罐果酱。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73662-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "阿拉耶什核验两罐果酱",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "时间未明确，果酱交付阶段",
+      "locations": [
+        "奥摩斯港"
+      ],
+      "characters": [
+        "玩家角色",
+        "阿拉耶什"
+      ],
+      "summary": "时间未明确，玩家角色在奥摩斯港与阿拉耶什谈及果酱交付。阿拉耶什核验两罐果酱是否备齐，并说明一罐很快就会吃完，因此坚持至少需要两罐。若玩家角色尚未备齐，任务暂时无法完成；确认准备妥当后，交付条件得到满足。",
+      "motivation": "玩家角色希望完成果酱委托，阿拉耶什则要确保获得足够自己食用的两罐果酱。",
+      "outcome": "两罐果酱成为不可省略的完成条件；玩家角色确认备齐后，剧情推进到阿拉耶什的验收反馈。",
+      "keywords": [
+        "两罐果酱",
+        "数量核验",
+        "交付条件",
+        "阿拉耶什"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7366201,
+          "title": "将两罐果酱交给阿拉耶什",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "73662-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "果酱获认可并促成续订",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确，果酱验收阶段",
+      "locations": [
+        "奥摩斯港"
+      ],
+      "characters": [
+        "玩家角色",
+        "阿拉耶什"
+      ],
+      "summary": "时间未明确，阿拉耶什在奥摩斯港对完成交付的果酱作出评价。他称赞果酱颜色出色，并据此肯定玩家角色制作果酱的能力。阿拉耶什还表示以后会继续订购，使本次委托以满意验收和合作意向收束。",
+      "motivation": "阿拉耶什因成品符合期待而表达认可，并希望未来继续获得同样的果酱。",
+      "outcome": "本次果酱需求完成，玩家角色的手艺得到认可，双方形成潜在的后续订购关系。",
+      "keywords": [
+        "验收",
+        "颜色",
+        "手艺认可",
+        "续订意向"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7366202,
+          "title": "与阿拉耶什对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:17:39.407Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

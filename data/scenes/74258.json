@@ -1,0 +1,131 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 74258,
+    "slug": "74258_tea-party-re-invitation-neuvillette",
+    "title": "茶会的再邀·那维莱特",
+    "chapter_num": "",
+    "premise": "「木偶」前往沫芒宫附近布置茶桌，并使用桑多涅落座，准备与那维莱特共度一段茶会时光。",
+    "central_conflict": "这场相聚的核心张力在于短暂陪伴与继续前行之间的取舍：「木偶」可以选择再停留片刻，也可以主动结束茶会。",
+    "summary": "茶会开始前，「木偶」来到沫芒宫附近放置茶桌，并使用桑多涅落座。那维莱特参加茶会，以纯净水代茶，并感叹今日的水别有风味。短暂品水之后，「木偶」可以选择继续坐一会儿，也可以提出茶会时间已经结束。两种选择最终汇入相同的告别，那维莱特接受茶会收束，并祝愿「木偶」前路顺利。这场简短的重聚以平静陪伴取代激烈冲突，在惜别与祝福中结束。",
+    "resolution": "茶会在「木偶」作出停留或结束的选择后收束，那维莱特以祝福作别。「木偶」由此结束与他的短暂相聚，继续踏上前路。",
+    "themes": [
+      "短暂重聚",
+      "静谧陪伴",
+      "品水茶会",
+      "惜别祝福"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 74258,
+      "title": "茶会的再邀·那维莱特",
+      "summary": "本章围绕「木偶」邀请那维莱特共度茶会展开。她在沫芒宫附近布置茶桌并使用桑多涅落座，那维莱特则品味纯净水，表达对今日风味的欣赏。茶会进入尾声时，「木偶」面临继续停留或就此结束的选择，最终两条选择都以那维莱特的告别与祝福收束。",
+      "turning_point": "「木偶」在短暂品水后决定继续停留片刻或结束茶会，使相聚转入告别阶段。",
+      "outcome": "那维莱特接受茶会结束，并祝愿「木偶」前路顺利，这场短暂重聚随之完成。",
+      "section_ids": [
+        "74258-c00-s01",
+        "74258-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "前往沫芒宫附近放置茶桌并使用桑多涅落座后，与那维莱特共度茶会时光吧…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "74258-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "「木偶」在沫芒宫附近设下茶席",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "茶会开始前",
+      "locations": [
+        "沫芒宫附近"
+      ],
+      "characters": [
+        "「木偶」"
+      ],
+      "summary": "茶会开始前，「木偶」前往沫芒宫附近放置茶桌，并使用桑多涅落座。她完成茶会所需的准备，为与那维莱特共度时光创造条件。",
+      "motivation": "「木偶」希望开启茶会，与那维莱特进行短暂相聚。",
+      "outcome": "茶席准备完成，故事由邀约与布置阶段转入双方共度茶会的阶段。",
+      "keywords": [
+        "沫芒宫",
+        "茶桌",
+        "桑多涅",
+        "茶会准备"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7425801,
+          "title": "前往沫芒宫附近开启茶会",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7425802,
+          "title": "前往沫芒宫附近开启茶会",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "74258-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "那维莱特以祝福结束短暂茶会",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "茶会期间及临近结束时",
+      "locations": [
+        "沫芒宫附近"
+      ],
+      "characters": [
+        "「木偶」",
+        "那维莱特"
+      ],
+      "summary": "茶会期间，那维莱特品味纯净水，并认为今日的水别有风味。随后，「木偶」可以选择继续坐一会儿，也可以提出茶会时间已经结束。无论选择哪种回应，那维莱特最终都接受相聚的收束，并祝愿她前路顺利。",
+      "motivation": "那维莱特借品味纯净水享受茶会，「木偶」则根据自己的意愿决定短暂延长相聚或结束茶会。",
+      "outcome": "茶会以那维莱特的告别和祝福结束，「木偶」得以继续前行。",
+      "keywords": [
+        "纯净水",
+        "短暂相聚",
+        "分支选择",
+        "告别",
+        "前路祝福"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7425803,
+          "title": "享受茶会时光",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:24:40.061Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

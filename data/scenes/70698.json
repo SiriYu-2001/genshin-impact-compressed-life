@@ -1,0 +1,85 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70698,
+    "slug": "70698_an-invitation-from-the-spark-knight",
+    "title": "来自火花骑士的邀请",
+    "chapter_num": "",
+    "premise": "雪山举办比赛期间，可莉遇见旅行者，并向对方分享自己参加活动的快乐。她准备送出赢来的礼物，并邀请旅行者一同游玩。",
+    "central_conflict": "本段没有明显的对抗性冲突，核心推进在于可莉能否将活动的快乐分享给旅行者，并促成对方参与雪山比赛。",
+    "summary": "雪山举办比赛期间，可莉发现旅行者也来到当地。她说明自己从安柏处得知比赛消息，并在摊位上收到许多礼物，因此这几天过得十分开心。为了与旅行者分享收获，可莉把通过游戏赢来的雪人赠给对方。随后，她邀请旅行者有空时也来参加活动。此次相遇以赠礼和邀请收束，为旅行者参与雪山比赛提供了直接契机。",
+    "resolution": "旅行者收到可莉赢来的雪人，也获得了参与雪山活动的邀请。故事留下旅行者之后前往体验比赛的可能。",
+    "themes": [
+      "分享快乐",
+      "友善赠礼",
+      "活动邀请",
+      "雪山比赛"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70698,
+      "title": "来自火花骑士的邀请",
+      "summary": "雪山比赛举办期间，可莉向旅行者讲述自己参加活动、收到摊位礼物的愉快经历。她将游戏赢来的雪人送给旅行者，并邀请对方有空时一同游玩，使这次偶遇转化为参与活动的契机。",
+      "turning_point": "可莉从分享活动经历转而送出自己赢来的雪人，并正式邀请旅行者参加游玩。",
+      "outcome": "旅行者获得雪人和可莉的邀请，后续参与雪山比赛的动机由此建立。",
+      "section_ids": [
+        "70698-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "可莉似乎正在寻找你们…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70698-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "可莉赠送雪人并发出邀请",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "雪山比赛举办期间",
+      "locations": [
+        "雪山"
+      ],
+      "characters": [
+        "可莉",
+        "旅行者"
+      ],
+      "summary": "雪山比赛举办期间，可莉遇见旅行者，并说明自己从安柏处得知活动消息，还在摊位上收到了许多礼物。她因这几天玩得十分开心，便将游戏赢来的雪人赠给旅行者。可莉随后邀请旅行者有空时也来参加游玩，使赠礼成为对方接触比赛的契机。",
+      "motivation": "可莉希望与旅行者分享自己参加雪山活动的快乐和游戏收获，并邀请对方一同游玩。",
+      "outcome": "旅行者收到可莉赠送的雪人和参与活动的邀请，后续前往体验雪山比赛的契机由此形成。",
+      "keywords": [
+        "可莉",
+        "雪山比赛",
+        "雪人赠礼",
+        "游玩邀请"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7069801,
+          "title": "与可莉对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:56:10.939Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73046,
+    "slug": "73046_look-for-and-rescue-the-aranara",
+    "title": "寻找并解救兰那罗",
+    "chapter_num": "",
+    "premise": "任务以寻找并解救被魔物包围的兰那罗为主要目标，但原文没有交代事件发生的具体时间和地点。",
+    "central_conflict": "兰那罗受到魔物包围，需要获得解救；然而现有剧情步骤未呈现双方冲突或实际营救经过。",
+    "summary": "任务开端提出寻找并解救被魔物包围的兰那罗这一目标。唯一的章节只包含一个完成对话步骤，由米农参与。该步骤依次经过三个对话节点，但所有可见文本均为空。原文因此没有说明米农与兰那罗的关系，也没有呈现搜索、遭遇魔物或实施营救的过程。对话流程结束后，唯一的任务步骤随之完成。兰那罗是否已经获救以及事件将产生何种后续影响，原文均未明确。",
+    "resolution": "米农参与的无文本对话结束，任务步骤完成。营救结果及后续发展原文未明确。",
+    "themes": [
+      "营救兰那罗",
+      "魔物威胁",
+      "信息缺失"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73046,
+      "title": "寻找并解救兰那罗",
+      "summary": "本章以寻找并解救被魔物包围的兰那罗为目标，随后进入米农参与的完成对话流程。由于三个对话节点均无可见文本，章节没有展示搜索、冲突或营救行动的具体发展。对话结束后任务步骤完成，但兰那罗的处境与营救结果原文未明确。",
+      "turning_point": "米农参与的完成对话从空白节点推进至结束，使唯一的任务步骤完成；除此之外没有可辨认的剧情转折。",
+      "outcome": "完成对话流程并结束本章唯一的任务步骤，兰那罗是否获救及后续影响原文未明确。",
+      "section_ids": [
+        "73046-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "寻找并解救被魔物包围的兰那罗",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73046-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "米农结束无文本对话流程",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "米农"
+      ],
+      "summary": "时间未明确，地点未明确，任务要求寻找并解救被魔物包围的兰那罗。唯一的剧情步骤由米农参与一段包含三个节点的完成对话，但所有可见台词均为空，原文没有呈现寻找、交战或营救过程。对话流程结束后任务步骤完成，除此之外的直接结果原文未明确。",
+      "motivation": "解救被魔物包围的兰那罗是任务给出的行动推动力；米农参与对话的具体动机原文未明确。",
+      "outcome": "完成对话流程并结束唯一的任务步骤；兰那罗是否已经获救以及对后续的影响原文未明确。",
+      "keywords": [
+        "米农",
+        "兰那罗",
+        "魔物包围",
+        "营救任务",
+        "空白对话"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7304605,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:12:59.211Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

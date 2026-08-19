@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72720,
+    "slug": "72720_versus-mishima-michitoshi",
+    "title": "与三岛道世之战",
+    "chapter_num": "",
+    "premise": "时间与地点均未明确，行事难以捉摸的武士三岛道世等到旅行者出现，并主动发起对决。旅行者需要回应他的挑战并决定是否立即应战。",
+    "central_conflict": "三岛道世轻视旅行者的实力，却以必胜姿态强行邀战；旅行者必须在立刻交锋与先行准备之间作出选择。",
+    "summary": "时间未明确，地点未明确，三岛道世突然拦下旅行者并询问其身份。得知对方是{NICKNAME}后，他表示自己已经等候多时，随即宣称出刀必胜。三岛道世以“黄毛小子”或“黄毛丫头”轻蔑地断定旅行者不是自己的对手，却仍提出此役之后于明日决胜。面对来势直接的挑战，旅行者可以当场接受，也可以要求先作准备。若旅行者选择暂缓，三岛道世同意等待，但催促其速去速回。对话由此结束，双方的正面交锋成为紧接着的目标。",
+    "resolution": "本场景以旅行者回应挑战收束，但没有呈现战斗结果。无论立即接受还是短暂准备，剧情都将双方推向尚待完成的对决。",
+    "themes": [
+      "武者对决",
+      "轻敌",
+      "临战抉择",
+      "胜负执念"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72720,
+      "title": "与三岛道世之战",
+      "summary": "三岛道世等候旅行者现身，并在确认其身份后以轻蔑而自信的态度发起挑战。他一面断言旅行者不是自己的对手，一面宣布还要在此役之后于明日决胜。旅行者最终需要选择立即应战或先作准备，使双方关系从言语试探转入临战状态。",
+      "turning_point": "三岛道世确认旅行者身份后不再试探，直接宣告必胜并将对话转化为正式挑战。",
+      "outcome": "旅行者作出应战时机的选择；若请求准备，三岛道世准许其暂离并催促尽快返回，双方的战斗结果仍未揭晓。",
+      "section_ids": [
+        "72720-c00-s01",
+        "72720-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "摸不清他在想什么的奇怪武士，三岛道世，他…他直接攻过来了！",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72720-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "三岛道世确认来者并宣战",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "三岛道世",
+        "{NICKNAME}"
+      ],
+      "summary": "时间未明确，地点未明确，三岛道世拦下旅行者询问身份，并在得知对方是{NICKNAME}后表示自己已经等候多时。他宣称出刀必胜，又以“黄毛小子”或“黄毛丫头”贬低旅行者，断言对方不是自己的对手。尽管如此，他仍提出先进行此役、再于明日决胜，将相遇直接推向武力对抗。",
+      "motivation": "三岛道世为了与等候已久的旅行者分出胜负，以对自身刀法的绝对自信主动挑起对决。",
+      "outcome": "身份确认与言语试探结束，三岛道世正式提出挑战，迫使旅行者决定是否立即应战。",
+      "keywords": [
+        "身份确认",
+        "主动挑战",
+        "轻敌",
+        "刀出必胜"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7272001,
+          "title": "与三岛道世对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "72720-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "旅行者选择立即应战或准备",
+      "narrative_role": "transition",
+      "importance": 3,
+      "when": "三岛道世发起挑战后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "三岛道世",
+        "{NICKNAME}"
+      ],
+      "summary": "三岛道世发起挑战后，旅行者可以选择当场回应“来吧”，也可以要求先作准备，两种回答构成彼此替代的行动分支。若旅行者要求暂缓，三岛道世没有拒绝，只催促其速去速回。对话随选择结束，剧情由宣战阶段转入等待实际交锋的临战阶段。",
+      "motivation": "旅行者需要依据自身是否准备妥当，决定立即接受挑战或争取短暂的准备时间。",
+      "outcome": "立即接受会直接结束交涉并指向战斗；请求准备则获得短暂延期，但三岛道世仍要求旅行者尽快返回完成对决。",
+      "keywords": [
+        "应战选择",
+        "临战准备",
+        "短暂延期",
+        "对决将至"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7272001,
+          "title": "与三岛道世对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:12:18.754Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

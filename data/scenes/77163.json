@@ -1,0 +1,165 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 77163,
+    "slug": "77163_the-tides-echo-themselves",
+    "title": "潮自回声",
+    "chapter_num": "",
+    "premise": "汐歌洞窟中出现了可供演奏的冰柱，正在练习的沃雅妮莎邀请#{NICKNAME}用特殊工具尝试奏响新曲。",
+    "central_conflict": "#{NICKNAME}需要摸索冰柱的演奏方式，并面对试奏虽有新意却仍未达到自身期待的落差。",
+    "summary": "沃雅妮莎将汐歌洞窟中的冰柱当作演奏设施，并在练习时邀请恰好到来的#{NICKNAME}参与。她交出能让冰柱发声的工具，希望听听对方能够演奏出怎样的曲子。#{NICKNAME}随后尝试奏响新曲，沃雅妮莎听完后称赞曲子富有新意。面对#{NICKNAME}仍觉不足或未能震碎冰柱的反馈，沃雅妮莎指出若想达到更高目标便需要继续练习。她主动提出可以提供指导，却把具体报酬暂时记作一笔尚未确定的欠账。两人由此约定以后有空继续在这间私人练歌房练习。",
+    "resolution": "试奏获得沃雅妮莎认可，#{NICKNAME}也得到继续精进和接受指导的机会。尚未确定的指导报酬为两人之后的互动留下了悬念。",
+    "themes": [
+      "音乐试奏",
+      "探索新奇",
+      "持续练习",
+      "友好约定",
+      "未定报酬"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77163,
+      "title": "潮自回声",
+      "summary": "沃雅妮莎邀请#{NICKNAME}使用特殊工具演奏汐歌洞窟中的冰柱，以检验这套新奇演奏设施的效果。试奏完成后，她肯定曲子的创意，并把#{NICKNAME}对表现的不满足转化为继续练习的动力。最终，她以日后再定报酬为条件提出指导，两人约定继续来此练习。",
+      "turning_point": "沃雅妮莎在肯定新曲后提出提供有偿指导，使一次临时试奏转变为持续练习的约定。",
+      "outcome": "#{NICKNAME}完成冰柱试奏，并与沃雅妮莎约定日后继续练习；指导所需的具体报酬仍未确定。",
+      "section_ids": [
+        "77163-c00-s01",
+        "77163-c00-s02",
+        "77163-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "汐歌洞窟里，似乎多了一些奇异的东西…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77163-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "沃雅妮莎邀请来者试奏冰柱",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "时间未明确，沃雅妮莎练习期间",
+      "locations": [
+        "汐歌洞窟（沃雅妮莎的私人练歌房）"
+      ],
+      "characters": [
+        "沃雅妮莎",
+        "#{NICKNAME}"
+      ],
+      "summary": "沃雅妮莎正在汐歌洞窟测试用于练习的冰柱，并思考接下来要练习的内容。#{NICKNAME}到来后，她邀请对方尝试演奏，并交出能让冰柱发声的工具。她催促#{NICKNAME}动手，希望听到一首由对方演奏的曲子。",
+      "motivation": "沃雅妮莎想继续开发冰柱的演奏用途，并期待#{NICKNAME}带来不同的曲子。",
+      "outcome": "#{NICKNAME}获得奏响冰柱的工具和明确邀请，试奏由此开始。",
+      "keywords": [
+        "沃雅妮莎",
+        "冰柱",
+        "演奏工具",
+        "试奏邀请"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7716301,
+          "title": "和沃雅妮莎对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77163-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "新曲在洞窟冰柱间奏响",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "接受邀请后",
+      "locations": [
+        "汐歌洞窟（沃雅妮莎的私人练歌房）"
+      ],
+      "characters": [
+        "沃雅妮莎",
+        "#{NICKNAME}"
+      ],
+      "summary": "#{NICKNAME}依照沃雅妮莎的邀请，使用冰柱尝试奏响一首新曲。沃雅妮莎在旁等待并聆听，这次演奏成为检验冰柱用途和#{NICKNAME}创意的实际尝试。",
+      "motivation": "#{NICKNAME}接受邀请，尝试运用陌生的冰柱演奏设施完成一首曲子。",
+      "outcome": "试奏顺利完成，为沃雅妮莎随后评价曲子并提出进一步练习建议提供了依据。",
+      "keywords": [
+        "新曲",
+        "冰柱演奏",
+        "尝试",
+        "聆听"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7716302,
+          "title": "尝试奏响新曲",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77163-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "试奏获赞并约定继续练习",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "试奏结束后",
+      "locations": [
+        "汐歌洞窟（沃雅妮莎的私人练歌房）"
+      ],
+      "characters": [
+        "沃雅妮莎",
+        "#{NICKNAME}"
+      ],
+      "summary": "沃雅妮莎称赞#{NICKNAME}刚才的曲子很有新意，也肯定自己的私人练歌房效果不错。#{NICKNAME}表示演奏仍差一些意思或未能震碎冰柱，沃雅妮莎便建议对方继续练习，并提出自己可以提供指导。她暂未想好指导的报酬，决定先记下这笔欠账，同时邀请#{NICKNAME}以后常来练习。",
+      "motivation": "#{NICKNAME}希望演奏达到更高效果，沃雅妮莎则愿意借指导延续共同练习，并为未来安排一项有趣的报酬。",
+      "outcome": "两人约定日后继续练习，沃雅妮莎可能提供指导，而尚未确定的报酬成为后续互动的悬念。",
+      "keywords": [
+        "曲子评价",
+        "继续练习",
+        "指导",
+        "欠账",
+        "约定"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7716303,
+          "title": "和沃雅妮莎对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:38:53.019Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

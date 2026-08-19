@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71710,
+    "slug": "71710_geris-gastro-nostalgia",
+    "title": "杰里的蒙德城美食回忆",
+    "chapter_num": "",
+    "premise": "璃月港的杰里委托旅行者准备三份萝卜时蔬汤，希望借这道菜重温从前的味道。旅行者需要备齐料理并将其交给杰里。",
+    "central_conflict": "委托能否完成取决于旅行者是否备齐三份萝卜时蔬汤；在料理尚未准备好时，杰里的怀旧愿望只能暂时搁置。",
+    "summary": "在璃月港，旅行者就萝卜时蔬汤的委托与杰里交谈。杰里确认自己需要三份料理，并询问旅行者是否已经全部备齐。若料理尚未备妥，他会催促旅行者准备好后尽快送来；完成条件则推动交付继续。旅行者最终交出三份萝卜时蔬汤，杰里从香味中认出与从前相同的感觉。杰里向旅行者致谢并送出报酬，表示会认真品味这道承载回忆的菜肴。委托由此完成，杰里对昔日味道的怀念得到满足。",
+    "resolution": "杰里收到三份萝卜时蔬汤，并通过熟悉的香味重温从前的记忆。他以报酬答谢旅行者，委托随之收束。",
+    "themes": [
+      "故乡美食",
+      "味觉记忆",
+      "怀旧",
+      "委托互助"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71710,
+      "title": "杰里的蒙德城美食回忆",
+      "summary": "旅行者在璃月港回应杰里的委托，确认需要交付三份萝卜时蔬汤。料理备齐后，杰里从熟悉的香味中唤起往昔回忆，并以报酬表达感谢。整章以料理交付为目标，以杰里的怀旧感受获得满足作为收束。",
+      "turning_point": "旅行者备齐并交出三份萝卜时蔬汤，使委托从准备阶段转入杰里品味旧日味道的完成阶段。",
+      "outcome": "杰里收到所需料理，重温了从前的味道，并向旅行者致谢和支付报酬。",
+      "section_ids": [
+        "71710-c00-s01",
+        "71710-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月港的杰里需要三份萝卜时蔬汤。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71710-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "杰里确认三份料理是否备齐",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "委托交付阶段",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "旅行者",
+        "杰里"
+      ],
+      "summary": "在委托交付阶段，旅行者在璃月港向杰里提起萝卜时蔬汤。杰里确认自己需要三份料理，并询问旅行者是否已经全部备齐；若尚未完成，他会要求旅行者准备好后尽快送来。料理是否齐备决定了委托能否进入正式交付。",
+      "motivation": "杰里希望尽快得到三份萝卜时蔬汤，品尝自己怀念的味道；旅行者则需要完成其料理委托。",
+      "outcome": "三份料理备齐后，委托进入交付和答谢阶段；若尚未备齐，交付暂时延后。",
+      "keywords": [
+        "萝卜时蔬汤",
+        "三份料理",
+        "确认交付",
+        "杰里"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7171001,
+          "title": "将三份萝卜时蔬汤交给杰里",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71710-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "熟悉香味唤回杰里的回忆",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "料理交付完成后",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "旅行者",
+        "杰里"
+      ],
+      "summary": "料理交付完成后，杰里闻到萝卜时蔬汤的香味，认出它仍与从前一样。熟悉的味道满足了他的怀旧愿望，他向旅行者致谢并送出报酬，表示会好好品味这道菜。",
+      "motivation": "杰里希望借熟悉的料理重温从前的味道，并感谢旅行者完成委托。",
+      "outcome": "杰里收到并开始品味萝卜时蔬汤，旅行者获得答谢，委托正式完成。",
+      "keywords": [
+        "熟悉香味",
+        "美食回忆",
+        "感谢",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7171002,
+          "title": "与杰里对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:03:47.755Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

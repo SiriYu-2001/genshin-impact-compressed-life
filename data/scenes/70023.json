@@ -1,0 +1,127 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70023,
+    "slug": "70023_mutual-exchange",
+    "title": "互通有无？",
+    "chapter_num": "",
+    "premise": "艾拉·马斯克陪同旅行者与另一名愿意交流的丘丘人接触，希望通过理解并满足它的需求推动双方沟通。丘丘人提出对特定物品的要求，旅行者需要借助手册判断应交付什么。",
+    "central_conflict": "丘丘语造成的理解障碍使旅行者难以确认丘丘人索要的物品及随后给出的信息，错误理解会令交换无法完成。",
+    "summary": "时间未明确，艾拉·马斯克与旅行者在地点未明确处同一名愿意交流的丘丘人展开交谈。丘丘人先用丘丘语说笑，随后表示自己想要“kucha gusha”，艾拉决定依靠手册查明其含义。旅行者据此尝试向丘丘人交付物品，但仍需从丘丘人的反应判断选择是否正确。若交付符合要求，丘丘人会高兴地接受交换，并说出“Mosi aba nunu”这一后续信息。派蒙询问手册是否记录了这句话的含义，旅行者则可用不同丘丘语作答，而丘丘人最终友好回应。若交付不符合要求，丘丘人虽然被逗得十分开心，却不会认可该物品，交换需要重新尝试。整个过程以语言试探和物品交换检验跨族群沟通能否继续。",
+    "resolution": "正确的物品使丘丘人接受交流，并留下“Mosi aba nunu”这一需要继续解读的信息；错误物品则只会得到友善但否定的反馈。双方由此建立了初步的友好互动，同时将语言解读任务推向后续。",
+    "themes": [
+      "跨语言交流",
+      "物品交换",
+      "理解与误解",
+      "初步友谊"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70023,
+      "title": "互通有无？",
+      "summary": "艾拉·马斯克陪同旅行者与一名愿意交流的丘丘人交谈，并从其丘丘语中辨认出它对“kucha gusha”的需求。旅行者随后尝试交付物品，通过丘丘人的不同反应验证理解是否正确。正确交付令丘丘人友好回应并提供“Mosi aba nunu”这一新信息，错误交付则使交换暂时停滞。",
+      "turning_point": "旅行者交付的物品是否符合丘丘人的要求，决定交流能否从试探转为有效交换并获得后续信息。",
+      "outcome": "丘丘人的需求得到进一步确认；正确交换会取得其认可和新的丘丘语线索，而错误选择需要重新尝试。",
+      "section_ids": [
+        "70023-c00-s01",
+        "70023-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "与艾拉·马斯克一同前去与丘丘人交流，或许是一段新友谊的开始…？",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70023-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "丘丘人提出物品需求",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "丘丘人",
+        "艾拉·马斯克",
+        "旅行者"
+      ],
+      "summary": "时间未明确，艾拉·马斯克与旅行者在地点未明确处同另一名愿意交流的丘丘人对话。丘丘人先讲了一个令自己发笑的丘丘语笑话，随后明确表示想要“kucha gusha”。艾拉虽未能当场解释该词，却判断可以借助手册查明其含义。",
+      "motivation": "艾拉与旅行者希望理解丘丘人的诉求，以物品交换继续建立交流。",
+      "outcome": "丘丘人的需求被锁定为“kucha gusha”，后续行动转为查阅手册并寻找合适物品。",
+      "keywords": [
+        "丘丘语",
+        "kucha gusha",
+        "艾拉·马斯克",
+        "需求辨认"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7002301,
+          "title": "与另一个愿意交流的丘丘人对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70023-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "物品交付验证双方理解",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "提出物品需求后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "丘丘人",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "提出物品需求后，旅行者在地点未明确处尝试向丘丘人交付自己判断合适的物品，并等待它确认。若物品正确，丘丘人会兴奋地接受并说出“Mosi aba nunu”，派蒙随即追问手册能否解释这句话，旅行者作答后获得丘丘人的友好回应。若物品不对，派蒙会指出判断有误，丘丘人虽然笑得开心，却不会让交换继续完成。",
+      "motivation": "旅行者需要通过实际交付验证对丘丘语需求的理解，并争取丘丘人的认可与进一步信息。",
+      "outcome": "正确交付完成互换并获得“Mosi aba nunu”这一后续线索；错误交付则暴露理解偏差，需要重新选择物品。",
+      "keywords": [
+        "物品交付",
+        "互通有无",
+        "Mosi aba nunu",
+        "分支反馈",
+        "友好回应"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7002302,
+          "title": "向丘丘人交付物品",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:51:55.689Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

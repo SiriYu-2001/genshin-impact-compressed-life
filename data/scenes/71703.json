@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71703,
+    "slug": "71703_herbalists-forage",
+    "title": "阿桂的药材需求",
+    "chapter_num": "",
+    "premise": "璃月港的阿桂需要十朵甜甜花，旅行者前来交付为其搜集的药材。",
+    "central_conflict": "阿桂急需足量甜甜花处理与孩子们有关的麻烦，委托能否完成取决于旅行者是否已集齐十朵甜甜花。",
+    "summary": "时间未明确，旅行者在璃月港找到阿桂，提起甜甜花的委托。阿桂询问十朵甜甜花是否已经集齐，并催促尚未完成搜集时尽快送来。旅行者完成搜集并交出甜甜花后，阿桂检查药材，确认数量足够。阿桂向旅行者致谢并给予回报，同时流露出希望那些孩子不再闹腾的忧虑。委托由药材交付顺利收束，但孩子们造成的具体麻烦并未得到进一步说明。",
+    "resolution": "阿桂收下足量甜甜花并回报旅行者，药材需求得到满足。他对孩子们的担忧留下了未展开的背景信息。",
+    "themes": [
+      "受托采集",
+      "药材交付",
+      "助人解忧",
+      "隐约忧虑"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71703,
+      "title": "阿桂的药材需求",
+      "summary": "旅行者在璃月港向阿桂交付其委托搜集的十朵甜甜花。阿桂确认药材足够后表示感谢并给予回报，又提及希望那些孩子别再闹了，显露出这批药材背后的急迫缘由。",
+      "turning_point": "阿桂检查旅行者交来的甜甜花并确认数量已经足够，委托由搜集阶段转入完成结算。",
+      "outcome": "阿桂的甜甜花需求得到满足，旅行者获得回报，而阿桂对孩子们的忧虑仍未展开。",
+      "section_ids": [
+        "71703-c00-s01",
+        "71703-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月港的阿桂需要十朵甜甜花。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71703-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "旅行者交付十朵甜甜花",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "完成甜甜花搜集后，具体时间未明确",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "旅行者",
+        "阿桂"
+      ],
+      "summary": "旅行者在璃月港找到阿桂并提起甜甜花的委托。阿桂确认旅行者是否已经集齐十朵甜甜花；委托在药材集齐并交付后得以继续，若尚未集齐，阿桂则会催促旅行者尽快送来。",
+      "motivation": "旅行者需要完成阿桂的采集委托，阿桂则急于取得足量甜甜花应对那些等不得的孩子们。",
+      "outcome": "旅行者完成十朵甜甜花的交付，阿桂开始检查药材并进入委托结算。",
+      "keywords": [
+        "甜甜花",
+        "药材委托",
+        "搜集",
+        "交付"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7170301,
+          "title": "将十朵甜甜花交给阿桂",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71703-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "阿桂确认药材并致谢",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "甜甜花交付后，具体时间未明确",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "旅行者",
+        "阿桂"
+      ],
+      "summary": "阿桂检查旅行者交来的甜甜花，确认这些药材已经够用。他向旅行者致谢并给予回报，随后叹息着希望那些孩子们不要再闹，显露出委托背后仍有未说明的烦恼。",
+      "motivation": "阿桂需要确认药材数量并答谢旅行者，同时挂念那些孩子造成的麻烦。",
+      "outcome": "甜甜花需求得到满足，旅行者获得回报，委托正式完成；孩子们相关的问题只被提及而未进一步展开。",
+      "keywords": [
+        "确认药材",
+        "答谢",
+        "回报",
+        "孩子们"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7170302,
+          "title": "与阿桂对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:03:56.411Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

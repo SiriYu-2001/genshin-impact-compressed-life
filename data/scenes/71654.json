@@ -1,0 +1,235 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71654,
+    "slug": "71654_a-teapot-to-call-home-part-ii",
+    "title": "翠石砌玉壶·其二",
+    "chapter_num": "",
+    "premise": "璃月港的危机平息、城中事务逐渐恢复后，旅行者与派蒙进入尘歌壶，开始查看这处新的壶中居所。",
+    "central_conflict": "尘歌壶虽然空间宽阔并建有大房子，四周却十分空荡；旅行者与派蒙需要通过探索确认周围还有什么。",
+    "summary": "旅行者与派蒙进入尘歌壶，正式开始查看壶内空间。派蒙发现这里似乎比萍姥姥的壶中空间更大，中央还有一栋大房子。宽阔空间内缺少其他事物，使新居显得格外空荡。旅行者以让派蒙自行另找住处的说法打趣她，派蒙拒绝后重新把注意力放到周围环境上。派蒙随即注意到某个尚未说明的事物，促使二人转而探索四周。后续步骤反复围绕探索与交谈展开，但原文没有明确交代发现物的身份或探索的最终结果。",
+    "resolution": "本 scene 以旅行者和派蒙开始持续探索尘歌壶收束，没有揭示他们所注意之物，也未给出明确调查结论。其结果是把剧情从初次进入新居过渡到后续的壶中事务。",
+    "themes": [
+      "新居初探",
+      "壶中空间",
+      "空荡与建设",
+      "未知发现"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71654,
+      "title": "翠石砌玉壶·其二",
+      "summary": "旅行者与派蒙进入尘歌壶，查看宽阔的新空间与中央的大房子。派蒙在感叹四周空荡后注意到某个未被说明的事物，二人的目标由观察新居转为探索周围。后续步骤持续安排探索和交谈，但没有提供明确的发现结果。",
+      "turning_point": "派蒙从感叹壶内空荡转为注意到周围的未知事物，由此推动二人开始探索。",
+      "outcome": "旅行者与派蒙进入尘歌壶并展开持续探索，剧情由初见新居过渡到后续壶中事务。",
+      "section_ids": [
+        "71654-c00-s01",
+        "71654-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月港的危机已然平息，城中的事务也大多重回正轨。 不过，在玉京台赏花的萍姥姥似乎还有件事想和旅行者商量…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71654-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "旅行者进入尘歌壶",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "任务开始时",
+      "locations": [
+        "尘歌壶"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "任务开始时，旅行者与派蒙进入尘歌壶，抵达这处新的壶中居所。两项连续的进入步骤共同完成场景建立，为查看内部空间作准备。",
+      "motivation": "旅行者与派蒙需要进入尘歌壶并确认新居内部的情况。",
+      "outcome": "二人成功置身尘歌壶，随后开始观察其中的房屋和周围环境。",
+      "keywords": [
+        "尘歌壶",
+        "进入新居",
+        "场景建立"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7165404,
+          "title": "进入「尘歌壶」$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7165401,
+          "title": "进入「尘歌壶」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71654-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "派蒙发现壶中异样",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "进入尘歌壶后",
+      "locations": [
+        "尘歌壶"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "进入尘歌壶后，派蒙发现这里空间宽阔、中央建有大房子，但其他地方十分空荡。旅行者以让派蒙自行另造住处的说法打趣她，派蒙拒绝后注意到周围似乎存在某个未知事物。二人由此反复探索四周并进行交谈，但原文没有明确说明所见事物或探索结果。",
+      "motivation": "派蒙对空荡环境中的未知事物产生疑问，推动二人查看周围并确认壶内情况。",
+      "outcome": "二人的关注点从房屋和空旷环境转向四周探索，为后续壶中事务建立过渡；具体发现仍未揭示。",
+      "keywords": [
+        "空荡空间",
+        "大房子",
+        "未知事物",
+        "探索四周"
+      ],
+      "source_step_keys": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7165402,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7165403,
+          "title": "探索四周",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7165407,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7165408,
+          "title": "探索四周",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7165410,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7165411,
+          "title": "探索四周",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7165413,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7165414,
+          "title": "探索四周",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 7165416,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 7165417,
+          "title": "探索四周",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 7165419,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 7165420,
+          "title": "探索四周",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 7165422,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 7165423,
+          "title": "探索四周",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 7165425,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        },
+        {
+          "key": "17",
+          "id": 7165426,
+          "title": "探索四周",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:03:47.631Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70709,
+    "slug": "70709_manly-jacks-manly-journey-of-manliness",
+    "title": "男子汉杰克的男子汉之路",
+    "chapter_num": "",
+    "premise": "男子汉杰克委托旅行者准备三份野菇鸡肉串，希望借吃肉增长力气。故事围绕旅行者完成食物收集并向他交付委托展开。",
+    "central_conflict": "杰克需要完整的三份野菇鸡肉串才能达成目的；若旅行者尚未备齐，交付便无法完成。",
+    "summary": "男子汉杰克询问旅行者是否看到了自己的委托，并确认三份野菇鸡肉串是否已经全部备齐。旅行者尚未完成准备时，杰克会催促其尽快带来食物，并说明自己想靠吃肉增长力气。旅行者备齐三份野菇鸡肉串后，将它们交给杰克。杰克闻到食物的香味后欣然收下，并向旅行者表示感谢。他随后给予旅行者谢礼，准备一口气吃完三份鸡肉串。委托由此完成，杰克的增力计划进入实际进食阶段。",
+    "resolution": "杰克收下全部野菇鸡肉串并交付谢礼，食物收集与交付委托就此完成。他准备立即吃掉食物，但原文未进一步说明其力量是否因此增长。",
+    "themes": [
+      "委托履行",
+      "食物交付",
+      "增长力气",
+      "互助致谢"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70709,
+      "title": "男子汉杰克的男子汉之路",
+      "summary": "本章以向男子汉杰克交付三份野菇鸡肉串为目标，先通过询问确认旅行者是否已经备齐食物。备齐食物成为推进委托的关键变化，杰克随后正式收下鸡肉串、向旅行者致谢并给予谢礼。最终，他准备一口气吃完这些食物，以实现增长力气的愿望。",
+      "turning_point": "旅行者确认已经备齐三份野菇鸡肉串，使委托从收集确认转入正式交付。",
+      "outcome": "杰克收下三份野菇鸡肉串并给予谢礼，委托完成，他随即准备进食。",
+      "section_ids": [
+        "70709-c00-s01",
+        "70709-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "蒙德的男子汉杰克需要三份野菇鸡肉串。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70709-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "旅行者备齐三份鸡肉串",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "委托交付阶段",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "男子汉杰克"
+      ],
+      "summary": "委托交付阶段，旅行者就野菇鸡肉串与男子汉杰克交谈，杰克询问三份食物是否已经全部备齐。若尚未备齐，他会要求旅行者取得食物后尽快送来，并说明吃肉能让自己增长力气；当旅行者确认已经备齐时，交付流程得以继续。",
+      "motivation": "杰克希望通过吃肉增长力气，因此需要旅行者备齐并送来三份野菇鸡肉串。",
+      "outcome": "旅行者备齐食物后满足交付条件，剧情随即转入杰克正式收取鸡肉串的阶段。",
+      "keywords": [
+        "野菇鸡肉串",
+        "委托确认",
+        "备齐食物",
+        "增长力气"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7070901,
+          "title": "将三份野菇鸡肉串交给男子汉杰克",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70709-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "杰克收下食物并致谢",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "完成交付后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "男子汉杰克"
+      ],
+      "summary": "完成交付后，男子汉杰克闻到三份野菇鸡肉串的香味，欣然将它们收下。他向旅行者道谢并给予谢礼，随后准备一口气吃完全部食物。",
+      "motivation": "杰克收取食物是为了进食并增长力气，同时以谢礼回报旅行者的帮助。",
+      "outcome": "三份野菇鸡肉串完成交付，旅行者获得谢礼，杰克开始实施自己的进食计划，委托就此收束。",
+      "keywords": [
+        "收下食物",
+        "谢礼",
+        "致谢",
+        "完成委托"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7070902,
+          "title": "与男子汉杰克对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:56:52.263Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

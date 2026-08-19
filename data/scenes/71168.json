@@ -1,0 +1,84 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71168,
+    "slug": "71168_light-the-way-of-wishes",
+    "title": "灯逐良愿",
+    "chapter_num": "",
+    "premise": "在萍溪提出建议后，旅行者决定在璃月港尝试放飞特殊的霄灯，以此寄托节庆愿望。",
+    "central_conflict": "原文没有呈现明确的对抗性冲突，主要推进在于将放飞霄灯的提议付诸行动；霄灯应称为「节庆霄灯」还是「节礼霄灯」并未得到明确结论。",
+    "summary": "在萍溪的建议下，旅行者将放飞特殊霄灯作为新的行动目标。行动发生在璃月港，具体时间未明确。旅行者尝试放飞被称作「节庆霄灯」或「节礼霄灯」的特殊霄灯。目标文本未交代放飞过程中的阻碍、人物交流或具体愿望内容。这次放飞完成了本段围绕霄灯寄愿展开的简短节庆行动，但其后续影响原文未明确。",
+    "resolution": "旅行者在璃月港完成以放飞特殊霄灯为核心的行动。霄灯的确切称谓、所寄愿望及后续反馈均未明确。",
+    "themes": [
+      "节庆祈愿",
+      "霄灯",
+      "付诸行动",
+      "美好愿望"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71168,
+      "title": "灯逐良愿",
+      "summary": "本章以萍溪关于放飞霄灯的建议为起点，旅行者前往璃月港尝试放飞特殊的霄灯。剧情没有呈现额外阻碍或对话，重点是把节庆寄愿的想法转化为实际行动。霄灯称谓及放飞后的具体影响均未得到进一步说明。",
+      "turning_point": "旅行者接受萍溪的建议，决定实际放飞特殊的霄灯。",
+      "outcome": "旅行者在璃月港执行了放飞特殊霄灯的任务，本章就此收束。",
+      "section_ids": [
+        "71168-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在萍溪的建议下，你决定尝试放飞「节庆霄灯」…或许「节礼霄灯」也不错？",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71168-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "在璃月港放飞特殊霄灯",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "在萍溪提出建议后，具体时间未明确",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "在萍溪提出建议后，旅行者决定在璃月港尝试放飞特殊的霄灯。原文对霄灯使用了「节庆霄灯」与「节礼霄灯」两种可能称谓，但没有明确最终名称。旅行者执行了放飞霄灯的行动，具体过程与现场反馈未被交代。",
+      "motivation": "旅行者受到萍溪的建议推动，希望通过放飞特殊霄灯寄托节庆中的美好愿望。",
+      "outcome": "特殊霄灯在璃月港被放飞，本章的单一任务目标得到落实；放飞后的影响原文未明确。",
+      "keywords": [
+        "璃月港",
+        "特殊霄灯",
+        "萍溪",
+        "节庆祈愿"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7116801,
+          "title": "在璃月港内放飞特殊的霄灯",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:01:08.548Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

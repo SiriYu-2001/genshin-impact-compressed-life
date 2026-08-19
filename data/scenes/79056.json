@@ -1,0 +1,267 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 79056,
+    "slug": "79056_domain-adventures",
+    "title": "秘境冒险的征途",
+    "chapter_num": "",
+    "premise": "提瓦特大陆上不知何时出现了神奇秘境，行动者需要进入其中，借助墙面、轨道车和帐篷内的机关探寻其奥秘。",
+    "central_conflict": "秘境的通路受到空间玩法、受损轨道和枢纽机关限制，行动者必须逐步排除阻碍才能继续深入并离开帐篷区域。",
+    "summary": "行动者首先在神奇秘境中完成平面玩法，由此取得前往下一区域的条件。进入新区域后，行动者乘坐载具前进，又利用墙面玩法修复受阻的轨道，使行程得以延续。随后，行动者前往帐篷并登上第三层升起彩灯，推动帐篷内的探索继续发展。完成升灯后，行动者按后续目标再次前往帐篷区域，并将枢纽旋转至黄色花所指的线路。行动者乘坐过山车通过该线路，最终离开帐篷。秘境为何出现、这些机关为何存在以及整段探索的最终目的，原文均未明确揭示。",
+    "resolution": "行动者通过黄色花线路乘坐过山车并离开帐篷，完成了本段连续的秘境机关挑战。秘境本身的来源和探索行为背后的原因仍未得到说明。",
+    "themes": [
+      "秘境探索",
+      "机关解谜",
+      "轨道冒险",
+      "空间转换",
+      "未知目的"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 79056,
+      "title": "秘境冒险的征途",
+      "summary": "本章围绕行动者深入神奇秘境并克服沿途机关展开。行动者先完成平面玩法，再借助墙面机制修复轨道并乘车深入，随后进入帐篷第三层升起彩灯。枢纽被转至黄色花线路后，行动者乘坐过山车离开帐篷，但秘境及整场行动的真正目的仍未揭晓。",
+      "turning_point": "行动者利用墙面玩法修复轨道，使受阻的载具路线恢复，并得以继续深入帐篷区域。",
+      "outcome": "行动者完成平面、轨道和帐篷机关流程，通过黄色花线路乘坐过山车离开帐篷。",
+      "section_ids": [
+        "79056-c00-s01",
+        "79056-c00-s02",
+        "79056-c00-s03",
+        "79056-c00-s04",
+        "79056-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "不知何时出现在了提瓦特大陆上的神奇秘境，为了探寻其中的奥秘，需要钻入石壁，乘坐轨道车，并且进入帐篷升起彩灯。不过，这到底都是为了什么呢…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "79056-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "平面玩法开启秘境探索",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "秘境探索开始阶段",
+      "locations": [
+        "神奇秘境的平面玩法区域"
+      ],
+      "characters": [
+        "行动者（原文未具名）"
+      ],
+      "summary": "秘境探索开始后，行动者在神奇秘境中进行平面玩法。完成这一阶段后，行动者按目标前往下一区域，使探索从初始机关转入更深处。",
+      "motivation": "通过秘境的初始玩法并继续探寻其中的奥秘。",
+      "outcome": "平面玩法完成，行动者进入下一区域并接触载具路线。",
+      "keywords": [
+        "平面玩法",
+        "秘境探索",
+        "区域推进"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7905601,
+          "title": "进行平面玩法",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7905609,
+          "title": "前往下一区域",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "79056-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "修复轨道后乘车深入",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "进入下一区域后",
+      "locations": [
+        "神奇秘境的载具与轨道区域",
+        "墙面玩法区域"
+      ],
+      "characters": [
+        "行动者（原文未具名）"
+      ],
+      "summary": "进入下一区域后，行动者乘坐载具继续前行，但后续路线需要通过墙面玩法修复轨道。行动者完成修复并再次乘车，使原本受阻的轨道行程得以延续。",
+      "motivation": "排除轨道障碍，以载具继续深入秘境。",
+      "outcome": "轨道恢复可用，行动者乘车通过该区域并向帐篷推进。",
+      "keywords": [
+        "载具",
+        "墙面玩法",
+        "轨道修复",
+        "深入秘境"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7905610,
+          "title": "乘坐载具前行",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7905611,
+          "title": "利用墙面玩法修复轨道乘车前行",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "79056-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "登上三层升起彩灯",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "完成轨道行程后",
+      "locations": [
+        "帐篷",
+        "帐篷第三层"
+      ],
+      "characters": [
+        "行动者（原文未具名）"
+      ],
+      "summary": "完成轨道行程后，行动者前往帐篷，将探索地点转入帐篷内部。行动者随后抵达第三层并升起彩灯，完成这一阶段的机关目标。",
+      "motivation": "完成帐篷内的升灯目标，以推动秘境探索继续进行。",
+      "outcome": "第三层的彩灯被升起，后续枢纽与过山车路线目标随之展开。",
+      "keywords": [
+        "帐篷",
+        "第三层",
+        "彩灯",
+        "机关目标"
+      ],
+      "source_step_keys": [
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 7905621,
+          "title": "前往帐篷",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7905624,
+          "title": "前往第三层升起彩灯",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "79056-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "枢纽转向黄色花线路",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "升起彩灯后",
+      "locations": [
+        "帐篷区域",
+        "枢纽",
+        "过山车线路"
+      ],
+      "characters": [
+        "行动者（原文未具名）"
+      ],
+      "summary": "升起彩灯后，行动者按后续目标前往帐篷区域，并操作线路枢纽。枢纽被旋转至黄色花对应的方向后，行动者乘上过山车，沿选定线路继续前进。",
+      "motivation": "调整枢纽至指定方向，取得可供过山车通行的后续路线。",
+      "outcome": "黄色花线路被选定，行动者乘坐过山车驶向帐篷出口阶段。",
+      "keywords": [
+        "枢纽",
+        "黄色花",
+        "过山车",
+        "线路选择"
+      ],
+      "source_step_keys": [
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 7905622,
+          "title": "前往帐篷",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7905614,
+          "title": "旋转枢纽至黄色花并乘坐过山车",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "79056-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "行动者最终离开帐篷",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "乘坐过山车后",
+      "locations": [
+        "帐篷出口区域"
+      ],
+      "characters": [
+        "行动者（原文未具名）"
+      ],
+      "summary": "通过黄色花对应的过山车线路后，行动者执行离开帐篷的最终目标。行动者由此结束帐篷内的连续机关行程，但秘境探索的真实缘由仍未得到解释。",
+      "motivation": "完成既定路线并离开帐篷区域。",
+      "outcome": "行动者成功离开帐篷，本章的秘境机关流程就此收束。",
+      "keywords": [
+        "离开帐篷",
+        "过山车",
+        "流程收束"
+      ],
+      "source_step_keys": [
+        "8"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "8",
+          "id": 7905625,
+          "title": "离开帐篷",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:41:27.885Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

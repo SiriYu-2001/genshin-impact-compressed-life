@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72718,
+    "slug": "72718_matsumotos-fried-egg-fracas",
+    "title": "松本的煎蛋需求",
+    "chapter_num": "",
+    "premise": "鸣神岛的松本发布委托，要求委托接取者为他准备五份提瓦特煎蛋。他希望借此发现不为人知的厨艺高手。",
+    "central_conflict": "松本已经厌倦乌有亭和木南料亭的料理，却又担心这批煎蛋仍会令他失望；委托能否推进取决于五份煎蛋是否备齐。",
+    "summary": "松本在鸣神岛等待响应委托的人，并说明自己觉得乌有亭和木南料亭都太无趣。为了寻找可能藏在意外之处的厨艺高手，他发布了收集五份提瓦特煎蛋的委托。他询问委托接取者是否已经准备好所需煎蛋，尚未备齐时便要求对方准备好后再来。五份煎蛋交付后，松本接受了料理并准备品尝。尽管他希望这次不会再次失望，原文并未给出最终的品尝评价。",
+    "resolution": "五份提瓦特煎蛋成功交到松本手中，委托完成至品尝阶段。松本的实际评价及他是否发现厨艺高手均未明确。",
+    "themes": [
+      "美食委托",
+      "厨艺期待",
+      "厌倦与尝新",
+      "交付考验"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72718,
+      "title": "松本的煎蛋需求",
+      "summary": "松本解释自己因厌倦知名餐馆而发布委托，希望从意想不到的地方发现厨艺高手，并索要五份提瓦特煎蛋。委托接取者备齐料理后完成交付，松本随即准备品尝，但本章没有揭示他的最终评价。",
+      "turning_point": "五份提瓦特煎蛋由待准备的委托目标转为已经交付的料理，使事件从说明需求转入松本品尝成果的阶段。",
+      "outcome": "松本收到五份提瓦特煎蛋并开始检验其味道，委托得到直接完成，但品尝结果仍未明确。",
+      "section_ids": [
+        "72718-c00-s01",
+        "72718-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "鸣神岛的松本想要五份提瓦特煎蛋。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72718-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "松本说明缘由并索要五份煎蛋",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "委托接取者响应委托并与松本交谈时",
+      "locations": [
+        "鸣神岛"
+      ],
+      "characters": [
+        "松本",
+        "委托接取者"
+      ],
+      "summary": "在鸣神岛，松本向响应委托的人解释，他已经觉得乌有亭和木南料亭太过无趣，因此想从意想不到的地方寻找厨艺高手。他要求对方交出五份提瓦特煎蛋；若尚未备齐，便让对方准备好后再来，备齐后则完成交付。",
+      "motivation": "松本希望摆脱对知名餐馆料理的厌倦，并借普通煎蛋发现潜藏在别处的厨艺高手。",
+      "outcome": "五份煎蛋备齐后被交给松本，剧情由确认委托物品转入品尝阶段；未备齐的分支则暂时中止交付。",
+      "keywords": [
+        "松本",
+        "提瓦特煎蛋",
+        "委托缘由",
+        "料理交付"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7271801,
+          "title": "将五份提瓦特煎蛋交给松本",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "72718-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "松本接过煎蛋并准备品尝",
+      "narrative_role": "resolution",
+      "importance": 2,
+      "when": "五份提瓦特煎蛋交付后",
+      "locations": [
+        "鸣神岛"
+      ],
+      "characters": [
+        "松本",
+        "委托接取者"
+      ],
+      "summary": "五份提瓦特煎蛋交付后，松本接过料理并准备尝味。他希望这一次的成果不会再次令自己失望，但原文没有展示品尝后的评价。",
+      "motivation": "松本想验证这批煎蛋能否满足自己对新奇厨艺的期待。",
+      "outcome": "委托完成至松本品尝料理的阶段，其满意与否及后续影响均未明确。",
+      "keywords": [
+        "品尝",
+        "期待",
+        "失望",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7271802,
+          "title": "与松本对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:12:00.407Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73659,
+    "slug": "73659_yavananis-apples",
+    "title": "雅瓦娜尼的苹果需求",
+    "chapter_num": "",
+    "premise": "须弥城的雅瓦娜尼通过委托索要五个苹果，旅行者前来确认并完成交付。",
+    "central_conflict": "委托能否完成取决于旅行者是否备齐五个苹果，而雅瓦娜尼也需要把自己的表达简化为清楚直接的要求。",
+    "summary": "时间未明确，旅行者在须弥城找到雅瓦娜尼，向她谈起苹果委托。雅瓦娜尼先低声议论语言学问题，随后想起阿芬迪提醒她应当用容易理解的方式回应委托相关人员。她于是直接询问旅行者是否已经准备好五个苹果；若尚未备齐，交付便暂时推迟，待准备完成后再继续。旅行者备齐并交出五个苹果后，委托目标达成。雅瓦娜尼向旅行者致谢，并认为通过阿芬迪发布委托省去了额外解释，使事情顺利办成。",
+    "resolution": "五个苹果完成交付，雅瓦娜尼的需求得到满足。她对委托机制便利性的肯定为这段简短委托作出收束，没有留下明确的后续冲突。",
+    "themes": [
+      "委托履行",
+      "清晰表达",
+      "物资交付",
+      "沟通效率"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73659,
+      "title": "雅瓦娜尼的苹果需求",
+      "summary": "旅行者在须弥城与雅瓦娜尼确认苹果委托，雅瓦娜尼遵照阿芬迪的提醒，将复杂的表达简化为索要五个苹果的直接问题。旅行者备齐苹果后完成交付，雅瓦娜尼随即致谢，并感叹发布委托让事情无需过多解释便得以办成。",
+      "turning_point": "旅行者确认已经备齐五个苹果，使对话从需求确认转入实际交付。",
+      "outcome": "雅瓦娜尼收到五个苹果，委托完成，她也认可了阿芬迪所提供委托方式的便利。",
+      "section_ids": [
+        "73659-c00-s01",
+        "73659-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "须弥城的雅瓦娜尼想要五个苹果。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73659-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "雅瓦娜尼确认苹果是否备齐",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确，苹果委托交付阶段",
+      "locations": [
+        "须弥城"
+      ],
+      "characters": [
+        "雅瓦娜尼",
+        "旅行者"
+      ],
+      "summary": "旅行者在须弥城向雅瓦娜尼谈起苹果，雅瓦娜尼从对语言学问题的低声议论转而处理委托。她想起阿芬迪关于清楚表达的提醒，直接询问旅行者是否准备好五个苹果；未备齐时交付暂缓，备齐后旅行者完成交付。",
+      "motivation": "雅瓦娜尼希望取得五个苹果，并依照阿芬迪的提醒以便于理解的方式确认旅行者是否已备齐物品；旅行者则要履行委托。",
+      "outcome": "旅行者备齐并交出五个苹果，委托的物资需求得到满足，随后进入雅瓦娜尼致谢的收尾对话。",
+      "keywords": [
+        "五个苹果",
+        "委托确认",
+        "简化表达",
+        "物资交付"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7365901,
+          "title": "将五个苹果交给雅瓦娜尼",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "73659-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "雅瓦娜尼致谢并肯定委托",
+      "narrative_role": "resolution",
+      "importance": 2,
+      "when": "五个苹果交付后",
+      "locations": [
+        "须弥城"
+      ],
+      "characters": [
+        "雅瓦娜尼",
+        "旅行者"
+      ],
+      "summary": "收到苹果后，雅瓦娜尼向旅行者道谢。她表示通过阿芬迪发布委托十分方便，不必额外作出许多解释也能把事情办成。",
+      "motivation": "雅瓦娜尼因苹果需求已经解决而表达感谢，并总结这次委托得以顺利完成的原因。",
+      "outcome": "苹果委托正式收束，雅瓦娜尼对委托方式的便利性作出肯定，没有提出新的要求。",
+      "keywords": [
+        "致谢",
+        "阿芬迪",
+        "委托便利",
+        "任务完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7365902,
+          "title": "与雅瓦娜尼对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:17:38.744Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72171,
+    "slug": "72171_the-gourmet-supremos-of-shrines-and-sakura",
+    "title": "全能美食队·神社的树",
+    "chapter_num": "",
+    "premise": "全能美食队似乎对鸣神大社产生了兴趣，剧情由此前往神社的目标展开。",
+    "central_conflict": "核心矛盾原文未明确；现有文本只设定了前往鸣神大社的行动目标，未呈现阻碍或对立。",
+    "summary": "本scene以全能美食队对鸣神大社表现出兴趣为开端。剧情将鸣神大社确立为接下来的目的地。唯一明确的行动推进是前往鸣神大社。原文没有提供对话、调查过程、冲突或高潮转折。全能美食队关注神社的具体原因也未得到说明。故事因此收束于探访目标的设定，并未交代抵达后的见闻或影响。",
+    "resolution": "本scene以行动目标指向鸣神大社而收束。抵达后的事件及该次探访对后续剧情的影响均未在原文中明确。",
+    "themes": [
+      "神社探访",
+      "好奇心",
+      "行动启程"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72171,
+      "title": "全能美食队·神社的树",
+      "summary": "本章围绕全能美食队对鸣神大社的兴趣展开，并将前往鸣神大社设为唯一明确目标。原文未呈现探访途中或抵达后的具体事件，也没有形成明确的冲突与转折。",
+      "turning_point": "原文未明确",
+      "outcome": "行动目标被引向鸣神大社，但探访结果及后续影响原文未明确。",
+      "section_ids": [
+        "72171-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "「全能美食队」似乎对鸣神大社有些兴趣…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72171-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "目标指向鸣神大社",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "时间未明确，任务启动阶段",
+      "locations": [
+        "鸣神大社"
+      ],
+      "characters": [
+        "全能美食队"
+      ],
+      "summary": "时间未明确，在任务启动阶段，全能美食队似乎对鸣神大社产生了兴趣。剧情据此将前往鸣神大社设为当前目标，但未交代沿途经过或抵达后的事件。",
+      "motivation": "全能美食队对鸣神大社表现出的兴趣推动了此次探访。",
+      "outcome": "行动目标被设定为前往鸣神大社；探访的直接结果及后续发展原文未明确。",
+      "keywords": [
+        "全能美食队",
+        "鸣神大社",
+        "探访目标"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7217101,
+          "title": "前往鸣神大社",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:06:10.988Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

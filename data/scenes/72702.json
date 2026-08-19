@@ -1,0 +1,85 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72702,
+    "slug": "72702_kairagi-chaos",
+    "title": "海乱鬼引起的混乱",
+    "chapter_num": "",
+    "premise": "鸣神岛上某处有海乱鬼作乱，井上希望有人出手制止这场混乱。主要目标是击退海乱鬼。",
+    "central_conflict": "海乱鬼的活动扰乱了当地秩序，而井上需要借助他人的力量解决威胁。",
+    "summary": "时间未明确，鸣神岛上某处出现了海乱鬼作乱的情况。井上面对这场混乱，希望有人能够提供帮助。任务由此确立了击退海乱鬼、制止骚乱的目标。目标章节仅包含任务目标，没有提供交涉、战斗过程或具体参与者的进一步信息。原文也未明确说明海乱鬼最终是否已被击退。",
+    "resolution": "本场景以“击退海乱鬼”作为明确的行动目标，但没有记载行动过程和完成结果。其后续影响在原文中未明确。",
+    "themes": [
+      "平息骚乱",
+      "求助",
+      "对抗海乱鬼"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72702,
+      "title": "海乱鬼引起的混乱",
+      "summary": "鸣神岛上某处的海乱鬼正在作乱，井上希望有人帮助解决由此造成的混乱。本章据此提出击退海乱鬼的任务目标，但没有展开具体行动过程，也未确认任务是否完成。",
+      "turning_point": "井上的求助将当地骚乱转化为击退海乱鬼的明确行动目标。",
+      "outcome": "击退海乱鬼成为当前任务，但其执行过程与最终结果均未在原文中明确。",
+      "section_ids": [
+        "72702-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "鸣神岛上某处，海乱鬼正在作乱，井上希望能有人帮忙解决这场混乱。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72702-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "井上请求击退作乱的海乱鬼",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "鸣神岛上某处"
+      ],
+      "characters": [
+        "井上",
+        "海乱鬼"
+      ],
+      "summary": "时间未明确，鸣神岛上某处有海乱鬼作乱，并造成了一场需要处理的混乱。井上希望有人出手相助，任务目标因此被确定为击退海乱鬼。原文没有提供具体交战过程或完成结果。",
+      "motivation": "井上希望制止海乱鬼造成的混乱，恢复当地秩序。",
+      "outcome": "击退海乱鬼成为明确的后续行动目标，但行动是否完成在原文中未明确。",
+      "keywords": [
+        "鸣神岛",
+        "井上",
+        "海乱鬼",
+        "击退",
+        "骚乱"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7270201,
+          "title": "击退海乱鬼",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:11:08.250Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

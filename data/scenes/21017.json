@@ -1,0 +1,244 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 21017,
+    "slug": "21017_yaoguang-shoal-time-trial-challenge",
+    "title": "瑶光滩限时抵达挑战$HIDDEN",
+    "chapter_num": "",
+    "premise": "旅行者在瑶光滩参与“限时抵达挑战”：反复与未具名的NPC对话并完成限时抵达玩法，共四轮。这是本scene呈现的全部流程内容。",
+    "central_conflict": "数据中不存在叙事性冲突；scene的全部内容为隐藏的“对话NPC—完成玩法”占位流程，无人物的矛盾、障碍或剧情对抗。",
+    "summary": "scene开端为旅行者与未具名NPC的对话，随后进入第一轮限时抵达玩法。此后“对话NPC—完成玩法”的流程以相同结构重复三轮，共四个循环、八个story步骤。全部步骤标题均带$HIDDEN标记，且没有步骤描述、NPC名单、奖励或任何叙事文本。全scene没有情节展开、转折或人物刻画，仅呈现挑战流程的骨架。作为隐藏任务，它与同批次的望舒客栈、瀑布群限时抵达挑战结构完全一致。scene在第四轮玩法完成后结束。",
+    "resolution": "四轮循环全部完成后scene收束，未给出奖励、结局交代或后续任务衔接；作为$HIDDEN隐藏测试内容，其流程骨架与同系列“限时抵达挑战”任务一致。",
+    "themes": [
+      "限时挑战",
+      "隐藏内容",
+      "重复流程",
+      "测试任务"
+    ],
+    "context_ref_ids": [
+      "ctx-01",
+      "ctx-02"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 21017,
+      "title": "瑶光滩限时抵达挑战$HIDDEN",
+      "summary": "本章为隐藏任务“瑶光滩限时抵达挑战”，由四组交替出现的“对话NPC”与“完成玩法”步骤组成，共八个story步骤。所有步骤标题均带$HIDDEN标记，且缺少步骤描述、任务数据、NPC名单与奖励信息。全章只呈现挑战流程骨架：旅行者反复与未具名的NPC对话并完成限时抵达玩法，共四轮。本章无情节展开、人物刻画或转折，属于未发布或测试用的占位内容。",
+      "turning_point": "原文未明确（全章为四轮重复流程，无情节转折）。",
+      "outcome": "四轮“对话NPC—完成玩法”循环全部完成，八个story步骤结束，挑战流程收束；数据未记录奖励或后续衔接。",
+      "section_ids": [
+        "21017-c00-s01",
+        "21017-c00-s02",
+        "21017-c00-s03",
+        "21017-c00-s04"
+      ],
+      "context_ref_ids": [
+        "ctx-01"
+      ],
+      "source_file": "chapter_00.json",
+      "source_description": "",
+      "is_hidden": true
+    }
+  ],
+  "sections": [
+    {
+      "id": "21017-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "与NPC对话并完成首轮玩法",
+      "narrative_role": "setup",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "瑶光滩"
+      ],
+      "characters": [
+        "旅行者",
+        "未具名的NPC"
+      ],
+      "summary": "挑战流程开始时，旅行者在瑶光滩与一名未具名的NPC对话，随后完成第一轮限时抵达挑战玩法。该步骤为四轮循环的开端，NPC身份、对话内容与玩法细则在数据中均未明确。首轮对话与玩法构成整个挑战流程的第一组单元。",
+      "motivation": "依照任务流程启动限时抵达挑战；参与者进行对话与玩法的具体动机原文未明确。",
+      "outcome": "完成第一轮对话与玩法，流程进入下一轮“对话NPC”环节。",
+      "keywords": [
+        "对话NPC",
+        "限时抵达挑战",
+        "完成玩法",
+        "第一轮"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 2101701,
+          "title": "对话NPC$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 2101702,
+          "title": "完成玩法$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "21017-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "第二轮重复对话与玩法",
+      "narrative_role": "development",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "瑶光滩"
+      ],
+      "characters": [
+        "旅行者",
+        "未具名的NPC"
+      ],
+      "summary": "旅行者再次与未具名的NPC对话，并完成第二轮限时抵达玩法。本轮沿用与第一轮完全相同的“对话NPC—完成玩法”结构。原文未提供任何区分本轮与第一轮的内容或地点信息。",
+      "motivation": "继续推进限时抵达挑战的后续轮次；具体动机原文未明确。",
+      "outcome": "第二轮玩法完成，挑战流程继续推进至下一轮。",
+      "keywords": [
+        "第二轮",
+        "重复流程",
+        "限时抵达挑战"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 2101703,
+          "title": "对话NPC$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 2101704,
+          "title": "完成玩法$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "21017-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "第三轮再次重复同一流程",
+      "narrative_role": "development",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "瑶光滩"
+      ],
+      "characters": [
+        "旅行者",
+        "未具名的NPC"
+      ],
+      "summary": "旅行者第三次与未具名的NPC对话并完成限时抵达玩法。本轮与前两轮结构一致，流程持续重复。数据未显示本轮出现任何新要素或变化。",
+      "motivation": "延续挑战流程进入第三轮；具体动机原文未明确。",
+      "outcome": "第三轮玩法完成，流程进入最后一轮。",
+      "keywords": [
+        "第三轮",
+        "重复流程",
+        "对话NPC"
+      ],
+      "source_step_keys": [
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 2101705,
+          "title": "对话NPC$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 2101706,
+          "title": "完成玩法$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "21017-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "第四轮完成后挑战收束",
+      "narrative_role": "resolution",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "瑶光滩"
+      ],
+      "characters": [
+        "旅行者",
+        "未具名的NPC"
+      ],
+      "summary": "旅行者进行第四轮亦即最后一轮：与未具名的NPC对话并完成限时抵达玩法。此后全部八个story步骤结束，挑战流程就此收束。数据未提供挑战完成后的奖励、结局交代或后续衔接。",
+      "motivation": "完成挑战流程的最后一轮；具体动机原文未明确。",
+      "outcome": "最后一轮玩法完成，本章全部步骤结束，限时抵达挑战收束；后续情况原文未明确。",
+      "keywords": [
+        "第四轮",
+        "最后一轮",
+        "挑战收束"
+      ],
+      "source_step_keys": [
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 2101707,
+          "title": "对话NPC$HIDDEN",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 2101708,
+          "title": "完成玩法$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [
+    {
+      "id": "ctx-01",
+      "path": "21016_pubuqun-time-trial-challenge/chapter_00.json",
+      "reason": "目标scene文本过于简略，需要确认其所属任务类型与结构；21016为紧邻的同名系列任务，可对照其完整结构。",
+      "fact": "21016“瀑布群限时抵达挑战$HIDDEN”与21017“瑶光滩限时抵达挑战$HIDDEN”具有完全相同的八步结构（四组“对话NPC—完成玩法”）与$HIDDEN标记。"
+    },
+    {
+      "id": "ctx-02",
+      "path": "21005_wangshu-inn-time-trial-challenge/chapter_00.json",
+      "reason": "确认“限时抵达挑战”为同系列多个隐藏任务共用的标题模式，佐证21017属于隐藏测试或占位任务。",
+      "fact": "该目录存在标题为“望舒客栈限时抵达挑战$HIDDEN”的同系列隐藏任务，与目标scene共用相同的标题格式。"
+    }
+  ],
+  "generated": {
+    "at": "2026-08-18T20:03:47.852Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

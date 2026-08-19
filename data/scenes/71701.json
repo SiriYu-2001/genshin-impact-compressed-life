@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71701,
+    "slug": "71701_herbalists-forage",
+    "title": "阿桂的药材需求",
+    "chapter_num": "",
+    "premise": "璃月港的阿桂急需三朵清心，受托者前来回应委托并交付药材。",
+    "central_conflict": "阿桂必须尽快取得品质合格的清心供病人使用，而委托能否完成取决于受托者是否已经采集齐三朵清心。",
+    "summary": "阿桂在璃月港等待清心，并因终于有人响应委托而松了一口气。他询问受托者是否已经采集齐三朵清心，尚未完成时便催促对方尽快带来，因为病人正在等候用药。受托者集齐药材后将三朵清心交给阿桂，令委托目标得以完成。阿桂检查后认可清心的品质，并向受托者致谢和交付报酬。最后，他立即准备把药材送给等候的病人，使这次采集委托从物资短缺转入送药阶段。",
+    "resolution": "阿桂成功取得三朵品质合格的清心并回报受托者。药材将被迅速送往病人处，但病人的后续情况在本 scene 中没有交代。",
+    "themes": [
+      "救治病人",
+      "采集委托",
+      "及时援助",
+      "履行承诺"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71701,
+      "title": "阿桂的药材需求",
+      "summary": "本章围绕为阿桂取得三朵清心展开，他因病人等候用药而反复强调交付的紧迫性。受托者完成采集并交出药材后，阿桂确认其品质合格，随即致谢、给予报酬并准备送药。委托由药材短缺转为阿桂赶赴病人处，采集目标就此完成。",
+      "turning_point": "受托者将集齐的三朵清心交给阿桂，使对话从催促采集转为验收、答谢和送药。",
+      "outcome": "阿桂取得了病人急需的合格清心，受托者获得答谢，阿桂随即准备将药材送出。",
+      "section_ids": [
+        "71701-c00-s01",
+        "71701-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月港的阿桂需要三朵清心。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71701-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "阿桂催促交付三朵清心",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "回应清心委托并确认采集进度时",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "阿桂",
+        "受托者"
+      ],
+      "summary": "受托者在璃月港向阿桂提起清心委托，阿桂因终于有人前来帮忙而表示欣慰。他询问三朵清心是否已经集齐；若采集尚未完成，他便催促受托者尽快带来，并说明还有病人等候用药。对话由此明确了交付数量和任务的紧迫原因。",
+      "motivation": "阿桂需要尽快取得三朵清心，以满足病人的用药需求；受托者则为完成委托而确认并推进药材交付。",
+      "outcome": "受托者明确了必须集齐并交付三朵清心，完成交付后剧情进入药材验收阶段。",
+      "keywords": [
+        "清心",
+        "采集进度",
+        "病人用药",
+        "紧急委托"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7170101,
+          "title": "将三朵清心交给阿桂",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71701-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "阿桂验收药材并赶去送药",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "三朵清心交付后",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "阿桂",
+        "受托者"
+      ],
+      "summary": "受托者交出三朵清心后，阿桂检查并确认药材品质不错。他向受托者致谢并交付报酬，随后表示要立即把清心送过去，因为病人仍在等候。采集委托至此完成，药材也进入送往病人的下一阶段。",
+      "motivation": "阿桂希望尽快让病人用上已经取得的合格清心，并对完成委托的受托者作出答谢。",
+      "outcome": "三朵清心通过验收，受托者获得回报，阿桂随即准备将药材送给病人。",
+      "keywords": [
+        "药材验收",
+        "致谢",
+        "报酬",
+        "送药"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7170102,
+          "title": "与阿桂对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:03:24.838Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

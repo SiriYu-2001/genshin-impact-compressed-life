@@ -1,0 +1,121 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 79079,
+    "slug": "79079_texts-coda",
+    "title": "正文的尾声",
+    "chapter_num": "",
+    "premise": "一切结束后，行动者仍持有伟大发条，需要考虑如何妥善处理它。行动者等待两天后，准备将其送回原处。",
+    "central_conflict": "伟大发条不宜继续由行动者保管，如何处置并归还它成为收尾阶段的核心问题。",
+    "summary": "主要事件结束后，伟大发条的处置问题仍未解决。行动者认为一直携带它并非长久之计，因此先等待两天。等待结束后，行动目标转为前往「候侯石室」。行动者抵达指定地点，并依照安排归还伟大发条。这次归还解决了遗留物品的保管问题，也为此前的经历完成最后的收尾。",
+    "resolution": "伟大发条被送回「候侯石室」，行动者不再需要继续保管它。本段剧情以处理完主要事件留下的遗留事项收束。",
+    "themes": [
+      "善后",
+      "归还",
+      "责任",
+      "告别"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 79079,
+      "title": "正文的尾声",
+      "summary": "本章围绕伟大发条的善后处置展开。行动者在主要事件结束后等待两天，随后前往「候侯石室」归还伟大发条，从而解决继续携带它所造成的遗留问题。",
+      "turning_point": "等待两天结束后，行动由暂缓处置转为前往「候侯石室」执行归还。",
+      "outcome": "伟大发条被归还，主要事件留下的保管问题得到处理。",
+      "section_ids": [
+        "79079-c00-s01",
+        "79079-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "一切结束之后，该想想怎么处理伟大发条了。一直拿着也不是办法…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "79079-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "行动者等待两天",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "一切结束之后的两天内",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "行动者"
+      ],
+      "summary": "一切结束后，行动者仍持有伟大发条，并意识到一直携带它并非合适的处理方式。行动者等待两天，使剧情由主要事件结束后的善后思考推进至实际归还阶段。",
+      "motivation": "行动者需要寻找妥善处置伟大发条的办法，避免继续长期携带它。",
+      "outcome": "两天等待完成，行动推进至前往「候侯石室」归还伟大发条的阶段。",
+      "keywords": [
+        "等待两天",
+        "伟大发条",
+        "善后"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7907901,
+          "title": "等待两天",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "79079-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "伟大发条归还石室",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "等待两天后",
+      "locations": [
+        "「候侯石室」"
+      ],
+      "characters": [
+        "行动者"
+      ],
+      "summary": "等待两天后，行动者前往「候侯石室」，着手处理伟大发条的归属问题。伟大发条在此被归还，此前事件留下的保管事项随之得到解决。",
+      "motivation": "行动者不愿继续携带伟大发条，因此将它送回指定地点。",
+      "outcome": "伟大发条被归还至「候侯石室」，本段善后剧情完成收束。",
+      "keywords": [
+        "候侯石室",
+        "归还",
+        "伟大发条",
+        "收尾"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7907902,
+          "title": "前往「候侯石室」，归还伟大发条",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:41:23.105Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

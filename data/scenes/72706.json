@@ -1,0 +1,86 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72706,
+    "slug": "72706_hilichurl-hullaballoo",
+    "title": "丘丘人引起的混乱",
+    "chapter_num": "",
+    "premise": "神无冢某处有丘丘人作乱，内海希望有人出手平息混乱。",
+    "central_conflict": "丘丘人的活动扰乱了当地秩序，援助者必须将其击退才能消除威胁。",
+    "summary": "时间未明确，神无冢某处出现丘丘人作乱的情况。内海因无法独自解决混乱，希望有人前来相助。援助者据此以击退丘丘人为直接目标，对造成骚乱的敌人展开清剿。丘丘人的威胁被排除后，这场局部混乱随之平息。",
+    "resolution": "援助者击退作乱的丘丘人，回应了内海的求助并使当地恢复安定；原文未交代进一步影响。",
+    "themes": [
+      "回应求助",
+      "平息骚乱",
+      "清除威胁"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72706,
+      "title": "丘丘人引起的混乱",
+      "summary": "神无冢某处的丘丘人引发混乱，内海希望获得外界援助。援助者将击退丘丘人作为行动目标，通过清除作乱者解决了眼前的骚乱。",
+      "turning_point": "内海的求助转化为击退丘丘人的明确行动目标。",
+      "outcome": "作乱的丘丘人被击退，神无冢当地的混乱得到平息。",
+      "section_ids": [
+        "72706-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "神无冢上某处，丘丘人正在作乱，内海希望能有人帮忙解决这场混乱。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72706-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "援助者击退作乱丘丘人",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "神无冢某处"
+      ],
+      "characters": [
+        "内海",
+        "援助者",
+        "丘丘人"
+      ],
+      "summary": "时间未明确，神无冢某处的丘丘人正在作乱，内海希望有人帮助解决这场混乱。援助者以击退丘丘人为目标展开行动，从而消除当地面临的直接威胁。",
+      "motivation": "内海希望制止丘丘人造成的混乱，援助者因此出手排除威胁。",
+      "outcome": "作乱的丘丘人被击退，内海所面对的局部混乱得到解决，原文未交代后续事件。",
+      "keywords": [
+        "神无冢",
+        "内海",
+        "丘丘人",
+        "击退",
+        "平息混乱"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7270601,
+          "title": "击退丘丘人",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:11:21.715Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70701,
+    "slug": "70701_glorys-wish",
+    "title": "葛罗丽的心愿",
+    "chapter_num": "",
+    "premise": "蒙德城的葛罗丽需要三份蒲公英籽，旅行者应她的请求前来交付。",
+    "central_conflict": "葛罗丽的心愿能否继续推进，取决于旅行者是否已经取得并交出足够的蒲公英籽。",
+    "summary": "在时间未明确的阶段，旅行者来到蒙德城回应葛罗丽关于蒲公英籽的请求。葛罗丽询问旅行者是否带来了所需物品，尚未取得时只能等待后续交付。旅行者成功将三份蒲公英籽放到葛罗丽手中，使她的请求得以完成。葛罗丽确认收到蒲公英籽后向旅行者致谢，并送出一份小礼物。她最后希望自己的心愿能够顺利传递出去，但心愿的具体内容和后续结果在原文中没有说明。",
+    "resolution": "葛罗丽取得三份蒲公英籽并以礼物答谢旅行者，本次委托由此收束。她关于传递心愿的愿望留下了未展开的后续意味。",
+    "themes": [
+      "善意相助",
+      "心愿寄托",
+      "蒲公英",
+      "委托与回报"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70701,
+      "title": "葛罗丽的心愿",
+      "summary": "旅行者在蒙德城回应葛罗丽的请求，并在取得三份蒲公英籽后将其交到她手中。葛罗丽确认物品无误，向旅行者致谢并赠予小礼物。她希望自己的心愿能借此顺利传递，但原文没有进一步揭示心愿的内容与结果。",
+      "turning_point": "旅行者成功交出三份蒲公英籽，使对话从确认物品转入葛罗丽的致谢与心愿表达。",
+      "outcome": "葛罗丽收到所需的蒲公英籽并完成答谢，本章委托结束，同时留下心愿能否传递的未明后续。",
+      "section_ids": [
+        "70701-c00-s01",
+        "70701-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "蒙德城的葛罗丽需要三份蒲公英籽。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70701-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "旅行者向葛罗丽交付蒲公英籽",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "交付三份蒲公英籽时",
+      "locations": [
+        "蒙德城"
+      ],
+      "characters": [
+        "旅行者",
+        "葛罗丽"
+      ],
+      "summary": "旅行者在蒙德城找到葛罗丽，回应她关于蒲公英籽的请求。葛罗丽询问旅行者是否已经取得所需物品；若尚未取得，她会请旅行者拿到后尽快送来。旅行者在成功推进的分支中将三份蒲公英籽放到葛罗丽手上，完成交付。",
+      "motivation": "葛罗丽需要三份蒲公英籽来推进自己的心愿，旅行者则为帮助她而完成收集与交付。",
+      "outcome": "葛罗丽取得所需的蒲公英籽，委托进入确认物品和表达谢意的收束阶段。",
+      "keywords": [
+        "蒲公英籽",
+        "交付",
+        "请求",
+        "蒙德城"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7070101,
+          "title": "将三份蒲公英籽交给葛罗丽",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70701-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "葛罗丽致谢并寄托心愿",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "蒲公英籽交付后",
+      "locations": [
+        "蒙德城"
+      ],
+      "characters": [
+        "旅行者",
+        "葛罗丽"
+      ],
+      "summary": "葛罗丽确认旅行者交来的确实是蒲公英籽，并为这次帮助表示感谢。她送给旅行者一份小礼物作为回报，随后希望自己的心愿能够顺利传递出去。原文没有说明这份心愿的具体内容及其是否实现。",
+      "motivation": "葛罗丽希望答谢旅行者的帮助，并借已经取得的蒲公英籽寄托自己的心愿。",
+      "outcome": "旅行者获得葛罗丽的谢礼，本次委托正式完成，而心愿传递的结果仍未明确。",
+      "keywords": [
+        "致谢",
+        "小礼物",
+        "心愿",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7070102,
+          "title": "与葛罗丽对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:56:27.327Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

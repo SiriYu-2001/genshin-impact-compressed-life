@@ -1,0 +1,162 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 10173,
+    "slug": "10173_a-job-well-done",
+    "title": "完满收工",
+    "chapter_num": "炼金与经营 其四",
+    "premise": "炼金店铺经营大获成功，营业额超出预期，玩家返回店铺向丽莎确认成果，接受琴的致谢与报酬，为整段经营委托收尾。",
+    "central_conflict": "本 scene 没有对抗性冲突，核心是经营任务完成后的成果确认、答谢与收尾交接。",
+    "summary": "店铺经营告一段落后，玩家返回炼金店铺。丽莎对远超预期的营业额感到惊喜，赞赏玩家的经营才能，并确认收集到的销售数据已经足够，感谢玩家这段时间的付出。随后琴亲临店铺，代表骑士团感谢玩家与丽莎的努力，解释委托意在发挥丽莎的才能，并发放报酬。丽莎获准休假，还提到为玩家准备了纪念品。最后以玩家与丽莎的收尾对话作结，整段炼金经营委托圆满结束。",
+    "resolution": "琴发放报酬、丽莎预告纪念品并获准休假，经营委托圆满收束；场景以玩家与丽莎的最后对话收尾，为后续领取纪念品或延续合作留下余地。",
+    "themes": [
+      "经营成果",
+      "答谢与认可",
+      "收尾交接",
+      "纪念"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 40154,
+      "title": "完满收工",
+      "summary": "本章为炼金经营系列的收尾。玩家返回店铺后，丽莎肯定远超预期的营业额，并确认销售数据收集完成。琴亲自到店致谢并发放报酬，丽莎获准休假并预告纪念品。最后玩家与丽莎的收尾对话为整段委托画上句号。",
+      "turning_point": "琴亲临店铺致谢并发放报酬，正式宣告委托完成。",
+      "outcome": "玩家获得报酬，丽莎获准休假并预告纪念品，经营委托圆满收尾。",
+      "section_ids": [
+        "10173-c00-s01",
+        "10173-c00-s02",
+        "10173-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "店铺经营大获成功，是时候庆祝一番了。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "10173-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "丽莎肯定经营成果",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "经营告一段落后，时间未明确",
+      "locations": [
+        "炼金店铺"
+      ],
+      "characters": [
+        "旅行者",
+        "丽莎"
+      ],
+      "summary": "玩家返回炼金店铺，丽莎对远超预期的营业额表示惊喜，赞赏玩家的经营才能。丽莎确认收集到的销售数据已经足够，感谢玩家这段时间的辛苦付出，并表示可以向琴交差。",
+      "motivation": "丽莎需要确认经营数据是否足够，并感谢玩家为店铺经营付出的努力。",
+      "outcome": "销售数据确认收集完成，丽莎准备向琴交差，经营委托进入收尾阶段。",
+      "keywords": [
+        "营业额",
+        "销售数据",
+        "经营成果",
+        "致谢"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 4015401,
+          "title": "返回店铺",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10173-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "琴亲临致谢并发放报酬",
+      "narrative_role": "climax",
+      "importance": 4,
+      "when": "时间未明确，紧随丽莎表示要向琴交差之后",
+      "locations": [
+        "炼金店铺"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "丽莎",
+        "琴"
+      ],
+      "summary": "琴亲临店铺，向玩家和派蒙问好，表示已从其他骑士处了解大致情况，感谢玩家和丽莎的付出，并解释委托是希望发挥丽莎的才能。琴为玩家发放报酬，丽莎也提到准备了纪念品，并借机请求休假。",
+      "motivation": "琴想亲口表达感谢并正式收尾委托；丽莎想趁工作告一段落休整。",
+      "outcome": "玩家收到报酬，丽莎获准休假，并预告将为玩家送上纪念品。",
+      "keywords": [
+        "致谢",
+        "报酬",
+        "休假",
+        "纪念品"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 4015401,
+          "title": "返回店铺",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10173-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "与丽莎的最后收尾对话",
+      "narrative_role": "resolution",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "丽莎"
+      ],
+      "summary": "任务记录中还有一步与丽莎的对话，作为本次委托的收尾衔接，但原文本未提供该步骤的具体台词或任务内容，具体对话内容原文未明确。",
+      "motivation": "原文未明确",
+      "outcome": "原文未明确",
+      "keywords": [
+        "收尾对话",
+        "委托结束"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 4015402,
+          "title": "与丽莎对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-18T15:06:47.309Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

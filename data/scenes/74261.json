@@ -1,0 +1,133 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 74261,
+    "slug": "74261_tea-party-re-invitation-narzissenkreuz-reunion",
+    "title": "茶会的再邀·水仙的重聚",
+    "chapter_num": "",
+    "premise": "桑多涅前往隐居处布置茶桌并落座，邀请玛丽安等人共度一场重聚茶会。故事的主要目标是享受这段平静的相聚时光。",
+    "central_conflict": "本 scene 没有明显的对抗性冲突，核心变化在于茶会应当继续片刻还是就此结束，以及桑多涅与玛丽安之间关系的重新确认。",
+    "summary": "桑多涅来到隐居处开启茶会，并通过布置茶桌、落座等行动为众人的重聚创造条件。茶会进行期间，玛丽安感叹当下的日子平静而惬意，表明她珍惜这段相聚时光。桑多涅可以选择继续静坐片刻，也可以提出结束茶会，但两种选择都导向相同的告别。玛丽安感谢桑多涅的邀请，并试探性地称她为“妹妹”。这场茶会由此以温和的亲缘确认收束，使水仙十字相关人物的重聚获得一层更亲密的情感意义。",
+    "resolution": "茶会在玛丽安的感谢中结束，她对桑多涅使用“妹妹”这一称呼，为二人的关系留下温暖而略带试探性的确认。原文未交代茶会之后的进一步行动。",
+    "themes": [
+      "重聚",
+      "亲缘认同",
+      "平静日常",
+      "茶会告别"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 74261,
+      "title": "茶会的再邀·水仙的重聚",
+      "summary": "桑多涅前往隐居处布置茶会，与玛丽安等人共同享受平静的相聚时光。玛丽安对这种安宁表达留恋，而桑多涅可以决定继续静坐或结束茶会。无论选择如何，玛丽安最终都感谢邀请，并以“妹妹”称呼桑多涅，使茶会以亲缘关系的重新确认告终。",
+      "turning_point": "玛丽安在茶会将要收束时试探性地称桑多涅为“妹妹”，使普通的茶会告别转化为对二人亲缘关系的温和确认。",
+      "outcome": "茶会顺利完成，玛丽安感谢桑多涅的邀请，众人的短暂重聚以平静而亲密的气氛收束。",
+      "section_ids": [
+        "74261-c00-s01",
+        "74261-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "前往隐居处放置茶桌并使用桑多涅落座后，与众人共度茶会时光吧…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "74261-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "桑多涅在隐居处开启茶会",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "茶会开始前",
+      "locations": [
+        "隐居处"
+      ],
+      "characters": [
+        "桑多涅",
+        "玛丽安",
+        "众人"
+      ],
+      "summary": "茶会开始前，桑多涅前往隐居处布置茶桌，并以桑多涅的身份落座。她通过开启茶会邀请玛丽安等人相聚，为众人共度平静时光做好准备。",
+      "motivation": "桑多涅希望邀请众人在隐居处重聚，共同享受茶会时光。",
+      "outcome": "茶会得以开启，众人进入共同落座相聚的阶段。",
+      "keywords": [
+        "隐居处",
+        "桑多涅",
+        "茶桌",
+        "茶会开启"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7426102,
+          "title": "前往隐居处开启茶会",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "74261-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "玛丽安以妹妹之称作别",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "茶会进行期间及结束时",
+      "locations": [
+        "隐居处"
+      ],
+      "characters": [
+        "桑多涅",
+        "玛丽安"
+      ],
+      "summary": "茶会进行期间，玛丽安感叹眼前的日子平静而惬意。桑多涅可以选择再坐一会儿，也可以宣布茶会结束，但这两种回应最终都使玛丽安感谢她的邀请。玛丽安随后试探性地称桑多涅为“妹妹”，让这次相聚以亲缘关系的确认收束。",
+      "motivation": "玛丽安珍惜茶会带来的安宁与重聚，桑多涅则需要决定延续片刻静坐还是结束聚会。",
+      "outcome": "茶会结束，玛丽安向桑多涅表达感谢并称其为“妹妹”，为二人的关系增添了明确的亲缘意味。",
+      "keywords": [
+        "平静时光",
+        "玩家选择",
+        "玛丽安",
+        "妹妹",
+        "茶会告别"
+      ],
+      "source_step_keys": [
+        "2",
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7426103,
+          "title": "享受茶会时光",
+          "is_hidden": false
+        },
+        {
+          "key": "0",
+          "id": 7426101,
+          "title": "前往隐居处开启茶会",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:25:05.946Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

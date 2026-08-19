@@ -1,0 +1,167 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 76190,
+    "slug": "76190_animal-research-golden-loaches",
+    "title": "动物调查·金鳅鳅",
+    "chapter_num": "",
+    "premise": "调查者获悉虚海望似乎有金鳅鳅生息，迅速做好准备并前往指定地点展开生态调查。",
+    "central_conflict": "调查需要借助对当地生态的了解来寻找有价值的线索，但原文没有交代金鳅鳅的具体位置与调查方法。",
+    "summary": "调查者首先迅速完成调查准备，随后前往指定地点。抵达后，调查者察觉附近存在值得调查之处，并想到熟悉本地生态的莉奈娅或许能够带来收获。这一判断将行动从一般性的现场勘察转向对金鳅鳅的针对性调查。调查者继而连续执行两项“调查金鳅鳅”的步骤。原文没有记录两项调查的具体交互、观察发现或最终结论，因此只能确认调查流程得到推进，不能确认金鳅鳅的实际情况。",
+    "resolution": "本场景以连续调查金鳅鳅的行动收束，但没有明示调查所得或后续处置，为调查结果留下空白。",
+    "themes": [
+      "生态调查",
+      "金鳅鳅",
+      "在地知识",
+      "现场观察"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 76190,
+      "title": "动物调查·金鳅鳅",
+      "summary": "本章围绕虚海望可能存在的金鳅鳅展开。调查者完成准备并抵达指定地点后，意识到莉奈娅的本地生态知识可能有助于取得收获，随后连续开展两项针对金鳅鳅的调查。章节推进了调查过程，但没有呈现具体发现或明确结论。",
+      "turning_point": "调查者在现场发现值得调查的迹象，并将莉奈娅视为可能提供生态调查助力的人选。",
+      "outcome": "调查者完成前期准备并推进两项金鳅鳅调查步骤，但调查结果原文未明确。",
+      "section_ids": [
+        "76190-c00-s01",
+        "76190-c00-s02",
+        "76190-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在虚海望似乎也有金鳅鳅生息…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "76190-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "调查准备迅速完成",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "调查开始前",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "调查者"
+      ],
+      "summary": "调查开始前，调查者迅速做好了所需准备。原文没有说明具体准备内容，但这一行动使其能够前往指定地点开展调查。",
+      "motivation": "为即将开始的现场调查做好准备。",
+      "outcome": "调查准备完成，行动转入前往指定地点的阶段。",
+      "keywords": [
+        "调查准备",
+        "启程",
+        "生态调查"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7619001,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76190-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "莉奈娅被视为调查助力",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "抵达指定调查地点后",
+      "locations": [
+        "虚海望的指定调查地点"
+      ],
+      "characters": [
+        "调查者",
+        "莉奈娅"
+      ],
+      "summary": "抵达虚海望的指定调查地点后，调查者察觉附近似乎存在值得调查的事物。调查者想到熟悉本地生态的莉奈娅，认为借助她的知识或许能够有所收获。莉奈娅是否实际参与调查，原文未明确。",
+      "motivation": "利用莉奈娅对本地生态的了解，提高调查取得收获的可能性。",
+      "outcome": "调查方向得到进一步明确，行动随即转向对金鳅鳅的针对性调查。",
+      "keywords": [
+        "莉奈娅",
+        "本地生态",
+        "调查线索",
+        "虚海望"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7619002,
+          "title": "前往指定地点开启调查",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76190-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "两轮金鳅鳅调查依次展开",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "确定调查方向后",
+      "locations": [
+        "虚海望的指定调查地点"
+      ],
+      "characters": [
+        "调查者"
+      ],
+      "summary": "确定调查方向后，调查者围绕金鳅鳅连续执行两项调查步骤。原文没有提供两项步骤的交互内容、具体差异、观察发现或最终结论。",
+      "motivation": "查明虚海望金鳅鳅的相关生态情况。",
+      "outcome": "金鳅鳅调查流程推进至最后一步，但直接调查结果原文未明确。",
+      "keywords": [
+        "金鳅鳅",
+        "连续调查",
+        "生态情况",
+        "结果未明"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7619003,
+          "title": "调查金鳅鳅",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7619004,
+          "title": "调查金鳅鳅",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:36:43.576Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

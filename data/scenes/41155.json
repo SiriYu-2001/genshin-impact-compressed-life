@@ -1,0 +1,178 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 41155,
+    "slug": "41155_good-hunter-express",
+    "title": "猎鹿急送",
+    "chapter_num": "",
+    "premise": "猎鹿人餐馆收到卖力的西瑞订购蒙德烤鱼的特别订单，需要有人把餐品送往风龙废墟。旅行者得知订单后，可以接受这项有特殊限制的派送委托。",
+    "central_conflict": "餐品必须在避免沾染奇怪元素、遭受废墟中事物袭击和剧烈奔跑的情况下及时送达，否则烤鱼的味道或状态可能受到影响。",
+    "summary": "猎鹿人餐馆的莎拉告诉旅行者，卖力的西瑞订了一份蒙德烤鱼，却已经前往风龙废墟。她请求旅行者尽快代为送餐，并强调餐品不能沾染奇怪的元素。旅行者可以暂时拒绝，使莎拉等待其他人接取委托，也可以接受订单并继续派送。接受后，莎拉又提醒旅行者避开废墟里的袭击、不要跑得太快，并在餐品变凉前送达。风龙废墟中的卖力的西瑞正因饥饿等待餐品。旅行者最终将烤鱼交给他，西瑞因此能够补充体力并准备离开废墟。",
+    "resolution": "蒙德烤鱼顺利送达卖力的西瑞，解决了他的饥饿问题，也让他有力气从风龙废墟返回。该次特别订单至此完成，原文未明确留下进一步影响。",
+    "themes": [
+      "限时送餐",
+      "委托选择",
+      "谨慎护送",
+      "补充体力"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 41155,
+      "title": "猎鹿急送",
+      "summary": "莎拉向旅行者说明卖力的西瑞前往风龙废墟后仍订购了蒙德烤鱼，并提出不得让餐品沾染奇怪元素等派送要求。旅行者可以暂缓接受，也可以接下委托，在避开袭击和剧烈奔跑的限制下将餐品送往废墟。最终，饥饿的西瑞收到烤鱼，获得了离开风龙废墟所需的体力。",
+      "turning_point": "旅行者接受莎拉的特别订单，使餐品从等待派送转入前往风龙废墟的实际运送阶段。",
+      "outcome": "蒙德烤鱼被交给卖力的西瑞，他的饥饿得到缓解，并有力气从风龙废墟返回。",
+      "section_ids": [
+        "41155-c00-s01",
+        "41155-c00-s02",
+        "41155-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "蒙德城的猎鹿人餐馆里有一份特别订单正等待着派送…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "41155-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "莎拉说明特殊送餐要求",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "特别订单等待派送时",
+      "locations": [
+        "猎鹿人餐馆"
+      ],
+      "characters": [
+        "旅行者",
+        "莎拉",
+        "卖力的西瑞"
+      ],
+      "summary": "特别订单等待派送时，旅行者在猎鹿人餐馆向莎拉询问情况。莎拉说明卖力的西瑞订购了一份蒙德烤鱼后去了风龙废墟，请旅行者尽快送达，并要求餐品不要沾染奇怪的元素。",
+      "motivation": "莎拉需要有人把西瑞订购的餐品及时送到风龙废墟，并保持烤鱼原有的味道。",
+      "outcome": "旅行者获知订单目的地和关键限制，接下来需要决定是否承接派送。",
+      "keywords": [
+        "猎鹿人餐馆",
+        "蒙德烤鱼",
+        "特别订单",
+        "元素污染"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 4115503,
+          "title": "与卖力的西瑞对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "41155-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "旅行者决定是否接受委托",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "莎拉提出派送委托后",
+      "locations": [
+        "猎鹿人餐馆"
+      ],
+      "characters": [
+        "旅行者",
+        "莎拉"
+      ],
+      "summary": "莎拉提出派送请求后，旅行者可以表示另有要事，莎拉便会等待其他人承接委托。若旅行者选择接受，莎拉会表示感谢，并提醒旅行者避开废墟里的袭击、不要跑得太快，以免餐品洒漏或变凉。",
+      "motivation": "旅行者需要根据自身安排决定是否承担送餐任务；莎拉则希望餐品能够安全、及时且完整地送达。",
+      "outcome": "拒绝会使订单继续等待其他人派送；接受则使委托进入前往风龙废墟的运送阶段。",
+      "keywords": [
+        "接受委托",
+        "可选拒绝",
+        "派送限制",
+        "及时送达"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 4115504,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 4115501,
+          "title": "与莎拉交谈",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "41155-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "烤鱼送达卖力的西瑞",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "旅行者抵达风龙废墟后",
+      "locations": [
+        "风龙废墟"
+      ],
+      "characters": [
+        "旅行者",
+        "卖力的西瑞"
+      ],
+      "summary": "旅行者抵达风龙废墟时，卖力的西瑞正因饥饿等待餐品。旅行者将订购的蒙德烤鱼交给他，西瑞欣喜地收下，并表示吃完后才有力气从这个地方回去。",
+      "motivation": "旅行者要完成莎拉托付的派送，西瑞则需要进食以恢复离开废墟的体力。",
+      "outcome": "餐品成功交付，西瑞的饥饿问题得到解决，并获得了返回所需的体力。",
+      "keywords": [
+        "风龙废墟",
+        "餐品交付",
+        "卖力的西瑞",
+        "恢复体力"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 4115502,
+          "title": "将餐品送给卖力的西瑞",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 4115503,
+          "title": "与卖力的西瑞对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:48:39.349Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72708,
+    "slug": "72708_fatuous-farce",
+    "title": "愚人众引起的混乱",
+    "chapter_num": "",
+    "premise": "神无冢某处遭到愚人众滋扰，片山希望有人出面平息混乱。故事的主要目标是击退作乱的愚人众。",
+    "central_conflict": "愚人众的行动破坏了神无冢当地的秩序，而片山需要借助外力制止他们。",
+    "summary": "时间未明确，愚人众在神无冢某处作乱，引发了一场需要处理的混乱。片山意识到局势难以自行解决，希望有人能够提供帮助。任务由此将击退愚人众确立为唯一且直接的行动目标。核心冲突集中在恢复当地秩序与制止愚人众滋扰之间。原文没有展开交涉、战斗经过或任务完成后的具体情形。",
+    "resolution": "本 scene 收束于“击退愚人众”这一明确的处置目标，但原文未进一步说明行动过程、最终完成情况及后续影响。",
+    "themes": [
+      "平息混乱",
+      "抵御愚人众",
+      "求助协力"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72708,
+      "title": "愚人众引起的混乱",
+      "summary": "神无冢某处因愚人众作乱而陷入混乱，片山希望有人协助解决局势。本章据此确立击退愚人众的行动目标，但没有记载具体战斗过程或完成后的结果。",
+      "turning_point": "片山寻求援助，使当地的混乱转化为击退愚人众的明确任务。",
+      "outcome": "击退愚人众被确立为解决混乱的直接目标，后续执行及完成情况原文未明确。",
+      "section_ids": [
+        "72708-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "神无冢上某处，愚人众正在作乱，片山希望能有人帮忙解决这场混乱。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72708-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "片山求助击退愚人众",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "神无冢某处"
+      ],
+      "characters": [
+        "片山",
+        "愚人众"
+      ],
+      "summary": "时间未明确，愚人众在神无冢某处作乱并造成混乱。片山希望有人协助制止他们，任务因此要求击退愚人众。原文未交代战斗过程及任务完成后的具体情况。",
+      "motivation": "片山希望制止愚人众的滋扰并解决神无冢当地的混乱。",
+      "outcome": "击退愚人众成为处理事件的直接行动目标，但行动结果及后续影响原文未明确。",
+      "keywords": [
+        "神无冢",
+        "片山",
+        "愚人众",
+        "击退",
+        "混乱"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7270801,
+          "title": "击退愚人众",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:11:35.899Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

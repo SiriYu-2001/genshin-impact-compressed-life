@@ -1,0 +1,642 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 10260,
+    "slug": "10260_colors-of-emptiness",
+    "title": "空寂的色彩",
+    "chapter_num": "",
+    "premise": "旅行者与派蒙在伦波岛北端的空寂走廊发现蓝色与红色的奇怪光球，并分别追踪它们、清除沿途阻碍，以查明这些发光物的真相。",
+    "central_conflict": "两人将光球当作可能带来宝藏的仙灵线索，却不断遭遇屏障、敌人和机关；当两个光球最终相撞时，追踪行动更演变成将他们卷入未知空间现象的危险事故。",
+    "summary": "旅行者与派蒙先在空寂走廊调查蓝色光球，并在打开能量屏障、调查奇怪鼹鼠、击退敌人和破除障碍后继续追踪。蓝色光球停下时没有留下预想中的宝藏，派蒙只能依据峡谷另一侧的红色光球或前方道路提出继续调查。两人随后调查红色光球，又在搜索过程中击退敌人、检查附近并击落机关，沿着第二个光球深入走廊。红色光球同样没有带来宝藏，而与其相关的一段对白被明确标为测试废弃内容，不能视为正式事件。旅行者和派蒙追随光球抵达目的地后，两个发光物相撞并爆炸，冲击波将两人分开。旅行者被送入一个奇怪空间，设法脱离后与平安返回的派蒙会合。旅行者讲述了所见景象，但派蒙既无法确认那是什么，也不能断定是否只是幻觉。两人最终决定尽快离开，却仍不知道光球为何出现、究竟是什么。",
+    "resolution": "旅行者从奇怪空间脱身并与派蒙重逢，两人平安结束追踪行动。蓝红光球的身份、来历及其引发异常空间现象的原因均未得到解释，为后续调查留下悬念。",
+    "themes": [
+      "未知现象",
+      "追踪探索",
+      "色彩对照",
+      "空间异常",
+      "好奇与风险"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 76026,
+      "title": "旧世界的蓝调",
+      "summary": "旅行者与派蒙在空寂走廊调查并追踪蓝色光球，为继续前进而处理能量屏障、奇怪鼹鼠、敌人和道路障碍。光球停下后没有显现宝藏，派蒙转而提出沿峡谷前进或调查另一侧红色光球的思路。旅行者可以选择继续追查或暂缓，但继续推进的路线最终通向穿越空寂走廊。",
+      "turning_point": "蓝色光球停止移动却未留下宝藏，调查目标由寻找仙灵宝藏转向追查红色光球或峡谷深处的异常。",
+      "outcome": "沿途阻碍被清除，蓝色光球的身份仍未查明，旅行者与派蒙继续穿过空寂走廊寻找答案。",
+      "section_ids": [
+        "10260-c00-s01",
+        "10260-c00-s02",
+        "10260-c00-s03",
+        "10260-c00-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在伦波岛北端的空寂走廊，发现了奇怪的蓝色光球…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 76027,
+      "title": "赤色涤净",
+      "summary": "旅行者与派蒙在空寂走廊调查红色光球，并在搜索和追踪过程中击退敌人、调查附近、击落机关。光球停下后依旧没有出现宝藏，派蒙提出继续深入峡谷；相关任务同时保留了继续或暂缓的选择分支。数据中另有一段明确标为“(test)废弃”的自动对白，其内容不能当作正式主线事实。两人最终继续穿过走廊，使蓝红光球的两条追踪线索趋于汇合。",
+      "turning_point": "红色光球在追踪末端停下且没有带来宝藏，原本的寻宝期待彻底转化为对两种光球及走廊异常的追查。",
+      "outcome": "红色光球沿线的敌人与机关被处理，旅行者与派蒙继续深入空寂走廊，为两个光球的会合创造条件。",
+      "section_ids": [
+        "10260-c01-s01",
+        "10260-c01-s02",
+        "10260-c01-s03",
+        "10260-c01-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "在伦波岛北端的空寂走廊，发现了奇怪的红色光球…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": 76028,
+      "title": "空域之外的色彩",
+      "summary": "旅行者与派蒙追随光球抵达目的地并穿过空寂走廊，两个发光物随即相撞爆炸，将他们分开。旅行者被卷入奇怪空间并设法离开，派蒙也在被冲击波吹飞后返回。重逢后，旅行者讲述了所见景象，派蒙无法确认其真实性或性质，只能以确保安全为先，提议尽快离开。",
+      "turning_point": "蓝红光球相撞引发爆炸，单纯的追踪调查突然转变为旅行者陷入未知空间的生存困境。",
+      "outcome": "旅行者成功脱离奇怪空间并与派蒙会合，但光球的身份、出现原因和异常空间的本质仍未查明。",
+      "section_ids": [
+        "10260-c02-s01",
+        "10260-c02-s02",
+        "10260-c02-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_02.json",
+      "source_description": "在伦波岛北端的空寂走廊，发生了奇怪的现象…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "10260-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "蓝色光球引发调查",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "探索伦波岛北端空寂走廊期间",
+      "locations": [
+        "伦波岛北端的空寂走廊"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "奇怪的蓝色光球"
+      ],
+      "summary": "旅行者与派蒙在伦波岛北端的空寂走廊发现并调查奇怪的蓝色光球。这个无法立即辨明的发光物成为两人深入走廊的首要线索。",
+      "motivation": "两人希望弄清蓝色光球的性质，并验证它是否会像仙灵一样引向宝藏。",
+      "outcome": "蓝色光球成为追踪目标，调查由观察异常转入实际追随。",
+      "keywords": [
+        "蓝色光球",
+        "空寂走廊",
+        "初次调查"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7602611,
+          "title": "调查奇怪的光球",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10260-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "众人清障追随蓝光",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "追踪蓝色光球途中",
+      "locations": [
+        "伦波岛北端的空寂走廊"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "奇怪的蓝色光球",
+        "奇怪的鼹鼠",
+        "敌人"
+      ],
+      "summary": "追踪蓝色光球期间，旅行者想办法打开能量屏障，并调查途中出现的奇怪鼹鼠。敌人和道路障碍继续阻挡前进，旅行者将敌人击退、破除障碍后重新跟上光球。",
+      "motivation": "旅行者需要排除屏障、敌人和障碍，避免失去蓝色光球这一线索。",
+      "outcome": "追踪路线上的阻碍被逐步清除，旅行者得以继续跟随蓝色光球深入走廊。",
+      "keywords": [
+        "能量屏障",
+        "奇怪鼹鼠",
+        "击退敌人",
+        "破除障碍"
+      ],
+      "source_step_keys": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7602603,
+          "title": "想办法打开能量屏障",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7602614,
+          "title": "调查奇怪的鼹鼠",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7602604,
+          "title": "击退敌人",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7602605,
+          "title": "跟随奇怪的光球",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7602606,
+          "title": "破除障碍",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7602612,
+          "title": "跟随奇怪的光球",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10260-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "蓝光停驻留下新线索",
+      "narrative_role": "revelation",
+      "importance": 4,
+      "when": "蓝色光球停止移动后",
+      "locations": [
+        "伦波岛北端的空寂走廊"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "奇怪的蓝色光球"
+      ],
+      "summary": "蓝色光球停下后，派蒙发现附近既没有预想中的宝藏，也未见到扎营的愚人众。根据触发分支，她或想起峡谷另一侧还有红色光球，或提议沿峡谷继续前进；任务同时允许旅行者选择继续调查或暂时搁置。无论采用哪种回答，都不能将彼此排斥的选择视为同时发生。",
+      "motivation": "派蒙希望借红色光球或走廊前方的线索查清发光物的身份，同时也接受旅行者暂缓调查的决定。",
+      "outcome": "寻宝预期落空，调查方向转向红色光球和空寂走廊深处；继续调查的分支推动两人前行。",
+      "keywords": [
+        "光球停驻",
+        "宝藏落空",
+        "红色线索",
+        "选择分支"
+      ],
+      "source_step_keys": [
+        "1",
+        "8",
+        "9",
+        "10"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7602602,
+          "title": "调查奇怪的光球",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7602607,
+          "title": "跟随奇怪的光球",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7602608,
+          "title": "跟随奇怪的光球",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 7602609,
+          "title": "跟随奇怪的光球",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10260-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "两人继续穿越走廊",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "决定继续调查后",
+      "locations": [
+        "空寂走廊"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "在蓝色光球未给出明确答案后，旅行者与派蒙继续穿过空寂走廊。两人的行动将蓝色光球调查引向走廊另一侧的异常线索。",
+      "motivation": "两人希望通过继续前进找到红色光球或更多能够解释异常的证据。",
+      "outcome": "蓝色光球阶段暂告一段落，调查转入空寂走廊更深处。",
+      "keywords": [
+        "穿越走廊",
+        "继续调查",
+        "线索转移"
+      ],
+      "source_step_keys": [
+        "11"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "11",
+          "id": 7602610,
+          "title": "穿过空寂走廊",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10260-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "红色光球进入视野",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "调查蓝色光球相关线索之后",
+      "locations": [
+        "伦波岛北端的空寂走廊"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "奇怪的红色光球"
+      ],
+      "summary": "旅行者与派蒙在空寂走廊调查奇怪的红色光球，并在附近寻找它的踪迹。任务分支允许旅行者确认前去查看，红色光球由此成为新的追踪对象。",
+      "motivation": "两人希望通过与蓝色光球相似但颜色不同的发光物，进一步判断异常现象的性质。",
+      "outcome": "红色光球的踪迹被纳入调查，旅行者与派蒙开始沿其路线搜索。",
+      "keywords": [
+        "红色光球",
+        "寻找踪迹",
+        "对照调查"
+      ],
+      "source_step_keys": [
+        "0",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7602712,
+          "title": "调查奇怪的光球",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7602703,
+          "title": "寻找奇怪的光球",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7602704,
+          "title": "寻找奇怪的光球",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10260-c01-s02",
+      "chapter_index": 1,
+      "order": 2,
+      "title": "机关与敌人阻断追踪",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "追踪红色光球途中",
+      "locations": [
+        "伦波岛北端的空寂走廊"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "奇怪的红色光球",
+        "敌人"
+      ],
+      "summary": "寻找红色光球期间，旅行者遭遇敌人并将其击退，随后调查附近以恢复线索。两人重新跟随光球，又击落阻挡路线的机关，继续向走廊深处推进。",
+      "motivation": "旅行者需要处理敌人和机关，保持对红色光球的追踪。",
+      "outcome": "红色光球沿线的威胁与机关被处理，追踪得以延续。",
+      "keywords": [
+        "击退敌人",
+        "调查附近",
+        "击落机关",
+        "追踪红光"
+      ],
+      "source_step_keys": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 7602705,
+          "title": "击退敌人",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7602714,
+          "title": "调查附近",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7602706,
+          "title": "跟随奇怪的光球",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7602707,
+          "title": "击落机关",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7602713,
+          "title": "跟随奇怪的光球",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10260-c01-s03",
+      "chapter_index": 1,
+      "order": 3,
+      "title": "红光停驻终结寻宝期待",
+      "narrative_role": "revelation",
+      "importance": 4,
+      "when": "红色光球停止移动后",
+      "locations": [
+        "伦波岛北端的空寂走廊"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "奇怪的红色光球"
+      ],
+      "summary": "红色光球停下后，派蒙再次发现附近没有宝藏，因而提议继续沿峡谷前进，任务也保留了继续或暂缓的选择。数据中另有一段标题为“(test)废弃”的自动对白，虽然其中提到蓝色光球，但该段仅属明确废弃的测试内容，不作为正式发生的事件。",
+      "motivation": "派蒙希望继续追索发光物的真相，但是否立即前进取决于旅行者的选择。",
+      "outcome": "寻宝期待进一步落空，正式路线继续指向走廊深处；废弃测试对白被排除在正式剧情事实之外。",
+      "keywords": [
+        "红光停驻",
+        "宝藏落空",
+        "废弃测试",
+        "继续选择"
+      ],
+      "source_step_keys": [
+        "1",
+        "9",
+        "10",
+        "11"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7602702,
+          "title": "(test)废弃",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7602708,
+          "title": "跟随奇怪的光球",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 7602709,
+          "title": "跟随奇怪的光球",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 7602710,
+          "title": "跟随奇怪的光球",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10260-c01-s04",
+      "chapter_index": 1,
+      "order": 4,
+      "title": "红光线索汇入走廊深处",
+      "narrative_role": "transition",
+      "importance": 3,
+      "when": "决定继续追踪红色光球后",
+      "locations": [
+        "空寂走廊"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "红色光球未揭示自身性质后，旅行者与派蒙继续穿过空寂走廊。两种颜色光球的调查由此进入即将汇合的阶段。",
+      "motivation": "两人需要深入走廊，寻找光球的去向及异常现象的最终答案。",
+      "outcome": "红色光球的独立追踪阶段结束，剧情转向两个发光物共同引发的事件。",
+      "keywords": [
+        "穿过走廊",
+        "红光线索",
+        "调查汇合"
+      ],
+      "source_step_keys": [
+        "12"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "12",
+          "id": 7602711,
+          "title": "穿过空寂走廊",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10260-c02-s01",
+      "chapter_index": 2,
+      "order": 1,
+      "title": "双光相撞引发爆炸",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "追随光球抵达目的地后",
+      "locations": [
+        "空寂走廊"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "两个发光物"
+      ],
+      "summary": "旅行者与派蒙追随光球抵达目的地，并继续穿过空寂走廊。两个发光物随后撞到一起并发生爆炸，冲击波将派蒙吹飞，也使旅行者被卷离原处。",
+      "motivation": "两人追至目的地是为了查明光球的身份和去向，但光球自行相撞使局势突然失控。",
+      "outcome": "追踪行动演变为危险的空间异常，旅行者与派蒙被迫分开。",
+      "keywords": [
+        "双光相撞",
+        "爆炸冲击",
+        "被迫分离",
+        "异常升级"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7602807,
+          "title": "追随光球抵达目的地",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7602801,
+          "title": "穿过空寂走廊",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7602803,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10260-c02-s02",
+      "chapter_index": 2,
+      "order": 2,
+      "title": "旅行者脱离奇怪空间",
+      "narrative_role": "conflict",
+      "importance": 5,
+      "when": "光球相撞爆炸后",
+      "locations": [
+        "奇怪的空间"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "爆炸之后，旅行者发现自己身处一个奇怪空间，并开始寻找离开的办法。旅行者最终成功脱离该空间，但原文没有说明具体方式，也没有解释空间的性质。",
+      "motivation": "旅行者需要摆脱未知空间，确保自身安全并寻找失散的派蒙。",
+      "outcome": "旅行者回到能够与派蒙会合的地点，未知空间则成为尚未解释的核心谜团。",
+      "keywords": [
+        "奇怪空间",
+        "寻找出口",
+        "成功脱离",
+        "未知现象"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7602802,
+          "title": "想办法离开奇怪的空间",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10260-c02-s03",
+      "chapter_index": 2,
+      "order": 3,
+      "title": "重逢未能解答异象",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "旅行者离开奇怪空间后",
+      "locations": [
+        "空寂走廊"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "派蒙在被冲击波吹飞后平安返回，并与脱离奇怪空间的旅行者重逢。无论旅行者采用哪种回答，都会向派蒙讲述刚才见到的景象；派蒙从未听说提瓦特存在那样的地方，因而无法判断那是真实空间还是幻觉。她以两人平安为先，提议尽快离开，同时仍困惑于光球的身份与出现原因。",
+      "motivation": "派蒙首先确认旅行者安全，并希望远离无法理解且已经造成危险的异常现象。",
+      "outcome": "两人平安会合并决定离开，但两个发光物和奇怪空间的真相仍未揭晓。",
+      "keywords": [
+        "重逢",
+        "讲述异象",
+        "幻觉疑问",
+        "未解之谜"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7602803,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:44:02.047Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

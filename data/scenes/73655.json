@@ -1,0 +1,93 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73655,
+    "slug": "73655_kamlas-berries",
+    "title": "卡姆拉的树莓需求",
+    "chapter_num": "",
+    "premise": "奥摩斯港的卡姆拉发布委托，需要委托承接者一次性交付十五个树莓，以便制作树莓果干。",
+    "central_conflict": "交付能否完成取决于十五个树莓是否已经全部备齐，卡姆拉不打算零散取货。",
+    "summary": "在委托交付阶段，委托承接者前往奥摩斯港与卡姆拉谈论树莓。卡姆拉确认对方是根据委托前来送货，并询问十五个树莓是否已经备齐。她说明这些树莓将被一起晾成果干，因此只会在数量齐全后取货。委托承接者完成交付后，卡姆拉准备将树莓带回去晾晒，留待下次出门看海时食用。",
+    "resolution": "卡姆拉收下备齐的十五个树莓并明确其用途，委托由此完成，树莓随后将被制成果干。",
+    "themes": [
+      "委托交付",
+      "物资筹备",
+      "果干制作",
+      "日常愿望"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73655,
+      "title": "卡姆拉的树莓需求",
+      "summary": "委托承接者在奥摩斯港向卡姆拉交付她所需的十五个树莓。卡姆拉坚持等树莓全部备齐后再取货，并在完成交付后表示会将它们晾成果干，供以后看海时食用。",
+      "turning_point": "十五个树莓全部备齐并完成交付，使卡姆拉从等待取货转入准备晾晒果干。",
+      "outcome": "卡姆拉取得十五个树莓，准备将其带回晾晒，委托需求得到满足。",
+      "section_ids": [
+        "73655-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "奥摩斯港的卡姆拉需要十五个树莓。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73655-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "十五个树莓被交给卡姆拉",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "委托交付阶段，具体时间未明确",
+      "locations": [
+        "奥摩斯港"
+      ],
+      "characters": [
+        "卡姆拉",
+        "委托承接者"
+      ],
+      "summary": "在委托交付阶段，委托承接者于奥摩斯港向卡姆拉提起树莓，卡姆拉确认对方是来履行委托，并核实十五个树莓是否已经备齐。她说明自己要将树莓一起晾成果干，因此若数量不足便会继续等待，而不会零散取货。数量备齐并完成交付后，卡姆拉准备把树莓带回晾晒，留作下次看海时的食物。",
+      "motivation": "卡姆拉需要一次取得十五个树莓，将它们集中晾成果干，并在以后出门看海时食用。",
+      "outcome": "卡姆拉收下备齐的树莓并准备晾晒，十五个树莓的委托需求得到满足。",
+      "keywords": [
+        "十五个树莓",
+        "卡姆拉",
+        "交付委托",
+        "树莓果干",
+        "看海"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7365501,
+          "title": "将十五个树莓交给卡姆拉",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7365502,
+          "title": "与卡姆拉对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:17:19.535Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70706,
+    "slug": "70706_timmies-wish",
+    "title": "提米的心愿",
+    "chapter_num": "",
+    "premise": "提米发布委托，需要十份小麦来制作好吃的东西。玩家角色带着小麦与他交涉，目标是完成交付。",
+    "central_conflict": "委托能否完成取决于玩家角色是否已经备齐十份小麦；若材料不足，交付便只能推迟。",
+    "summary": "时间未明确，玩家角色在地点未明确处找到提米，并向他询问小麦委托。提米确认自己需要整整十份小麦，随即询问材料是否已经备齐。玩家角色若尚未准备完成，提米便催促其备齐后尽快送来，委托暂不推进。玩家角色备齐材料后完成交付，解决了提米对小麦的需求。提米向玩家角色道谢并送出谢礼，同时期待用这些小麦做出好吃的东西。委托至此完成，没有留下明确的后续冲突。",
+    "resolution": "提米收到所需的十份小麦，并以谢礼回报玩家角色的帮助。他对制作食物抱有期待，本次委托随之收束。",
+    "themes": [
+      "履行委托",
+      "物资援助",
+      "感谢与回报",
+      "朴素心愿"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70706,
+      "title": "提米的心愿",
+      "summary": "本章围绕向提米交付十份小麦展开。提米先确认玩家角色是否已经备齐材料，材料不足时要求其准备好后再来，备齐后则接受交付。收到小麦后，提米表达感谢、送出谢礼，并期待用这些材料制作好吃的东西，委托由此完成。",
+      "turning_point": "玩家角色确认已经备齐十份小麦，使委托从材料确认转入实际交付与答谢。",
+      "outcome": "提米获得十份小麦，玩家角色收到谢礼，本章委托完成。",
+      "section_ids": [
+        "70706-c00-s01",
+        "70706-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "蒙德城的提米需要十份小麦。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70706-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "提米确认小麦是否备齐",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "提米",
+        "玩家角色"
+      ],
+      "summary": "时间未明确，玩家角色在地点未明确处向提米提起小麦委托，提米随即确认十份小麦是否已经备齐。若玩家角色尚未准备完成，提米会要求其备齐后尽快送来；确认已经备齐时，交付条件得到满足。",
+      "motivation": "提米需要确认委托所需的十份小麦能否按要求交付，玩家角色则希望履行委托。",
+      "outcome": "材料不足时委托暂缓；材料备齐后，剧情进入提米接收小麦并答谢的阶段。",
+      "keywords": [
+        "小麦委托",
+        "材料确认",
+        "十份小麦",
+        "条件分支"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7070601,
+          "title": "将十份小麦交给提米",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70706-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "提米收下小麦并致谢",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "交付十份小麦后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "提米",
+        "玩家角色"
+      ],
+      "summary": "交付十份小麦后，提米确认这些材料已经足够，并感谢玩家角色提供帮助。他送出谢礼，同时表示这些小麦应该能够做出很好吃的东西。",
+      "motivation": "提米因获得所需材料而向帮助自己的玩家角色表达感谢，并期待用小麦制作食物。",
+      "outcome": "提米的物资需求得到满足，玩家角色获得谢礼，本次委托正式完成。",
+      "keywords": [
+        "完成交付",
+        "提米致谢",
+        "谢礼",
+        "制作食物"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7070602,
+          "title": "与提米对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:56:39.066Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

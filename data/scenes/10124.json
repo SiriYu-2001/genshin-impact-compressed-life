@@ -1,0 +1,149 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 10124,
+    "slug": "10124_khvarena-of-good-and-evil",
+    "title": "善恶的赫瓦雷纳",
+    "chapter_num": "",
+    "premise": "旅行者、派蒙与斯露莎首先同祖尔宛交谈，随后旅行者与派蒙转而同凯瑟琳交谈。目标文本未载明两次交谈的具体目的。",
+    "central_conflict": "目标 scene 的全部台词均为空，因而无法确定明确的戏剧冲突；可确认的主要结构变化是交谈对象由祖尔宛一方切换为凯瑟琳。",
+    "summary": "本 scene 由两段连续的非隐藏对话构成，但目标主证据中的所有台词、步骤标题和章节描述均为空。第一段由祖尔宛主导，派蒙、斯露莎和旅行者参与，旅行者中途面对一次二选一回应。第二段转由凯瑟琳与派蒙主导，旅行者再次面对一次二选一回应。相关主线结局章记载，祭水之仪完成后，旅行者一行曾返回甘露花海同祖尔宛会合，并在之后向凯瑟琳复命；这些事实只能说明同系列故事的收束背景，不能用于还原目标 scene 缺失的具体台词。因此，本 scene 可以确认一次从花灵一方到冒险家协会一方的对话性收束，但具体信息、人物动机及委托结果在目标文本中均未明确。",
+    "resolution": "scene 在与凯瑟琳的交谈结束后收束。相关主线结局章另载凯瑟琳交付报酬并保留委托人身份，但目标文本自身未明确记录这一结果。",
+    "themes": [
+      "旅程收束",
+      "同伴关系",
+      "委托回报"
+    ],
+    "context_ref_ids": [
+      "ctx-01",
+      "ctx-02"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73266,
+      "title": "",
+      "summary": "本章先呈现祖尔宛、派蒙、斯露莎与旅行者之间的交谈，随后把主要参与者切换为凯瑟琳、派蒙与旅行者。两段对话均包含一次玩家可选回应，但所有台词为空，无法判断选项内容或具体话题。相关主线结局章只能补充祭水之仪后的会合与复命背景，不能替代本章缺失的正文。",
+      "turning_point": "主要交谈对象由祖尔宛及斯露莎切换为凯瑟琳，叙事关系从花灵一方转向冒险家协会一方。",
+      "outcome": "与凯瑟琳的对话结束，本章随之收束；具体交谈结论在目标文本中未明确。",
+      "section_ids": [
+        "10124-c00-s01",
+        "10124-c00-s02"
+      ],
+      "context_ref_ids": [
+        "ctx-01",
+        "ctx-02"
+      ],
+      "source_file": "chapter_00.json",
+      "source_description": "",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "10124-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "祖尔宛主持内容缺失的交谈",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "祖尔宛",
+        "派蒙",
+        "斯露莎",
+        "旅行者"
+      ],
+      "summary": "目标记录呈现一段由祖尔宛主导、派蒙和斯露莎参与的交谈，旅行者中途作出一次二选一回应。所有台词均为空，具体话题、行动内容和人物立场无法确定。相关主线结局章只表明祭水之仪完成后众人曾在甘露花海与祖尔宛会合，不能据此还原本段对话。",
+      "motivation": "原文未明确",
+      "outcome": "祖尔宛一方的交谈结束，剧情随后转入旅行者、派蒙与凯瑟琳的对话；其余直接结果原文未明确。",
+      "keywords": [
+        "祖尔宛",
+        "斯露莎",
+        "缺失台词",
+        "对话收束"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [
+        "ctx-01"
+      ],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7326601,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10124-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "众人转向凯瑟琳继续交谈",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "凯瑟琳",
+        "派蒙",
+        "旅行者"
+      ],
+      "summary": "主要参与者切换为凯瑟琳、派蒙和旅行者，旅行者在交谈中面对一次二选一回应。目标文本仍未记录任何台词，因而无法确认他们是否正式复命、领取报酬或讨论委托人。相关主线结局章另有向凯瑟琳复命并领取报酬的记载，但该事实仅作为同系列背景。",
+      "motivation": "原文未明确",
+      "outcome": "与凯瑟琳的对话结束并使本 scene 收束；具体交谈结果原文未明确。",
+      "keywords": [
+        "凯瑟琳",
+        "冒险家协会",
+        "缺失台词",
+        "结局交谈"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [
+        "ctx-02"
+      ],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7326602,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [
+    {
+      "id": "ctx-01",
+      "path": "10121_khvarena-of-good-and-evil/chapter_01.json",
+      "reason": "解释祖尔宛、斯露莎等人在同系列结局阶段会合的背景，同时避免用该章台词替代目标 scene 的缺失正文。",
+      "fact": "相关主线章记载，旅行者一行完成「祭水之仪」、熄灭「焚真之天象」并净化大地后，返回甘露花海同祖尔宛会合。"
+    },
+    {
+      "id": "ctx-02",
+      "path": "10121_khvarena-of-good-and-evil/chapter_01.json",
+      "reason": "说明凯瑟琳在同系列故事收束阶段承担的复命功能，但不把外部章事件直接认定为目标 scene 的正文。",
+      "fact": "相关主线章记载，旅行者与派蒙向凯瑟琳复命后获得教令院报酬，并得知递交委托信物的人自称轻小说作家。"
+    }
+  ],
+  "generated": {
+    "at": "2026-08-19T09:36:34.751Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

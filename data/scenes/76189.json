@@ -1,0 +1,139 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 76189,
+    "slug": "76189_animal-research-chic-badgers",
+    "title": "动物调查·帔髦獾",
+    "chapter_num": "",
+    "premise": "雷图礁一带流传着紫色帔髦獾出没的传闻，一名未具名的调查者为此做好准备并前往指定地点展开调查。",
+    "central_conflict": "调查地点虽存在值得追查的迹象，但原文没有给出明确发现；调查能否取得进展，取决于是否借助熟悉本地生态的莉奈娅。",
+    "summary": "雷图礁一带关于紫色帔髦獾的传闻引发了一次动物调查。调查者迅速完成准备，随后依照任务指引前往指定地点。抵达后，调查者发现附近似乎存在值得进一步调查的事物，但尚未确认其性质以及是否与紫色帔髦獾有关。调查者由此想到熟悉本地生态的莉奈娅，认为她可能凭借专业经验取得收获。任务继续要求调查帔髦獾，却没有交代最终发现或确证结果。",
+    "resolution": "本次调查以发现潜在线索并意识到需要莉奈娅的生态知识收束。紫色帔髦獾是否确实出没、现场迹象究竟为何，原文均未明确，为后续调查留下空间。",
+    "themes": [
+      "动物调查",
+      "生态观察",
+      "传闻求证",
+      "专业协助"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 76189,
+      "title": "动物调查·帔髦獾",
+      "summary": "本章围绕雷图礁一带的紫色帔髦獾传闻展开，调查者完成准备并赶赴指定地点。现场出现值得继续调查的迹象，但调查者没有立即获得明确结论，而是意识到莉奈娅对本地生态的了解可能成为突破口。任务随后继续指向帔髦獾调查，最终结果未在原文中说明。",
+      "turning_point": "调查者在现场察觉潜在线索，并将推进调查的希望转向熟悉本地生态的莉奈娅。",
+      "outcome": "调查已经启动并进入现场追查阶段，但紫色帔髦獾的存在及相关线索均未得到明确证实。",
+      "section_ids": [
+        "76189-c00-s01",
+        "76189-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在雷图礁一带有紫色帔髦獾出没的传闻…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "76189-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "调查者赶赴雷图礁",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "调查开始前至前往指定地点阶段",
+      "locations": [
+        "地点未明确",
+        "雷图礁一带的指定调查地点"
+      ],
+      "characters": [
+        "调查者（原文未具名）"
+      ],
+      "summary": "调查开始前，调查者迅速做好准备，以求证雷图礁一带紫色帔髦獾出没的传闻。调查者随后依照任务指引前往指定地点，正式开启现场调查。",
+      "motivation": "调查者希望核实雷图礁一带有关紫色帔髦獾的传闻。",
+      "outcome": "前期准备完成，调查推进至雷图礁一带的指定地点。",
+      "keywords": [
+        "调查准备",
+        "雷图礁",
+        "紫色帔髦獾",
+        "传闻"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7618901,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7618902,
+          "title": "前往指定地点开启调查",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76189-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "线索指向莉奈娅的专长",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "抵达指定地点后",
+      "locations": [
+        "雷图礁一带的指定调查地点"
+      ],
+      "characters": [
+        "调查者（原文未具名）",
+        "莉奈娅（被提及）"
+      ],
+      "summary": "抵达指定地点后，调查者察觉附近似乎存在值得调查的事物，但没有确认其具体性质。由于莉奈娅十分了解本地生态，调查者认为若由她参与，或许能够取得进一步收获。任务继续要求调查帔髦獾，原文没有说明最终发现。",
+      "motivation": "现场迹象尚不明确，调查者需要借助莉奈娅的本地生态知识推进调查。",
+      "outcome": "调查获得了可能需要专业判断的线索方向，但帔髦獾及现场迹象均未被明确证实。",
+      "keywords": [
+        "现场调查",
+        "生态知识",
+        "莉奈娅",
+        "潜在线索",
+        "帔髦獾"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7618903,
+          "title": "调查帔髦獾",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7618904,
+          "title": "调查帔髦獾",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:35:59.967Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

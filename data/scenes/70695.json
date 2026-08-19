@@ -1,0 +1,86 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70695,
+    "slug": "70695_greetings-from-the-knights-of-favonius",
+    "title": "来自骑士团的慰问",
+    "chapter_num": "",
+    "premise": "龙脊雪山活动期间，安柏希望用游艺摊位和帐篷装饰缓和寒冷环境带来的压抑感，并为参赛队伍增添乐趣。她找到旅行者，准备转交一份给「炽魂斗士」小队的礼品。",
+    "central_conflict": "寒冷的活动环境可能削弱营地气氛和观众体验，安柏需要通过布置与慰问维持轻松热闹的氛围。",
+    "summary": "龙脊雪山活动期间，安柏认为寒冷环境下更需要营造热闹气氛，以免观众失去乐趣。她注意到游艺摊位已经让营地变得更加轻松。为了进一步鼓舞各支队伍，她决定赠送可以装饰帐篷的小礼品。安柏将属于「炽魂斗士」小队的一份礼品交给旅行者，并祝愿众人保持好心情、发挥最佳水平。",
+    "resolution": "安柏完成了对「炽魂斗士」小队的礼品转交，以实际慰问支持队伍参赛。礼品将用于装饰帐篷，并承载她活跃营地气氛、鼓舞参赛者的愿望。",
+    "themes": [
+      "营地慰问",
+      "气氛营造",
+      "团队鼓励",
+      "友善关怀"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70695,
+      "title": "来自骑士团的慰问",
+      "summary": "安柏向旅行者说明，龙脊雪山的严寒使活动更需要热闹轻松的气氛，而游艺摊位已经产生了积极效果。她由此决定为各支队伍准备帐篷装饰礼品，并将「炽魂斗士」小队的一份交给旅行者。此次慰问以安柏对队伍保持好心情并发挥最佳水平的祝愿收束。",
+      "turning_point": "安柏从肯定游艺摊位对营地气氛的改善，转而决定通过赠送装饰礼品进一步鼓舞各支队伍。",
+      "outcome": "旅行者收到给「炽魂斗士」小队的帐篷装饰礼品，安柏完成了对该队伍的慰问与鼓励。",
+      "section_ids": [
+        "70695-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "安柏似乎正在寻找你们…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70695-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "安柏赠礼鼓舞参赛队伍",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "龙脊雪山活动期间",
+      "locations": [
+        "龙脊雪山活动营地"
+      ],
+      "characters": [
+        "安柏",
+        "旅行者"
+      ],
+      "summary": "龙脊雪山活动期间，安柏向旅行者说明，寒冷环境下尤其需要热闹的安排来保障观众的乐趣，而游艺摊位已经让营地氛围更加轻松。她希望借此机会为各支队伍赠送可用于装饰帐篷的小礼品，并将属于「炽魂斗士」小队的一份交给旅行者。安柏祝愿众人保持好心情，并在活动中发挥出最佳水平。",
+      "motivation": "安柏希望改善严寒环境中的活动气氛，为观众增添乐趣，同时鼓舞各支参赛队伍。",
+      "outcome": "旅行者收下了「炽魂斗士」小队的帐篷装饰礼品，安柏的慰问和祝愿随之传达给该队伍。",
+      "keywords": [
+        "安柏",
+        "龙脊雪山",
+        "慰问礼品",
+        "帐篷装饰",
+        "炽魂斗士"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7069501,
+          "title": "与安柏对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:56:13.545Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

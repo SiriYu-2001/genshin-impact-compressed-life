@@ -1,0 +1,415 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 10017,
+    "slug": "10017_beneath-splendent-lanterns",
+    "title": "霄灯玲珑照此地",
+    "chapter_num": "",
+    "premise": "海灯节期间，璃月港冒险家协会的小千第三次招揽玩家试玩「玲珑霄灯图」拼图游戏。本轮图案为系列最高难度的「仙鹤」，三幅图拼成一个完整图案，拼成后可凭图纸寻找协会埋藏的宝藏。",
+    "central_conflict": "玩家需要拼出最高难度的「仙鹤」图案，并依据图纸标注找到协会设置的全部宝藏；寻宝还有夜晚（21点至5点）的时间门槛，玩家须在限定条件下完成全部挑战，才能获得协会准备的最终大礼。",
+    "summary": "海灯节期间，璃月港冒险家协会的小千第三次向玩家发起「玲珑霄灯图」试玩邀约，并换上难度最高的灯盏。玩家接招完成「仙鹤」图案的拼图，观察图纸后得知宝藏线索藏在屏风里，遂循图找到三处标注的藏宝地。寻宝须在夜晚进行，白天到访会被小千要求改天再来。完成寻宝后，玩家向小千汇报成果，获赠协会特意准备的大礼，并开启她对面的宝箱收下奖励。小千笑称战利品先到先得，祝玩家海灯节玩得开心。任务最后以一段无对白的收尾章节为整条系列画上句号。",
+    "resolution": "玩家解开全部三张霄灯图并寻得全部宝藏，获得协会准备的大礼，第三轮试玩圆满收束；收尾章节为整条「霄灯玲珑照此地」任务线画上句号，系列任务全部完结。",
+    "themes": [
+      "海灯节",
+      "拼图解谜",
+      "寻宝冒险",
+      "挑战与回报"
+    ],
+    "context_ref_ids": [
+      "ctx-01",
+      "ctx-02",
+      "ctx-03"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 41359,
+      "title": "玲珑霄灯图之三",
+      "summary": "本章为「玲珑霄灯图」系列的第三轮试玩。小千招揽玩家挑战最高难度的「仙鹤」图案，玩家拼成图纸并观察后，得知宝藏线索藏在屏风中，随即循图找到三处藏宝地。寻宝须在夜晚进行，白天会被小千要求改天再来；完成寻宝后向小千汇报，获赠协会准备的大礼并开启对面宝箱。本章以宝箱开启和玩家满载收获作为收束。",
+      "turning_point": "玩家完成最高难度「仙鹤」拼图、得知宝藏线索藏在屏风后，剧情由解谜阶段转入寻宝阶段。",
+      "outcome": "玩家完成第三轮拼图与寻宝，获得协会的最终奖励，为系列收尾铺平道路。",
+      "section_ids": [
+        "10017-c00-s01",
+        "10017-c00-s02",
+        "10017-c00-s03",
+        "10017-c00-s04",
+        "10017-c00-s05",
+        "10017-c00-s06"
+      ],
+      "context_ref_ids": [
+        "ctx-01",
+        "ctx-02",
+        "ctx-03"
+      ],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月港冒险家协会的小千似乎还在招揽人过去试玩「玲珑霄灯图」…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 71032,
+      "title": "",
+      "summary": "本章是「霄灯玲珑照此地」系列任务的收尾章节，未包含可见对白，仅记录与小千的两次对话流程（第二次对话未标明说话人）。该章以另外三个任务的相关步骤全部完成为开启条件，为整条任务线画上句号。",
+      "turning_point": "原文未明确",
+      "outcome": "触发并完成系列收尾流程，整条任务线随之进入完结状态。",
+      "section_ids": [
+        "10017-c01-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "10017-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "小千招揽试玩最高难度霄灯图",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "时间未明确（剧情处于海灯节期间）",
+      "locations": [
+        "璃月港冒险家协会"
+      ],
+      "characters": [
+        "小千",
+        "玩家"
+      ],
+      "summary": "小千在璃月港冒险家协会欢迎玩家再次试玩「玲珑霄灯图」，说明这次换上了难度最高的灯盏。她介绍本轮图案为「仙鹤」，三盏灯的图拼成一个完整图案，难度在于「连轴」，拼好图后即可凭图寻找宝藏。",
+      "motivation": "小千为回应玩家此前连续两次解开拼图，特意换上难度最高的灯盏以作挑战；玩家接受邀请参与试玩。",
+      "outcome": "玩家接下最高难度挑战，进入「鹤」图案拼图环节，寻宝流程随之展开。",
+      "keywords": [
+        "玲珑霄灯图",
+        "最高难度",
+        "仙鹤",
+        "连轴"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [
+        "ctx-03"
+      ],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 4135901,
+          "title": "与小千对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10017-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "完成鹤图案拼图并观察图纸",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "璃月港冒险家协会"
+      ],
+      "characters": [
+        "小千",
+        "玩家"
+      ],
+      "summary": "拼图开始后小千会提醒玩家本次要拼出的图案是「鹤」。玩家将三盏灯映出的图案拼成完整的「仙鹤」图，随后观察拼成的「玲珑霄灯图·鹤」，从中读取宝藏线索。",
+      "motivation": "玩家为获取图纸上标注的宝藏线索，按小千的指引完成「仙鹤」图案的拼图并观察图纸。",
+      "outcome": "「仙鹤」拼图完成并已被观察，图纸上的宝藏线索得以确认，触发小千的后续指引。",
+      "keywords": [
+        "完成拼图",
+        "仙鹤图案",
+        "观察图纸"
+      ],
+      "source_step_keys": [
+        "8",
+        "1",
+        "12"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "8",
+          "id": 4135906,
+          "title": "寻找宝藏",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 4135902,
+          "title": "完成「玲珑霄灯图·鹤」",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 4135915,
+          "title": "观察「玲珑霄灯图·鹤」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10017-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "小千揭示宝藏线索藏于屏风",
+      "narrative_role": "revelation",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "璃月港冒险家协会"
+      ],
+      "characters": [
+        "小千",
+        "玩家"
+      ],
+      "summary": "拼好鹤图后，小千惊讶玩家居然又拼好了最高难度的图，称赞玩家是很厉害的冒险家。她告诉玩家宝藏的线索都隐藏在屏风里，让玩家快去看屏风。",
+      "motivation": "小千兑现拼好图即可寻宝的约定，引导玩家从屏风图案中读取藏宝线索。",
+      "outcome": "剧情由解谜转入寻宝阶段，玩家得知宝藏线索藏在屏风之中。",
+      "keywords": [
+        "小千",
+        "屏风",
+        "宝藏线索"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [
+        "ctx-01"
+      ],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 4135903,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10017-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "循图前往三处标注藏宝地",
+      "narrative_role": "investigation",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "玩家"
+      ],
+      "summary": "玩家根据「玲珑霄灯图·鹤」上标注的位置，逐一前往三处藏宝地。三处位置均按图纸标注确认，为随后的寻宝做好准备。",
+      "motivation": "玩家为找到协会设置的宝藏，循图纸标注逐一确认三处藏宝地。",
+      "outcome": "三处藏宝地全部确认，寻宝阶段的条件齐备。",
+      "keywords": [
+        "藏宝地",
+        "图纸标注",
+        "寻宝"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [
+        "ctx-01"
+      ],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 4135908,
+          "title": "找到「玲珑霄灯图」上标注的藏宝地",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 4135909,
+          "title": "找到「玲珑霄灯图」上标注的藏宝地",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 4135910,
+          "title": "找到「玲珑霄灯图」上标注的藏宝地",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10017-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "夜晚寻宝的时间门槛与回应",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "夜晚（21点至5点）与白天两个时段",
+      "locations": [
+        "璃月港冒险家协会"
+      ],
+      "characters": [
+        "小千",
+        "玩家"
+      ],
+      "summary": "寻宝阶段对时间有要求：白天到访时，小千会告知玩家想玩的话等晚上再来。夜晚（21点至5点）与小千对话后，她说明宝藏由协会特意准备，祝玩家寻宝开心。",
+      "motivation": "寻宝环节安排在夜晚进行，白天到访的玩家会被要求改天晚上再来，夜晚对话后方可继续寻宝。",
+      "outcome": "玩家通过夜晚门槛获得寻宝许可，得知宝藏由协会准备，随后完成寻宝。",
+      "keywords": [
+        "夜晚",
+        "时间门槛",
+        "协会宝藏"
+      ],
+      "source_step_keys": [
+        "7",
+        "11",
+        "6"
+      ],
+      "context_ref_ids": [
+        "ctx-02"
+      ],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 4135905,
+          "title": "寻找宝藏",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 4135912,
+          "title": "在晚上（21点~5点）与小千对话",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 4135904,
+          "title": "寻找宝藏",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10017-c00-s06",
+      "chapter_index": 0,
+      "order": 6,
+      "title": "汇报成果并开启宝箱领取大礼",
+      "narrative_role": "climax",
+      "importance": 4,
+      "when": "时间未明确（寻宝完成之后）",
+      "locations": [
+        "璃月港冒险家协会（小千对面的宝箱处）"
+      ],
+      "characters": [
+        "小千",
+        "玩家"
+      ],
+      "summary": "玩家向小千汇报寻宝之旅顺利、已找到全部宝藏；小千称赞玩家把三张图都解完了，宣布协会特意准备了一份大礼，并指向对面的宝箱让玩家开启。玩家开启宝箱收下奖励，小千笑称战利品先到先得，并祝玩家海灯节玩得开心。",
+      "motivation": "玩家完成全部拼图与寻宝后向小千汇报，协会兑现准备大礼的承诺；小千以宝箱作为最终奖励。",
+      "outcome": "玩家获得协会大礼并开启宝箱，第三轮试玩圆满结束，系列任务走向收束。",
+      "keywords": [
+        "协会大礼",
+        "宝箱",
+        "海灯节"
+      ],
+      "source_step_keys": [
+        "9",
+        "10"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "9",
+          "id": 4135907,
+          "title": "与小千对话",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 4135911,
+          "title": "开启小千对面的宝箱",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10017-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "完成系列任务的收尾流程",
+      "narrative_role": "resolution",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "小千"
+      ],
+      "summary": "本章为整条系列任务的收尾流程，不含可见对白文本，仅包含与小千（另有一次未标明说话人）的两次对话。该章以另外三个任务的相关步骤全部完成为开启前提。",
+      "motivation": "原文未明确（仅为系列收尾的触发流程，无对白内容）。",
+      "outcome": "系列收尾流程完成触发，整条任务线进入完结状态。",
+      "keywords": [
+        "系列收尾",
+        "小千",
+        "任务完结"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7103201,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7103202,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [
+    {
+      "id": "ctx-01",
+      "path": "10015_beneath-splendent-lanterns/chapter_00.json",
+      "reason": "目标文本只说宝藏线索藏在屏风里，未说明屏风为何能指示藏宝地；该文件说明屏风即璃月地图、拼好的图案映出协会藏宝点。",
+      "fact": "「玲珑霄灯图」的画屏上绘制的是璃月地图，拼出正确图案并映在地图上后，即可发现冒险家协会事先准备的宝藏。"
+    },
+    {
+      "id": "ctx-02",
+      "path": "10015_beneath-splendent-lanterns/chapter_00.json",
+      "reason": "目标文本只要求玩家夜晚（21点至5点）再来，未说明夜晚门槛的由来；该文件说明灯的图案在夜晚才看得最清楚。",
+      "fact": "玲珑霄灯图上灯的图案只有在晚上才看得最清楚，小千因此建议玩家等晚上再过来玩。"
+    },
+    {
+      "id": "ctx-03",
+      "path": "10016_beneath-splendent-lanterns/chapter_00.json",
+      "reason": "目标文本中小千称玩家已连续解开两次并换上了最高难度，需要系列前两轮的图案信息佐证这一前情。",
+      "fact": "「玲珑霄灯图之二」的图案为摩拉，玩家已在系列前两轮中连续完成拼图与寻宝；本章为系列的第三轮。"
+    }
+  ],
+  "generated": {
+    "at": "2026-08-18T11:55:07.941Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

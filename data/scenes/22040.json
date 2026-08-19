@@ -1,0 +1,199 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 22040,
+    "slug": "22040_crash-course-on-inazuman-fashion",
+    "title": "稻妻时尚入门",
+    "chapter_num": "",
+    "premise": "稻妻「小仓屋」店主小仓澪因稻妻现状导致璃月高档绸缎断货、只能靠存货维持经营，苦于想不出有「新意」的纹样，于是委托见多识广的旅行者向外国人士打听纹样创意。",
+    "central_conflict": "小仓澪缺乏创新纹样灵感，在货源断绝、仅靠存货维持的情况下难以设计新样式吸引客人、维持生意。",
+    "summary": "故事始于「小仓屋」店主小仓澪为生意发愁：因稻妻当前的状况，店内已有一段时间进不到璃月的高档绸缎，只能靠存货维持，她本想设计新纹样或新染料吸引客人，却想不出有「新意」的纹样。小仓澪委托见多识广的旅行者向外国人士打听纹样的事，并点名汤雯与拉姆齐。旅行者先后询问二人，分别得到「书本」与「茶具」两种纹样建议。旅行者回到小仓屋向小仓澪回报，小仓澪认为两个想法有趣，称具体做法还需再琢磨，并以报酬答谢。委托就此圆满收束，小仓澪获得了新的设计思路，但新纹样能否真正落地并未在本次剧情中展现。",
+    "resolution": "旅行者带回「书本」与「茶具」两种纹样建议并向小仓澪回报，小仓澪认可这些想法、表示会再琢磨具体做法，并奉上报酬答谢。委托圆满结束，小仓澪获得新的设计方向，其实现细节留待后续。",
+    "themes": [
+      "传统与创新",
+      "锁国下的生计",
+      "外来视角的启发",
+      "匠人的坚持"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 22040,
+      "title": "稻妻时尚入门",
+      "summary": "本章讲述「小仓屋」店主小仓澪因稻妻现状导致璃月绸缎断货、经营陷入困境，委托旅行者向外国人士打听有「新意」的纹样。旅行者先后询问汤雯与拉姆齐，获得「书本」与「茶具」两种纹样建议，并向小仓澪回报。小仓澪认为两种想法有趣，表示会再琢磨具体做法，并答谢旅行者，委托就此完成。",
+      "turning_point": "小仓澪从苦于想不出新纹样的困境，转为获得「书本」与「茶具」两种新的纹样设计思路。",
+      "outcome": "旅行者完成打听并回报，小仓澪获得新的纹样灵感方向并以报酬答谢，委托圆满结束。",
+      "section_ids": [
+        "22040-c00-s01",
+        "22040-c00-s02",
+        "22040-c00-s03",
+        "22040-c00-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "「小仓屋」的店主小仓澪正在犯愁…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "22040-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "小仓屋的困境与纹样委托",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "小仓屋"
+      ],
+      "characters": [
+        "小仓澪",
+        "旅行者"
+      ],
+      "summary": "小仓澪在小仓屋为生意发愁，因稻妻当前的状况，店内已有一段时间进不到璃月的高档绸缎，只能靠存货维持经营。她本想设计新纹样或用新染料做出新样式吸引客人，却苦于想不出有「新意」的纹样，于是请求见多识广的旅行者帮忙向外国人士打听纹样的事，并指明汤雯与拉姆齐。旅行者答应相助。",
+      "motivation": "小仓澪为摆脱货源断绝、仅靠存货维持的困境，需要新的纹样创意来设计新样式吸引客人。",
+      "outcome": "旅行者接受委托，确定打听对象为汤雯与拉姆齐，推动后续的纹样打听行动。",
+      "keywords": [
+        "小仓屋",
+        "小仓澪",
+        "绸缎断货",
+        "纹样委托"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 2204001,
+          "title": "与小仓澪对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "22040-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "汤雯提议书本纹样",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "汤雯",
+        "旅行者"
+      ],
+      "summary": "旅行者就着物上的纹样向汤雯打听，汤雯自称对此并不了解，但提出若把「书本」作为纹样也许会非常好看，并想象印着书本纹样的着物会很有意思。",
+      "motivation": "受小仓澪委托，旅行者向外国人士收集有「新意」的纹样想法。",
+      "outcome": "获得「书本」纹样的建议，构成回报小仓澪的素材之一。",
+      "keywords": [
+        "汤雯",
+        "书本纹样",
+        "着物"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 2204002,
+          "title": "询问汤雯关于纹样的事",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "22040-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "拉姆齐提议茶具纹样",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "拉姆齐",
+        "旅行者"
+      ],
+      "summary": "旅行者就着物上的纹样向拉姆齐打听，拉姆齐表示自己不太了解这方面的事，但觉得把「茶具」作为纹样也许非常有趣，并笑称印着茶具纹样的着物颇具稻妻感。",
+      "motivation": "受小仓澪委托，旅行者继续向外国人士收集有「新意」的纹样想法。",
+      "outcome": "获得「茶具」纹样的建议，与书本纹样一同构成回报小仓澪的素材。",
+      "keywords": [
+        "拉姆齐",
+        "茶具纹样",
+        "稻妻感"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 2204003,
+          "title": "询问拉姆齐关于纹样的事",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "22040-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "回报小仓澪并获答谢",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "小仓屋"
+      ],
+      "characters": [
+        "旅行者",
+        "小仓澪"
+      ],
+      "summary": "旅行者回到小仓屋向小仓澪回报打听结果，小仓澪对「书本」与「茶具」两种纹样表示有趣，称具体要怎么做还需再琢磨。她感谢旅行者提供的有用信息，并奉上报酬。",
+      "motivation": "完成委托的回报环节，将收集到的纹样创意交给小仓澪。",
+      "outcome": "小仓澪获得两种新的纹样设计思路并以报酬答谢旅行者，委托圆满结束。",
+      "keywords": [
+        "回报",
+        "书本纹样",
+        "茶具纹样",
+        "报酬"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 2204004,
+          "title": "向小仓澪回报",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-18T22:00:35.618Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

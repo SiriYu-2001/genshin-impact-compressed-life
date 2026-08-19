@@ -1,0 +1,163 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71533,
+    "slug": "71533_custom-gift-envelope-no-1",
+    "title": "如意祝柬·之一",
+    "chapter_num": "",
+    "premise": "海灯节期间，米卡因递送信件来到璃月港，并想为可莉带回一封海灯节祝柬。由于祝柬需要亲手制作且自己的成品始终不理想，他向旅行者寻求帮助。",
+    "central_conflict": "米卡希望完成一封能让可莉喜欢的祝柬，却无法判断自己的制作哪里出了问题，同时还受到尽快返回骑士团复命的时间压力。",
+    "summary": "海灯节期间，旅行者在璃月港遇见正在为制作祝柬苦恼的米卡。米卡说明自己原本是来执行递送信件任务，因可莉想要海灯节祝柬，才打算顺便带一封回去。得知祝柬需要亲手制作后，他尝试许久仍不满意，只好向见多识广的旅行者请教。旅行者接受请求，并与米卡一同完成祝柬。米卡看到成品后十分赞赏，相信可莉一定会喜欢。随后他意识到自己停留太久，向旅行者道谢后准备赶回骑士团复命。",
+    "resolution": "旅行者帮助米卡完成了准备送给可莉的祝柬，解决了他的制作难题。米卡带着满意的成品结束停留，并转而赶回骑士团完成复命。",
+    "themes": [
+      "节庆赠礼",
+      "友谊互助",
+      "亲手制作",
+      "责任与心意"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71533,
+      "title": "如意祝柬·之一",
+      "summary": "米卡在璃月港为制作送给可莉的海灯节祝柬而苦恼，并向旅行者求助。旅行者与他一同完成祝柬，使这份节庆礼物达到令他满意的效果。米卡表达感谢后因惦记骑士团的复命任务而匆忙启程，祝柬制作一事就此完成。",
+      "turning_point": "旅行者接受米卡的请求并与他完成祝柬，使米卡无法独自解决的制作难题得到化解。",
+      "outcome": "米卡获得了一封相信可莉会喜欢的祝柬，并在感谢旅行者后准备返回骑士团复命。",
+      "section_ids": [
+        "71533-c00-s01",
+        "71533-c00-s02",
+        "71533-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "似乎有人对制作祝柬产生了兴趣…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71533-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "米卡说明制作祝柬的困境",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "海灯节期间",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "米卡",
+        "旅行者"
+      ],
+      "summary": "海灯节期间，旅行者在璃月港遇见正在反复琢磨祝柬的米卡。米卡说明自己本为执行递送信件任务而来，又因可莉想要海灯节祝柬，便打算顺便带一封回去。得知祝柬必须亲手制作后，他尝试许久仍觉得成品不对，遂向旅行者请求建议。",
+      "motivation": "米卡希望满足可莉对海灯节祝柬的期待，却无法独自改善自己的成品，因此寻求旅行者的帮助。",
+      "outcome": "旅行者得知米卡的来意与困难，并开始思考如何帮助他制作祝柬。",
+      "keywords": [
+        "海灯节",
+        "可莉",
+        "制作困难",
+        "请求帮助"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7153301,
+          "title": "与米卡对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71533-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "旅行者协助完成节庆祝柬",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "海灯节期间，米卡提出请求后",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "米卡",
+        "旅行者"
+      ],
+      "summary": "米卡再次请见多识广的旅行者提供制作建议，旅行者表示需要思考。随后旅行者与米卡一同完成了祝柬，使制作工作从反复受挫转为获得成品。",
+      "motivation": "旅行者回应米卡的求助，米卡则希望借助旅行者的经验完成送给可莉的节庆礼物。",
+      "outcome": "祝柬制作完成，为米卡确认成品效果并结束璃月港之行创造了条件。",
+      "keywords": [
+        "共同制作",
+        "祝柬",
+        "协助",
+        "节庆礼物"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7153302,
+          "title": "和米卡一同完成祝柬",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71533-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "米卡携满意祝柬赶去复命",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "祝柬完成后",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "米卡",
+        "旅行者"
+      ],
+      "summary": "祝柬完成后，米卡称赞成品既好看又完成得迅速，并确信可莉会喜欢。紧接着，他意识到自己已经停留太久，还需尽快回骑士团复命。米卡向旅行者道谢，准备带着祝柬离开。",
+      "motivation": "米卡既想把满意的祝柬带给可莉，也必须履行返回骑士团复命的职责。",
+      "outcome": "制作祝柬的目标顺利达成，米卡结束停留并赶回骑士团复命。",
+      "keywords": [
+        "成品认可",
+        "感谢",
+        "可莉",
+        "骑士团复命"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7153303,
+          "title": "与米卡对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:02:19.386Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

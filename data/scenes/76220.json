@@ -1,0 +1,131 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 76220,
+    "slug": "76220_tea-party-re-invitation-arlecchino",
+    "title": "茶会的再邀·阿蕾奇诺",
+    "chapter_num": "",
+    "premise": "桑多涅前往月矩力试验设计局高处布置茶桌并落座，准备与阿蕾奇诺共度茶会时光。主要目标是完成这场高处茶会并妥善道别。",
+    "central_conflict": "本段没有明显的对抗性冲突，核心张力来自茶会临近结束时，桑多涅需要决定继续停留片刻还是就此结束相聚。",
+    "summary": "桑多涅前往月矩力试验设计局高处，为受邀而来的阿蕾奇诺准备茶会。她完成茶桌布置并落座，使两人得以进入共度茶会时光的阶段。茶会临近尾声时，阿蕾奇诺称这段时光十分惬意，并向桑多涅表达款待之谢。桑多涅可以选择再坐一会儿，也可以直接表示茶会应当结束，两种选择均未改变最终走向。阿蕾奇诺接受桑多涅的决定，以约定下次再见为这次相聚收尾。",
+    "resolution": "茶会在平和的致谢与告别中结束，桑多涅与阿蕾奇诺约定日后再会，为双方继续往来留下余地。",
+    "themes": [
+      "茶会相聚",
+      "短暂休憩",
+      "温和告别",
+      "再会约定"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 76220,
+      "title": "茶会的再邀·阿蕾奇诺",
+      "summary": "本章围绕桑多涅在月矩力试验设计局高处招待阿蕾奇诺展开。桑多涅先完成茶会准备并落座，随后与阿蕾奇诺共度惬意时光。茶会结束之际，桑多涅可以选择稍作停留或直接告辞，但两条回应最终都导向阿蕾奇诺接受安排并约定再见。",
+      "turning_point": "阿蕾奇诺表达谢意后，桑多涅面临继续停留或结束茶会的选择，剧情由相聚转入告别。",
+      "outcome": "阿蕾奇诺感谢桑多涅的款待，并在接受茶会结束安排后与她约定下次再见。",
+      "section_ids": [
+        "76220-c00-s01",
+        "76220-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "前往月矩力实验设计局高处放置茶桌并使用桑多涅落座后，与阿蕾奇诺共度茶会时光吧…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "76220-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "桑多涅在高处布置茶会",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "茶会开始前",
+      "locations": [
+        "月矩力试验设计局高处"
+      ],
+      "characters": [
+        "桑多涅"
+      ],
+      "summary": "茶会开始前，桑多涅前往月矩力试验设计局高处，为与阿蕾奇诺相聚做准备。她在高处放置茶桌并落座，由此开启茶会。",
+      "motivation": "桑多涅希望按照邀请安排，在指定地点招待阿蕾奇诺并与她共度茶会时光。",
+      "outcome": "茶会场地准备完成，桑多涅落座，剧情进入双方享受茶会的阶段。",
+      "keywords": [
+        "月矩力试验设计局",
+        "桑多涅",
+        "茶桌",
+        "茶会准备"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7622001,
+          "title": "前往月矩力试验设计局高处开启茶会",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7622002,
+          "title": "前往月矩力试验设计局高处开启茶会",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "76220-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "阿蕾奇诺致谢并约定再会",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "茶会临近结束时",
+      "locations": [
+        "月矩力试验设计局高处"
+      ],
+      "characters": [
+        "桑多涅（「木偶」）",
+        "阿蕾奇诺（「仆人」）"
+      ],
+      "summary": "茶会临近结束时，阿蕾奇诺称这段时光十分惬意，并感谢桑多涅的款待。桑多涅可以选择再坐一会儿，也可以表示茶会应当结束；无论选择哪一种回应，阿蕾奇诺最终都接受安排并与她约定下次再见。",
+      "motivation": "阿蕾奇诺因享受到惬意的茶会而向桑多涅致谢，桑多涅则需要决定是否延长相聚时间。",
+      "outcome": "两种可选回应汇合为同一结果，茶会平和收束，阿蕾奇诺留下再次见面的约定。",
+      "keywords": [
+        "阿蕾奇诺",
+        "感谢款待",
+        "可选回应",
+        "告别",
+        "下次再见"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7622003,
+          "title": "享受茶会时光",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:36:32.931Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73024,
+    "slug": "73024_woodland-encounter",
+    "title": "林中奇遇",
+    "chapter_num": "",
+    "premise": "旅行者与派蒙途经林间道路时，发现巡林官拉娜正遭到蕈兽攻击，二人决定上前解围。",
+    "central_conflict": "须弥森林中的蕈兽、猛兽与死域使环境日益危险，拉娜既要应对眼前袭击，也要保障两名外来旅人的安全。",
+    "summary": "旅行者与派蒙在林间道路上发现拉娜被蕈兽围攻，立即决定施以援手。二人击退袭击者后，拉娜致谢并表明自己是当地巡林官。双方互相介绍，拉娜据旅行者的衣着判断他们来自须弥之外；在对应的可选对话版本中，他们还会谈及提纳里与柯莱。拉娜随后说明巡林官负有保护森林、帮助旅人和提供指引的职责，并警告近期蕈兽与猛兽异常狂躁，森林中还有死域威胁。为了让旅行者与派蒙安全通行，她提出沿巡林路线护送二人前往维摩庄。旅行者可以立即同行，也可以先处理其他事务，由拉娜留在原地等候。",
+    "resolution": "眼前的蕈兽袭击被解除，旅行者与拉娜建立联系，并获得前往维摩庄的安全引导。护送计划已经形成，但是否立即出发取决于旅行者的选择。",
+    "themes": [
+      "见义勇为",
+      "森林危机",
+      "巡林职责",
+      "旅途引导"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73024,
+      "title": "林中奇遇",
+      "summary": "旅行者与派蒙在林间道路上发现拉娜遭受蕈兽攻击，随即出手解围。获救的拉娜以巡林官身份与二人结识，并在不同对话版本中介绍当地人物及森林近况。她指出蕈兽、猛兽和死域正使林中环境恶化，最终提出护送二人沿巡林路线前往维摩庄。",
+      "turning_point": "拉娜获救后从受助者转为引路人，主动提出保护旅行者与派蒙并带他们前往维摩庄。",
+      "outcome": "蕈兽威胁被清除，双方建立信任，前往维摩庄的同行安排随之确定或进入等候状态。",
+      "section_ids": [
+        "73024-c00-s01",
+        "73024-c00-s02",
+        "73024-c00-s03",
+        "73024-c00-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在林间道路上，见到了一位被蕈兽攻击的人。无论如何，不能放着遇到困难的人不管。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73024-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "二人发现拉娜遇袭",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "旅行者与派蒙途经林间道路时",
+      "locations": [
+        "林间道路"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "拉娜",
+        "蕈兽"
+      ],
+      "summary": "旅行者与派蒙途经林间道路时，看到拉娜正在驱赶攻击她的蕈兽。派蒙判断她身处危险，催促旅行者立即上前帮助。",
+      "motivation": "派蒙与旅行者不愿放任遇到困难的人遭受袭击。",
+      "outcome": "二人确认救援目标，并迅速介入拉娜与蕈兽的冲突。",
+      "keywords": [
+        "林间道路",
+        "拉娜遇袭",
+        "蕈兽",
+        "紧急救援"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7302406,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "73024-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "旅行者击退袭击者",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "发现拉娜遇袭后",
+      "locations": [
+        "林间道路"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "拉娜",
+        "蕈兽"
+      ],
+      "summary": "旅行者与派蒙介入袭击，在林间帮助拉娜对抗蕈兽。具体战斗过程原文未展开，但任务目标明确要求帮助被攻击的人。",
+      "motivation": "旅行者与派蒙希望解除拉娜面临的直接危险。",
+      "outcome": "袭击拉娜的威胁被排除，为双方随后交谈和结识创造了条件。",
+      "keywords": [
+        "出手相助",
+        "击退蕈兽",
+        "解除危机"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7302402,
+          "title": "帮助被攻击的人",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "73024-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "拉娜致谢并表明身份",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "蕈兽袭击被解除后",
+      "locations": [
+        "林间道路"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "拉娜"
+      ],
+      "summary": "获救后，拉娜向旅行者与派蒙道谢，并自称是当地巡林官。双方互相介绍，拉娜从二人的衣着判断他们并非森林或沙漠的居民。在内容较丰富的可选对话版本中，三人还会谈及提纳里与柯莱，拉娜表达对同僚和后辈的熟悉与关心。",
+      "motivation": "拉娜希望答谢救援并了解两名外来旅人的身份，旅行者与派蒙也借此确认她与须弥巡林体系的关系。",
+      "outcome": "双方建立初步信任；根据触发的对话版本，旅行者还会进一步了解拉娜与提纳里、柯莱的联系。",
+      "keywords": [
+        "互相介绍",
+        "巡林官",
+        "提纳里",
+        "柯莱"
+      ],
+      "source_step_keys": [
+        "0",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7302401,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7302405,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "73024-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "拉娜提出护送同行",
+      "narrative_role": "transition",
+      "importance": 5,
+      "when": "双方结识并谈及森林近况后",
+      "locations": [
+        "林间道路",
+        "维摩庄"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "拉娜"
+      ],
+      "summary": "拉娜说明巡林官负有保护森林、帮助旅人和提供指引的职责，并指出近期蕈兽与猛兽格外狂躁，森林中还存在死域。得知旅行者与派蒙是外来旅人后，她提出沿巡林路线护送二人前往维摩庄，以便他们再循水路前往奥摩斯港或须弥城。旅行者可以选择立即同行，也可以先处理其他事务，让拉娜暂时等候。",
+      "motivation": "拉娜希望履行巡林官保护和引导旅人的职责，使二人在危险的森林环境中安全通行。",
+      "outcome": "前往维摩庄的护送计划得以建立；旅行者若准备就绪便与拉娜出发，否则拉娜留在原地等待。",
+      "keywords": [
+        "森林异变",
+        "巡林职责",
+        "护送",
+        "维摩庄",
+        "路线指引"
+      ],
+      "source_step_keys": [
+        "0",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7302401,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7302405,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:13:03.543Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

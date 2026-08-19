@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72714,
+    "slug": "72714_rikus-eggy-endeavor",
+    "title": "陆的鸟蛋需求",
+    "chapter_num": "",
+    "premise": "鸣神岛的陆想像鸟妈妈一样孵出小鸟并与它们玩耍，因此委托旅行者准备八个鸟蛋。故事的主要目标是将这些鸟蛋交给陆。",
+    "central_conflict": "陆的愿望能否推进取决于旅行者是否已经备齐八个鸟蛋；若材料不足，交付便只能暂缓。",
+    "summary": "时间未明确，旅行者在鸣神岛与陆谈起鸟蛋。陆说明自己想模仿鸟妈妈孵出小鸟，并透露这正是他发布委托、索要八个鸟蛋的原因。他随后询问旅行者是否已经完成准备，材料未齐时会要求对方备好后再来。任务完成路径中，旅行者确认已经准备妥当，并将八个鸟蛋交给陆。收到鸟蛋后，陆向旅行者道谢，并承诺会小心对待它们。委托由此在顺利交付材料后结束，但原文没有说明鸟蛋最终是否成功孵化。",
+    "resolution": "陆取得八个鸟蛋并表达感谢，旅行者完成了委托。陆的孵鸟愿望进入尝试阶段，而孵化结果未在本场景中交代。",
+    "themes": [
+      "童真愿望",
+      "材料委托",
+      "善意帮助",
+      "人与鸟类"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72714,
+      "title": "陆的鸟蛋需求",
+      "summary": "本章围绕陆索要八个鸟蛋的委托展开。陆向旅行者解释自己想孵出小鸟的愿望，并确认鸟蛋是否已经备齐；准备不足会使交付暂缓，完成路径则由旅行者交出所需材料。陆收到鸟蛋后道谢并承诺谨慎对待，委托随之完成。",
+      "turning_point": "旅行者确认已经准备好八个鸟蛋，使委托从等待材料转入实际交付。",
+      "outcome": "陆获得八个鸟蛋并感谢旅行者，委托完成，但孵化结果仍未明确。",
+      "section_ids": [
+        "72714-c00-s01",
+        "72714-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "鸣神岛的陆需要八个鸟蛋。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72714-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "陆说明愿望并索要鸟蛋",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "时间未明确，鸟蛋交付前",
+      "locations": [
+        "鸣神岛"
+      ],
+      "characters": [
+        "陆",
+        "旅行者"
+      ],
+      "summary": "旅行者在鸣神岛与陆谈起鸟蛋，陆表示自己想像鸟妈妈一样孵出小鸟，以便和小鸟一起玩。为实现这一愿望，他发布委托索要八个鸟蛋，并询问旅行者是否已经备齐。若旅行者选择说明尚未准备好，陆会让其备齐后再来；任务完成路径中，旅行者确认材料已经准备妥当并完成交付。",
+      "motivation": "陆渴望孵出小鸟并与它们玩耍，因此需要旅行者为他收集八个鸟蛋；旅行者则为完成委托而准备并交付材料。",
+      "outcome": "完成路径中，八个鸟蛋被交给陆，使委托进入收尾阶段；若材料未齐，交付则暂时延后。",
+      "keywords": [
+        "八个鸟蛋",
+        "孵化愿望",
+        "材料准备",
+        "委托交付"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7271401,
+          "title": "将八个鸟蛋交给陆",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "72714-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "陆感谢帮助并收下鸟蛋",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "八个鸟蛋交付后",
+      "locations": [
+        "鸣神岛"
+      ],
+      "characters": [
+        "陆",
+        "旅行者"
+      ],
+      "summary": "旅行者交付八个鸟蛋后，陆立即表达感谢。他承诺会小心对待这些鸟蛋，表明自己认真看待孵出小鸟的愿望。委托在陆收下材料后结束。",
+      "motivation": "陆因旅行者帮助自己取得孵鸟所需的材料而表示感激，并希望妥善保护鸟蛋。",
+      "outcome": "陆正式收下八个鸟蛋，委托完成；鸟蛋能否孵化以及后续情况均未在原文中说明。",
+      "keywords": [
+        "感谢",
+        "小心照料",
+        "委托完成",
+        "孵化未明"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7271402,
+          "title": "与陆对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:12:01.881Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

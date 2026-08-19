@@ -1,0 +1,191 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70526,
+    "slug": "70526_come-try-genius-invokation-tcg",
+    "title": "来试试「七圣召唤」吧！",
+    "chapter_num": "",
+    "premise": "旅行者前往猫尾酒馆体验「七圣召唤」，并在「小王子」的引导下学习基础规则。主要目标是完成新手教学和一场实战对决，取得正式牌手资格。",
+    "central_conflict": "旅行者需要从尚未掌握规则的新手成长为能够独立对决的牌手，以解锁完整的牌手功能。",
+    "summary": "旅行者来到猫尾酒馆后，「小王子」主动承担「七圣召唤」基础规则的教学工作。旅行者完成新手教学，掌握基础规则，并得到「小王子」的祝贺。随后，「小王子」要求旅行者通过一次「决斗牌局」检验学习成果。旅行者完成一场「七圣召唤」对决，证明自己已经能够参与实战。「小王子」将用于组卡的「秘典之盒」交给旅行者，并正式承认其牌手身份。随着全部牌手功能开放，旅行者完成了从入门学习到正式成为牌手的过程。",
+    "resolution": "旅行者获得「秘典之盒」，成为正式牌手并解锁全部牌手功能。此后，旅行者可以继续组建牌组并参与更多「七圣召唤」活动。",
+    "themes": [
+      "规则学习",
+      "实战检验",
+      "身份成长",
+      "功能解锁"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70526,
+      "title": "来试试「七圣召唤」吧！",
+      "summary": "旅行者在猫尾酒馆接受「小王子」的引导，先完成基础规则教学，再进行一次实战对决。完成考验后，旅行者获得「秘典之盒」，被正式承认为牌手并解锁全部牌手功能。",
+      "turning_point": "旅行者掌握基础规则后，「小王子」将入门过程推进到实际的「决斗牌局」，使规则学习转化为牌手资格考验。",
+      "outcome": "旅行者完成教学与对决，获得「秘典之盒」，正式成为牌手并开启全部牌手功能。",
+      "section_ids": [
+        "70526-c00-s01",
+        "70526-c00-s02",
+        "70526-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70526-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "小王子教授基础规则",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "「七圣召唤」入门教学阶段",
+      "locations": [
+        "猫尾酒馆"
+      ],
+      "characters": [
+        "旅行者",
+        "「小王子」"
+      ],
+      "summary": "在「七圣召唤」入门教学阶段，旅行者前往猫尾酒馆，「小王子」主动提出教授基础规则。旅行者完成新手教学并掌握基础玩法，随后得到「小王子」的祝贺。",
+      "motivation": "旅行者希望体验「七圣召唤」，「小王子」则负责帮助新客人掌握基础规则。",
+      "outcome": "旅行者学会基础规则，为参加实际对决做好准备。",
+      "keywords": [
+        "猫尾酒馆",
+        "小王子",
+        "新手教学",
+        "基础规则"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7052601,
+          "title": "前往猫尾酒馆",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7052602,
+          "title": "完成「七圣召唤」新手教学",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7052603,
+          "title": "与「小王子」对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70526-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "旅行者完成首次牌局",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "完成基础规则教学后",
+      "locations": [
+        "猫尾酒馆"
+      ],
+      "characters": [
+        "旅行者",
+        "「小王子」"
+      ],
+      "summary": "完成基础教学后，「小王子」提议旅行者顺势进行一次「决斗牌局」。旅行者接受实战检验并完成一场「七圣召唤」对决，使入门学习推进到实际应用阶段。",
+      "motivation": "「小王子」希望旅行者通过实际牌局运用刚学会的规则，旅行者需要完成对决以继续牌手入门流程。",
+      "outcome": "旅行者完成首次实战对决，满足成为正式牌手的关键条件。",
+      "keywords": [
+        "决斗牌局",
+        "实战对决",
+        "规则运用",
+        "牌手考验"
+      ],
+      "source_step_keys": [
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7052606,
+          "title": "与「小王子」对话",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7052604,
+          "title": "进行一次「七圣召唤」对决",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70526-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "旅行者获认可成为牌手",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "完成「七圣召唤」对决后",
+      "locations": [
+        "猫尾酒馆"
+      ],
+      "characters": [
+        "旅行者",
+        "「小王子」"
+      ],
+      "summary": "完成对决后，「小王子」将名为「秘典之盒」的组卡器交给旅行者。随后，他正式祝贺旅行者成为牌手，并宣布全部牌手功能已经开放。",
+      "motivation": "旅行者已经完成规则学习和实战考验，「小王子」据此为其提供组卡工具并确认牌手资格。",
+      "outcome": "旅行者获得「秘典之盒」，正式成为牌手并解锁全部牌手功能，可以继续参与后续牌局。",
+      "keywords": [
+        "秘典之盒",
+        "组卡器",
+        "牌手资格",
+        "功能解锁"
+      ],
+      "source_step_keys": [
+        "5",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 7052607,
+          "title": "与「小王子」对话",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7052605,
+          "title": "与「小王子」对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:53:38.919Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

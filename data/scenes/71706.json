@@ -1,0 +1,93 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71706,
+    "slug": "71706_smileys-selections",
+    "title": "言笑的食材需求",
+    "chapter_num": "",
+    "premise": "望舒客栈的言笑需要两份火腿试做新菜，玩家前来确认并完成食材交付。",
+    "central_conflict": "任务能否推进取决于两份火腿是否已经备齐；言笑急于取得食材并开始试做。",
+    "summary": "任务交付阶段，玩家在望舒客栈向言笑提起火腿。言笑确认玩家是否已经备齐委托所需的两份火腿，未备齐时只会催促玩家准备好后尽快送来。玩家备齐并交付火腿后，任务进入完成流程。言笑检查后确认这些火腿足够使用。随后他向玩家支付报酬，使这项食材委托正式收束。",
+    "resolution": "言笑取得足量火腿，并向玩家发放报酬。食材已经满足其试做新菜的需要，但原文未进一步展示新菜的制作过程。",
+    "themes": [
+      "食材委托",
+      "物资交付",
+      "新菜试做",
+      "劳动报酬"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71706,
+      "title": "言笑的食材需求",
+      "summary": "玩家前往望舒客栈处理言笑的火腿委托，言笑先核实两份火腿是否备齐，并表明自己急于用它们试做新菜。食材交付成功后，言笑确认数量足够并支付报酬，委托随之完成。",
+      "turning_point": "玩家备齐并交出两份火腿，使任务从食材准备阶段转入验收和结算阶段。",
+      "outcome": "言笑获得足够试做新菜的火腿，玩家领取报酬并完成委托。",
+      "section_ids": [
+        "71706-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "望舒客栈的言笑需要两份火腿。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71706-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "言笑验收火腿并结清报酬",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "任务交付阶段",
+      "locations": [
+        "望舒客栈"
+      ],
+      "characters": [
+        "言笑",
+        "玩家"
+      ],
+      "summary": "任务交付阶段，玩家在望舒客栈向言笑提起火腿，言笑随即确认委托所需的两份火腿是否已经备齐；若尚未备齐，他会要求玩家准备好后尽快送来，以便试做新菜。完成路径中，玩家交出两份火腿，言笑确认数量足够使用。言笑随后支付报酬，食材委托就此完成。",
+      "motivation": "言笑急需两份火腿试做新菜，玩家则为完成委托而准备并交付食材。",
+      "outcome": "言笑取得足够使用的火腿并支付报酬，任务完成，其试做新菜所需的食材条件得到满足。",
+      "keywords": [
+        "两份火腿",
+        "言笑",
+        "食材交付",
+        "试做新菜",
+        "报酬"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7170601,
+          "title": "将两份火腿交给言笑",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7170602,
+          "title": "与言笑对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:03:42.322Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

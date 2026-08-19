@@ -1,0 +1,125 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73654,
+    "slug": "73654_pesengs-zaytun-peaches",
+    "title": "帕森的墩墩桃需求",
+    "chapter_num": "",
+    "premise": "奥摩斯港的帕森需要十个墩墩桃供妻子做菜，并向委托执行者确认是否已经备齐。主要目标是将足量的墩墩桃交给他。",
+    "central_conflict": "帕森需要足够两天食用的十个墩墩桃，数量不足便无法解决家中的做菜需求，他也担心因此挨训。",
+    "summary": "时间未明确，帕森在奥摩斯港回想出售墩墩桃的店铺，并向委托执行者谈起自己的需求。他说明妻子做菜需要墩墩桃，十个才足够家中使用两天。帕森确认对方是否已经备齐指定数量；若尚未准备好，他要求对方备齐后再来，以免数量太少而不够食用。委托执行者最终将十个墩墩桃交给帕森，解决了物资短缺的问题。帕森确认这些墩墩桃已经足够，并希望妻子看到后能够改善心情，至少当天不再生气。",
+    "resolution": "帕森收下足量的墩墩桃，委托就此完成。他对妻子情绪能否真正好转仍只表达了期望，后续情况原文未明确。",
+    "themes": [
+      "家庭需求",
+      "物资交付",
+      "数量要求",
+      "避免责备"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73654,
+      "title": "帕森的墩墩桃需求",
+      "summary": "帕森因妻子做菜需要墩墩桃，请委托执行者准备足够两天使用的十个，并强调数量不足无法满足需求。委托执行者备齐并交付后，帕森确认物资足够，同时希望借此改善妻子的心情。",
+      "turning_point": "委托执行者从尚需准备物资的阶段转为确认备齐十个墩墩桃并完成交付。",
+      "outcome": "帕森获得了妻子做菜所需的十个墩墩桃，交付目标完成。",
+      "section_ids": [
+        "73654-c00-s01",
+        "73654-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "奥摩斯港的帕森需要十个墩墩桃。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73654-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "帕森说明墩墩桃需求",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "时间未明确，墩墩桃交付前",
+      "locations": [
+        "奥摩斯港"
+      ],
+      "characters": [
+        "帕森",
+        "委托执行者"
+      ],
+      "summary": "时间未明确，帕森在奥摩斯港念叨自己忘记了哪家店出售墩墩桃，随后说明妻子做菜需要这种食材。十个墩墩桃只够家中使用两天，因此他向委托执行者确认是否已经备齐；若数量不足，他便要求对方准备好后再来。",
+      "motivation": "帕森想满足妻子的做菜需求，并避免因墩墩桃太少而再次挨训。",
+      "outcome": "十个墩墩桃被确立为不可减少的交付数量，委托执行者备齐后才能推进交付。",
+      "keywords": [
+        "帕森",
+        "墩墩桃",
+        "十个",
+        "妻子做菜",
+        "数量确认"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7365401,
+          "title": "将十个墩墩桃交给帕森",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "73654-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "十个墩墩桃完成交付",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "时间未明确，墩墩桃备齐后",
+      "locations": [
+        "奥摩斯港"
+      ],
+      "characters": [
+        "帕森",
+        "委托执行者"
+      ],
+      "summary": "时间未明确，委托执行者在奥摩斯港将备齐的十个墩墩桃交给帕森。帕森确认数量已经足够，并希望妻子看到这些食材后心情能够好转，至少当天不再生气。",
+      "motivation": "委托执行者需要完成约定的物资交付，帕森则希望用这些墩墩桃满足妻子的需求并缓和她的情绪。",
+      "outcome": "帕森收下足量的墩墩桃，物资需求得到解决，本次委托完成。",
+      "keywords": [
+        "交付完成",
+        "数量足够",
+        "妻子心情",
+        "委托收束"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7365402,
+          "title": "与帕森对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:17:47.558Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70702,
+    "slug": "70702_connors-brew",
+    "title": "康纳的酿酒材料需求",
+    "chapter_num": "",
+    "premise": "晨曦酒庄的康纳需要十份小麦，委托接取者前来确认收集情况并交付材料。",
+    "central_conflict": "委托能否完成取决于十份小麦是否已经集齐；材料不足时，康纳只能要求对方稍后再来。",
+    "summary": "康纳在晨曦酒庄等待委托所需的十份小麦。委托接取者就小麦一事找到他，他随即确认材料是否已经收集齐全。若材料尚未集齐，康纳要求对方备齐后再来，并准备继续休息；在完成委托的进程中，对方交出了足量小麦。康纳检查后确认这些小麦已经够用，随后表达感谢并给予回报，材料需求至此得到解决。",
+    "resolution": "康纳收下十份小麦并确认数量足够，以感谢和回报完成委托。该段剧情没有明确留下新的后续任务。",
+    "themes": [
+      "材料收集",
+      "委托交付",
+      "酿酒准备",
+      "互助回报"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70702,
+      "title": "康纳的酿酒材料需求",
+      "summary": "本章围绕向康纳交付十份小麦展开。康纳先核实材料是否集齐，未完成时要求对方备齐后返回；完成条件满足后，他检查并收下小麦。康纳确认材料足够，随后以感谢和回报结束委托。",
+      "turning_point": "委托接取者交出十份小麦，康纳确认这些材料已经够用。",
+      "outcome": "康纳的材料需求得到满足，委托接取者获得他的感谢与回报。",
+      "section_ids": [
+        "70702-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "晨曦酒庄的康纳需要十份小麦。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70702-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "十份小麦完成康纳委托",
+      "narrative_role": "resolution",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "晨曦酒庄"
+      ],
+      "characters": [
+        "康纳",
+        "委托接取者"
+      ],
+      "summary": "时间未明确，委托接取者在晨曦酒庄就小麦委托找到康纳，康纳询问十份小麦是否已经集齐。若材料不足，康纳要求对方集齐后再来；在完成委托的进程中，对方向他交付了足量小麦。康纳检查后确认材料够用，随即致谢并给予回报。",
+      "motivation": "康纳需要十份小麦满足其材料需求，委托接取者则为完成委托而收集并交付小麦。",
+      "outcome": "康纳收下足量小麦并结束委托，委托接取者获得感谢与回报。",
+      "keywords": [
+        "十份小麦",
+        "康纳",
+        "材料交付",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7070201,
+          "title": "将十份小麦交给康纳",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7070202,
+          "title": "与康纳对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:56:22.203Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

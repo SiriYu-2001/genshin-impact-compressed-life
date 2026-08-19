@@ -1,0 +1,123 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70711,
+    "slug": "70711_manly-jacks-manly-journey-of-manliness",
+    "title": "男子汉杰克的男子汉之路",
+    "chapter_num": "",
+    "premise": "男子汉杰克委托旅行者准备三份蒙德烤鱼，希望借此增长力气。旅行者需要备齐烤鱼并将其交给杰克。",
+    "central_conflict": "委托能否推进取决于旅行者是否已经备齐三份蒙德烤鱼，而杰克对食物能否让自己变强也没有把握。",
+    "summary": "时间与地点均未明确，旅行者就蒙德烤鱼一事找到男子汉杰克。杰克确认旅行者是否看见委托，并询问三份蒙德烤鱼是否已经备齐。若旅行者尚未准备完成，杰克便请其备齐后尽快送来，委托继续等待交付。旅行者备齐三份烤鱼后将其交给杰克，推动委托进入完成阶段。杰克认为烤鱼闻起来不错，并以物品答谢旅行者的帮助。最后，他仍不确定吃下烤鱼是否真能增长力气，但这次食物委托已经完成。",
+    "resolution": "男子汉杰克收下三份蒙德烤鱼并向旅行者致谢，委托由此收束。烤鱼能否帮助他增长力气仍未得到验证。",
+    "themes": [
+      "委托交付",
+      "食物与力量",
+      "互助",
+      "自我锻炼"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70711,
+      "title": "男子汉杰克的男子汉之路",
+      "summary": "旅行者找到男子汉杰克，确认其需要三份蒙德烤鱼；若准备不足，杰克会要求旅行者备齐后再来。旅行者完成准备并交付烤鱼后，杰克收下食物、给予答谢，同时流露出想借此增长力气却又不确定效果的想法。",
+      "turning_point": "旅行者备齐并交出三份蒙德烤鱼，使委托从等待准备转入完成与答谢。",
+      "outcome": "男子汉杰克取得所需的三份蒙德烤鱼，旅行者获得答谢，委托完成。",
+      "section_ids": [
+        "70711-c00-s01",
+        "70711-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "蒙德的男子汉杰克需要三份蒙德烤鱼。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70711-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "杰克确认烤鱼准备情况",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "交付蒙德烤鱼时",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "男子汉杰克"
+      ],
+      "summary": "旅行者就蒙德烤鱼一事与男子汉杰克交谈，杰克询问三份蒙德烤鱼是否已经带来。旅行者可以说明已经备齐；若尚未备齐，杰克便要求其准备完成后尽快送来。",
+      "motivation": "男子汉杰克需要三份蒙德烤鱼，旅行者则要确认并完成委托所要求的交付。",
+      "outcome": "备齐烤鱼会使委托进入正式交付阶段；若尚未备齐，委托继续停留在准备阶段。",
+      "keywords": [
+        "蒙德烤鱼",
+        "准备确认",
+        "委托交付"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7071101,
+          "title": "将三份蒙德烤鱼交给男子汉杰克",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70711-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "杰克收下烤鱼并致谢",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "三份蒙德烤鱼交付后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "男子汉杰克"
+      ],
+      "summary": "男子汉杰克收下三份蒙德烤鱼，认为它们闻起来味道不错。他向旅行者致谢并送出答谢物品，同时表示自己不知道吃这些烤鱼能否增长力气。",
+      "motivation": "男子汉杰克希望通过食用蒙德烤鱼增长力气，并答谢旅行者完成委托。",
+      "outcome": "三份蒙德烤鱼完成交付，旅行者得到答谢，委托随之结束；烤鱼能否增强杰克的力气仍未明确。",
+      "keywords": [
+        "收下烤鱼",
+        "答谢",
+        "增长力气",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7071102,
+          "title": "与男子汉杰克对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:57:07.758Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

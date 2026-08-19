@@ -1,0 +1,359 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 22035,
+    "slug": "22035_bantan-sango-case-file-misdirection",
+    "title": "万端珊瑚事件簿·迷惑行动",
+    "chapter_num": "",
+    "premise": "万端珊瑚侦探社的龙二请旅行者继续协助，通过打击城外盗宝团制造动静，让已确定的窃案犯人误以为侦探社仍在追查盗宝团，为社长完善收网计划争取时间。",
+    "central_conflict": "侦探社的真实目标是迷惑城内真正的盗贼、掩护收网准备的推进，而表面行动始终是打击盗宝团，真实意图与示人表象之间的错位构成核心矛盾。",
+    "summary": "万端珊瑚侦探社的龙二再次找到旅行者，说明上次协助后社长已确定窃案犯人，但要让其彻底伏法还需更多准备，遂请旅行者继续执行迷惑行动。表面看是在城外清理盗宝团，实际目的是让城内真正的盗贼误以为侦探社的目标仍是盗宝团，从而为社长完善计划争取时间；龙二透露社长已私下请天野、安藤配合，并把破案功劳许诺给他们。旅行者与龙二连续三趟前往城外盗宝团营地，逐一击败营地内所有盗宝团，制造出足够的动静。第一轮行动后龙二确认动静已经够大，将由天野和安藤把消息传给城内的盗贼，并向旅行者支付社长亲自指定的报酬。此后的行动以相同模式重复，迷惑行动的执行部分全部完成。龙二表示只要社长做好准备，即可为这桩案子收尾，本场景就此告一段落，为后续的结案行动留下伏笔。",
+    "resolution": "旅行者与龙二完成三处盗宝团营地的清理，制造出足以让城内盗贼察觉的动静，迷惑行动顺利收束；龙二支付报酬，并称待社长准备完成后即可为案件收尾。后续的结案行动留待侦探社准备就绪后展开。",
+    "themes": [
+      "误导与迷惑",
+      "侦探办案",
+      "声东击西",
+      "收网铺垫"
+    ],
+    "context_ref_ids": [
+      "ctx-01",
+      "ctx-02"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 22035,
+      "title": "万端珊瑚事件簿·迷惑行动",
+      "summary": "本章中，龙二说明为让已确定犯人的窃案彻底收网，侦探社需要继续以盗宝团为幌子制造动静，掩护真实调查方向，为社长完善计划争取时间。旅行者与龙二连续三趟前往城外盗宝团营地，击败营地内全部盗宝团，制造出足以让城内盗贼察觉的声势。第一轮行动后龙二确认动静足够大、将由天野和安藤配合传递消息，并支付报酬。本章是收网前的最后铺垫，行动结束后案件等待社长准备完成即可收尾。",
+      "turning_point": "龙二点明真实目标并非盗宝团，而是让城内犯人误以为侦探社仍在追查盗宝团，从而为社长争取完善计划的准备时间。",
+      "outcome": "三处盗宝团营地被清理，动静足够大；旅行者获得报酬，案件等待社长准备完成后即可收尾。",
+      "section_ids": [
+        "22035-c00-s01",
+        "22035-c00-s02",
+        "22035-c00-s03",
+        "22035-c00-s04",
+        "22035-c00-s05",
+        "22035-c00-s06",
+        "22035-c00-s07"
+      ],
+      "context_ref_ids": [
+        "ctx-01",
+        "ctx-02"
+      ],
+      "source_file": "chapter_00.json",
+      "source_description": "万端珊瑚侦探社的龙二似乎有什么事想找人帮忙…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "22035-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "龙二说明迷惑行动计划",
+      "narrative_role": "setup",
+      "importance": 5,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "龙二",
+        "旅行者"
+      ],
+      "summary": "龙二告知旅行者，上次协助后社长已确定窃案犯人，但要让其彻底伏法还需准备，因此要继续上次的工作，社长负责其他事务。他表示真正的目标是让城内犯人误以为侦探社仍在追查盗宝团，从而为社长完善计划争取时间；社长已标好城外行动地点，并私下请天野、安藤配合，承诺把破案功劳归于他们。龙二将地点标在旅行者的地图上后，与旅行者一同出发。",
+      "motivation": "为让已确定的犯人彻底伏法，需要以盗宝团为幌子制造迷惑，掩护社长完善收网计划。",
+      "outcome": "旅行者接受委托，与龙二动身前往第一处盗宝团营地，迷惑行动正式开始。",
+      "keywords": [
+        "迷惑行动",
+        "盗宝团",
+        "掩护计划",
+        "收网准备"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [
+        "ctx-01",
+        "ctx-02"
+      ],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 2203501,
+          "title": "与龙二对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "22035-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "突袭第一处盗宝团营地",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "城外不远处的盗宝团营地"
+      ],
+      "characters": [
+        "龙二",
+        "旅行者",
+        "盗宝团"
+      ],
+      "summary": "旅行者与龙二前往社长标注的城外营地，与盗宝团交手并击败营地内全部成员。行动按计划制造出动静，为后续向城内盗贼传递消息做准备。",
+      "motivation": "执行迷惑行动，通过打击盗宝团制造声势。",
+      "outcome": "第一处营地被清除，动静足以作为迷惑城内盗贼的素材。",
+      "keywords": [
+        "突袭",
+        "盗宝团营地",
+        "战斗"
+      ],
+      "source_step_keys": [
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 2203502,
+          "title": "前往盗宝团营地",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 2203503,
+          "title": "打倒所有盗宝团",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "22035-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "确认动静并收下报酬",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "龙二",
+        "旅行者"
+      ],
+      "summary": "第一轮行动结束后，龙二表示这次的动静足够大，天野和安藤会配合让城里的盗贼察觉到消息。面对旅行者还要折腾多久的追问，他说很快就能收尾，只要社长做好准备即可结案，并交付社长亲自指定数目的报酬，称之后可能还要麻烦旅行者。",
+      "motivation": "确认迷惑效果并支付报酬以维系合作，等待社长完成收网准备。",
+      "outcome": "旅行者获得报酬；动静已足够引起城内盗贼注意，收网条件接近成熟。",
+      "keywords": [
+        "动静",
+        "报酬",
+        "天野与安藤",
+        "收尾临近"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [
+        "ctx-01"
+      ],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 2203508,
+          "title": "与龙二对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "22035-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "突袭第二处盗宝团营地",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "城外不远处的盗宝团营地"
+      ],
+      "characters": [
+        "龙二",
+        "旅行者",
+        "盗宝团"
+      ],
+      "summary": "旅行者与龙二再次前往新的盗宝团营地，击败营地内全部盗宝团，延续迷惑行动的声势。",
+      "motivation": "延续迷惑行动，维持对城内犯人的误导。",
+      "outcome": "第二处营地被清除，行动按计划继续推进。",
+      "keywords": [
+        "突袭",
+        "盗宝团营地",
+        "战斗"
+      ],
+      "source_step_keys": [
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 2203504,
+          "title": "前往盗宝团营地",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 2203505,
+          "title": "打倒所有盗宝团",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "22035-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "第二轮行动后与龙二交谈",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "龙二",
+        "旅行者"
+      ],
+      "summary": "第二轮清理结束后，旅行者与龙二会合交谈。原文未记录此次对话的具体内容。",
+      "motivation": "原文未明确",
+      "outcome": "原文未明确",
+      "keywords": [
+        "对话",
+        "行动间歇"
+      ],
+      "source_step_keys": [
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 2203509,
+          "title": "与龙二对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "22035-c00-s06",
+      "chapter_index": 0,
+      "order": 6,
+      "title": "突袭第三处盗宝团营地",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "城外不远处的盗宝团营地"
+      ],
+      "characters": [
+        "龙二",
+        "旅行者",
+        "盗宝团"
+      ],
+      "summary": "旅行者与龙二前往第三处盗宝团营地，击败营地内全部盗宝团，完成迷惑行动的最后一轮骚扰。",
+      "motivation": "完成最后一轮制造动静的任务，为收网做足铺垫。",
+      "outcome": "第三处营地被清除，迷惑行动的执行部分全部完成。",
+      "keywords": [
+        "突袭",
+        "盗宝团营地",
+        "末轮行动"
+      ],
+      "source_step_keys": [
+        "7",
+        "8"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 2203506,
+          "title": "前往盗宝团营地",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 2203507,
+          "title": "打倒所有盗宝团",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "22035-c00-s07",
+      "chapter_index": 0,
+      "order": 7,
+      "title": "第三轮行动后与龙二交谈",
+      "narrative_role": "resolution",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "龙二",
+        "旅行者"
+      ],
+      "summary": "最后一轮清理结束后，旅行者与龙二会合交谈。原文未记录此次对话的具体内容，本章在此结束。",
+      "motivation": "原文未明确",
+      "outcome": "迷惑行动暂告一段落，等待社长准备完成后即可收尾案件。",
+      "keywords": [
+        "对话",
+        "行动收束"
+      ],
+      "source_step_keys": [
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "9",
+          "id": 2203510,
+          "title": "与龙二对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [
+    {
+      "id": "ctx-01",
+      "path": "22034_bantan-sango-case-file-the-search/chapter_00.json",
+      "reason": "目标场景多次提及\"这桩案子\"\"上次多亏了你帮忙，社长已经确定了犯人\"以及天野、安藤配合传递消息，需要前作说明案件内容与侦探社计划由来。",
+      "fact": "在上一案中，城内商户连环遭窃，天野与安藤将此事上报后城内巡逻加强，但窃案仍持续发生且犯人目标明确；珊瑚社长据此判断城外盗宝团流窜作案的可能性低，怀疑城内有内应传递消息，因而制定以打击盗宝团为掩护的迷惑策略。"
+    },
+    {
+      "id": "ctx-02",
+      "path": "22034_bantan-sango-case-file-the-search/chapter_00.json",
+      "reason": "目标场景多次称呼\"社长\"而未给出姓名，需要明确其身份与行事方式以理解角色分工。",
+      "fact": "万端珊瑚侦探社的社长名为珊瑚，自称\"只擅长思考，不擅长行动\"的\"安乐椅侦探\"，由龙二作为执行者在外行动。"
+    }
+  ],
+  "generated": {
+    "at": "2026-08-18T21:53:31.116Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

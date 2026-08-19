@@ -1,0 +1,85 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 74661,
+    "slug": "74661_crabby-chaos",
+    "title": "重甲蟹引起的混乱",
+    "chapter_num": "",
+    "premise": "时间与地点均未明确，重甲蟹袭击民众并引发混乱，当前目标是将其击退。",
+    "central_conflict": "袭击民众的重甲蟹构成直接威胁，而执行任务者需要制止其作乱。",
+    "summary": "时间与地点均未明确，重甲蟹正在袭击民众并造成混乱。剧情以民众面临的直接威胁作为开端。任务随即要求身份未明确的执行者击退作乱的重甲蟹，使保护民众成为唯一明确的推进目标。原文没有提供交战过程、任务完成情况或事后影响。",
+    "resolution": "本scene以确立击退重甲蟹的任务目标收束；威胁是否被解除及其后续影响均未明确。",
+    "themes": [
+      "保护民众",
+      "怪物袭击",
+      "危机应对"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 74661,
+      "title": "重甲蟹引起的混乱",
+      "summary": "本章描写重甲蟹袭击民众所造成的混乱，并将击退它们确立为核心目标。原文未展开具体行动过程，也未说明任务是否完成。",
+      "turning_point": "重甲蟹对民众的袭击促使击退任务被明确提出。",
+      "outcome": "执行者获得击退重甲蟹、保护受袭民众的直接目标，后续结果原文未明确。",
+      "section_ids": [
+        "74661-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "重甲蟹正在作乱…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "74661-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "重甲蟹袭民引出击退任务",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "重甲蟹",
+        "遭袭民众",
+        "执行击退任务者（身份未明确）"
+      ],
+      "summary": "时间与地点均未明确，重甲蟹正在袭击民众并制造混乱。身份未明确的执行者需要击退这些重甲蟹，以制止袭击并保护民众；具体行动过程与完成情况未被交代。",
+      "motivation": "重甲蟹对民众构成直接威胁，推动执行者采取击退行动。",
+      "outcome": "击退袭击者被确立为当前任务目标；威胁是否解除及后续发展原文未明确。",
+      "keywords": [
+        "重甲蟹",
+        "袭击民众",
+        "击退任务",
+        "混乱"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7466101,
+          "title": "击退袭击民众的重甲蟹",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:26:30.540Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

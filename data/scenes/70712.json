@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70712,
+    "slug": "70712_chloriss-flora-studies",
+    "title": "克罗丽丝的植物研究",
+    "chapter_num": "",
+    "premise": "克罗丽丝发布委托，需要三朵塞西莉亚花用于植物研究。委托执行者前去确认收集进度并交付材料。",
+    "central_conflict": "克罗丽丝的研究急需塞西莉亚花，而委托能否继续完成取决于三朵花是否已经收集齐全。",
+    "summary": "时间未明确，委托执行者就塞西莉亚花一事与克罗丽丝交谈。克罗丽丝确认对方看到了委托，并询问三朵塞西莉亚花是否已经收集齐全。若材料尚未集齐，她会说明研究正在等待使用这些花，并催促对方收集后尽快送来；完成路线则由委托执行者确认材料齐备并进行交付。收到花后，克罗丽丝判断这些材料足以支持自己的研究。她随后向委托执行者致谢并交付谢礼，植物材料委托至此完成。",
+    "resolution": "克罗丽丝取得了研究所需的三朵塞西莉亚花，并以谢礼回报协助者。本段以研究材料到位和委托完成收束，未明确交代研究的后续成果。",
+    "themes": [
+      "植物研究",
+      "材料收集",
+      "委托协助",
+      "互惠致谢"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70712,
+      "title": "克罗丽丝的植物研究",
+      "summary": "本章围绕为克罗丽丝的研究提供三朵塞西莉亚花展开。克罗丽丝先核实材料是否已经集齐，未完成分支会促使委托执行者继续收集，完成路线则推进材料交付。她确认收到的花足够用于研究后表达感谢并送出谢礼，委托随之结束。",
+      "turning_point": "委托执行者确认三朵塞西莉亚花已经集齐，使任务从材料收集阶段转入交付与结算阶段。",
+      "outcome": "克罗丽丝获得足够用于研究的塞西莉亚花，委托执行者得到谢礼，本章任务完成。",
+      "section_ids": [
+        "70712-c00-s01",
+        "70712-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "蒙德的克罗丽丝需要三朵塞西莉亚花。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70712-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "克罗丽丝核实花材进度",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "委托材料交付阶段，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "克罗丽丝",
+        "委托执行者"
+      ],
+      "summary": "委托执行者就塞西莉亚花一事与克罗丽丝交谈，克罗丽丝确认对方看到了委托，并询问三朵花是否已经收集齐全。玩家可选择确认已经集齐，或说明尚未完成；未完成分支中，克罗丽丝表示研究正在等待这些材料，并请对方集齐后尽快送来。完成路线中，材料齐备的确认推动三朵塞西莉亚花交付。",
+      "motivation": "克罗丽丝需要三朵塞西莉亚花开展研究，因此急于确认材料收集和交付进度。",
+      "outcome": "若花材未齐，委托执行者需要继续收集后再来；完成路线则确认三朵花已经集齐并推进交付后的对话。",
+      "keywords": [
+        "塞西莉亚花",
+        "材料收集",
+        "进度确认",
+        "研究需求"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7071201,
+          "title": "将三朵塞西莉亚花交给克罗丽丝",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70712-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "研究材料到位并致谢",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "三朵塞西莉亚花交付后，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "克罗丽丝",
+        "委托执行者"
+      ],
+      "summary": "三朵塞西莉亚花交付后，克罗丽丝确认这些材料应当足够用于自己的研究。她向委托执行者表示感谢，并将谢礼交给对方。",
+      "motivation": "克罗丽丝需要确认材料满足研究需求，并回报委托执行者提供的帮助。",
+      "outcome": "研究所需花材已经到位，委托执行者获得谢礼，任务直接收束。",
+      "keywords": [
+        "材料交付",
+        "植物研究",
+        "感谢",
+        "谢礼"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7071202,
+          "title": "与克罗丽丝对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:57:00.963Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

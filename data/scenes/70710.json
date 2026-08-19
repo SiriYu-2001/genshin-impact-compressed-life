@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70710,
+    "slug": "70710_manly-jacks-manly-journey-of-manliness",
+    "title": "男子汉杰克的男子汉之路",
+    "chapter_num": "",
+    "premise": "男子汉杰克发布委托，需要旅行者为他准备并送来两份烤肉排。旅行者带着所需食物前去交付。",
+    "central_conflict": "男子汉杰克希望通过吃烤肉排增长力气，但委托能否完成取决于旅行者是否已备齐两份烤肉排。",
+    "summary": "时间与地点均未明确，旅行者就烤肉排委托与男子汉杰克交谈。男子汉杰克确认旅行者是否带齐两份烤肉排，未备齐时会要求其准备妥当后再来。旅行者备齐并交付烤肉排后，委托进入结算阶段。男子汉杰克对烤肉排的香味和分量表示满意，并向旅行者致谢及交付报酬。他希望吃完这些烤肉排后能够增长一些力气，由此完成自己的“男子汉之路”当前一步。",
+    "resolution": "男子汉杰克收下两份烤肉排并完成委托结算。他能否如愿增长力气，原文未给出后续结果。",
+    "themes": [
+      "委托履行",
+      "食物与力量",
+      "互助",
+      "自我提升"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70710,
+      "title": "男子汉杰克的男子汉之路",
+      "summary": "本章围绕向男子汉杰克交付两份烤肉排展开。男子汉杰克先核验旅行者是否备齐食物，备齐后接受交付，并对烤肉排的香味和分量表示满意。随后他向旅行者致谢并交付报酬，希望借这些食物增长力气，委托由此完成。",
+      "turning_point": "旅行者确认已经带齐两份烤肉排，使委托从准备与核验转入正式交付和结算。",
+      "outcome": "男子汉杰克收到烤肉排，旅行者获得其谢礼；杰克准备通过吃完烤肉排来增长力气。",
+      "section_ids": [
+        "70710-c00-s01",
+        "70710-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "蒙德的男子汉杰克需要两份烤肉排。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70710-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "杰克核验烤肉排准备情况",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "委托交付阶段，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "男子汉杰克"
+      ],
+      "summary": "旅行者就烤肉排委托与男子汉杰克交谈，杰克询问两份烤肉排是否已经备齐。若旅行者尚未准备完成，杰克会要求其备齐后尽快送来；当旅行者确认已经带齐时，交付条件随之满足。",
+      "motivation": "男子汉杰克需要两份烤肉排，并希望确认旅行者已经完成委托所要求的准备。",
+      "outcome": "备齐烤肉排的确认使委托进入交付后的答谢环节；未备齐的可选回答则暂时中止交付，等待旅行者完成准备。",
+      "keywords": [
+        "烤肉排",
+        "交付核验",
+        "委托条件",
+        "男子汉杰克"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7071001,
+          "title": "将两份烤肉排交给男子汉杰克",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70710-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "杰克收下食物并表达谢意",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "烤肉排交付后，具体时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "男子汉杰克"
+      ],
+      "summary": "男子汉杰克收下两份烤肉排，对其香味和分量表示满意。他向旅行者致谢并交付报酬，又表示希望吃完这些烤肉排后能够增长一些力气。",
+      "motivation": "男子汉杰克希望借助足量的烤肉排增强自己的力气，同时回报旅行者完成委托。",
+      "outcome": "烤肉排完成交付，旅行者获得谢礼，委托就此收束；杰克是否实际增长力气仍未得到验证。",
+      "keywords": [
+        "收下食物",
+        "答谢",
+        "增长力气",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7071002,
+          "title": "与男子汉杰克对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:56:56.346Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

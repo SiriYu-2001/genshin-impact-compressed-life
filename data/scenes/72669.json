@@ -1,0 +1,99 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72669,
+    "slug": "72669_bait-resupply-plan",
+    "title": "隐藏发鱼饵$HIDDEN",
+    "chapter_num": "",
+    "premise": "一名未署名角色的「荧草饵」已经用完，需要从鲸井椛处获得补充。该内容以隐藏任务形式呈现。",
+    "central_conflict": "当前的鱼饵短缺妨碍后续使用，而补给是否充足取决于鲸井椛是否留有备用鱼饵。",
+    "summary": "时间与地点均未明确，一名未署名角色向鲸井椛表示自己的「荧草饵」已经用完。鲸井椛得知情况后，说明对方上次带来的材料数量充足，因此她已经制作了许多备用鱼饵。她随即将一批备用品交给对方，直接解决了此次补给短缺。鲸井椛还表示鱼饵再次用完时可以继续来找她，使补给渠道得以延续。其余两个 story step 均被标记为“废弃”且没有任务数据，未展开新的剧情。",
+    "resolution": "鲸井椛用预先制作的备用「荧草饵」完成补给，并承诺以后仍可提供补充。该隐藏内容就此收束，没有展开其他有效任务阶段。",
+    "themes": [
+      "物资补给",
+      "互助",
+      "未雨绸缪",
+      "持续保障"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72669,
+      "title": "隐藏发鱼饵$HIDDEN",
+      "summary": "本章围绕「荧草饵」耗尽后的补给展开。一名未署名角色说明短缺情况，鲸井椛则依靠上次充足的材料所制成的备用品及时提供帮助。她交付鱼饵并允许对方日后再次前来补充，使问题迅速得到解决；两个标记为“废弃”的后续步骤没有形成额外情节。",
+      "turning_point": "鲸井椛说明自己已利用上次的充足材料制作大量备用鱼饵，使补给从短缺转为立即可得。",
+      "outcome": "未署名角色获得备用「荧草饵」，并得到以后可以继续找鲸井椛补给的承诺。",
+      "section_ids": [
+        "72669-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "隐藏发鱼饵$HIDDEN",
+      "is_hidden": true
+    }
+  ],
+  "sections": [
+    {
+      "id": "72669-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "鲸井椛交付备用荧草饵",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "未署名角色",
+        "鲸井椛"
+      ],
+      "summary": "时间未明确、地点未明确，一名未署名角色告诉鲸井椛，自己的「荧草饵」已经用完。鲸井椛说明对方上次带来的材料十分充足，她因此制作了许多备用鱼饵，并当场将一批交给对方。她还表示鱼饵再次耗尽时可以继续来找她，建立了可持续的补给安排；随后两个标记为“废弃”且没有任务数据的步骤未产生新事件。",
+      "motivation": "未署名角色因「荧草饵」耗尽而寻求补充；鲸井椛希望利用已有备用品满足其需求。",
+      "outcome": "鱼饵短缺得到直接解决，鲸井椛同时保留了日后继续补给的可能；废弃步骤未推动剧情继续发展。",
+      "keywords": [
+        "荧草饵",
+        "鲸井椛",
+        "备用物资",
+        "补给"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7266901,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7266902,
+          "title": "废弃",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7266903,
+          "title": "废弃",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:09:57.488Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

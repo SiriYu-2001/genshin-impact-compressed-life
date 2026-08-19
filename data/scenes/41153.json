@@ -1,0 +1,178 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 41153,
+    "slug": "41153_wangshu-take-away",
+    "title": "望舒外送",
+    "chapter_num": "",
+    "premise": "望舒客栈有一份特别订单等待派送，言笑希望有人把水煮黑背鲈送给前往轻策庄方向的寡言的廷方。",
+    "central_conflict": "送餐者需要尽早完成外送，同时避免飞行或攀爬等剧烈行动搅乱菜品看重的汤汁。",
+    "summary": "望舒客栈的言笑说明，寡言的廷方订购了一份水煮黑背鲈，并已往轻策庄方向而去。由于这道菜重视汤汁，言笑要求送餐者不要乱飞乱爬，还希望餐品能够尽早送达。面对委托，送餐者可以表示另有事务，此时言笑会准备另找帮手；接受委托则会正式开始外送。言笑也表示，如果途中发生意外，可以回来让他重新制作。送餐者随后找到正在等待餐品的廷方，并将订单交给他。廷方简短道谢，品尝后认为言笑的手艺还行，特别订单由此完成。",
+    "resolution": "水煮黑背鲈被顺利交到廷方手中，廷方对餐品作出简短肯定。文本没有交代这次外送产生更远的后续影响。",
+    "themes": [
+      "限时外送",
+      "受托履约",
+      "餐品保护",
+      "简短人情"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 41153,
+      "title": "望舒外送",
+      "summary": "言笑向送餐者介绍廷方的特别订单，并强调水煮黑背鲈的汤汁不能因飞行或攀爬而被搅乱。送餐者可以拒绝委托，也可以接受并前往轻策庄方向寻找廷方；剧情在接受委托后进入实际派送。餐品最终交付，廷方道谢并对言笑的手艺给予简短认可。",
+      "turning_point": "送餐者接受言笑的请求，使特别订单从委托说明转入实际派送。",
+      "outcome": "廷方收到所订的水煮黑背鲈并作出评价，望舒客栈的特别订单完成。",
+      "section_ids": [
+        "41153-c00-s01",
+        "41153-c00-s02",
+        "41153-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月的望舒客栈里有一份特别订单正等待着派送…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "41153-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "言笑说明特别订单要求",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "特别订单等待派送时",
+      "locations": [
+        "望舒客栈"
+      ],
+      "characters": [
+        "言笑",
+        "送餐者",
+        "寡言的廷方"
+      ],
+      "summary": "言笑告诉送餐者，寡言的廷方订了一份水煮黑背鲈，并已往轻策庄方向而去。由于餐品看重汤汁，他要求送餐者不要乱飞乱爬，并希望尽早送达；若途中发生意外，他可以重新制作。送餐者可以表示另有事务，让言笑另找帮手，也可以接受委托并立即出发。",
+      "motivation": "言笑需要在保证菜品汤汁状态的前提下，将特别订单尽早送到已经离开的廷方手中。",
+      "outcome": "拒绝委托会使言笑准备另找帮手；接受委托则确定送餐者并启动外送任务。",
+      "keywords": [
+        "特别订单",
+        "水煮黑背鲈",
+        "汤汁保护",
+        "委托选择"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 4115304,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 4115301,
+          "title": "与言笑对话",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 4115303,
+          "title": "与寡言的廷方对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "41153-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "送餐者赶往廷方所在方向",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "接受言笑的委托后",
+      "locations": [
+        "轻策庄方向"
+      ],
+      "characters": [
+        "送餐者",
+        "寡言的廷方"
+      ],
+      "summary": "送餐者带着水煮黑背鲈前往轻策庄方向寻找廷方，并承担在途中保护餐品的责任。廷方在目的地等待订单，判断餐品差不多应该送到了。",
+      "motivation": "送餐者需要履行已经接受的委托，廷方则在等待自己订购的餐品。",
+      "outcome": "送餐者找到正在等候的廷方，外送进入当面交付阶段。",
+      "keywords": [
+        "前往轻策庄",
+        "寻找廷方",
+        "等待餐品"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 4115302,
+          "title": "将餐品送给寡言的廷方",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "41153-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "廷方收下餐品并致谢",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "送餐者抵达廷方所在处时",
+      "locations": [
+        "廷方所在处"
+      ],
+      "characters": [
+        "送餐者",
+        "寡言的廷方",
+        "言笑"
+      ],
+      "summary": "送餐者将廷方订购的餐品当面交给他。廷方收下餐品并表示感谢，随后评价言笑的手艺还行。",
+      "motivation": "送餐者要完成特别订单的最终交付，廷方则要接收并品尝所订餐品。",
+      "outcome": "廷方确认收到餐品，言笑的特别订单顺利完成。",
+      "keywords": [
+        "交付餐品",
+        "廷方致谢",
+        "手艺评价",
+        "订单完成"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 4115303,
+          "title": "与寡言的廷方对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:48:58.413Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

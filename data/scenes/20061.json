@@ -1,0 +1,517 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 20061,
+    "slug": "20061_pigeons-go-awol",
+    "title": "鸽子习惯一去不回",
+    "chapter_num": "",
+    "premise": "杜拉夫养的送信鸽子近来越来越不靠谱，他委托旅行者去树林驱赶偷懒的鸽子，让它们重新好好送信。",
+    "central_conflict": "鸽子送信失灵并非单纯的偷懒——鸽群被丘丘人掳走，而驱赶方式不当还会伤及鸽子、引来杜拉夫的责罚；归还的信件又牵出杜拉夫寄给蒙德城葛瑞丝修女的一段旧事。",
+    "summary": "杜拉夫因信鸽送信失灵而烦恼，委托旅行者前往树林驱赶偷懒的鸽子。旅行者在驱赶途中发现鸽子掉落的信件，进而调查出鸽群被丘丘人掳走的真相，消灭丘丘人救回鸽群。回报时归还信件，杜拉夫承认那是寄给葛瑞丝修女的信，感叹有些事不可能永远瞒住，并叹息提起提米。任务结局依表现分岔：顺利驱赶者可获答谢；伤及鸽子者被罚替鸽送信给莎拉后获原谅；寻回鸽群并归还信件者获得酬劳与杜拉夫的坦诚。整条任务以日常委托的方式收束，同时为杜拉夫与提米的旧事留下余韵。",
+    "resolution": "任务以杜拉夫付酬或原谅收束：顺利驱赶者获答谢，伤鸽者代鸽送信给莎拉后被原谅，归还信件者得知信是寄给葛瑞丝修女的陈年旧事并获得酬劳。结尾杜拉夫叹息提起提米，为关于他旧事的后续留下余韵。",
+    "themes": [
+      "信鸽送信",
+      "日常委托",
+      "旧事与秘密",
+      "责任与惩罚"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 20061,
+      "title": "鸽子习惯一去不回",
+      "summary": "本章中，杜拉夫因信鸽送信失灵而委托旅行者去树林驱赶偷懒的鸽子。驱赶途中派蒙发现鸽子掉落的信件，旅行者调查后查明鸽群被丘丘人掳走，消灭丘丘人救回鸽子，并在回报时归还信件，牵出杜拉夫寄给葛瑞丝修女的陈年旧事与对提米的叹息。任务存在多条分支：顺利驱赶可获答谢，用力过猛伤及鸽子则被罚替鸽送信给莎拉、最终获原谅。整章围绕鸽子送信失灵展开，以杜拉夫对信鸽的烦恼与旧事收尾。",
+      "turning_point": "驱赶途中派蒙发现鸽子掉落的信件，进而查明鸽群被丘丘人掳走，剧情由单纯的驱赶委托转向对鸽子失踪真相的调查。",
+      "outcome": "鸽群送信问题得到处理：顺利驱赶者获杜拉夫答谢；伤及鸽子者被罚替鸽送信给莎拉后获原谅；寻回鸽群并归还信件者得知杜拉夫寄给葛瑞丝修女的旧事并获得酬劳。",
+      "section_ids": [
+        "20061-c00-s01",
+        "20061-c00-s02",
+        "20061-c00-s03",
+        "20061-c00-s04",
+        "20061-c00-s05",
+        "20061-c00-s06",
+        "20061-c00-s07",
+        "20061-c00-s08",
+        "20061-c00-s09",
+        "20061-c00-s10",
+        "20061-c00-s11",
+        "20061-c00-s12"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "杜拉夫先生正因为自己养的鸽子们而生气…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "20061-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "杜拉夫诉说鸽子送信失灵",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "杜拉夫",
+        "旅行者"
+      ],
+      "summary": "时间未明确，杜拉夫因自己养的信鸽越来越不靠谱而生气，向旅行者抱怨鸽子不是把信送丢、送得慢，就是落地不动非要人赶。他委托旅行者，若看到鸽子偷懒就帮忙驱赶，并让旅行者去看看刚放出去的那批鸽子。若旅行者担心被鸽子讨厌，杜拉夫则宽慰说鸽子的记忆很短，过一会就什么都忘记了。",
+      "motivation": "杜拉夫希望让偷懒的鸽子恢复送信效率，因此委托旅行者帮忙驱赶。",
+      "outcome": "旅行者接下委托，动身前往树林查看刚放出去的鸽子。",
+      "keywords": [
+        "信鸽",
+        "送信",
+        "委托",
+        "驱赶"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 2006101,
+          "title": "与杜拉夫对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20061-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "前往树林寻找鸽子群",
+      "narrative_role": "transition",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "树林"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "时间未明确，旅行者按杜拉夫的委托离开杜拉夫处，前往树林寻找刚放出去的那批鸽子群，为接下来的驱赶做准备。",
+      "motivation": "完成杜拉夫的委托，找到刚放出去的鸽子群。",
+      "outcome": "旅行者在树林中找到鸽群，驱赶行动随即展开。",
+      "keywords": [
+        "树林",
+        "寻找",
+        "鸽子群"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 2006102,
+          "title": "去树林里找到鸽子群",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20061-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "驱赶树林中偷懒的鸽子",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "树林"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "时间未明确，旅行者在树林中先后驱赶停在地上偷懒的鸽子，让它们重新起飞去送信。驱赶的力度和方式决定了后续分支：温和驱赶可顺利完成任务，用力过猛则可能伤及鸽子，为之后杜拉夫的追究埋下伏笔。",
+      "motivation": "让停在地上偷懒的鸽子重新起飞去送信。",
+      "outcome": "鸽子被驱赶后重新起飞；驱赶方式是否伤及鸽子决定后续走向顺利收尾或招致追究。",
+      "keywords": [
+        "驱赶",
+        "信鸽",
+        "偷懒"
+      ],
+      "source_step_keys": [
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 2006106,
+          "title": "赶走鸽子",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 2006107,
+          "title": "赶走鸽子",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20061-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "派蒙发现鸽子掉落的信件",
+      "narrative_role": "revelation",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "树林"
+      ],
+      "characters": [
+        "派蒙",
+        "旅行者"
+      ],
+      "summary": "时间未明确，驱赶鸽子时，派蒙发现了一封掉落的信，判断是某只正在送信的鸽子遗失的信件。派蒙提议查看寄信人是谁，说不定能帮上忙，于是旅行者收下了这封信，使其成为后续调查与回报中的关键线索。",
+      "motivation": "派蒙担心鸽子遗失的信件，想查明寄信人并帮忙把信送还。",
+      "outcome": "旅行者获得一封鸽子遗失的信件，为查清鸽群异常和归还信件埋下线索。",
+      "keywords": [
+        "信件",
+        "派蒙",
+        "发现",
+        "线索"
+      ],
+      "source_step_keys": [
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 2006108,
+          "title": "赶走鸽子",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20061-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "继续驱赶其余偷懒的鸽子",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "树林"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "时间未明确，旅行者继续驱赶树林中其余偷懒的鸽子。驱赶告一段落后，旅行者转而调查鸽子送信失灵背后的异常。",
+      "motivation": "把其余偷懒的鸽子也赶回送信的正轨。",
+      "outcome": "驱赶行动接近尾声，旅行者转向调查鸽群异常的原因。",
+      "keywords": [
+        "驱赶",
+        "信鸽",
+        "调查"
+      ],
+      "source_step_keys": [
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "7",
+          "id": 2006110,
+          "title": "赶走鸽子",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20061-c00-s06",
+      "chapter_index": 0,
+      "order": 6,
+      "title": "调查鸽子变胖的异常",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "树林"
+      ],
+      "characters": [
+        "杜拉夫",
+        "旅行者"
+      ],
+      "summary": "时间未明确，调查前方时，杜拉夫感叹这些鸽子越来越胖，怀疑是艾伦给它们喂了什么东西，暗示鸽子变胖、送信失灵另有原因。",
+      "motivation": "弄清鸽子变胖、送信失灵的真实原因。",
+      "outcome": "线索指向鸽子被人喂养变胖，鸽群被丘丘人掳走的真相逐渐浮出。",
+      "keywords": [
+        "调查",
+        "鸽子变胖",
+        "艾伦",
+        "异常"
+      ],
+      "source_step_keys": [
+        "8"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "8",
+          "id": 2006111,
+          "title": "调查前方",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20061-c00-s07",
+      "chapter_index": 0,
+      "order": 7,
+      "title": "消灭掳走鸽子的丘丘人",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "树林"
+      ],
+      "characters": [
+        "旅行者",
+        "丘丘人"
+      ],
+      "summary": "时间未明确，旅行者查明鸽群被丘丘人掳走，出手消灭了所有丘丘人，救回被掳走的鸽子。",
+      "motivation": "解救被丘丘人掳走的鸽群。",
+      "outcome": "丘丘人被消灭，被掳的鸽子获救，旅行者得以向杜拉夫回报。",
+      "keywords": [
+        "丘丘人",
+        "战斗",
+        "解救鸽子"
+      ],
+      "source_step_keys": [
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "9",
+          "id": 2006114,
+          "title": "消灭所有丘丘人",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20061-c00-s08",
+      "chapter_index": 0,
+      "order": 8,
+      "title": "回报鸽群被丘丘人掳走",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "杜拉夫",
+        "旅行者"
+      ],
+      "summary": "时间未明确，旅行者返回向杜拉夫回报鸽群被丘丘人掳走一事。杜拉夫感叹鸽子确实养得很肥，险些说出用来下酒的话，随即改口，表示又要新养一批鸽子。若旅行者归还捡到的信件，杜拉夫承认那是他寄给蒙德城葛瑞丝修女的信，说只是一些陈年旧事、有些事情不可能永远瞒住，道谢并付给酬劳，称会自己找时间送过去，最后叹气提起提米。",
+      "motivation": "向杜拉夫交代鸽群下落，并归还捡到的信件。",
+      "outcome": "杜拉夫接受结果并付酬；归还信件则得知信寄给葛瑞丝修女的旧事，杜拉夫决定自己送信，并叹息提起提米。",
+      "keywords": [
+        "回报",
+        "丘丘人",
+        "信件",
+        "葛瑞丝修女",
+        "提米"
+      ],
+      "source_step_keys": [
+        "10"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "10",
+          "id": 2006116,
+          "title": "向杜拉夫回报",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20061-c00-s09",
+      "chapter_index": 0,
+      "order": 9,
+      "title": "顺利驱赶后的回报与答谢",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "杜拉夫",
+        "旅行者"
+      ],
+      "summary": "若鸽子被顺利驱赶而无节外生枝，旅行者返回向杜拉夫回报。杜拉夫表示这样一来鸽子也许就会乖乖送信了，但他不能一直跟着看，于是就此作罢，向旅行者道谢并付给酬劳，还说以后要寄信可以过来打个招呼。",
+      "motivation": "完成委托后向杜拉夫交代结果并领取答谢。",
+      "outcome": "委托顺利收尾，旅行者获得杜拉夫的答谢，杜拉夫对鸽子恢复送信抱有期待。",
+      "keywords": [
+        "回报",
+        "答谢",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "6",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 2006109,
+          "title": "向杜拉夫回报",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 2006104,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20061-c00-s10",
+      "chapter_index": 0,
+      "order": 10,
+      "title": "杜拉夫追究过度驱赶",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "杜拉夫",
+        "旅行者"
+      ],
+      "summary": "若旅行者驱赶鸽子时用力过猛、伤及鸽群，回报时杜拉夫会发怒责问，说这些鸽子都是用来寄信的，还有很多信等着送。无论旅行者道歉还是解释“赶鸽子太用力了”，杜拉夫都不接受，说光道歉没有用，罚旅行者代替鸽子把信送出去。",
+      "motivation": "杜拉夫追究伤鸽的责任，要求旅行者弥补送信损失。",
+      "outcome": "旅行者接受惩罚，代替鸽子开始送信。",
+      "keywords": [
+        "责问",
+        "惩罚",
+        "伤及鸽子"
+      ],
+      "source_step_keys": [
+        "11"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "11",
+          "id": 2006117,
+          "title": "向杜拉夫回报",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20061-c00-s11",
+      "chapter_index": 0,
+      "order": 11,
+      "title": "替鸽子把信送给莎拉",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "莎拉",
+        "旅行者"
+      ],
+      "summary": "时间未明确，旅行者代替鸽子把信送到莎拉手上。莎拉对这次不是信鸽直接送到城里、而是旅行者亲自送来感到意外，确认信送到了就好，并向旅行者道谢。",
+      "motivation": "履行杜拉夫要求的惩罚，代替鸽子把信送到收信人手中。",
+      "outcome": "信件送达莎拉处，旅行者返回向杜拉夫复命。",
+      "keywords": [
+        "莎拉",
+        "送信",
+        "惩罚"
+      ],
+      "source_step_keys": [
+        "12"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "12",
+          "id": 2006118,
+          "title": "把信件送给莎拉",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "20061-c00-s12",
+      "chapter_index": 0,
+      "order": 12,
+      "title": "获得杜拉夫的原谅",
+      "narrative_role": "resolution",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "杜拉夫",
+        "旅行者"
+      ],
+      "summary": "时间未明确，送完信后旅行者返回向杜拉夫回报。杜拉夫抱怨旅行者没事给自己找事做，但表示这次就原谅旅行者，让其赶紧离开，惩罚分支就此收束。",
+      "motivation": "完成送信惩罚后向杜拉夫复命，平息杜拉夫的怒气。",
+      "outcome": "杜拉夫原谅旅行者，惩罚分支收束，任务结束。",
+      "keywords": [
+        "原谅",
+        "回报",
+        "收尾"
+      ],
+      "source_step_keys": [
+        "13"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "13",
+          "id": 2006119,
+          "title": "向杜拉夫回报",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-18T18:24:18.803Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

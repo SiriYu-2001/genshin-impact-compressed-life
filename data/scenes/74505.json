@@ -1,0 +1,85 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 74505,
+    "slug": "74505_tabletop-adventurer",
+    "title": "桌上冒险家",
+    "chapter_num": "",
+    "premise": "旅行者与派蒙前往钟表店，向负责管理玩具的店员阿尔芒询问体验方式。",
+    "central_conflict": "阿尔芒在人多时因紧张而难以顺畅表达，但仍需要向两人说明并推荐玩具。",
+    "summary": "时间未明确，旅行者与派蒙来到钟表店，与负责玩具的店员阿尔芒交谈。阿尔芒面对两人十分紧张，说话不断结巴，派蒙则耐心安抚他并说明来意。为了帮助两人体验玩具，阿尔芒拿出事先准备的说明，同时强调玩法简单有趣，即使不阅读说明也可以尝试。旅行者接受邀请，阿尔芒祝愿两人玩得开心，使这次简短接洽顺利结束并为之后体验玩具做好准备。",
+    "resolution": "阿尔芒克服紧张完成接待并提供说明，旅行者答应稍后尝试玩具。",
+    "themes": [
+      "善意沟通",
+      "克服紧张",
+      "玩具体验"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 74505,
+      "title": "桌上冒险家",
+      "summary": "旅行者与派蒙向钟表店店员阿尔芒询问如何体验玩具，发现他在人多时会因紧张而严重结巴。派蒙的安抚让交流得以继续，阿尔芒随后交出预先准备的说明并鼓励两人亲自尝试。旅行者接受邀请，使接待顺利完成。",
+      "turning_point": "阿尔芒在派蒙的安抚下拿出事先准备的说明，并主动邀请两人尝试玩具。",
+      "outcome": "旅行者获得玩具说明并答应稍后尝试，阿尔芒完成了此次接待。",
+      "section_ids": [
+        "74505-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "钟表店店员阿尔芒负责管理他们的玩具，去问问如何体验吧…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "74505-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "阿尔芒鼓起勇气介绍玩具",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "钟表店"
+      ],
+      "characters": [
+        "阿尔芒",
+        "派蒙",
+        "旅行者"
+      ],
+      "summary": "时间未明确，旅行者与派蒙在钟表店向阿尔芒询问玩具的体验方式。阿尔芒因不习惯面对多人而紧张结巴，派蒙耐心安抚他并说明两人只是想体验玩具。阿尔芒随即交出预先准备的说明，称玩具简单有趣并邀请两人尝试，旅行者接受了他的邀请。",
+      "motivation": "旅行者与派蒙希望体验钟表店的玩具，阿尔芒则想履行店员职责并帮助两人顺利上手。",
+      "outcome": "阿尔芒完成玩具介绍并提供说明，旅行者答应稍后尝试，为实际体验做好准备。",
+      "keywords": [
+        "阿尔芒",
+        "玩具说明",
+        "紧张",
+        "体验邀请"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7450501,
+          "title": "与店员阿尔芒交谈",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:25:28.118Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72657,
+    "slug": "72657_the-commissions-commission",
+    "title": "社奉行的委任",
+    "chapter_num": "",
+    "premise": "社奉行代行斑目百兵卫似乎有话要对旅行者说，旅行者需要与他交谈并完成相关委任。具体委任内容原文未明确。",
+    "central_conflict": "斑目百兵卫需要向旅行者传达社奉行事项，旅行者需通过两次交谈推进任务；原文未说明事项内容及过程中是否存在阻力。",
+    "summary": "时间未明确，地点未明确，社奉行代行斑目百兵卫似乎有话要对旅行者说。旅行者依照任务目标与斑目百兵卫进行了第一次交谈。随后任务再次要求旅行者与他对话，表明双方的交流分为连续两个步骤。输入未收录两次对话的具体台词，也未交代委任内容或两次交谈之间发生的变化。第二次对话目标完成后，社奉行的这项委任随任务结算而收束。",
+    "resolution": "旅行者完成了与斑目百兵卫的两次对话，任务随后结束并结算配置奖励。委任的具体内容及其后续影响原文未明确。",
+    "themes": [
+      "社奉行委任",
+      "事务传达",
+      "连续交谈"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72657,
+      "title": "社奉行的委任",
+      "summary": "本章以斑目百兵卫有话要说为起点，要求旅行者连续两次与他交谈。两项对话目标构成本章的全部推进，但输入未提供台词或具体委任内容。第二次交谈完成后，本章直接进入任务结算。",
+      "turning_point": "第二次对话目标完成，使任务由连续交谈阶段转入结算；具体交流内容原文未明确。",
+      "outcome": "旅行者完成两项与斑目百兵卫对话的目标，章节结束并结算配置奖励。",
+      "section_ids": [
+        "72657-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "社奉行代行斑目百兵卫似乎有话要说…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72657-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "百兵卫两度与旅行者交谈",
+      "narrative_role": "resolution",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "斑目百兵卫"
+      ],
+      "summary": "时间未明确，地点未明确，旅行者按照任务指引先后两次与社奉行代行斑目百兵卫交谈。输入只说明斑目百兵卫似乎有话要说，未提供两段对话的台词、委任内容或其间的情势变化。两项对话目标完成后，任务随即进入结算。",
+      "motivation": "斑目百兵卫似乎有事项需要传达，旅行者因此与他交谈；具体诉求原文未明确。",
+      "outcome": "两次对话目标均告完成，本章随之结束并结算配置奖励；后续影响原文未明确。",
+      "keywords": [
+        "斑目百兵卫",
+        "社奉行",
+        "委任",
+        "连续对话"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7265701,
+          "title": "与斑目百兵卫对话",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7265702,
+          "title": "与斑目百兵卫对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:09:17.185Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

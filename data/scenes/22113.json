@@ -1,0 +1,238 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 22113,
+    "slug": "22113_stairway-to-wangshu",
+    "title": "望舒须筑阶",
+    "chapter_num": "",
+    "premise": "望舒客栈的淮安正在修理楼梯上的另一道断口，但新买的木板被遭怪物袭击的搬运工丢在了路上，无人敢再去取回，他只好委托旅行者帮忙。",
+    "central_conflict": "楼梯断口亟待修缮，施工用的木板却遗失在怪物出没的路上，搬运工被吓退后不肯再去，取回材料的差事只能落到旅行者身上。",
+    "summary": "望舒客栈的淮安为修理楼梯上的另一道断口购入一批木板，搬运工却在接货途中遭怪物袭击、丢下木板逃回，淮安只得委托旅行者代为取回。交谈中淮安还说起这处断口是两位有私怨的客人在楼梯上大打出手所致，他为此多收了两人三天房钱。旅行者接受委托，前往遗失地点集齐五块木板交还，淮安随即开工，最终把楼梯全部修好。修缮完成后淮安向旅行者道谢并送上报酬，邀请其日后常来客栈喝茶吃点心。望舒客栈的楼梯恢复如常，客人们出行重新便利，旅行者与淮安的交情也更进一步。",
+    "resolution": "淮安修好了楼梯的全部断口并向旅行者致谢、赠予报酬，客栈恢复便利；故事在淮安邀请旅行者常来客栈的亲切氛围中收束，并为日后双方更多的往来留下铺垫。",
+    "themes": [
+      "委托与互助",
+      "客栈日常",
+      "修缮与复原",
+      "人情往来",
+      "轻量冒险"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 22113,
+      "title": "望舒须筑阶",
+      "summary": "淮安为修理望舒客栈楼梯上的另一道断口，向旅行者说明木板被遭怪物袭击的搬运工丢在路上，委托其前往取回。旅行者集齐五块木板交还后，淮安即刻开工修缮并最终完工，向旅行者致谢、赠送报酬并邀请其常来。交谈中淮安还交代了断口是两位有私怨的客人在楼梯上斗殴所致。",
+      "turning_point": "旅行者把五块木板交还给淮安，修缮从等待材料转为正式开工，是全章从求助走向完成的关键转折。",
+      "outcome": "楼梯断口全部修好，客栈客人恢复便利，旅行者获得淮安的报酬与邀请。",
+      "section_ids": [
+        "22113-c00-s01",
+        "22113-c00-s02",
+        "22113-c00-s03",
+        "22113-c00-s04",
+        "22113-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "望舒客栈的淮安想要修理客栈楼梯上的另一道断口，正在找人帮忙…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "22113-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "淮安委托取回遗失的楼梯木板",
+      "narrative_role": "setup",
+      "importance": 5,
+      "when": "时间未明确",
+      "locations": [
+        "望舒客栈"
+      ],
+      "characters": [
+        "淮安",
+        "旅行者"
+      ],
+      "summary": "望舒客栈的淮安正在修理楼梯上的另一道断口，他让搬运工去接运新买的木板，搬运工却遭怪物袭击、把木板全丢在路上后不敢再回去。淮安向旅行者求助，希望其代为取回木板；当旅行者问起断口由来时，淮安说明这是两位有私怨的客人在楼梯上大打出手所致，他当时还多收了两人三天房钱。淮安叮嘱旅行者尽快取回木板，以便赶紧动工修缮。",
+      "motivation": "淮安急于修好楼梯断口，但搬运工被怪物吓退、无人敢去取回木板，只能委托先前帮过忙的旅行者。",
+      "outcome": "旅行者接下取回木板的委托，淮安留在客栈等待，修缮进度取决于木板能否取回。",
+      "keywords": [
+        "望舒客栈",
+        "淮安",
+        "楼梯断口",
+        "木板",
+        "怪物袭击"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 2211301,
+          "title": "与淮安对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "22113-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "前往遗失处搜集五块木板",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "淮安",
+        "旅行者"
+      ],
+      "summary": "旅行者按搬运工指出的位置前往遗失地点，搜集被丢下的木板，目标是集齐五块。若尚未找齐便回到客栈，淮安会询问进度并催促其尽快取回，并说明拿到木板就会即刻开工。",
+      "motivation": "淮安急等木板开工修缮，旅行者受托前往怪物出没的路段找回失落的施工材料。",
+      "outcome": "木板成为修缮能否推进的关键，未找齐时淮安继续催促，集齐后才能交还并开工。",
+      "keywords": [
+        "搜集木板",
+        "遗失地点",
+        "催促进度"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 2211302,
+          "title": "搜集5块木板",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "22113-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "交还木板淮安开工修缮",
+      "narrative_role": "transition",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "望舒客栈"
+      ],
+      "characters": [
+        "淮安",
+        "旅行者"
+      ],
+      "summary": "旅行者集齐五块木板后回到望舒客栈，将它们交予淮安。淮安确认材料足够，向旅行者道谢，并表示这就开工修理楼梯断口。",
+      "motivation": "淮安此前承诺拿到木板便即刻开工，旅行者依约送回材料。",
+      "outcome": "修缮正式开工，为楼梯断口最终修好创造了条件。",
+      "keywords": [
+        "交还木板",
+        "开工修缮",
+        "材料齐备"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 2211303,
+          "title": "与淮安对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "22113-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "围观修桥的隐藏测试步骤",
+      "narrative_role": "transition",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "淮安"
+      ],
+      "summary": "该步骤是标记为隐藏的测试步骤，标题为“围观修桥”，没有附带任何已发布的任务内容与对话数据，属于未发布的测试内容，不应视为正式剧情的一部分。",
+      "motivation": "原文未明确",
+      "outcome": "原文未明确",
+      "keywords": [
+        "测试步骤",
+        "隐藏内容",
+        "围观修桥"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 2211304,
+          "title": "(test)围观修桥$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "22113-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "楼梯修缮完成并获答谢",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "望舒客栈"
+      ],
+      "characters": [
+        "淮安",
+        "旅行者"
+      ],
+      "summary": "淮安把楼梯断口全部修好，向旅行者展示自己的手艺，称客栈的客人们从此方便多了。他向旅行者道谢并送上报酬，还邀请旅行者日后常来客栈喝茶、吃点心，夸赞客栈厨子的手艺不错。",
+      "motivation": "淮安为完成修缮并答谢旅行者出力相助。",
+      "outcome": "楼梯断口全部修复，客栈恢复便利，旅行者获得报酬，与淮安的交情进一步加深。",
+      "keywords": [
+        "修缮完成",
+        "答谢",
+        "报酬",
+        "邀请常来"
+      ],
+      "source_step_keys": [
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 2211305,
+          "title": "与淮安对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-18T22:20:26.160Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

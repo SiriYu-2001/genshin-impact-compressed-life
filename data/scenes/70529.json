@@ -1,0 +1,202 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70529,
+    "slug": "70529_ballads-of-breeze",
+    "title": "风物之歌",
+    "chapter_num": "",
+    "premise": "风花节期间，旅行者前往蒙德城侧门寻找莉兹，受邀了解并体验名为「风物之歌」的音乐游戏。主要目标是选定乐器并完成演奏前的准备。",
+    "central_conflict": "旅行者对普通人能否弹出动听旋律心存疑虑，而略显紧张的莉兹需要证明游戏足够简单可靠，并引导旅行者顺利做好演奏准备。",
+    "summary": "风花节期间，旅行者来到蒙德城侧门寻找正在主持活动的莉兹。莉兹介绍「风物之歌」，称参与者只需跟随节拍和节奏，便能像吟游诗人一样弹奏旋律。面对旅行者的疑问，她以试玩结果和西风骑士团的信誉作保证，并强调演奏的意义在于让自己开心、暂时忘却烦恼。旅行者随后从风物之诗琴、镜花之琴与绮筵之鼓中选择一种乐器，莉兹接受其选择。临近开始时，莉兹依照笔记补充说明「调校乐器」环节，并将所选乐器调整至最佳状态。乐谱与乐器最终准备完毕，旅行者可以随时开始正式演奏。",
+    "resolution": "莉兹完成乐器调校并备好乐谱，使活动从玩法介绍过渡到可立即演奏的状态。本 scene 收束于准备工作的完成，后续指向「风物之歌」音乐游戏的实际挑战。",
+    "themes": [
+      "节庆体验",
+      "音乐与快乐",
+      "消解烦恼",
+      "鼓励尝试",
+      "演奏准备"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70529,
+      "title": "风物之歌",
+      "summary": "旅行者在风花节期间前往蒙德城侧门，与负责「风物之歌」活动的莉兹会面。莉兹通过解释玩法和安抚疑虑，鼓励旅行者将演奏视为取悦自己、忘却烦恼的轻松体验。旅行者选定乐器后，莉兹又按照笔记完成调校并备妥乐谱，使正式演奏得以开始。",
+      "turning_point": "旅行者接受活动邀请并选定乐器后，交流从介绍和说服转入具体的演奏准备阶段。",
+      "outcome": "所选乐器被调校至最佳状态，乐谱也已备妥，旅行者可以随时开始「风物之歌」的正式演奏。",
+      "section_ids": [
+        "70529-c00-s01",
+        "70529-c00-s02",
+        "70529-c00-s03",
+        "70529-c00-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "西风骑士团的莉兹似乎正在为某事而忙碌着…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70529-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "旅行者前往侧门寻找莉兹",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "风花节期间",
+      "locations": [
+        "蒙德城侧门"
+      ],
+      "characters": [
+        "旅行者",
+        "莉兹"
+      ],
+      "summary": "风花节期间，旅行者前往蒙德城侧门寻找莉兹。此次会面为了解莉兹正在主持的活动提供了开端。",
+      "motivation": "旅行者依照任务指引寻找正在为某事忙碌的莉兹。",
+      "outcome": "旅行者与莉兹建立接触，剧情转入对「风物之歌」活动的介绍。",
+      "keywords": [
+        "风花节",
+        "蒙德城侧门",
+        "寻找莉兹"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7052901,
+          "title": "前往蒙德城侧门，寻找莉兹",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70529-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "莉兹介绍风物之歌玩法",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "与莉兹会面后",
+      "locations": [
+        "蒙德城侧门"
+      ],
+      "characters": [
+        "莉兹",
+        "旅行者"
+      ],
+      "summary": "莉兹欢迎旅行者参加风花节，并介绍让参与者模仿吟游诗人弹奏旋律的「风物之歌」。面对旅行者对演奏效果的疑问，她略显迟疑地援引试玩经历与西风骑士团作保证，说明只要集中注意力跟上节拍和节奏，就能奏出像样的旋律。她进一步强调参与者无需考虑报酬，只需借音乐让自己开心并忘掉烦心事。",
+      "motivation": "莉兹希望消除旅行者对演奏难度和效果的顾虑，促使其尝试活动。",
+      "outcome": "旅行者了解了游戏的基本方式与轻松自娱的目的，并进入挑选乐器的阶段。",
+      "keywords": [
+        "风物之歌",
+        "节拍",
+        "吟游诗人",
+        "消解烦恼"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7052902,
+          "title": "与莉兹对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70529-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "旅行者选定演奏乐器",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "了解玩法后",
+      "locations": [
+        "蒙德城侧门"
+      ],
+      "characters": [
+        "莉兹",
+        "旅行者"
+      ],
+      "summary": "莉兹说明旅行者既可使用自带乐器，也可借用活动提供的不同乐器。旅行者在风物之诗琴、镜花之琴和绮筵之鼓之间作出一项选择，莉兹接受所选乐器。",
+      "motivation": "旅行者需要确定实际演奏所用的乐器，莉兹则负责提供并确认选择。",
+      "outcome": "演奏器材得到确定，活动准备随即转入乐器调校环节。",
+      "keywords": [
+        "乐器选择",
+        "风物之诗琴",
+        "镜花之琴",
+        "绮筵之鼓"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7052902,
+          "title": "与莉兹对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70529-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "莉兹完成乐器调校准备",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "选定乐器后",
+      "locations": [
+        "蒙德城侧门"
+      ],
+      "characters": [
+        "莉兹",
+        "旅行者"
+      ],
+      "summary": "旅行者选定乐器后，莉兹查看笔记，补充说明活动设置了保证演奏效果的「调校乐器」环节。她依照步骤将乐器调整至最佳状态，并准备好相应乐谱。完成这些工作后，她告知旅行者可以随时开始演奏。",
+      "motivation": "莉兹希望通过调校降低演奏障碍，确保旅行者能够顺利奏出好听的曲子。",
+      "outcome": "乐器与乐谱全部准备妥当，活动介绍完成，后续正式进入音乐演奏。",
+      "keywords": [
+        "调校乐器",
+        "最佳状态",
+        "乐谱",
+        "演奏就绪"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7052902,
+          "title": "与莉兹对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:54:04.981Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

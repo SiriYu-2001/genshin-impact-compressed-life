@@ -1,0 +1,85 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72667,
+    "slug": "72667_bait-resupply-plan",
+    "title": "鱼饵补充计划",
+    "chapter_num": "",
+    "premise": "玩家角色发现「荧草饵」已经用完，因此前去向鲸井椛寻求补充，以便继续使用这种鱼饵。",
+    "central_conflict": "现有「荧草饵」耗尽，但鲸井椛已利用上次获得的充足材料预制了备用鱼饵，使短缺很快得到解决。",
+    "summary": "玩家角色因「荧草饵」用尽而找到鲸井椛。鲸井椛得知情况后，说明上次带来的材料十分充足。她已用这些材料制作了许多备用的「荧草饵」，因此无需再次收集材料。鲸井椛将备用鱼饵交给玩家角色，并表示今后用完还可以再来领取。此次补给解决了眼前的鱼饵短缺，也建立了后续继续向她补充鱼饵的途径。",
+    "resolution": "鲸井椛直接交付备用的「荧草饵」，完成本次补给。她同时承诺在鱼饵再次耗尽时继续提供帮助。",
+    "themes": [
+      "物资补给",
+      "未雨绸缪",
+      "互助",
+      "资源延续"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72667,
+      "title": "鱼饵补充计划",
+      "summary": "玩家角色向鲸井椛说明「荧草饵」已经耗尽，希望得到补充。鲸井椛透露她已用上次剩余的充足材料制作了许多备用鱼饵，随即将其交出，并允许玩家角色日后再次前来领取。",
+      "turning_point": "鲸井椛说明自己早已制成大量备用的「荧草饵」，使补给不再需要额外收集材料。",
+      "outcome": "玩家角色获得备用的「荧草饵」，当前短缺得到解决，并取得今后继续向鲸井椛补充鱼饵的承诺。",
+      "section_ids": [
+        "72667-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "荧草饵居然已经用完了，去找鲸井椛再做一些吧…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72667-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "鲸井椛交付备用荧草饵",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "玩家角色",
+        "鲸井椛"
+      ],
+      "summary": "时间未明确，玩家角色在地点未明确处告诉鲸井椛，自己的「荧草饵」已经用完。鲸井椛说明上次带来的材料十分充足，她已用其制作了许多备用鱼饵。她将这些鱼饵交给玩家角色，并表示用完后仍可再来找她。",
+      "motivation": "玩家角色需要补充已经耗尽的「荧草饵」；鲸井椛则以预先制作的备用鱼饵回应这一需求。",
+      "outcome": "玩家角色取得备用的「荧草饵」，眼前的补给需求得到满足，同时获得今后再次补充鱼饵的稳定途径。",
+      "keywords": [
+        "荧草饵",
+        "鲸井椛",
+        "备用物资",
+        "鱼饵补给"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7266702,
+          "title": "与鲸井椛对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:09:41.983Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

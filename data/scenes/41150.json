@@ -1,0 +1,144 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 41150,
+    "slug": "41150_wangshu-take-away",
+    "title": "望舒外送",
+    "chapter_num": "",
+    "premise": "望舒客栈的言笑无暇照料一份等待领取的特别订单，旅行者需要把来来菜送给一时无法返回的随缘的铃官。",
+    "central_conflict": "随缘的铃官无法及时回到客栈，而餐品又必须在避免颠簸、泄漏和元素沾染的条件下完好送达。",
+    "summary": "望舒客栈的言笑接到随缘的铃官预订的来来菜，但铃官迟迟未归，他本人也忙得无法脱身。旅行者询问特别订单后得知，铃官大概又逛到了别处，一时无法返回。言笑请旅行者代为送餐，并强调途中不要乱飞乱跑，也不能让餐品沾染奇怪元素，以免泄漏或串味。旅行者可以暂缓此事；剧情继续时则答应代送，言笑将餐品交托给旅行者。旅行者随后找到无法及时返回的随缘的铃官，并把她订购的餐品直接送到。铃官意外而感激地收下餐品，外送任务就此完成。",
+    "resolution": "旅行者将来来菜交给随缘的铃官，解决了顾客无法返店与言笑无暇离岗的问题。铃官致谢后，本次特别订单顺利收束，原文未明确留下进一步影响。",
+    "themes": [
+      "受托送餐",
+      "及时援助",
+      "餐品保护",
+      "客栈日常"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 41150,
+      "title": "望舒外送",
+      "summary": "言笑因随缘的铃官未能返回、自己又抽不开身，委托旅行者代送一份来来菜，并说明保护餐品的注意事项。旅行者在接受委托后找到一时无法返回的铃官，将餐品直接交到她手中。铃官致谢收餐，特别订单随之完成。",
+      "turning_point": "旅行者答应言笑代为送餐，使特别订单从等待领取转为主动外送。",
+      "outcome": "随缘的铃官收到预订的来来菜，言笑面临的送餐难题得到解决。",
+      "section_ids": [
+        "41150-c00-s01",
+        "41150-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月的望舒客栈里有一份特别订单正等待着派送…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "41150-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "言笑托付特别订单",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "特别订单等待领取期间",
+      "locations": [
+        "望舒客栈"
+      ],
+      "characters": [
+        "旅行者",
+        "言笑"
+      ],
+      "summary": "随缘的铃官预订了来来菜，却迟迟没有返回望舒客栈，忙碌的言笑也无法亲自送餐。言笑请旅行者把餐品送过去，并要求途中避免乱飞乱跑和奇怪元素沾染，以防餐品泄漏或味道受损。旅行者可以选择暂缓处理；剧情继续时则答应代送，言笑将订单交托给旅行者。",
+      "motivation": "言笑需要在无法离开客栈的情况下，把容易因颠簸或元素沾染而受损的餐品及时送给顾客。",
+      "outcome": "旅行者接受送餐委托，明确了保护餐品的限制条件，并开始寻找随缘的铃官。",
+      "keywords": [
+        "特别订单",
+        "来来菜",
+        "言笑",
+        "送餐限制"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 4115004,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 4115001,
+          "title": "与言笑对话",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 4115003,
+          "title": "与随缘的铃官对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "41150-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "旅行者将餐品送达",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "接受送餐委托后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "随缘的铃官"
+      ],
+      "summary": "旅行者找到一时无法返回望舒客栈的随缘的铃官，并说明自己带来了她预订的餐品。随缘的铃官没想到餐品会被直接送来，随即向旅行者表达感谢。餐品完成交付，特别订单的外送目标达成。",
+      "motivation": "旅行者需要履行对言笑的承诺，让无法及时回店的随缘的铃官收到预订餐品。",
+      "outcome": "随缘的铃官收下餐品并致谢，送餐委托直接完成。",
+      "keywords": [
+        "随缘的铃官",
+        "餐品交付",
+        "外送完成"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 4115002,
+          "title": "将餐品送给随缘的铃官",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 4115003,
+          "title": "与随缘的铃官对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:48:31.645Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

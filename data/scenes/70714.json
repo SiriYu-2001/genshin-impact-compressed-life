@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70714,
+    "slug": "70714_brook-the-carnivore",
+    "title": "肉食者，布洛克",
+    "chapter_num": "",
+    "premise": "清泉镇的布洛克需要六份禽肉来做菜，玩家角色前来回应委托并交付食材。",
+    "central_conflict": "布洛克急需足量禽肉研究肉食菜品，委托能否完成取决于玩家角色是否已经集齐六份禽肉。",
+    "summary": "时间未明确，清泉镇的布洛克向前来询问委托的玩家角色确认六份禽肉是否已经集齐。若食材尚未备齐，他会催促对方完成搜集后尽快送来，表明自己正等着用它们做菜。完成搜集后，玩家角色将六份禽肉交给布洛克。布洛克确认禽肉质量不错，并以物品答谢帮助。他还表示会继续研究新的肉食菜品，并承诺研究成功后首先邀请玩家角色试吃。委托由此完成，同时留下了布洛克继续开发新菜品的后续期待。",
+    "resolution": "布洛克收到符合要求的六份禽肉并向玩家角色致谢回礼。食材需求得到解决，而他关于新肉食菜品与试吃邀请的承诺构成后续展望。",
+    "themes": [
+      "委托互助",
+      "食材搜集",
+      "烹饪研究",
+      "感谢回报"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70714,
+      "title": "肉食者，布洛克",
+      "summary": "本章围绕布洛克获取六份禽肉的委托展开，玩家角色需要先完成食材搜集并将其交付。布洛克在确认禽肉已经备齐后收下食材，称赞其质量并给予谢礼。章节最终以他承诺研究新肉食菜品、届时邀请玩家角色率先试吃而收束。",
+      "turning_point": "玩家角色集齐并交付六份禽肉，使委托从等待食材转入验收和答谢阶段。",
+      "outcome": "布洛克获得了做菜所需的优质禽肉，玩家角色收到谢礼，并得到未来试吃新菜品的口头邀请。",
+      "section_ids": [
+        "70714-c00-s01",
+        "70714-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "清泉镇的布洛克需要六份禽肉。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70714-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "玩家角色交付六份禽肉",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "回应布洛克的食材委托时",
+      "locations": [
+        "清泉镇"
+      ],
+      "characters": [
+        "布洛克",
+        "玩家角色"
+      ],
+      "summary": "时间未明确，玩家角色在清泉镇就禽肉委托与布洛克交谈，布洛克随即询问六份禽肉是否已经集齐。他正等着用这些食材做菜，因此在尚未集齐的分支中会催促玩家角色尽快搜集；完成条件达成后，玩家角色将六份禽肉交给他。食材的交付使委托进入验收和答谢阶段。",
+      "motivation": "布洛克需要六份禽肉用于做菜，玩家角色则为完成其委托而搜集并交付食材。",
+      "outcome": "六份禽肉完成交付，布洛克可以检查食材并对玩家角色作出答谢。",
+      "keywords": [
+        "六份禽肉",
+        "食材委托",
+        "搜集",
+        "交付"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7071401,
+          "title": "将六份禽肉交给布洛克",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70714-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "布洛克致谢并相约试吃",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "六份禽肉交付后",
+      "locations": [
+        "清泉镇"
+      ],
+      "characters": [
+        "布洛克",
+        "玩家角色"
+      ],
+      "summary": "时间未明确，布洛克在清泉镇检查收到的禽肉，确认其质量不错。他向玩家角色表示感谢并送出谢礼，随后说明自己会研究新的肉食菜品。布洛克承诺研究成功后首先邀请玩家角色试吃，使本次委托在答谢与后续约定中结束。",
+      "motivation": "布洛克因获得优质食材而答谢帮助，并希望利用这些禽肉继续研究新的肉食菜品。",
+      "outcome": "玩家角色获得谢礼，布洛克开始展望新菜品研究，并留下未来邀请试吃的约定。",
+      "keywords": [
+        "优质禽肉",
+        "谢礼",
+        "肉食菜品",
+        "试吃约定"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7071402,
+          "title": "与布洛克对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:57:25.730Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

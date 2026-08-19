@@ -1,0 +1,84 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72707,
+    "slug": "72707_monster-mayhem",
+    "title": "魔物引起的混乱",
+    "chapter_num": "",
+    "premise": "神无冢某处有魔物作乱，几原凯希望有人出手平息混乱。",
+    "central_conflict": "作乱的魔物威胁当地安宁，而几原凯需要借助他人的力量将其击退。",
+    "summary": "时间未明确，神无冢某处出现了魔物作乱的情况。几原凯面对这场混乱，希望有人能够提供帮助。剧情由此确立了击退魔物、恢复当地安宁的主要目标。原文没有展开战斗过程，也没有明确交代魔物是否最终被击退。",
+    "resolution": "本 scene 以“击退魔物”作为明确任务目标收束，但任务的完成结果及后续影响均未在原文中说明。",
+    "themes": [
+      "魔物威胁",
+      "求助",
+      "平息混乱"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72707,
+      "title": "魔物引起的混乱",
+      "summary": "神无冢某处因魔物作乱而陷入混乱，几原凯希望有人协助处理威胁。本章据此提出击退魔物的行动目标，但没有呈现具体战斗经过或最终完成情况。",
+      "turning_point": "几原凯的求助将魔物造成的混乱转化为明确的击退任务。",
+      "outcome": "击退魔物成为当前任务目标；实际执行结果及其后续影响原文未明确。",
+      "section_ids": [
+        "72707-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "神无冢上某处，魔物正在作乱，几原凯希望能有人帮忙解决这场混乱。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72707-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "几原凯求助平息魔物混乱",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "神无冢某处"
+      ],
+      "characters": [
+        "几原凯",
+        "作乱的魔物"
+      ],
+      "summary": "时间未明确，神无冢某处有魔物作乱并造成混乱。几原凯希望有人前来协助，剧情由此确立击退魔物的行动目标。原文没有描述具体战斗过程或任务完成结果。",
+      "motivation": "几原凯希望消除魔物造成的混乱，恢复神无冢当地的安宁。",
+      "outcome": "任务目标被明确为击退魔物，但实际结果及对后续的影响原文未明确。",
+      "keywords": [
+        "神无冢",
+        "几原凯",
+        "魔物作乱",
+        "击退魔物"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7270701,
+          "title": "击退魔物",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:11:28.483Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

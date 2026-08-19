@@ -1,0 +1,124 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71709,
+    "slug": "71709_geris-gastro-nostalgia",
+    "title": "杰里的蒙德城美食回忆",
+    "chapter_num": "",
+    "premise": "璃月港的杰里委托旅行者带来两份甜甜花酿鸡，希望借熟悉的菜肴重温从前的美味。旅行者需要备齐食物并将其交给杰里。",
+    "central_conflict": "杰里急切地想用甜甜花酿鸡排解对熟悉味道的思念，同时摆脱中原杂碎给他留下的不适印象，而委托能否完成取决于旅行者是否带齐两份菜肴。",
+    "summary": "时间未明确，璃月港的杰里向旅行者确认其委托的两份甜甜花酿鸡是否已经备齐。若食物尚未带齐，他便催促旅行者尽快完成准备，并再次流露出对中原杂碎味道的不适。旅行者备齐并交付两份甜甜花酿鸡后，杰里立刻从香味中认出与从前相同的熟悉滋味。杰里向旅行者连声道谢，并拿出物品作为委托报酬。随后，他决定专心品味这道菜，同时努力忘掉中原杂碎的味道。委托最终以杰里获得怀念的美食、旅行者得到酬谢而收束。",
+    "resolution": "杰里如愿收到两份甜甜花酿鸡，并以报酬答谢旅行者。他开始重温熟悉的味道，但对中原杂碎的反感仍作为这段美食经历的余韵被保留下来。",
+    "themes": [
+      "乡味怀念",
+      "美食慰藉",
+      "委托履行",
+      "味觉反差"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71709,
+      "title": "杰里的蒙德城美食回忆",
+      "summary": "本章围绕为杰里送去两份甜甜花酿鸡展开，旅行者首先需要备齐菜肴并完成交付。杰里收到食物后，从香味和滋味中重温了从前的美食记忆，态度也由急切催促转为欣喜感谢。最终，他给予旅行者报酬，并开始享用菜肴，以熟悉的味道冲淡中原杂碎带来的不适印象。",
+      "turning_point": "旅行者确认已带齐并交付两份甜甜花酿鸡，使杰里从焦急等待转为欣喜品味。",
+      "outcome": "杰里获得了期待的甜甜花酿鸡并向旅行者支付报酬，委托顺利完成。",
+      "section_ids": [
+        "71709-c00-s01",
+        "71709-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月港的杰里需要两份甜甜花酿鸡。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71709-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "旅行者交付两份甜甜花酿鸡",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确，委托交付阶段",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "旅行者",
+        "杰里"
+      ],
+      "summary": "时间未明确，旅行者在璃月港就甜甜花酿鸡的委托与杰里交谈，杰里确认其是否带齐了两份菜肴。若准备尚未完成，杰里会催促旅行者尽快带来食物，并因想起中原杂碎的味道而表现出不适；当两份菜肴备齐后，旅行者完成交付。",
+      "motivation": "杰里急于获得两份熟悉的甜甜花酿鸡，旅行者则需要完成其交付委托。",
+      "outcome": "两份甜甜花酿鸡被交给杰里，推动委托进入验收和答谢阶段。",
+      "keywords": [
+        "甜甜花酿鸡",
+        "食物交付",
+        "杰里委托",
+        "中原杂碎"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7170901,
+          "title": "将两份甜甜花酿鸡交给杰里",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71709-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "杰里重温熟悉美味并答谢",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "时间未明确，完成交付后",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "杰里",
+        "旅行者"
+      ],
+      "summary": "完成交付后，杰里闻到甜甜花酿鸡的香味，认为它仍与从前一样美味。欣喜的杰里连声感谢旅行者，并将物品作为报酬交给对方。他随后准备细细品味菜肴，同时努力忘记中原杂碎的味道。",
+      "motivation": "杰里希望重温从前熟悉的美味，并答谢帮助他实现愿望的旅行者。",
+      "outcome": "旅行者获得报酬，杰里开始享用甜甜花酿鸡，委托由此完成。",
+      "keywords": [
+        "熟悉香味",
+        "美食回忆",
+        "感谢酬劳",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7170902,
+          "title": "与杰里对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:03:48.790Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

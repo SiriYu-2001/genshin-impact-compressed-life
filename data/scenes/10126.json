@@ -1,0 +1,1431 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 10126,
+    "slug": "10126_pale-fire",
+    "title": "微暗之火",
+    "chapter_num": "",
+    "premise": "旅行者、派蒙与斯露莎发现由花灵及其记忆所化的「灵谷木」，并从祖尔宛处得知其中残灵无法自行回归花海。作为「谒颂主」，旅行者需要唤醒这些残灵、化解其最后的执念并带回「净光翎」。",
+    "central_conflict": "流散花灵因耗尽力量且沾染污秽而被花海拒绝，只能困在痛苦追忆中；斯露莎起初又将战斗至尽头视为花灵应有的归宿，与旅行者和派蒙救助残灵的意愿形成分歧。",
+    "summary": "旅行者一行将最初发现的「灵谷木」告知祖尔宛，由此得知树中寄宿的是花灵未能归返的记忆破片。祖尔宛说明「净光翎」、甘露与花灵的关系，并把古代「谒颂主」主持净罪仪式、救助流散花灵的责任交给旅行者。众人在各处找到更多「灵谷木」，斯露莎虽强调牺牲与战斗才是花灵的归宿，最终仍同意唤醒其中残灵，让其表达最后的执念。残灵们分别重演战斗、寻找「忧昙花」、寻回同伴、飞越险境和逃避污秽等记忆，旅行者与斯露莎逐一帮助它们完成未竟之事。每次执念得到回应后，残灵都获得安心或表达归返花海的愿望，流散的花灵由此陆续回归。全部残灵获救后，祖尔宛确认花海重新热闹起来，并借纯水之灵朝圣的旧闻说明旅途与持续践行使命本身的意义。",
+    "resolution": "流散在外的花灵全部回归花海，旅行者完成了作为「谒颂主」的净罪职责。祖尔宛将这段经历归结为对使命过程的坚持，同时指出花海要完全恢复生机仍与解决天上大窟窿一事相关。",
+    "themes": [
+      "记忆与执念",
+      "牺牲与慈悲",
+      "归返故土",
+      "使命与责任",
+      "旅途的意义"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73307,
+      "title": "微暗之火",
+      "summary": "旅行者一行向祖尔宛转述「灵谷木」的发现，并得知树中寄宿的是流散花灵的记忆破片，「净光翎」则能使其接受净罪并回归花海。祖尔宛确认旅行者具备「谒颂主」的身份和职责，请众人继续寻找并救助残灵。全部花灵归返后，祖尔宛以纯水之灵与朝圣之路的往事说明，持续践行使命的过程比一劳永逸的牺牲更有意义。",
+      "turning_point": "祖尔宛揭示「谒颂主」原本是为流散花灵主持净罪仪式的人类勇士，使偶然采用的称号转化为旅行者必须承担的真实责任。",
+      "outcome": "救助「灵谷木」残灵的目标得到确立并最终完成，花海因流散花灵归返而重新热闹起来。",
+      "section_ids": [
+        "10126-c00-s01",
+        "10126-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "「灵谷木」上结出了神奇的「净光翎」，不知其中隐藏着怎样的秘密…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 73309,
+      "title": "唤醒「灵谷木」中的残灵",
+      "summary": "旅行者一行发现「灵谷木」后，斯露莎解释残灵因战斗、污秽和执念而无法回归花海，并在众人坚持下将其唤醒。残灵随即重演与魔物战斗的记忆，旅行者击败来袭魔物，使其得以完成最后的战斗执念。",
+      "turning_point": "原本轻视救助行为的斯露莎同意唤醒残灵，让其最后的愿望得到实际回应。",
+      "outcome": "魔物被击败，残灵以仍能继续战斗的满足姿态结束追忆，为其归返花海创造条件。",
+      "section_ids": [
+        "10126-c01-s01",
+        "10126-c01-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "「灵谷木」中的残灵还停留在过去的执念中，斯露莎可以将她们唤醒…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": 73310,
+      "title": "唤醒「灵谷木」中的残灵",
+      "summary": "斯露莎唤醒另一棵「灵谷木」中的残灵，使众人得以听见其未竟愿望。残灵因未能找到「忧昙花」而无颜回去，旅行者遂带回花蕊，帮助其完成任务。",
+      "turning_point": "残灵明确提出寻找「忧昙花」花蕊是自己无法归返的最后牵挂。",
+      "outcome": "残灵收到花蕊并确认任务完成，带着对旅行者的感谢放下执念。",
+      "section_ids": [
+        "10126-c02-s01",
+        "10126-c02-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_02.json",
+      "source_description": "「灵谷木」中的残灵还停留在过去的执念中，斯露莎可以将她们唤醒…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": 73312,
+      "title": "唤醒「灵谷木」中的残灵",
+      "summary": "旅行者一行唤醒一名困于「灵谷木」的残灵，并得知它与同行伙伴失散。众人在周围找回三处残灵碎片，使失散的同伴重新聚合。",
+      "turning_point": "残灵请求旅行者寻找走失的伙伴，使救助目标从唤醒个体转为收集散落的残灵碎片。",
+      "outcome": "三处残灵碎片被找回，残灵确认伙伴已经团聚并向众人致谢。",
+      "section_ids": [
+        "10126-c03-s01",
+        "10126-c03-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_03.json",
+      "source_description": "「灵谷木」中的残灵还停留在过去的执念中，斯露莎可以将她们唤醒…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": 73314,
+      "title": "唤醒「灵谷木」中的残灵",
+      "summary": "斯露莎唤醒残灵后，对方邀请她进行一次不能跟丢的飞行。斯露莎顺利跟随残灵完成路线，证明众人有能力摆脱魔物追逐，也使残灵对这些伙伴感到放心。",
+      "turning_point": "残灵没有要求战斗或寻物，而是以共同飞行检验斯露莎及其同伴是否可靠。",
+      "outcome": "飞行顺利完成，残灵认可众人的能力并消除对伙伴安危的挂念。",
+      "section_ids": [
+        "10126-c04-s01",
+        "10126-c04-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_04.json",
+      "source_description": "「灵谷木」中的残灵还停留在过去的执念中，斯露莎可以将她们唤醒…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": 73315,
+      "title": "唤醒「灵谷木」中的残灵",
+      "summary": "一名残灵被唤醒后因同伴迷路而哭泣，希望大家能够一起回去。旅行者与斯露莎在周围找回三处残灵碎片，使它们重新团聚并获得归家的机会。",
+      "turning_point": "残灵直接表达与同伴一同回家的愿望，揭示失散而非战斗本身才是其最后执念。",
+      "outcome": "失散残灵全部被找回，它们确认终于能够共同回家。",
+      "section_ids": [
+        "10126-c05-s01",
+        "10126-c05-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_05.json",
+      "source_description": "「灵谷木」中的残灵还停留在过去的执念中，斯露莎可以将她们唤醒…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 6,
+      "chapter_id": 73316,
+      "title": "唤醒「灵谷木」中的残灵",
+      "summary": "斯露莎唤醒一名畏惧黑色兽境猎犬的残灵，但众人的动静仍惊动了魔物。旅行者击败来袭者，使残灵脱离恐惧并认可「谒颂主」的力量。",
+      "turning_point": "残灵试图保持安静却仍惊动魔物，迫使众人由安抚转入正面战斗。",
+      "outcome": "魔物被消灭，残灵因威胁解除而安心下来。",
+      "section_ids": [
+        "10126-c06-s01",
+        "10126-c06-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_06.json",
+      "source_description": "「灵谷木」中的残灵还停留在过去的执念中，斯露莎可以将她们唤醒…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 7,
+      "chapter_id": 73317,
+      "title": "唤醒「灵谷木」中的残灵",
+      "summary": "被唤醒的残灵认出旅行者是花灵的「谒颂主」，请求取得生长于不可能开花之处的「忧昙花」花蕊。旅行者如约带回花蕊，使残灵从这件奇迹中确认如今已是更好的时代。",
+      "turning_point": "残灵把难以取得的「忧昙花」视为检验时代变化与「谒颂主」能力的关键。",
+      "outcome": "花蕊被成功交付，残灵的请求得到满足，并对当下时代产生欣慰。",
+      "section_ids": [
+        "10126-c07-s01",
+        "10126-c07-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_07.json",
+      "source_description": "「灵谷木」中的残灵还停留在过去的执念中，斯露莎可以将她们唤醒…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 8,
+      "chapter_id": 73318,
+      "title": "唤醒「灵谷木」中的残灵",
+      "summary": "一名历经漫长岁月、已十分虚弱的残灵被斯露莎唤醒，并坦言想回到花海。旅行者与斯露莎找回散落在周围的残灵碎片，使其重新完整并得以安然休息。",
+      "turning_point": "残灵明确说出回归花海的愿望，使派蒙此前关于花灵未必愿意永远战斗的判断得到直接印证。",
+      "outcome": "残灵碎片被全部找回，残灵向花灵的伙伴致谢后安心沉睡。",
+      "section_ids": [
+        "10126-c08-s01",
+        "10126-c08-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_08.json",
+      "source_description": "「灵谷木」中的残灵还停留在过去的执念中，斯露莎可以将她们唤醒…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 9,
+      "chapter_id": 73332,
+      "title": "唤醒「灵谷木」中的残灵",
+      "summary": "斯露莎唤醒残灵后，对方仍沉浸在躲避污秽追兵的记忆中，催促众人立刻逃跑。斯露莎跟随其飞行并成功摆脱追逐，使残灵认为自己终于能够返回花海休息。",
+      "turning_point": "残灵把众人带入逃亡路线，必须通过实际飞行完成其尚未结束的逃生记忆。",
+      "outcome": "飞行顺利完成，残灵确认污秽追兵已被甩开，并准备回花海休息。",
+      "section_ids": [
+        "10126-c09-s01",
+        "10126-c09-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_09.json",
+      "source_description": "「灵谷木」中的残灵还停留在过去的执念中，斯露莎可以将她们唤醒…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 10,
+      "chapter_id": 73334,
+      "title": "唤醒「灵谷木」中的残灵",
+      "summary": "最后一名被唤醒的残灵回忆起摆脱兽境猎犬后又遭遇大虫子的困境，并请求众人带回落在后面的同伴。旅行者与斯露莎找回三处残灵碎片，结束了这场持续于记忆中的逃亡。",
+      "turning_point": "残灵说明同伴在连续遭遇魔物时掉队，使寻找碎片成为其获得休息前必须完成的最后任务。",
+      "outcome": "失散同伴被全部带回，残灵终于能够停止奔逃并获得休息。",
+      "section_ids": [
+        "10126-c10-s01",
+        "10126-c10-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_10.json",
+      "source_description": "「灵谷木」中的残灵还停留在过去的执念中，斯露莎可以将她们唤醒…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "10126-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "祖尔宛揭示净罪使命",
+      "narrative_role": "setup",
+      "importance": 5,
+      "when": "取得最初的「净光翎」后",
+      "locations": [
+        "甘露花海"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "斯露莎",
+        "祖尔宛"
+      ],
+      "summary": "旅行者一行向祖尔宛转述「灵谷木」的发现，祖尔宛说明其中并非完整魂灵，而是流散花灵未能回归的记忆破片。「净光翎」能够承载这些记忆，并在「甘露池」中洗净污秽，使花灵回归花海。祖尔宛还揭示「谒颂主」本是为流散花灵主持净罪仪式的人类勇士，正式委托旅行者继续寻找并救助它们。",
+      "motivation": "众人需要弄清「灵谷木」与「净光翎」的秘密，并为无法自行归返的花灵寻找解救方法。",
+      "outcome": "旅行者接受「谒颂主」的实际责任，后续寻找各处「灵谷木」和化解残灵执念的行动由此展开。",
+      "keywords": [
+        "灵谷木",
+        "净光翎",
+        "谒颂主",
+        "甘露池",
+        "净罪仪式"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7330706,
+          "title": "「灵谷木」的秘密",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7330702,
+          "title": "「灵谷木」的秘密",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7330703,
+          "title": "寻找「灵谷木」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "流散花灵重归花海",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "全部「灵谷木」残灵获救后",
+      "locations": [
+        "甘露花海"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "斯露莎",
+        "祖尔宛"
+      ],
+      "summary": "旅行者一行回到祖尔宛处，祖尔宛确认流散花灵已经全部归返，派蒙也察觉花海变得更加热闹。祖尔宛继而讲述纯水之灵远道而来以及后人沿其道路朝圣的往事，指出旅程本身会产生超越终点的意义。她借此提醒斯露莎，持续为使命努力比追求一劳永逸的牺牲更有价值。",
+      "motivation": "众人需要确认救助行动的结果，祖尔宛也借机引导斯露莎重新理解使命和牺牲。",
+      "outcome": "救助流散花灵的任务正式完成，花海恢复更多生机；故事同时保留了彻底解决天上大窟窿这一更长远目标。",
+      "keywords": [
+        "花灵归返",
+        "纯水之灵",
+        "朝圣之路",
+        "使命",
+        "花海复苏"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7330704,
+          "title": "与祖尔宛对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "斯露莎唤醒战斗残灵",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "寻找流散花灵期间",
+      "locations": [
+        "「灵谷木」旁"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "斯露莎"
+      ],
+      "summary": "众人发现形似门扉的「灵谷木」，斯露莎说明它由力竭且沾染污秽的花灵所化，其中残灵仍困在过去的执念中。斯露莎起初认为战斗至尽头便是花灵应有的归宿，派蒙和旅行者则坚持残灵可能希望返回花海。面对这种分歧，斯露莎最终同意用力量将残灵唤醒。",
+      "motivation": "旅行者与派蒙希望听见残灵自己的意愿并解除其痛苦，斯露莎则要证明花灵并不畏惧牺牲。",
+      "outcome": "残灵获得短暂表达和重演记忆的机会，众人开始面对它尚未完成的战斗。",
+      "keywords": [
+        "灵谷木",
+        "残灵",
+        "牺牲",
+        "慈悲",
+        "唤醒"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7330902,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7330903,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7330904,
+          "title": "让斯露莎唤醒「灵谷木」中的残灵",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c01-s02",
+      "chapter_index": 1,
+      "order": 2,
+      "title": "最后战斗消除执念",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "残灵被唤醒后",
+      "locations": [
+        "「灵谷木」附近"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "斯露莎",
+        "谷木的残灵"
+      ],
+      "summary": "残灵仍沉浸在战斗记忆中，不断呼喊继续作战，随即有魔物袭来。旅行者击败魔物后，残灵把胜利视为自己的战果，并宣称仍能消灭更多敌人。它的最后战斗得到完成，执念因此获得回应。",
+      "motivation": "众人必须消除现实中的魔物威胁，并让残灵完成停滞于过去的战斗。",
+      "outcome": "魔物被击败，残灵以胜利和满足结束追忆，为回归花海做好准备。",
+      "keywords": [
+        "终末战斗",
+        "魔物",
+        "执念",
+        "胜利"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7330905,
+          "title": "与谷木中的残灵对话",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7330906,
+          "title": "击败魔物",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7330907,
+          "title": "与谷木中的残灵对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c02-s01",
+      "chapter_index": 2,
+      "order": 1,
+      "title": "众人唤醒寻花残灵",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "寻找流散花灵期间",
+      "locations": [
+        "「灵谷木」旁"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "斯露莎"
+      ],
+      "summary": "众人在另一棵「灵谷木」前再次讨论残灵遭受的污秽与痛苦。旅行者和派蒙主张让残灵表达真实意愿，斯露莎虽坚持花灵以战斗牺牲为荣，仍依从「谒颂主」的意见将其唤醒。",
+      "motivation": "众人希望识别并完成这名残灵尚未放下的愿望。",
+      "outcome": "残灵苏醒并能够向旅行者提出最后请求。",
+      "keywords": [
+        "灵谷木",
+        "残灵",
+        "唤醒",
+        "最后愿望"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7331002,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7331003,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7331004,
+          "title": "让斯露莎唤醒「灵谷木」中的残灵",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c02-s02",
+      "chapter_index": 2,
+      "order": 2,
+      "title": "忧昙花蕊完成委托",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "残灵被唤醒后",
+      "locations": [
+        "「灵谷木」旁",
+        "「忧昙花」生长处"
+      ],
+      "characters": [
+        "旅行者",
+        "斯露莎",
+        "谷木的残灵"
+      ],
+      "summary": "残灵表示自己若找不到「忧昙花」便无颜回去，只能请旅行者代为取得花蕊。旅行者找到所需花蕊并将其带回，残灵确认自己的任务终于完成。",
+      "motivation": "残灵需要完成生前未能达成的寻花任务，旅行者则要以此解除它的执念。",
+      "outcome": "「忧昙花」花蕊成功交付，残灵向众人致谢并放下未竟任务。",
+      "keywords": [
+        "忧昙花",
+        "花蕊",
+        "委托",
+        "释怀"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7331005,
+          "title": "与谷木中的残灵对话",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7331006,
+          "title": "将「忧昙花」带给残灵",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7331007,
+          "title": "与谷木中的残灵对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c03-s01",
+      "chapter_index": 3,
+      "order": 1,
+      "title": "失伴残灵获得苏醒",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "寻找流散花灵期间",
+      "locations": [
+        "「灵谷木」旁"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "斯露莎"
+      ],
+      "summary": "众人在「灵谷木」旁确认其中残灵仍受往昔执念束缚。旅行者与派蒙坚持救助，斯露莎遂将残灵唤醒，使其能够说明自己与伙伴失散的困境。",
+      "motivation": "众人希望让残灵说出未竟心愿，并帮助它从孤独的追忆中解脱。",
+      "outcome": "残灵现身并提出寻找走失伙伴的请求。",
+      "keywords": [
+        "灵谷木",
+        "失散",
+        "残灵",
+        "唤醒"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7331202,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7331203,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7331204,
+          "title": "让斯露莎唤醒「灵谷木」中的残灵",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c03-s02",
+      "chapter_index": 3,
+      "order": 2,
+      "title": "散落伙伴重新聚合",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "残灵提出请求后",
+      "locations": [
+        "「灵谷木」周围"
+      ],
+      "characters": [
+        "旅行者",
+        "斯露莎",
+        "谷木的残灵"
+      ],
+      "summary": "残灵说同行伙伴在附近走失，请众人帮助寻找。旅行者与斯露莎搜索周围，依次找回三处残灵碎片并带回「灵谷木」旁。残灵确认伙伴已经重新聚合，对众人的帮助表示感谢。",
+      "motivation": "残灵希望找回失散同伴，旅行者则要通过重聚消除它的牵挂。",
+      "outcome": "三处碎片全部归位，残灵不再因伙伴失散而滞留。",
+      "keywords": [
+        "残灵碎片",
+        "伙伴",
+        "寻找",
+        "重聚"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7331205,
+          "title": "与谷木中的残灵对话",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7331206,
+          "title": "寻找散落在周围的残灵碎片",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7331210,
+          "title": "寻找散落在周围的残灵碎片",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7331211,
+          "title": "寻找散落在周围的残灵碎片",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7331207,
+          "title": "与谷木中的残灵对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c04-s01",
+      "chapter_index": 4,
+      "order": 1,
+      "title": "飞行残灵接受唤醒",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "寻找流散花灵期间",
+      "locations": [
+        "「灵谷木」旁"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "斯露莎"
+      ],
+      "summary": "众人找到又一棵困有残灵的「灵谷木」，并围绕花灵应当牺牲还是应被救助产生相同分歧。斯露莎最终接受旅行者的决定，将残灵从过去的执念中唤醒。",
+      "motivation": "旅行者与派蒙希望残灵自行表达选择，斯露莎则愿意服从「谒颂主」并检验其判断。",
+      "outcome": "残灵得以现身，并邀请斯露莎共同完成一次飞行。",
+      "keywords": [
+        "灵谷木",
+        "唤醒",
+        "飞行",
+        "选择"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7331402,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7331403,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7331404,
+          "title": "让斯露莎唤醒「灵谷木」中的残灵",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c04-s02",
+      "chapter_index": 4,
+      "order": 2,
+      "title": "同行飞行赢得信任",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "残灵被唤醒后",
+      "locations": [
+        "「灵谷木」附近的飞行路线"
+      ],
+      "characters": [
+        "旅行者",
+        "斯露莎",
+        "谷木的残灵"
+      ],
+      "summary": "残灵邀请斯露莎一起飞行，并要求她不要跟丢。斯露莎顺利跟随其完成路线，残灵因而相信任何魔物都追不上众人。它确认伙伴足够可靠，最后的担忧随之消除。",
+      "motivation": "残灵希望确认同行者拥有逃离魔物、保护伙伴的能力。",
+      "outcome": "飞行考验完成，残灵认可众人的可靠并放下忧虑。",
+      "keywords": [
+        "跟随飞行",
+        "伙伴",
+        "魔物",
+        "信任"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7331405,
+          "title": "与谷木中的残灵对话",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7331406,
+          "title": "让斯露莎跟随残灵飞行",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7331407,
+          "title": "与谷木中的残灵对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c05-s01",
+      "chapter_index": 5,
+      "order": 1,
+      "title": "哭泣残灵诉说失散",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "寻找流散花灵期间",
+      "locations": [
+        "「灵谷木」旁"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "斯露莎"
+      ],
+      "summary": "斯露莎依照旅行者的意愿唤醒「灵谷木」中的残灵。苏醒后的残灵不断哭泣，说明大家已经迷路，并表达希望同伴能够一起回去的愿望。",
+      "motivation": "众人希望确认残灵痛苦的具体原因，残灵则渴望与失散同伴共同归返。",
+      "outcome": "寻找周围残灵碎片成为众人的直接目标。",
+      "keywords": [
+        "哭泣",
+        "迷路",
+        "同伴",
+        "归家"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7331502,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7331503,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7331504,
+          "title": "让斯露莎唤醒「灵谷木」中的残灵",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c05-s02",
+      "chapter_index": 5,
+      "order": 2,
+      "title": "迷路同伴一同归家",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "残灵说明愿望后",
+      "locations": [
+        "「灵谷木」周围"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "斯露莎",
+        "谷木的残灵"
+      ],
+      "summary": "旅行者与斯露莎在「灵谷木」周围寻找迷路的同伴，依次收集三处残灵碎片。碎片全部归来后，残灵确认大家终于能够一起回家，并向众人致谢。",
+      "motivation": "残灵无法抛下失散同伴独自离开，众人需要使它们重新团聚。",
+      "outcome": "所有同伴均被找回，残灵们获得共同回归花海的条件。",
+      "keywords": [
+        "残灵碎片",
+        "团聚",
+        "回家",
+        "感谢"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7331505,
+          "title": "与谷木中的残灵对话",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7331506,
+          "title": "寻找散落在周围的残灵碎片",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7331510,
+          "title": "寻找散落在周围的残灵碎片",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7331511,
+          "title": "寻找散落在周围的残灵碎片",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7331507,
+          "title": "与谷木中的残灵对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c06-s01",
+      "chapter_index": 6,
+      "order": 1,
+      "title": "惧兽残灵得到唤醒",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "寻找流散花灵期间",
+      "locations": [
+        "「灵谷木」旁"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "斯露莎"
+      ],
+      "summary": "旅行者一行发现新的「灵谷木」，斯露莎再次说明残灵被污秽与执念困住的处境。尽管她仍推崇花灵在战斗中牺牲的归宿，最终还是将决定交给「谒颂主」并唤醒残灵。",
+      "motivation": "旅行者与派蒙希望结束残灵独自承受的追忆，斯露莎则愿意让事实显示其真正愿望。",
+      "outcome": "残灵苏醒，但立即表现出对附近黑色猎犬的恐惧。",
+      "keywords": [
+        "灵谷木",
+        "兽境猎犬",
+        "恐惧",
+        "唤醒"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7331602,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7331603,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7331604,
+          "title": "让斯露莎唤醒「灵谷木」中的残灵",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c06-s02",
+      "chapter_index": 6,
+      "order": 2,
+      "title": "击退猎犬解除恐惧",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "残灵被唤醒后",
+      "locations": [
+        "「灵谷木」附近"
+      ],
+      "characters": [
+        "旅行者",
+        "斯露莎",
+        "谷木的残灵",
+        "魔物"
+      ],
+      "summary": "残灵提醒众人保持安静，以免惊动附近的黑色猎犬，但魔物仍被引来。旅行者正面击败威胁，残灵因此赞叹「谒颂主」的力量并恢复安心。",
+      "motivation": "众人需要保护受惊残灵，消除令其无法放下过往的现实化威胁。",
+      "outcome": "魔物被击败，残灵摆脱恐惧并能够安心归返。",
+      "keywords": [
+        "兽境猎犬",
+        "魔物",
+        "谒颂主",
+        "安心"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7331605,
+          "title": "与谷木中的残灵对话",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7331613,
+          "title": "击败魔物",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7331607,
+          "title": "与谷木中的残灵对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c07-s01",
+      "chapter_index": 7,
+      "order": 1,
+      "title": "寻花残灵认出谒颂主",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "寻找流散花灵期间",
+      "locations": [
+        "「灵谷木」旁"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "斯露莎"
+      ],
+      "summary": "斯露莎在众人的坚持下唤醒另一名受困残灵。残灵见到旅行者后认出其「谒颂主」身份，并把一个与「忧昙花」有关的愿望托付给对方。",
+      "motivation": "众人希望完成残灵最后的牵挂，残灵则相信「谒颂主」能够取得罕见之花。",
+      "outcome": "寻找并交付「忧昙花」花蕊成为新的救助目标。",
+      "keywords": [
+        "谒颂主",
+        "忧昙花",
+        "残灵",
+        "托付"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7331702,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7331703,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7331704,
+          "title": "让斯露莎唤醒「灵谷木」中的残灵",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c07-s02",
+      "chapter_index": 7,
+      "order": 2,
+      "title": "奇迹花蕊印证新时代",
+      "narrative_role": "revelation",
+      "importance": 3,
+      "when": "残灵提出寻花请求后",
+      "locations": [
+        "「灵谷木」旁",
+        "「忧昙花」生长处"
+      ],
+      "characters": [
+        "旅行者",
+        "斯露莎",
+        "谷木的残灵"
+      ],
+      "summary": "残灵请求旅行者带来从不可能开花之处绽放的「忧昙花」花蕊。旅行者成功取得并交付花蕊，残灵由这件过去难以实现的事判断如今已是一个好时代。",
+      "motivation": "残灵希望亲眼确认不可思议之花，而旅行者要借此完成它的最后愿望。",
+      "outcome": "花蕊交付成功，残灵得到欣慰，也显露出古老记忆与当下时代之间的变化。",
+      "keywords": [
+        "忧昙花",
+        "花蕊",
+        "奇迹",
+        "时代变化"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7331705,
+          "title": "与谷木中的残灵对话",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7331706,
+          "title": "将「忧昙花」带给残灵",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7331707,
+          "title": "与谷木中的残灵对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c08-s01",
+      "chapter_index": 8,
+      "order": 1,
+      "title": "虚弱残灵渴望花海",
+      "narrative_role": "revelation",
+      "importance": 4,
+      "when": "寻找流散花灵期间",
+      "locations": [
+        "「灵谷木」旁"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "斯露莎",
+        "谷木的残灵"
+      ],
+      "summary": "斯露莎唤醒一名经历漫长岁月、已十分虚弱的残灵。残灵明确说出自己想要再次回到花海，直接表明并非所有花灵都只将永恒战斗视为归宿。",
+      "motivation": "旅行者与派蒙希望让残灵自主表达愿望，残灵则渴望结束漫长滞留并返回故土。",
+      "outcome": "回归花海的愿望得到确认，众人开始寻找使其恢复完整的残灵碎片。",
+      "keywords": [
+        "漫长岁月",
+        "虚弱",
+        "甘露花海",
+        "归返"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7331802,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7331803,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7331804,
+          "title": "让斯露莎唤醒「灵谷木」中的残灵",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c08-s02",
+      "chapter_index": 8,
+      "order": 2,
+      "title": "残灵完整后安然沉睡",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "残灵表达归返愿望后",
+      "locations": [
+        "「灵谷木」周围"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "斯露莎",
+        "谷木的残灵"
+      ],
+      "summary": "旅行者与斯露莎在周围找回三处散落的残灵碎片，使虚弱残灵重新完整。残灵因疲惫而准备沉睡，并向花灵的伙伴表达感谢。",
+      "motivation": "众人需要聚合残灵散失的部分，使其能够脱离「灵谷木」并回归花海。",
+      "outcome": "三处碎片全部回归，残灵安心入睡并获得归返的可能。",
+      "keywords": [
+        "残灵碎片",
+        "完整",
+        "沉睡",
+        "感谢"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7331805,
+          "title": "与谷木中的残灵对话",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7331806,
+          "title": "寻找散落在周围的残灵碎片",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7331810,
+          "title": "寻找散落在周围的残灵碎片",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7331811,
+          "title": "寻找散落在周围的残灵碎片",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7331807,
+          "title": "与谷木中的残灵对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c09-s01",
+      "chapter_index": 9,
+      "order": 1,
+      "title": "逃亡残灵重现追逐",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "寻找流散花灵期间",
+      "locations": [
+        "「灵谷木」旁"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "斯露莎",
+        "谷木的残灵"
+      ],
+      "summary": "斯露莎唤醒残灵后，对方仍深陷遭受追逐的旧日记忆，一现身便催促众人立刻逃跑。残灵没有停下来解释，而是要求斯露莎直接跟上其飞行路线。",
+      "motivation": "残灵试图摆脱记忆中的污秽追兵，众人必须陪它完成尚未结束的逃亡。",
+      "outcome": "众人进入跟随飞行阶段，以实际行动回应残灵的紧迫记忆。",
+      "keywords": [
+        "逃亡",
+        "污秽",
+        "追逐",
+        "唤醒"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7333202,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7333203,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7333204,
+          "title": "让斯露莎唤醒「灵谷木」中的残灵",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c09-s02",
+      "chapter_index": 9,
+      "order": 2,
+      "title": "飞离追兵返回花海",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "残灵开始逃亡后",
+      "locations": [
+        "「灵谷木」附近的飞行路线"
+      ],
+      "characters": [
+        "旅行者",
+        "斯露莎",
+        "谷木的残灵"
+      ],
+      "summary": "斯露莎紧随残灵完成飞行，没有在逃亡途中掉队。抵达安全处后，残灵确认污秽的追兵已经无法赶上，并决定趁机返回花海休息。",
+      "motivation": "众人需要陪残灵成功脱离追逐，让它确认自己已经抵达安全之处。",
+      "outcome": "逃亡记忆得到圆满结束，残灵放下紧迫感并准备返回花海。",
+      "keywords": [
+        "跟随飞行",
+        "摆脱追兵",
+        "安全",
+        "花海"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7333205,
+          "title": "与谷木中的残灵对话",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7333206,
+          "title": "让斯露莎跟随残灵飞行",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7333207,
+          "title": "与谷木中的残灵对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c10-s01",
+      "chapter_index": 10,
+      "order": 1,
+      "title": "末位残灵挂念同伴",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "寻找流散花灵期间",
+      "locations": [
+        "「灵谷木」旁"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "斯露莎",
+        "谷木的残灵"
+      ],
+      "summary": "众人唤醒最后一棵「灵谷木」中的残灵，使它从污秽侵袭的过往中短暂现身。残灵回忆自己刚摆脱大狗又遭遇大虫子，并请求「谒颂主」带回逃亡时落在后面的同伴。",
+      "motivation": "残灵无法独自休息，必须先确认所有同行者都已脱离魔物威胁。",
+      "outcome": "寻找三处失散残灵碎片成为最后一次救助行动。",
+      "keywords": [
+        "末位残灵",
+        "魔物",
+        "失散同伴",
+        "求助"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7333402,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7333403,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7333404,
+          "title": "让斯露莎唤醒「灵谷木」中的残灵",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10126-c10-s02",
+      "chapter_index": 10,
+      "order": 2,
+      "title": "寻回同伴结束奔逃",
+      "narrative_role": "climax",
+      "importance": 4,
+      "when": "残灵发出最后请求后",
+      "locations": [
+        "「灵谷木」周围"
+      ],
+      "characters": [
+        "旅行者",
+        "斯露莎",
+        "谷木的残灵"
+      ],
+      "summary": "旅行者与斯露莎在周围寻找逃亡中掉队的同伴，依次收集三处残灵碎片并将它们带回。确认同伴全部归来后，残灵终于不必继续奔逃，表示自己可以休息片刻。",
+      "motivation": "众人需要完成最后一名残灵的托付，使所有流散花灵都具备回归条件。",
+      "outcome": "三处碎片全部找回，最后的残灵放下牵挂，推动整场救助行动进入向祖尔宛复命的收束阶段。",
+      "keywords": [
+        "残灵碎片",
+        "同伴归来",
+        "休息",
+        "最终救助"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7333405,
+          "title": "与谷木中的残灵对话",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7333406,
+          "title": "寻找散落在周围的残灵碎片",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7333410,
+          "title": "寻找散落在周围的残灵碎片",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7333411,
+          "title": "寻找散落在周围的残灵碎片",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7333407,
+          "title": "与谷木中的残灵对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:35:47.687Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

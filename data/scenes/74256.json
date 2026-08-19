@@ -1,0 +1,99 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 74256,
+    "slug": "74256_tea-party-re-invitation-furina",
+    "title": "茶会的再邀·芙宁娜",
+    "chapter_num": "",
+    "premise": "「木偶」在欧庇克莱歌剧院喷泉附近布置茶桌并落座，邀请芙宁娜共度一段悠闲的下午茶时光。",
+    "central_conflict": "这段茶会没有明显的外部冲突，主要变化在于「木偶」需要决定继续享受相聚时光，还是适时结束茶会。",
+    "summary": "「木偶」前往欧庇克莱歌剧院喷泉附近开启茶会，并与芙宁娜一同落座。芙宁娜沉浸在悠闲的下午茶氛围中，表示自己不会厌倦这样的时光。随着茶会进行，「木偶」可以选择再坐一会儿，也可以提出茶会时间已经结束。无论作出哪种选择，两人共享茶会的事实都不会改变。芙宁娜最终感叹欢乐时光流逝得很快，这场短暂的重邀茶会随之收束。",
+    "resolution": "芙宁娜以对欢乐时光易逝的感叹回应「木偶」，茶会平静结束。该场景没有明确留下新的冲突或后续任务。",
+    "themes": [
+      "悠闲相聚",
+      "茶会时光",
+      "友好陪伴",
+      "欢乐易逝"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 74256,
+      "title": "茶会的再邀·芙宁娜",
+      "summary": "「木偶」在欧庇克莱歌剧院喷泉附近开启茶会，与芙宁娜共享悠闲的下午茶。芙宁娜表达了对这种惬意时光的喜爱，而「木偶」可以选择继续停留或提出结束。茶会最终在芙宁娜对欢乐时光匆匆流逝的感叹中收束。",
+      "turning_point": "「木偶」在继续停留与结束茶会之间作出选择，使相聚进入收尾阶段。",
+      "outcome": "两人完成了茶会相聚，芙宁娜以愉快而略带不舍的态度接受茶会告一段落。",
+      "section_ids": [
+        "74256-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "前往欧庇克莱歌剧院喷泉附近放置茶桌并使用桑多涅落座后，与芙宁娜共度茶会时光吧…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "74256-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "芙宁娜共享悠闲茶会",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "悠闲的下午茶时光",
+      "locations": [
+        "欧庇克莱歌剧院喷泉附近"
+      ],
+      "characters": [
+        "「木偶」",
+        "芙宁娜"
+      ],
+      "summary": "「木偶」在欧庇克莱歌剧院喷泉附近布置茶桌并落座，与芙宁娜共享下午茶。芙宁娜表示自己不会厌倦这种悠闲时光，显露出对茶会相聚的享受。「木偶」随后可以选择再坐一会儿或提出结束茶会，芙宁娜则感叹欢乐的时间总是过得很快。",
+      "motivation": "「木偶」希望通过再次邀请芙宁娜参加茶会，与她共享一段轻松惬意的相聚时光。",
+      "outcome": "茶会在轻松友好的氛围中完成，并以芙宁娜对欢乐时光易逝的感叹进入收尾。",
+      "keywords": [
+        "欧庇克莱歌剧院",
+        "芙宁娜",
+        "下午茶",
+        "欢乐时光"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7425601,
+          "title": "前往欧庇克莱歌剧院喷泉附近开启茶会",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7425602,
+          "title": "前往欧庇克莱歌剧院喷泉附近开启茶会",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7425603,
+          "title": "享受茶会时光",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:24:36.065Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

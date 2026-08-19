@@ -1,0 +1,123 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72719,
+    "slug": "72719_yata-koukis-order-of-ore",
+    "title": "矢田幸喜的白铁块需求",
+    "chapter_num": "",
+    "premise": "鸣神岛上的矢田幸喜为提前请天目师傅打造新枪尖，委托受托者准备并交付五份白铁块。",
+    "central_conflict": "矢田幸喜急于在需要武器前备好枪尖，而委托能否推进取决于受托者是否已经集齐五份白铁块。",
+    "summary": "时间未明确，鸣神岛上的矢田幸喜计划提前请天目师傅打造新枪尖，以免临阵准备不及。他确认来者是承接委托的受托者，并询问五份白铁块是否已经备妥。受托者若尚未准备完成，矢田幸喜便要求其备齐后再来，委托暂不推进。受托者选择确认准备完成后，五份白铁块得以交付，委托进入收尾。矢田幸喜随后表达感谢，并以一份报酬作为回礼。白铁块需求至此解决，新枪尖的准备工作获得所需材料。",
+    "resolution": "矢田幸喜收到五份白铁块后向受托者致谢并支付报酬，委托就此完成。材料将用于请天目师傅打造新枪尖，但后续锻造过程未在本 scene 中展开。",
+    "themes": [
+      "未雨绸缪",
+      "物资筹备",
+      "委托履行",
+      "劳动回报"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72719,
+      "title": "矢田幸喜的白铁块需求",
+      "summary": "矢田幸喜为提前打造新枪尖，向承接委托的受托者索取五份白铁块。受托者尚未备齐时只能稍后再来，确认准备完成后则可交付材料并推进委托。矢田幸喜收到白铁块后表示感谢、支付报酬，本章以需求得到满足而结束。",
+      "turning_point": "受托者确认已经准备好五份白铁块，使委托从材料等待转入交付与结算。",
+      "outcome": "矢田幸喜取得打造新枪尖所需的五份白铁块，受托者获得报酬，委托完成。",
+      "section_ids": [
+        "72719-c00-s01",
+        "72719-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "鸣神岛上的矢田幸喜想要五份白铁块。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72719-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "矢田幸喜索取五份白铁块",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "鸣神岛"
+      ],
+      "characters": [
+        "矢田幸喜",
+        "受托者"
+      ],
+      "summary": "时间未明确，鸣神岛上的矢田幸喜打算提前请天目师傅打造新枪尖，因此向承接委托的受托者确认五份白铁块是否备妥。受托者若回答尚未准备好，他便要求对方备齐后再来；剧情继续推进时，受托者确认已经准备完成并交付所需材料。",
+      "motivation": "矢田幸喜希望避免临阵准备武器，因而提前收集打造新枪尖所需的白铁块；受托者则为履行已经接下的委托而筹备材料。",
+      "outcome": "五份白铁块在推进委托的分支中完成交付，矢田幸喜的材料需求得到满足，任务转入致谢与结算。",
+      "keywords": [
+        "白铁块",
+        "新枪尖",
+        "天目师傅",
+        "材料交付"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7271901,
+          "title": "将五份白铁块交给矢田幸喜",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "72719-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "矢田幸喜致谢并支付报酬",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "交付五份白铁块后",
+      "locations": [
+        "鸣神岛"
+      ],
+      "characters": [
+        "矢田幸喜",
+        "受托者"
+      ],
+      "summary": "交付五份白铁块后，矢田幸喜向受托者表达感谢。他随即送出一份报酬作为谢礼，使这项材料委托正式收束。",
+      "motivation": "矢田幸喜因受托者完成材料交付而给予感谢和相应回报。",
+      "outcome": "受托者获得报酬，矢田幸喜取得预备新枪尖所需的材料，委托完成。",
+      "keywords": [
+        "致谢",
+        "报酬",
+        "委托完成"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7271902,
+          "title": "与矢田幸喜对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:11:54.496Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

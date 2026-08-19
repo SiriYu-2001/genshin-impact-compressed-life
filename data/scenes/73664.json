@@ -1,0 +1,83 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 73664,
+    "slug": "73664_fatuous-farce",
+    "title": "愚人众引起的混乱",
+    "chapter_num": "",
+    "premise": "愚人众在地点未明确的区域作乱，引发了一场需要被制止的混乱。主要目标是击退愚人众。",
+    "central_conflict": "行动者需要以战斗阻止愚人众继续作乱，但原文未交代冲突的具体起因、规模与过程。",
+    "summary": "时间未明确，愚人众在地点未明确的区域制造混乱。原文将击退愚人众设为本段剧情的唯一明确目标。行动者的身份及其介入经过未被说明。双方由此进入直接冲突，行动者通过战斗对抗愚人众。愚人众最终被击退，当前混乱得到遏制。原文未说明此事是否造成进一步影响或引出后续事件。",
+    "resolution": "愚人众被击退，制止其作乱的直接目标达成。除此之外的善后情况与后续影响均未在原文中明确。",
+    "themes": [
+      "制止作乱",
+      "正面冲突"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 73664,
+      "title": "愚人众引起的混乱",
+      "summary": "本章围绕制止愚人众作乱展开，唯一明确目标是击退愚人众。行动者与愚人众发生直接战斗，并以击退对方达成目标。原文未提供冲突的具体地点、过程或后续影响。",
+      "turning_point": "愚人众遭到反击并被击退，其制造的混乱由此受到遏制。",
+      "outcome": "击退愚人众的目标完成，但原文未明确交代善后与后续发展。",
+      "section_ids": [
+        "73664-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "愚人众正在作乱…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "73664-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "行动者击退作乱的愚人众",
+      "narrative_role": "conflict",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "行动者",
+        "愚人众"
+      ],
+      "summary": "时间未明确，愚人众在地点未明确的区域作乱，行动者出面与其交战。行动者以击退愚人众为目标，最终遏制了当前的混乱。原文未交代战斗细节及此事的进一步影响。",
+      "motivation": "行动者为制止愚人众作乱而发起反击。",
+      "outcome": "愚人众被击退，当前目标达成；后续影响原文未明确。",
+      "keywords": [
+        "愚人众",
+        "作乱",
+        "击退",
+        "战斗"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7366401,
+          "title": "击退愚人众",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:17:20.542Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

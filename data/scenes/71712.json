@@ -1,0 +1,123 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 71712,
+    "slug": "71712_geris-gastro-nostalgia",
+    "title": "杰里的蒙德城美食回忆",
+    "chapter_num": "",
+    "premise": "璃月港的杰里许久没有吃到熟悉的火火肉酱面，因此委托旅行者准备两份。旅行者带着备妥的料理前去交付。",
+    "central_conflict": "杰里想重温熟悉的味道，但需要旅行者先备齐两份火火肉酱面才能完成心愿。",
+    "summary": "在委托交付阶段，旅行者于璃月港找到杰里，并提起火火肉酱面。杰里询问两份料理是否已经备齐，旅行者确认准备完毕，使交付得以继续。收到料理后，杰里从火火肉酱面中尝到了久违的熟悉味道，并欣然收下两份料理。他随后向旅行者道谢，以报酬回馈这次奔波。杰里对蒙德城美食的怀念由此得到短暂满足，委托随之完成。",
+    "resolution": "杰里如愿获得两份火火肉酱面，并以谢礼回报旅行者。故事以他重尝熟悉滋味、委托顺利完成而收束，原文未交代进一步影响。",
+    "themes": [
+      "乡味怀念",
+      "美食记忆",
+      "委托交付",
+      "互助回报"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71712,
+      "title": "杰里的蒙德城美食回忆",
+      "summary": "旅行者带着两份火火肉酱面来到璃月港，回应杰里对久违美食的需求。确认料理已经备齐后，杰里收下火火肉酱面，并因重新尝到熟悉的味道而感到满意。他向旅行者致谢并交付报酬，使委托顺利结束。",
+      "turning_point": "旅行者确认两份火火肉酱面已经准备妥当，杰里因而能够收下料理并重尝熟悉的味道。",
+      "outcome": "杰里获得两份火火肉酱面，旅行者得到他的感谢与谢礼，委托完成。",
+      "section_ids": [
+        "71712-c00-s01",
+        "71712-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "璃月港的杰里需要两份火火肉酱面。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71712-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "旅行者确认料理已经备妥",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "委托交付阶段",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "旅行者",
+        "杰里"
+      ],
+      "summary": "在委托交付阶段，旅行者于璃月港找到杰里，并提起火火肉酱面。杰里询问两份料理是否都已准备好，旅行者确认已经备妥，使交付流程得以继续。",
+      "motivation": "杰里想再次品尝已有一段时间没有吃过的火火肉酱面，旅行者则为完成委托而备齐料理。",
+      "outcome": "两份火火肉酱面被确认准备完毕，杰里随后可以正式收下料理。",
+      "keywords": [
+        "火火肉酱面",
+        "备妥料理",
+        "委托交付"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7171201,
+          "title": "将两份火火肉酱面交给杰里",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71712-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "杰里重尝熟悉滋味并致谢",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "料理交付后",
+      "locations": [
+        "璃月港"
+      ],
+      "characters": [
+        "旅行者",
+        "杰里"
+      ],
+      "summary": "料理交付后，杰里尝到火火肉酱面熟悉的味道，并收下两份料理。他感谢旅行者为此奔波，随后赠予谢礼作为回报。",
+      "motivation": "杰里因重尝久违的熟悉味道而感到满意，并希望酬谢旅行者的帮助。",
+      "outcome": "杰里的美食怀念得到满足，旅行者获得谢礼，本次委托随之完成。",
+      "keywords": [
+        "熟悉味道",
+        "美食回忆",
+        "感谢",
+        "谢礼"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7171202,
+          "title": "与杰里对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:04:00.369Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

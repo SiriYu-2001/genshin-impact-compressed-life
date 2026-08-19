@@ -1,0 +1,239 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 21015,
+    "slug": "21015_book-in-the-woods",
+    "title": "林中小书",
+    "chapter_num": "",
+    "premise": "一个小女孩（小九九）正期待着和旅行者一起玩游戏，旅行者受托在林中寻找遗落的书。",
+    "central_conflict": "遗落的书散失在林中，旅行者需要穿过树林将其找回，并回去找小九九，构成一次以寻物为核心的小委托。",
+    "summary": "「林中小书」是围绕一名小女孩展开的寻物任务，任务描述显示小女孩正期待与旅行者一起玩游戏。任务以标记为隐藏的『任务开启』步骤启动，并包含同样隐藏的『寻找玩偶』目标作为前置环节。主线集中在林中寻找遗落的书，任务以两个标题相同的同名步骤连续推进寻书过程。寻书完成后，旅行者回去找小九九，任务随即以隐藏的『回滚隔离』步骤收尾。整体故事线索简短，多数过程细节原文未明确，且多个步骤被标记为隐藏、不在正式流程中呈现。",
+    "resolution": "旅行者完成林间寻书后回去找小九九，任务以隐藏的回滚隔离步骤收束。小女孩与旅行者的游戏是否继续、寻回的书如何处置等后续，原文未明确。",
+    "themes": [
+      "童趣",
+      "游戏",
+      "寻物",
+      "森林",
+      "约定"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 21015,
+      "title": "林中小书",
+      "summary": "本章为单章任务，讲述一个小女孩期待与旅行者一起玩游戏的故事。任务以隐藏的『任务开启』步骤启动，并包含同样隐藏的『寻找玩偶』目标；主线目标是在林中寻找遗落的书，该目标以两个同名步骤连续推进。寻书完成后，旅行者回去找小九九，任务以隐藏的『回滚隔离』步骤收尾。整体是一次以寻物为核心的短小委托，多数步骤细节原文未明确。",
+      "turning_point": "任务重心从林间寻书转为回去找小九九，标志着委托由寻找阶段进入交还收束阶段。",
+      "outcome": "旅行者在林中完成寻书后返回小九九处，任务流程随之结束；带隐藏标记的步骤不构成正式剧情事实。",
+      "section_ids": [
+        "21015-c00-s01",
+        "21015-c00-s02",
+        "21015-c00-s03",
+        "21015-c00-s04",
+        "21015-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "一个小女孩正期待着和你一起玩游戏…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "21015-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "任务开启：小女孩等待游戏",
+      "narrative_role": "setup",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "小九九"
+      ],
+      "summary": "本章以标记为隐藏的『任务开启』步骤启动，任务由此开始。任务描述显示，一个小女孩正期待着和旅行者一起玩游戏。开启阶段的具体经过原文未明确。",
+      "motivation": "小女孩期待与旅行者一起玩游戏，促使任务开启。",
+      "outcome": "任务正式开启，为后续的林中寻书目标作铺垫。",
+      "keywords": [
+        "任务开启",
+        "小女孩",
+        "游戏"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 2101501,
+          "title": "任务开启$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "21015-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "寻找玩偶的隐藏目标",
+      "narrative_role": "development",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "步骤标题显示存在『寻找玩偶』的目标，该步骤被标记为隐藏、不对外显示。玩偶与小女孩游戏之间的关联以及寻找经过，原文均未明确。",
+      "motivation": "原文未明确",
+      "outcome": "原文未明确；该隐藏目标未在正式任务流程中呈现。",
+      "keywords": [
+        "玩偶",
+        "隐藏步骤"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 2101502,
+          "title": "寻找玩偶$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "21015-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "在林中寻找遗落的书",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "林中"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "旅行者进入树林，寻找遗落的书。任务连续设置了两个标题相同的『在林中寻找遗落的书』目标，说明寻书过程分为先后两段推进；具体的搜寻经过原文未明确。",
+      "motivation": "需要找回遗落在林中的书，完成小女孩托付的委托。",
+      "outcome": "林中的书被寻回，寻书目标完成后任务转入回去找小九九的环节。",
+      "keywords": [
+        "林中",
+        "遗落的书",
+        "寻找"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 2101503,
+          "title": "在林中寻找遗落的书",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 2101504,
+          "title": "在林中寻找遗落的书",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "21015-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "寻书后回去找小九九",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者",
+        "小九九"
+      ],
+      "summary": "寻书目标完成后，旅行者动身回去找小九九，任务进入收尾阶段。此行的目的与交接结果原文未明确。",
+      "motivation": "寻书完成，需要回去找小九九，继续应约的游戏。",
+      "outcome": "任务主线在此收束，随后进入隐藏的回滚隔离步骤。",
+      "keywords": [
+        "小九九",
+        "返回",
+        "寻书"
+      ],
+      "source_step_keys": [
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 2101505,
+          "title": "回去找小九九",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "21015-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "任务回滚隔离收尾",
+      "narrative_role": "transition",
+      "importance": 1,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "步骤标题显示任务以标记为隐藏的『回滚隔离』步骤收尾，属于流程上的技术性收束步骤，不在正式剧情中呈现。其具体内容原文未明确。",
+      "motivation": "原文未明确",
+      "outcome": "任务流程结束；后续影响原文未明确。",
+      "keywords": [
+        "回滚隔离",
+        "隐藏步骤",
+        "任务收尾"
+      ],
+      "source_step_keys": [
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 2101506,
+          "title": "回滚隔离$HIDDEN",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-18T20:00:42.769Z",
+    "generator": "DeepSeek Harness",
+    "model": "b-ai/deepseek-v4-flash",
+    "prompt": "prompts/scene-summary.zh.md"
+  }
+}

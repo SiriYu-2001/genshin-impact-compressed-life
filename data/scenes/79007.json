@@ -1,0 +1,152 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 79007,
+    "slug": "79007_big-badaboom-battle",
+    "title": "砰砰大作战",
+    "chapter_num": "",
+    "premise": "旅行者与派蒙前往金苹果群岛寻找阿贝多，并将调查目标转向一块疑似由他留下的画板。",
+    "central_conflict": "画板上的凶猛形象突然化为现实威胁，原本的寻人调查由此转变为必须立即应对敌人的危机。",
+    "summary": "旅行者与派蒙前往金苹果群岛，试图寻找阿贝多。寻人过程没有在原文中给出明确结果，两人随后开始研究一块画板。派蒙认为画板可能是阿贝多留下的新创作，并注意到它与艾莉丝为可莉布置的礼物相似。调查围绕画板继续推进时，上面描绘的凶猛家伙突然出现。派蒙受到惊吓，立即要求旅行者设法对付它。剧情由对阿贝多行踪和作品的好奇，转入与突发敌人的直接冲突。",
+    "resolution": "画板调查以凶猛敌人现身收束，但原文没有展示战斗过程或最终胜负。旅行者接下应敌任务，为后续交战留下直接悬念。",
+    "themes": [
+      "寻人调查",
+      "神秘创作",
+      "突发异变",
+      "临危应战"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 79007,
+      "title": "砰砰大作战",
+      "summary": "旅行者与派蒙前往金苹果群岛寻找阿贝多，并在寻人过程中转而研究一块疑似由他留下的画板。派蒙从画面及其与艾莉丝礼物的相似之处推测画板可能是阿贝多的新创作。画中的凶猛家伙随后突然现身，使调查转变为迫在眉睫的战斗危机。",
+      "turning_point": "画板上描绘的凶猛家伙突然出现，原本的寻人和研究行动转为直接应敌。",
+      "outcome": "派蒙要求旅行者立即设法对付现身的敌人，但原文未交代战斗结果。",
+      "section_ids": [
+        "79007-c00-s01",
+        "79007-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "派蒙对阿贝多的情况很好奇…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "79007-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "旅行者在群岛追寻阿贝多",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "金苹果群岛"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "时间未明确，旅行者与派蒙前往金苹果群岛寻找阿贝多。原文没有说明两人是否找到他，后续目标转为研究一块画板，寻人行动由此进入对遗留线索的调查阶段。",
+      "motivation": "派蒙对阿贝多的情况感到好奇，旅行者与她因此前往群岛寻找其踪迹。",
+      "outcome": "阿贝多的行踪仍未明确，但画板成为新的调查焦点并推动剧情继续发展。",
+      "keywords": [
+        "金苹果群岛",
+        "寻找阿贝多",
+        "画板",
+        "线索调查"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7900701,
+          "title": "前往金苹果群岛",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7900702,
+          "title": "寻找阿贝多",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7900703,
+          "title": "研究画板",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "79007-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "画中凶兽突然现身",
+      "narrative_role": "conflict",
+      "importance": 5,
+      "when": "研究画板期间",
+      "locations": [
+        "金苹果群岛"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "研究画板期间，派蒙认为它可能由阿贝多留下，并猜测这是他的新创作；她还发现画板与艾莉丝为可莉布置的礼物相似。画中那个凶猛的家伙随即突然出现，令派蒙大吃一惊。派蒙要求旅行者立刻想办法对付它，使调查直接转入战斗危机。",
+      "motivation": "派蒙希望通过研究画板弄清它与阿贝多及艾莉丝所设礼物的关系；敌人现身后，保护自身并排除威胁成为首要推动力。",
+      "outcome": "画板的异常引出了实体敌人，旅行者被推到直接应战的位置，但原文未明确敌人的性质与最终战果。",
+      "keywords": [
+        "阿贝多的创作",
+        "艾莉丝的礼物",
+        "敌人现身",
+        "紧急应战"
+      ],
+      "source_step_keys": [
+        "0",
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7900701,
+          "title": "前往金苹果群岛",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7900704,
+          "title": "研究画板",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7900706,
+          "title": "研究画板",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:40:36.434Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

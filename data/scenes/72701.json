@@ -1,0 +1,86 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72701,
+    "slug": "72701_hilichurl-hullaballoo",
+    "title": "丘丘人引起的混乱",
+    "chapter_num": "",
+    "premise": "鸣神岛上某处有丘丘人作乱，古谷升希望有人出手平息事态。主要目标是击退制造混乱的丘丘人。",
+    "central_conflict": "丘丘人的骚乱威胁当地秩序，而古谷升需要借助他人的力量解决问题。",
+    "summary": "时间未明确，鸣神岛上某处发生了丘丘人作乱事件。古谷升因无法独自处理混乱，希望有人前来协助。受托者以击退丘丘人为直接目标介入事态。丘丘人遭到击退，这场局部混乱随之得到解决。",
+    "resolution": "丘丘人被击退，古谷升寻求援助的目标得以实现。原文未明确该事件是否产生进一步影响。",
+    "themes": [
+      "平息骚乱",
+      "受托援助",
+      "守护秩序"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72701,
+      "title": "丘丘人引起的混乱",
+      "summary": "本章围绕平息鸣神岛上一场丘丘人骚乱展开。古谷升希望有人协助处理危机，受托者随后将击退丘丘人作为行动目标。丘丘人遭到击退，混乱得到直接解决。",
+      "turning_point": "受托者介入并开始击退作乱的丘丘人，使事态由求援转入解决阶段。",
+      "outcome": "作乱的丘丘人被击退，鸣神岛上这场局部混乱得到平息。",
+      "section_ids": [
+        "72701-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "鸣神岛上某处，丘丘人正在作乱，古谷升希望能有人帮忙解决这场混乱。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72701-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "受托者击退作乱的丘丘人",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "鸣神岛上某处"
+      ],
+      "characters": [
+        "古谷升",
+        "受托者",
+        "丘丘人"
+      ],
+      "summary": "时间未明确，鸣神岛上某处有丘丘人作乱，古谷升希望有人帮助解决这场混乱。受托者以平息事态为目标出手击退丘丘人，使当地的局部骚乱得到解决。",
+      "motivation": "古谷升希望制止丘丘人的骚乱，受托者因此采取行动恢复当地秩序。",
+      "outcome": "丘丘人被击退，当前混乱得到平息；原文未明确后续影响。",
+      "keywords": [
+        "鸣神岛",
+        "古谷升",
+        "丘丘人",
+        "击退",
+        "平息混乱"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7270101,
+          "title": "击退丘丘人",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:11:42.133Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

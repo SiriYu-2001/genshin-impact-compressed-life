@@ -1,0 +1,214 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 70821,
+    "slug": "70821_after-the-storm",
+    "title": "风后宝矿",
+    "chapter_num": "",
+    "premise": "特瓦林被净化后，风龙废墟重新具备通行条件。瓦格纳希望确认当地的水晶矿状况，并委托旅行者前往探查和采掘。",
+    "central_conflict": "风暴消散后的风龙废墟是否仍有优质水晶矿尚待验证，旅行者需要完成实地探查并带回矿石作为依据。",
+    "summary": "特瓦林被净化后，瓦格纳将目光投向重新开放的风龙废墟，希望寻找珍贵的水晶矿。旅行者接受委托，前往废墟连续探查水晶矿。探查完成后，旅行者在当地采掘了三份水晶块。旅行者把矿石交给瓦格纳，瓦格纳确认这些水晶块品质不错，并向旅行者支付谢礼。矿石的状况使瓦格纳相信废墟一带的风暴确实已经消散，他因此开始考虑亲自前往查看。",
+    "resolution": "瓦格纳收下三份水晶块并完成酬谢，委托就此结束。优质矿石既验证了风龙废墟的资源价值，也促使瓦格纳计划日后亲自考察。",
+    "themes": [
+      "灾后探索",
+      "资源调查",
+      "劳动委托",
+      "环境复苏"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70821,
+      "title": "风后宝矿",
+      "summary": "瓦格纳在风龙废墟恢复通行后委托旅行者调查当地的水晶矿。旅行者完成连续探查并采掘三份水晶块，随后将矿石带回。瓦格纳认可矿石品质，并据此确认当地风暴已经消散，产生了亲自前往考察的打算。",
+      "turning_point": "旅行者带回品质良好的水晶块，使瓦格纳由远程委托调查转为确认风暴消散并考虑亲自考察。",
+      "outcome": "瓦格纳收下水晶块并给予谢礼，风龙废墟的矿产价值和通行状况得到初步验证。",
+      "section_ids": [
+        "70821-c00-s01",
+        "70821-c00-s02",
+        "70821-c00-s03",
+        "70821-c00-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在特瓦林被净化后，风龙废墟已经可以通行了。瓦格纳先生想要去那里寻找珍贵的水晶矿…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70821-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "瓦格纳委托调查水晶矿",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "特瓦林被净化、风龙废墟恢复通行后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "瓦格纳",
+        "旅行者"
+      ],
+      "summary": "特瓦林被净化、风龙废墟恢复通行后，瓦格纳希望寻找当地珍贵的水晶矿。旅行者与瓦格纳交谈并承接了前往废墟调查矿产的委托。",
+      "motivation": "瓦格纳希望掌握风暴消散后风龙废墟的水晶矿状况，并获得可用的珍贵矿石。",
+      "outcome": "旅行者获得明确的调查目标，准备前往风龙废墟。",
+      "keywords": [
+        "瓦格纳",
+        "委托",
+        "水晶矿",
+        "风龙废墟"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7082101,
+          "title": "与瓦格纳对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70821-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "旅行者连续探查废墟矿点",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "接受瓦格纳的委托后",
+      "locations": [
+        "风龙废墟"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "接受委托后，旅行者前往风龙废墟探查水晶矿，并依次完成三个连续的探查任务。调查由寻找矿产位置推进到实际采掘阶段。",
+      "motivation": "旅行者需要查明风龙废墟是否存在可供采掘的水晶矿，以完成瓦格纳的委托。",
+      "outcome": "连续探查完成，任务目标转为采掘三份水晶块。",
+      "keywords": [
+        "风龙废墟",
+        "矿点探查",
+        "水晶矿",
+        "连续调查"
+      ],
+      "source_step_keys": [
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7082102,
+          "title": "前往风龙废墟探查水晶矿",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7082103,
+          "title": "前往风龙废墟探查水晶矿",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7082104,
+          "title": "前往风龙废墟探查水晶矿",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70821-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "旅行者采得三份水晶块",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "完成水晶矿探查后",
+      "locations": [
+        "风龙废墟"
+      ],
+      "characters": [
+        "旅行者"
+      ],
+      "summary": "完成矿点探查后，旅行者在风龙废墟采掘了三份水晶块。取得的矿石为瓦格纳判断当地资源与环境状况提供了实物依据。",
+      "motivation": "旅行者需要取得足量水晶块，证明探查成果并完成瓦格纳交付的采掘任务。",
+      "outcome": "三份水晶块采掘完成，旅行者可以返回向瓦格纳交付成果。",
+      "keywords": [
+        "水晶块",
+        "采掘",
+        "调查成果",
+        "任务物品"
+      ],
+      "source_step_keys": [
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 7082105,
+          "title": "采掘三份水晶块",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "70821-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "矿石验证风暴已经消散",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "采得三份水晶块后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "瓦格纳",
+        "旅行者"
+      ],
+      "summary": "旅行者将三份水晶块交给瓦格纳，瓦格纳确认矿石品质不错，并以谢礼酬谢旅行者。矿石的状况使他认定风龙废墟一带的风暴确实已经消散，并开始考虑亲自前往查看。",
+      "motivation": "旅行者需要交付采掘成果，瓦格纳则希望借实物判断水晶矿品质及废墟当前的环境状况。",
+      "outcome": "委托完成，瓦格纳确认风龙废墟已具备进一步考察的条件，并产生亲自前往的计划。",
+      "keywords": [
+        "交付矿石",
+        "谢礼",
+        "风暴消散",
+        "后续考察"
+      ],
+      "source_step_keys": [
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 7082106,
+          "title": "把水晶块交给瓦格纳",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T09:57:37.403Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

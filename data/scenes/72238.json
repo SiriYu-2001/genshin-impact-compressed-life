@@ -1,0 +1,90 @@
+{
+  "schema_version": "amber-story-summary-v1",
+  "scene": {
+    "scene_id": 72238,
+    "slug": "72238_a-glimpse-into-the-pale-night",
+    "title": "窥见白夜",
+    "chapter_num": "",
+    "premise": "玩家角色决定研究眼前的「地图石刻」，试图从地图信息中获得发现。主要目标是依次调查石刻与墙壁上的地图。",
+    "central_conflict": "原文未呈现明确的人物对抗；核心问题是通过连续调查辨识地图所承载的信息。",
+    "summary": "时间未明确，玩家角色开始研究眼前的「地图石刻」。调查随后由石刻本体推进至墙壁上的地图，使观察范围进一步扩大。两个调查步骤围绕同一目标连续展开，构成本篇唯一明确的剧情进展。原文没有提供调查所得内容、人物反应或进一步行动，因此故事收束于完成这一轮地图观察。",
+    "resolution": "玩家角色完成了对「地图石刻」及墙壁地图的连续调查。调查的具体发现及其后续影响在原文中未明确。",
+    "themes": [
+      "地图调查",
+      "遗迹探索",
+      "信息辨识"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 72238,
+      "title": "窥见白夜",
+      "summary": "本章以研究眼前的「地图石刻」为目标，玩家角色先检查石刻，随后将注意力转向墙壁上的地图。调查对象的变化推动观察进一步深入，但原文没有披露地图内容或最终发现。章节因此结束于调查行动本身。",
+      "turning_point": "调查重点从眼前的「地图石刻」转向墙壁上的地图。",
+      "outcome": "玩家角色依次调查了两处地图载体，但调查所得及其后续作用原文未明确。",
+      "section_ids": [
+        "72238-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "你决定研究一下眼前的「地图石刻」…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "72238-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "调查石刻并转向墙面地图",
+      "narrative_role": "investigation",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "玩家角色"
+      ],
+      "summary": "时间未明确，玩家角色在地点未明确之处决定研究眼前的「地图石刻」。完成初步查看后，调查继续延伸至墙壁上的地图，以进一步辨识相关信息。原文没有说明地图呈现的内容或调查得到的结论。",
+      "motivation": "玩家角色希望研究眼前的地图石刻，并通过墙壁上的地图进一步获取信息。",
+      "outcome": "两处地图载体先后成为调查对象，观察范围得到扩展；具体发现及其后续影响原文未明确。",
+      "keywords": [
+        "地图石刻",
+        "墙壁地图",
+        "调查",
+        "信息辨识"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7223801,
+          "title": "调查「地图石刻」",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7223802,
+          "title": "调查墙壁上的地图",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-08-19T10:08:08.798Z",
+    "generator": "Codex CLI 0.147.0",
+    "model": "gpt-5.6-sol",
+    "reasoning_effort": "medium",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}
