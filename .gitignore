@@ -1,0 +1,27 @@
+# Compressed Life publishes generated static assets only.
+# Keep source data, model artifacts, credentials, and maintenance notes private.
+.env
+.env.*
+*.key
+*.pem
+*.log
+*.jsonl
+proxy.env
+
+api_json/
+chapters_json/
+output/
+scripts/
+prompts/
+schemas/
+dsh/
+logs/
+codex-logs/
+run/
+codex-run/
+.work/
+.codex-work/
+.firefox*/
+
+INCREMENTAL_MAINTENANCE.md
+COMPRESSED_LIFE_INCREMENTAL_MAINTENANCE.md
