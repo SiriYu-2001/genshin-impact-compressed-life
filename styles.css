@@ -145,6 +145,30 @@ button { color: inherit; }
 
 .scene-group-header small { color: #849f9a; font: 600 .64rem ui-monospace, monospace; }
 
+.version-directory { margin: 2px 2px 6px; }
+.version-toggle {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 9px 9px;
+  border: 0;
+  border-radius: 7px;
+  cursor: pointer;
+  color: #a9c0bc;
+  background: rgba(255,255,255,.025);
+  text-align: left;
+  font-size: .72rem;
+}
+.version-toggle:hover { color: #fff; background: rgba(255,255,255,.06); }
+.version-toggle-name { display: flex; min-width: 0; align-items: center; gap: 7px; }
+.version-toggle-name i { color: var(--type-color); font: 700 1rem/1 Georgia, serif; transition: transform .16s ease; }
+.version-directory.expanded .version-toggle-name i { transform: rotate(90deg); }
+.version-toggle small { color: #799893; font: 600 .62rem ui-monospace, monospace; }
+.version-scenes { margin: 2px 0 7px 7px; padding-left: 4px; border-left: 1px solid color-mix(in srgb, var(--type-color) 32%, transparent); }
+.version-scenes .scene-link { padding-left: 8px; }
+
 .scene-link {
   display: grid;
   width: 100%;

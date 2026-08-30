@@ -20,6 +20,8 @@ const questTypes = {
   other: { label: '其他任务', short: '其他', color: '#858f8d' },
 }
 const questTypeOrder = ['aq', 'lq', 'eq', 'wq', 'iq', 'hq', 'other']
+const versionedQuestTypes = new Set(['eq', 'wq', 'iq'])
+const legacyVersion = 'legacy'
 
 function questTypeOf(scene) {
   return questTypes[scene.quest_type] ? scene.quest_type : 'other'
@@ -39,7 +41,16 @@ const dom = {
   scrim: document.querySelector('#sidebar-scrim'),
 }
 
-const state = { index: [], links: {}, linkNodes: {}, selected: null, bundle: null, activeType: 'aq' }
+const state = {
+  index: [],
+  links: {},
+  linkNodes: {},
+  selected: null,
+  bundle: null,
+  activeType: 'aq',
+  expandedVersions: new Set(),
+  initializedVersionTypes: new Set(),
+}
 
 function element(tag, className, text) {
   const node = document.createElement(tag)
@@ -77,10 +88,83 @@ function visibleScenes(query = '') {
       scene.chapter_num,
       scene.chapter_image_title,
       scene.route,
+      scene.release_version,
+      scene.release_version_label,
       questTypes[questTypeOf(scene)].label,
       ...(scene.themes ?? []),
     ].join(' ').toLocaleLowerCase('zh-CN').includes(needle)
   })
+}
+
+function versionKey(type, version) {
+  return `${type}:${version || legacyVersion}`
+}
+
+function compareVersions(left, right) {
+  if (left === legacyVersion) return 1
+  if (right === legacyVersion) return -1
+  return Number(right) - Number(left)
+}
+
+function renderSceneLink(scene, type) {
+  const button = element('button', `scene-link${scene.scene_id === state.selected ? ' active' : ''}`)
+  button.type = 'button'
+  button.dataset.sceneId = scene.scene_id
+  button.style.setProperty('--type-color', questTypes[type].color)
+  button.append(element('span', 'scene-link-id', String(scene.scene_id)))
+  const copy = element('span', 'scene-link-copy')
+  if (scene.chapter_num) copy.append(element('span', 'scene-link-chapter', scene.chapter_num))
+  copy.append(element('strong', '', scene.title || '未命名任务'))
+  const origin = scene.chapter_image_title || questTypes[type].label
+  copy.append(element('small', '', `${origin} · ${scene.chapter_count} 章 · ${scene.section_count} 节`))
+  button.append(copy)
+  button.addEventListener('click', () => selectScene(scene.scene_id))
+  return button
+}
+
+function renderVersionDirectories(scenes, type, fragment) {
+  const groups = new Map()
+  for (const scene of scenes) {
+    const version = scene.release_version || legacyVersion
+    const group = groups.get(version) ?? []
+    group.push(scene)
+    groups.set(version, group)
+  }
+  const versions = [...groups.keys()].sort(compareVersions)
+  const selectedScene = scenes.find((scene) => scene.scene_id === state.selected)
+  if (!state.initializedVersionTypes.has(type)) {
+    const initialVersion = selectedScene?.release_version || versions[0]
+    if (initialVersion) state.expandedVersions.add(versionKey(type, initialVersion))
+    state.initializedVersionTypes.add(type)
+  }
+
+  const searching = Boolean(dom.search.value.trim())
+  for (const version of versions) {
+    const versionScenes = groups.get(version)
+    const key = versionKey(type, version)
+    const expanded = searching || state.expandedVersions.has(key)
+    const directory = element('section', `version-directory${expanded ? ' expanded' : ''}`)
+    directory.style.setProperty('--type-color', questTypes[type].color)
+    const toggle = element('button', 'version-toggle')
+    toggle.type = 'button'
+    toggle.setAttribute('aria-expanded', String(expanded))
+    const label = versionScenes[0].release_version_label || (version === legacyVersion ? '3.6 之前' : `版本 ${version}`)
+    const name = element('span', 'version-toggle-name')
+    name.append(element('i', '', '›'), document.createTextNode(label))
+    toggle.append(name, element('small', '', String(versionScenes.length)))
+    toggle.addEventListener('click', () => {
+      if (state.expandedVersions.has(key)) state.expandedVersions.delete(key)
+      else state.expandedVersions.add(key)
+      renderSceneList()
+    })
+    directory.append(toggle)
+    if (expanded) {
+      const list = element('div', 'version-scenes')
+      for (const scene of versionScenes) list.append(renderSceneLink(scene, type))
+      directory.append(list)
+    }
+    fragment.append(directory)
+  }
 }
 
 function renderTypeFilters() {
@@ -120,21 +204,8 @@ function renderSceneList() {
     groupHeader.style.setProperty('--type-color', questTypes[type].color)
     groupHeader.append(element('span', '', questTypes[type].label), element('small', '', String(grouped.length)))
     fragment.append(groupHeader)
-    for (const scene of grouped) {
-      const button = element('button', `scene-link${scene.scene_id === state.selected ? ' active' : ''}`)
-      button.type = 'button'
-      button.dataset.sceneId = scene.scene_id
-      button.style.setProperty('--type-color', questTypes[type].color)
-      button.append(element('span', 'scene-link-id', String(scene.scene_id)))
-      const copy = element('span', 'scene-link-copy')
-      if (scene.chapter_num) copy.append(element('span', 'scene-link-chapter', scene.chapter_num))
-      copy.append(element('strong', '', scene.title || '未命名任务'))
-      const origin = scene.chapter_image_title || questTypes[type].label
-      copy.append(element('small', '', `${origin} · ${scene.chapter_count} 章 · ${scene.section_count} 节`))
-      button.append(copy)
-      button.addEventListener('click', () => selectScene(scene.scene_id))
-      fragment.append(button)
-    }
+    if (versionedQuestTypes.has(type)) renderVersionDirectories(grouped, type, fragment)
+    else for (const scene of grouped) fragment.append(renderSceneLink(scene, type))
   }
   if (scenes.length === 0) fragment.append(element('p', 'catalog-stats', '没有匹配的 scene'))
   dom.list.replaceChildren(fragment)
@@ -331,6 +402,9 @@ async function selectScene(sceneId, updateHash = true) {
     state.activeType = questTypeOf(scene)
     renderTypeFilters()
   }
+  if (versionedQuestTypes.has(questTypeOf(scene))) {
+    state.expandedVersions.add(versionKey(questTypeOf(scene), scene.release_version))
+  }
   state.selected = scene.scene_id
   renderSceneList()
   closeMenu()
@@ -364,7 +438,10 @@ async function boot() {
     state.linkNodes = links.nodes ?? {}
     const requested = Number(new URLSearchParams(location.hash.slice(1)).get('scene'))
     const requestedScene = state.index.find((scene) => scene.scene_id === requested)
-    if (requestedScene) state.activeType = questTypeOf(requestedScene)
+    if (requestedScene) {
+      state.activeType = questTypeOf(requestedScene)
+      state.selected = requestedScene.scene_id
+    }
     else if (!state.index.some((scene) => questTypeOf(scene) === state.activeType)) state.activeType = 'all'
     renderTypeFilters()
     renderSceneList()
