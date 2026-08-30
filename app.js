@@ -354,7 +354,7 @@ function renderBundle(bundle) {
   setText('#chapter-number', indexEntry.chapter_num ?? bundle.scene.chapter_num)
   setText('#region-name', indexEntry.chapter_image_title ?? '')
   setText('#scene-title', indexEntry.title || bundle.scene.title)
-  document.title = `${indexEntry.full_title || bundle.scene.title} · Amber Story Atlas`
+  document.title = `${indexEntry.full_title || bundle.scene.title} · Compressed Life`
   setText('#scene-premise', bundle.scene.premise)
   setText('#scene-conflict', bundle.scene.central_conflict)
   setText('#scene-summary', bundle.scene.summary)
@@ -476,4 +476,4 @@ window.addEventListener('keydown', (event) => {
   }
 })
 
-window.__amberReady = boot()
+window.__compressedLifeReady = boot()

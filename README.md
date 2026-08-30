@@ -1,4 +1,4 @@
-# 压缩人生 · Genshin Impact
+# Compressed Life · 压缩人生
 
 《原神》任务剧情的分层可视化档案，按任务类型组织，并以
 `scene → chapter → section` 展示剧情脉络、动机、结果和来源步骤。
