@@ -1,0 +1,177 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 10276,
+    "slug": "10276_next-years-moon-just-as-bright",
+    "title": "来年今日月亦明",
+    "chapter_num": "",
+    "premise": "蓝砚送别蓝君明之后，旅人与派蒙趁节日尚未结束，去找她继续之前中断的遗珑埠游览。",
+    "central_conflict": "蓝砚的奇术成果使她受到宗家长辈关注，也可能被拉去按规矩求学；她还惦记着最初让燕子回巢的愿望是否实现。",
+    "summary": "两天后的白天，旅人与派蒙拜访蓝砚，发现凝光正在向她及蓝家长辈道谢：昨夜施术后，璃月各地邪祟受到压制，千岩军和方士因此提前完成任务。长辈们赞许蓝砚，甚至提出让她到宗家认真学习，她却担忧失去原先随兴趣钻研的自由。旅人与派蒙以朋友身份请她暂时离席，凝光与蓝舆同意，她终于能从正式场合脱身。钟离随后带来消息，璃月各地燕子不再像过去那样匆忙，日后可能重返沉玉谷筑巢。蓝砚为初衷有望实现而欣喜，也发现自己为送别祖师爷做的事产生了更广的影响。她答应继续带旅人与派蒙逛节，并告诉派蒙，纵使来年的逐月节活动改变，与朋友相聚和享用美食仍有机会延续。",
+    "resolution": "蓝砚得到燕子可能归巢的好消息，旅人与派蒙终于与她一同享受节日。蓝砚与朋友们把来年再聚的可能留给未来。",
+    "themes": [
+      "自由与责任",
+      "燕子归巢",
+      "节日变迁",
+      "朋友重聚"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 40252,
+      "title": "来年今日月亦明",
+      "summary": "旅人与派蒙在遗珑埠找到蓝砚，见凝光因她的奇术压制了各地邪祟而来道谢，蓝家长辈也开始关注她的修习。两人帮蓝砚暂离正式场合，钟离又告诉她燕子有望重新回沉玉谷筑巢。蓝砚重新兑现带朋友逛节的约定，谈起逐月节习俗虽会变化，美食和朋友仍可相伴。",
+      "turning_point": "钟离确认蓝砚昨夜的术法也影响了燕群，使她最初盼望燕子归巢的心愿出现实现的可能。",
+      "outcome": "蓝砚与旅人、派蒙终于一起逛节，也接受节庆形式会继续变化。",
+      "section_ids": [
+        "10276-c00-s01",
+        "10276-c00-s02",
+        "10276-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "节日尚未结束，蓝砚也终于有时间带你们逛一逛了…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "10276-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "凝光致谢使蓝砚受到关注",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "两天后的白天",
+      "locations": [
+        "遗珑埠"
+      ],
+      "characters": [
+        "凝光",
+        "蓝砚",
+        "蓝舆",
+        "蓝家长辈",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "两天后的白天，旅人与派蒙去遗珑埠拜访蓝砚，碰见凝光正向她及蓝家长辈致谢。蓝砚昨夜的术法压制了璃月各地邪祟，令千岩军与方士提前完成行动；宗家长辈因此想让她认真入门修习。蓝砚担忧被拉进学堂，旅人与派蒙便以朋友身份请她暂离，凝光与蓝舆应允。",
+      "motivation": "凝光感谢蓝砚对除祟行动的帮助，旅人与派蒙则想与她继续过节。",
+      "outcome": "蓝砚得到赞誉，也从长辈面前暂时脱身。",
+      "keywords": [
+        "凝光",
+        "蓝砚",
+        "邪祟压制",
+        "宗家"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 4025201,
+          "title": "等待到两天后（12:00-16:00）",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 4025202,
+          "title": "前往拜访蓝砚",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10276-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "钟离告知燕群有望归巢",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "两天后的白天",
+      "locations": [
+        "遗珑埠"
+      ],
+      "characters": [
+        "钟离",
+        "蓝砚",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "蓝砚离席后遇见钟离，他说昨夜施术似乎也影响了璃月的燕子，使它们不再一味匆忙往返。钟离判断日后会有更多燕子回到沉玉谷筑巢。蓝砚欣喜地发现，自己起初只想看燕子筑巢，却在追寻此愿时也帮助了更多人。",
+      "motivation": "钟离把燕群变化的消息告诉一直盼望燕子归来的蓝砚。",
+      "outcome": "蓝砚迎回燕子的初衷出现实现的希望。",
+      "keywords": [
+        "燕群",
+        "沉玉谷",
+        "归巢",
+        "钟离"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 4025202,
+          "title": "前往拜访蓝砚",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10276-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "蓝砚终于带朋友享受节日",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "两天后的白天",
+      "locations": [
+        "遗珑埠"
+      ],
+      "characters": [
+        "蓝砚",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "钟离离开后，旅人与派蒙说出此行本意：邀请蓝砚继续之前被蓝君明打断的逛节之约。蓝砚提议先去美食街，也提醒派蒙逐月节活动会随年月变化，来年未必仍办美食街。得知香菱和爱可菲约好年年来遗珑埠切磋厨艺，派蒙相信仍有好吃的和好朋友相伴，三人继续享受未结束的节日。",
+      "motivation": "旅人、派蒙和蓝砚想把中断的节日相聚补回来。",
+      "outcome": "三人终于共同逛节，并把朋友重聚视为节日持续的意义。",
+      "keywords": [
+        "遗珑埠",
+        "美食街",
+        "朋友",
+        "节日变化"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 4025202,
+          "title": "前往拜访蓝砚",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-09-24T02:57:07.379Z",
+    "generator": "Codex collaboration subagent",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

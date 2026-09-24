@@ -1,0 +1,169 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 71676,
+    "slug": "71676_battle-beneath-the-spirit-quelling-banner",
+    "title": "幡旗除魔战记",
+    "chapter_num": "",
+    "premise": "在美食街，说书人捷悟与纸映戏创作者报菲邀请旅行者和派蒙体验新作「纸映斗阵」。",
+    "central_conflict": "两人试图用跨地域的奇异题材创作互动纸映剧，而故事后段尚未写定，也需要游玩者提供反馈。",
+    "summary": "在美食街，捷悟与报菲谈论不同地方的客人相聚所带来的创作新意，并邀请旅行者和派蒙体验「纸映斗阵」。两人介绍这部互动纸映剧的虚构故事：一名术士游历各国、安抚战魂，以幡旗借助其力量祓除邪祟，再携奇特战魂前往死对头的城塞。报菲坦言此后的情节还没想好，因此暂时断章。捷悟说自己受胡堂主打油诗启发，把熟悉的元素组合成离奇题材，又请报菲将故事改编为纸映形式。旅行者与派蒙对作品感兴趣，愿意试玩并提出建议，报菲准备记录反馈。",
+    "resolution": "新作获得旅行者与派蒙的关注；两人将试玩「纸映斗阵」，协助创作者完善作品。",
+    "themes": [
+      "跨地域创作",
+      "故事改编",
+      "互动游艺",
+      "创作反馈"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71676,
+      "title": "幡旗除魔战记",
+      "summary": "捷悟与报菲在美食街向旅行者和派蒙展示互动纸映剧「纸映斗阵」，介绍其中术士借战魂之力除魔的虚构情节，并说明故事尚未写完。捷悟讲述胡堂主的打油诗如何启发他组合不同题材，再由报菲以纸映形式呈现。旅行者与派蒙决定试玩，报菲准备收集他们的建议。",
+      "turning_point": "创作者讲明作品的构思来源与尚未写定的后续，旅行者和派蒙决定以试玩者身份提供意见。",
+      "outcome": "报菲备好纸笔，旅行者与派蒙准备体验「纸映斗阵」。",
+      "section_ids": [
+        "71676-c00-s01",
+        "71676-c00-s02",
+        "71676-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "说书人捷悟和纸映戏专家报菲似乎正在讨论他们的新作品…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71676-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "创作者邀请体验纸映斗阵",
+      "narrative_role": "setup",
+      "importance": 2,
+      "when": "时间未明确",
+      "locations": [
+        "美食街"
+      ],
+      "characters": [
+        "捷悟",
+        "报菲",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "在美食街，捷悟与报菲谈到来自各地的客人能带来新题材。两人向旅行者和派蒙介绍新作「纸映斗阵」，邀请他们体验这种互动纸映剧。",
+      "motivation": "捷悟与报菲想向客人展示合作创作的新作品。",
+      "outcome": "旅行者和派蒙开始了解「纸映斗阵」的玩法与故事。",
+      "keywords": [
+        "美食街",
+        "捷悟",
+        "报菲",
+        "纸映斗阵"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7167601,
+          "title": "参与捷悟和报菲的讨论",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71676-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "术士借战魂之力踏上征途",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "美食街"
+      ],
+      "characters": [
+        "捷悟",
+        "报菲",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "捷悟与报菲向旅行者和派蒙讲述剧中虚构情节：一名术士游历各国，安抚散落的战魂并制作幡旗，借战魂之力祓除邪祟。他随后带着奇特战魂平定一方灾祸，转向死对头的城塞；报菲说明后面的故事还没有写好。",
+      "motivation": "创作者想用跨地域的战魂与除魔题材吸引游玩者。",
+      "outcome": "旅行者与派蒙理解作品的奇异设定，也得知剧情目前停在前往城塞之处。",
+      "keywords": [
+        "虚构故事",
+        "幡旗",
+        "战魂",
+        "未完剧情"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7167601,
+          "title": "参与捷悟和报菲的讨论",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71676-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "胡堂主诗句促成试玩邀约",
+      "narrative_role": "transition",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "美食街"
+      ],
+      "characters": [
+        "捷悟",
+        "报菲",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "捷悟说明自己受到胡堂主打油诗启发，意识到把常见元素重新组合也能产生新鲜题材，于是请报菲将故事做成「纸映斗阵」。旅行者与派蒙表示对这种题材感兴趣，愿意试玩并提出建议；报菲准备记录反馈。",
+      "motivation": "捷悟与报菲希望完善新作品，旅行者与派蒙愿凭自己的见闻提供意见。",
+      "outcome": "双方达成试玩与反馈的约定。",
+      "keywords": [
+        "胡堂主",
+        "打油诗",
+        "改编",
+        "试玩反馈"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7167601,
+          "title": "参与捷悟和报菲的讨论",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-09-24T02:57:08.269Z",
+    "generator": "Codex collaboration subagent",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

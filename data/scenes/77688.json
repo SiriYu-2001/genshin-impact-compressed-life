@@ -1,0 +1,86 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 77688,
+    "slug": "77688_carefree-snowball-fight",
+    "title": "无忧无虑大雪仗",
+    "chapter_num": "",
+    "premise": "旅行者和派蒙途经海屑镇西南，遇见布达诺娃带着孩子们举办打雪仗大赛。",
+    "central_conflict": "旅行者担心成年冒险家参赛会欺负孩子，布布莉克则强调比赛比拼反应力且有规则限制，孩子们也能公平较量。",
+    "summary": "旅行者和派蒙在海屑镇西南看见孩子们堆雪人、打雪仗，遇见认识他们的霜役人布达诺娃与布布莉克。对布达诺娃是否曾在挪德卡莱见过，旅行者可以表示记得，也可以说印象模糊；无论如何，布达诺娃都欢迎他们加入雪仗大赛。她说参赛者有机会得到奖品与蛋糕，布布莉克则解释比赛重在反应力，规则会让大人与孩子都能参与。旅行者和派蒙因此准备加入孩子们的游戏。",
+    "resolution": "布达诺娃的邀请得到积极回应，故事停在旅行者和派蒙准备参赛之时，没有呈现比赛结果。",
+    "themes": [
+      "儿童游戏",
+      "公平竞技",
+      "放松",
+      "相遇"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77688,
+      "title": "无忧无虑大雪仗",
+      "summary": "旅行者和派蒙在海屑镇西南遇见布达诺娃与正在玩雪的孩子们，受到参加打雪仗大赛的邀请。旅行者顾虑实力差距，布布莉克解释比赛设有规则，重点是反应力，孩子们也有信心。奖品与蛋糕让派蒙动心，众人准备一同玩耍。",
+      "turning_point": "布布莉克说明雪仗规则让成年人和孩子都能较量，消除了旅行者对欺负孩子的顾虑。",
+      "outcome": "旅行者和派蒙接受参与游戏的邀请，原文未叙述正式比赛结果。",
+      "section_ids": [
+        "77688-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "途径海屑镇西南时，你们意外遇见了一位带着孩子们玩耍的愚人众霜役人…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77688-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "布达诺娃邀旅行者加入孩子雪仗",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "海屑镇西南"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "布达诺娃",
+        "布布莉克"
+      ],
+      "summary": "旅行者和派蒙看见孩子们在海屑镇西南玩雪，布达诺娃和布布莉克邀请他们参加有奖品与蛋糕的雪仗大赛。旅行者担心自己的冒险家实力会让比赛失衡，布布莉克说比赛重在反应力，规则会让孩子们也有机会取胜。派蒙和旅行者于是准备放开手脚与孩子们同玩。",
+      "motivation": "布达诺娃想让大家放松玩耍，旅行者希望避免以实力压倒孩子。",
+      "outcome": "顾虑得到回应，旅行者和派蒙准备参赛；比赛过程与胜负未在本章呈现。",
+      "keywords": [
+        "布达诺娃",
+        "孩子",
+        "雪仗"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7768801,
+          "title": "与布达诺娃对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-09-24T02:57:09.508Z",
+    "generator": "Codex collaboration subagent",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

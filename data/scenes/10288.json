@@ -1,0 +1,357 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 10288,
+    "slug": "10288_the-anomaly",
+    "title": "异象",
+    "chapter_num": "",
+    "premise": "提瓦特多地的「判罚之钉」出现异象，旅人与派蒙前往至冬、蒙德、璃月、稻妻、须弥和纳塔了解各地情况。",
+    "central_conflict": "钉子的变化发生在众人击败天空岛的死之执政若娜瓦之后，成因与潜在危害尚未查明，各地必须在不确定中调查并防范风险。",
+    "summary": "至冬堡东面，旅人与派蒙发现天理留下的钉子发光并不时发声；阿罗夏已通知当地冬契军，但无法判断它是否与若娜瓦有关。龙脊雪山的寒天之钉同样发生变化，阿贝多准备继续记录其对附近生态的影响。层岩巨渊一带，璃月增派千岩军巡逻，仙人着手调查，魈奉帝君之托监视现场。鹤观的八重神子卜得「大凶」，感到某种力量却未能确认来源，打算请心海也来感受。达马山附近，迪希雅的佣兵团驻扎观察，坎蒂丝也为分担草神的忧虑参与调查。圣火竞技场的光柱紧邻住民，玛薇卡提醒旅人与派蒙不必为可能的后果自责，并决定通知附近住民提防风险。各地采取观察和警戒措施，异象的本质及后续影响仍未查明。",
+    "resolution": "各地已经开始监视、调查或通知住民防范，尚未发现确定的成因与解决办法。旅人与派蒙对若娜瓦报复的担忧仍只是怀疑。",
+    "themes": [
+      "判罚之钉异变",
+      "未知风险",
+      "各地警戒",
+      "责任与应对"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77502,
+      "title": "异象·至冬",
+      "summary": "旅人与派蒙在至冬堡东面发现天理留下的钉子发光、发声，向先前目击异变的阿罗夏询问。阿罗夏表示目前看不出危害，已通知当地冬契军，并认为刚击败死之执政若娜瓦后发生这种变化值得警惕。众人尚不能确认原因，阿罗夏主张继续留意附近是否出现其他变化。",
+      "turning_point": "阿罗夏说明钉子的异变已被当地军方知晓，但其原因与风险仍需观察。",
+      "outcome": "至冬方面已收到通报，旅人与派蒙带着未解的疑虑继续关注异象。",
+      "section_ids": [
+        "10288-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "提瓦特各处的「判罚之钉」似乎都出现了异象，去探查当地的具体情况吧。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 77506,
+      "title": "异象·蒙德",
+      "summary": "旅人与派蒙前往龙脊雪山，确认寒天之钉也发生了同样的变化。阿贝多从未在雪山观察到这番景象，因此怀疑钉子的使命并未随古国文明覆灭而终结。他决定继续记录异象，尤其留意对附近生态的影响。",
+      "turning_point": "寒天之钉出现阿贝多此前未曾观测的变化，令他重新审视其使命是否已经结束。",
+      "outcome": "阿贝多留在龙脊雪山持续观察并记录生态影响。",
+      "section_ids": [
+        "10288-c01-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "提瓦特各处的「判罚之钉」似乎都出现了异象，去探查当地的具体情况吧。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": 77507,
+      "title": "异象·璃月",
+      "summary": "旅人与派蒙在层岩巨渊遇见魈，得知璃月仙人与人类都重视钉子的异变。璃月港已增派千岩军巡逻，留云真君等仙人着手调查。帝君委托魈监视此地，以便出现进一步变化时迅速通报。",
+      "turning_point": "魈说明璃月已同时安排巡逻、调查和向帝君即时通报的应对。",
+      "outcome": "层岩巨渊周边处于持续监视和调查之中。",
+      "section_ids": [
+        "10288-c02-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_02.json",
+      "source_description": "提瓦特各处的「判罚之钉」似乎都出现了异象，去探查当地的具体情况吧。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": 77508,
+      "title": "异象·稻妻",
+      "summary": "旅人与派蒙在鹤观见到前来查看异变的八重神子。她因接到报告并卜得「大凶」而赶来，隐约感到某种力量，却无法确认是否为天理的手段。她打算有空请心海前来，看看对方是否对这股力量感到熟悉。",
+      "turning_point": "八重神子察觉某种力量，但无法判明来源，因而提出请心海进一步辨认。",
+      "outcome": "鹤观异变仍未得到解释，八重神子准备寻求心海的感受。",
+      "section_ids": [
+        "10288-c03-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_03.json",
+      "source_description": "提瓦特各处的「判罚之钉」似乎都出现了异象，去探查当地的具体情况吧。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": 77509,
+      "title": "异象·须弥",
+      "summary": "旅人与派蒙在达马山遇见迪希雅和坎蒂丝，得知迪希雅的佣兵团已在附近驻扎。迪希雅担心须弥近来多灾多难，若再出事会应对不及，因此让团员观察情况；坎蒂丝也希望为草神分忧。两人以警戒和协助调查的方式应对尚未明朗的异象。",
+      "turning_point": "迪希雅的佣兵团已经驻扎观察，表明当地开始为可能的风险做准备。",
+      "outcome": "达马山一带有人持续观察，准备在情况变化时及时应对。",
+      "section_ids": [
+        "10288-c04-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_04.json",
+      "source_description": "提瓦特各处的「判罚之钉」似乎都出现了异象，去探查当地的具体情况吧。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": 77510,
+      "title": "异象·纳塔",
+      "summary": "旅人与派蒙在圣火竞技场见到凝视钉子光柱的玛薇卡，她担心异象靠近住民，可能带来危险。派蒙怀疑异象与众人击败若娜瓦有关，因而感到可能连累了大家。玛薇卡指出若娜瓦及其所代表的天理曾给纳塔带来灾劫，即使将来发生坏事也不应归咎旅人一行，并决定通知附近住民警惕风险。",
+      "turning_point": "玛薇卡化解派蒙的自责，并把注意力转向提醒附近住民防范。",
+      "outcome": "玛薇卡将通知住民注意潜在危险，异象成因仍待查明。",
+      "section_ids": [
+        "10288-c05-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_05.json",
+      "source_description": "提瓦特各处的「判罚之钉」似乎都出现了异象，去探查当地的具体情况吧。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "10288-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "至冬钉子异变引发警戒",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "击败若娜瓦后不久",
+      "locations": [
+        "至冬堡东面"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "阿罗夏"
+      ],
+      "summary": "旅人与派蒙在至冬堡东面看到天理留下的钉子发光并不时发声，向先前目击异变的阿罗夏询问。阿罗夏说目前看不出危害，已经通知当地冬契军。由于异象紧接着击败死之执政若娜瓦而来，众人担忧存在关联，却仍需观察才能判断。",
+      "motivation": "旅人与派蒙想弄清异象的原因和风险，阿罗夏希望及时通报并监视可能的后续变化。",
+      "outcome": "当地军方已获通报，但钉子为何变化尚无定论。",
+      "keywords": [
+        "至冬堡",
+        "判罚之钉",
+        "发光发声",
+        "阿罗夏"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7750201,
+          "title": "前往至冬堡东面查看情况",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10288-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "阿贝多记录寒天之钉变化",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "判罚之钉异变期间",
+      "locations": [
+        "龙脊雪山"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "阿贝多"
+      ],
+      "summary": "旅人与派蒙在龙脊雪山确认寒天之钉也出现相同变化。阿贝多表示自己长期在雪山观察，却是首次见到这种景象，这让他怀疑钉子的使命并未随着古国文明覆灭而结束。他决定继续记录变化，尤其注意周边生态是否受影响。",
+      "motivation": "阿贝多想弄清寒天之钉的新变化及其对附近环境的影响。",
+      "outcome": "雪山异象进入持续观测阶段，钉子的作用仍不明朗。",
+      "keywords": [
+        "龙脊雪山",
+        "寒天之钉",
+        "阿贝多",
+        "生态"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7750601,
+          "title": "前往龙脊雪山查看情况",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10288-c02-s01",
+      "chapter_index": 2,
+      "order": 1,
+      "title": "璃月各方监视层岩巨渊",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "判罚之钉异变期间",
+      "locations": [
+        "层岩巨渊"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "魈"
+      ],
+      "summary": "旅人与派蒙在层岩巨渊遇见魈，得知璃月的人类与仙人都在关注钉子的异变。千岩军已增派人手巡逻，留云真君等仙人着手调查，魈则受帝君委托监视此地。他准备在出现进一步异变时第一时间通知帝君。",
+      "motivation": "璃月各方希望及早发现进一步变化，并迅速传递消息。",
+      "outcome": "层岩巨渊得到巡逻、调查和监视，异象原因仍未明。",
+      "keywords": [
+        "层岩巨渊",
+        "魈",
+        "千岩军",
+        "仙人调查"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7750701,
+          "title": "前往层岩巨渊查看情况",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10288-c03-s01",
+      "chapter_index": 3,
+      "order": 1,
+      "title": "神子在鹤观察觉未知力量",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "判罚之钉异变期间",
+      "locations": [
+        "鹤观"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "八重神子"
+      ],
+      "summary": "八重神子因收到鹤观异变报告、又卜得「大凶」，来到当地查看。她对旅人与派蒙说自己隐约感到某种力量，但无法确认它是否出自天理。她打算找心海来感受这股力量，希望获得进一步线索。",
+      "motivation": "八重神子想查清报告中的异变及自己感到的未知力量。",
+      "outcome": "鹤观异象暂无线索定论，心海可能成为后续辨认力量的帮手。",
+      "keywords": [
+        "鹤观",
+        "八重神子",
+        "大凶",
+        "心海"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7750801,
+          "title": "前往鹤观查看情况",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10288-c04-s01",
+      "chapter_index": 4,
+      "order": 1,
+      "title": "佣兵在达马山驻扎戒备",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "判罚之钉异变期间",
+      "locations": [
+        "达马山"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "迪希雅",
+        "坎蒂丝"
+      ],
+      "summary": "旅人与派蒙在达马山遇见迪希雅和坎蒂丝，得知迪希雅的佣兵团已经在附近驻扎观察。迪希雅担心须弥近来不太平，若再有意外会来不及应对。坎蒂丝也希望为草神分忧，与她一同关注此地。",
+      "motivation": "迪希雅与坎蒂丝想在新的危险出现前做好观察和应对准备。",
+      "outcome": "佣兵团留在达马山一带监看情况，尚未发现异象的具体成因。",
+      "keywords": [
+        "达马山",
+        "迪希雅",
+        "坎蒂丝",
+        "佣兵团"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7750901,
+          "title": "前往达马山查看情况",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10288-c05-s01",
+      "chapter_index": 5,
+      "order": 1,
+      "title": "玛薇卡警示竞技场住民",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "判罚之钉异变期间",
+      "locations": [
+        "圣火竞技场"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "玛薇卡"
+      ],
+      "summary": "玛薇卡在圣火竞技场凝视钉子引起的光柱，担心它离住民太近，会造成危险。派蒙怀疑异象是若娜瓦的报复，因而担心旅人一行连累各地；玛薇卡指出若娜瓦及天理过去曾利用纳塔应对深渊与世界破碎，不该把潜在灾祸归咎他们。她决定通知附近住民提防风险。",
+      "motivation": "玛薇卡要保护竞技场附近的住民，也想让派蒙把注意力放在当下的防范上。",
+      "outcome": "纳塔将提醒住民戒备，异象的本质及其后果仍有待调查。",
+      "keywords": [
+        "圣火竞技场",
+        "光柱",
+        "玛薇卡",
+        "风险防范"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7751001,
+          "title": "前往圣火竞技场查看情况",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-09-24T02:57:07.901Z",
+    "generator": "Codex collaboration subagent",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

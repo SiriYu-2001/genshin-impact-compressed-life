@@ -1,0 +1,263 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 77668,
+    "slug": "77668_a-winters-night-proper-ladies-tea-party",
+    "title": "冬夜，淑女，茶会",
+    "chapter_num": "",
+    "premise": "安娜丝塔夏从未参加过朋友之间的茶会，旅行者便邀请自己的朋友，让女皇也以朋友身份体验一次。",
+    "central_conflict": "女皇习惯将社交视为公务，宾客之间又有旧日误会、身份顾虑与薇斯纳的追问；茶会要在这些不安中维持朋友相聚的气氛。",
+    "summary": "女皇说自己参加的宴会总在谈公务，旅行者便提议以朋友身份邀请她参加茶会，恰伊卡负责发函。两天后，哥伦比娅随桑多涅到来，希望与女皇消除旧日误会；沃雅妮莎担心呼啸社身份暴露，奥黛塔答应照应。茶会起初因女皇在场而冷场，派蒙借点心开口，桑多涅与阿蕾奇诺也以甜点和茶帮助缓和气氛。女皇承认哥伦比娅已非臣属而是客人，听她讲述离开至冬堡后找到家与朋友，并接受重新认识彼此的提议。女皇继续询问沃雅妮莎和奥黛塔的生活，阿蕾奇诺提议去看剧团演出。薇斯纳转而打探剧团客人的秘密，奥黛塔为沃雅妮莎挡下追问，达妮卡尝试转移话题。虽然场面几度尴尬，女皇最后认为茶会可以再办一次。",
+    "resolution": "哥伦比娅与女皇开始化解误会，茶会在紧张与闲聊中继续；女皇表示有机会愿意再办一次。",
+    "themes": [
+      "友谊",
+      "身份界限",
+      "误会和解",
+      "非公务社交"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77668,
+      "title": "冬夜，淑女，茶会",
+      "summary": "女皇想体验不以公务为目的的茶会，旅行者邀请朋友并让她作为朋友参加。宾客到来时，哥伦比娅希望修复旧日关系，沃雅妮莎则担心自己的身份。茶会先是冷场，随后由甜点、茶与谈话推进，哥伦比娅和女皇相互接纳；薇斯纳的追问又使宾客紧张，但众人仍将茶会进行到底。女皇最后表示可以再办一次。",
+      "turning_point": "女皇将哥伦比娅视为客人而非臣子，听她诉说新的家与朋友，接受双方重新认识。",
+      "outcome": "女皇体验了朋友间的茶会，并愿意再次举行。",
+      "section_ids": [
+        "77668-c00-s01",
+        "77668-c00-s02",
+        "77668-c00-s03",
+        "77668-c00-s04",
+        "77668-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "对于派蒙来说，茶会就是好朋友们聚在一起品茶，吃点心，还能聊聊天。不过，女皇似乎没有类似的经历…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77668-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "旅行者为女皇筹办朋友茶会",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "旅行者",
+        "派蒙",
+        "恰伊卡"
+      ],
+      "summary": "女皇说自己只参加过总要谈公务的宴会，从未体验派蒙所说的朋友茶会。旅行者提议邀请自己的朋友，并把女皇也当作一位朋友请来。女皇同意，恰伊卡负责按旅行者给出的名单写邀请函。",
+      "motivation": "女皇想认识民间的社交方式，旅行者希望帮她体验朋友相聚。",
+      "outcome": "茶会开始筹办，宾客获得邀请。",
+      "keywords": [
+        "茶会",
+        "朋友",
+        "邀请函"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7766801,
+          "title": "前往至冬宫",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77668-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "宾客带着旧误会与身份顾虑到场",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "两天后，茶会开始前",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "「少女」",
+        "「木偶」",
+        "「仆人」",
+        "沃雅妮莎",
+        "奥黛塔"
+      ],
+      "summary": "哥伦比娅随桑多涅到场，表示虽已不再是执行官，仍想与女皇消除之前的误会。沃雅妮莎担心薇斯纳察觉她是呼啸社成员，犹豫是否留下；奥黛塔答应照应她。宾客各有顾虑，旅行者和派蒙开始担心茶会会出差错。",
+      "motivation": "哥伦比娅希望重新面对女皇，沃雅妮莎则想保护自己的身份。",
+      "outcome": "宾客仍留在茶会，潜在的冲突等待现场处理。",
+      "keywords": [
+        "哥伦比娅",
+        "沃雅妮莎",
+        "身份顾虑"
+      ],
+      "source_step_keys": [
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7766804,
+          "title": "等待到两天后",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7766802,
+          "title": "和受邀前来的朋友们打个招呼",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77668-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "点心和茶打破开场时的沉默",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "茶会开始时",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "旅行者",
+        "派蒙",
+        "「木偶」",
+        "「仆人」"
+      ],
+      "summary": "女皇来到后，众人一时无话，派蒙以能否吃点心打开话题。女皇允许宾客尽情享用，桑多涅拿出亲手烘焙的甜点，阿蕾奇诺介绍茶叶与品茶温度。她们的配合让茶会开始有了轻松交谈的机会。",
+      "motivation": "旅行者一行和受邀者希望让女皇体验轻松的聚会。",
+      "outcome": "开场的沉默被打破，宾客有了自然交谈的契机。",
+      "keywords": [
+        "点心",
+        "茶",
+        "冷场"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7766803,
+          "title": "等待茶会开始",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77668-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "哥伦比娅与女皇重新认识彼此",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "茶会进行时",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "「少女」",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "哥伦比娅询问自己能否享用点心，女皇说她已非臣子，而是可以接受主人款待的客人。女皇询问她离开至冬堡后是否找到答案，哥伦比娅说霜月和挪德卡莱都成了自己的家，也结识了新的朋友。她感谢女皇曾给予庇护，并提议从茶会上的朋友开始重新认识，女皇表示认同。",
+      "motivation": "哥伦比娅想化解旧日误会，女皇也愿意了解如今的她。",
+      "outcome": "两人建立重新交往的起点，茶会的朋友身份得到实践。",
+      "keywords": [
+        "哥伦比娅",
+        "家",
+        "重新认识"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7766803,
+          "title": "等待茶会开始",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77668-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "众人化解追问后继续茶会",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "茶会后半段",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "旅行者",
+        "派蒙",
+        "沃雅妮莎",
+        "奥黛塔",
+        "「仆人」",
+        "薇斯纳",
+        "达妮卡",
+        "「少女」",
+        "「木偶」"
+      ],
+      "summary": "女皇同沃雅妮莎、奥黛塔谈及剧团工作，阿蕾奇诺建议去看她们的演出。薇斯纳想活跃气氛，却不断追问剧团客人的秘密，奥黛塔为沃雅妮莎挡下问题，达妮卡也设法转移话题。茶会虽不时尴尬，哥伦比娅仍与桑多涅分享点心，女皇表示以后可以考虑再办一次。",
+      "motivation": "宾客希望维护轻松的气氛，并避免沃雅妮莎的身份受到追查。",
+      "outcome": "茶会顺利进行到结束，女皇愿意再次举办。",
+      "keywords": [
+        "剧团",
+        "薇斯纳",
+        "再办茶会"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7766803,
+          "title": "等待茶会开始",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-09-24T02:57:09.262Z",
+    "generator": "Codex collaboration subagent",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

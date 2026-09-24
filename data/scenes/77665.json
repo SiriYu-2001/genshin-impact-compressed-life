@@ -1,0 +1,218 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 77665,
+    "slug": "77665_the-tsaritsas-new-portrait",
+    "title": "女皇的新画像",
+    "chapter_num": "",
+    "premise": "安娜丝塔夏考虑准许民众制作和收藏自己的画像，请旅行者从身边人的视角寻找可供参考的形象。",
+    "central_conflict": "女皇原本想确定一幅标准画像，但村民、臣属和妖精期待的是不同侧面；她必须决定是否用权威限定民众的想象。",
+    "summary": "女皇提出画像将影响民众如何认识她，请旅行者私下收集意见，以免正式问卷再次变成行政机构的报表。恰伊卡安排旅行者的朋友绘制画像，两天后旅行者先在科洛列夫茨基剧团看到阿罗夏等人构想的「春之女皇」，其温暖形象面向村民的生活。桑多涅、阿蕾奇诺、普契涅拉和潘塔罗涅共同呈上的版本则凸显女皇的冷酷与威严，强调当下至冬所需的威慑力。恰伊卡转达家乡妖精希望更亲近女皇的想法，带来一幅可爱的画像。女皇意识到不同人看到的是自己的不同侧面，决定把三幅画分别陈列在适合的地点，并准许人们自由想象和描绘她。",
+    "resolution": "三幅画像都成为可用的参考，女皇放弃只设一个标准形象的想法，允许民众按各自的期待作画。",
+    "themes": [
+      "君主形象",
+      "多元视角",
+      "民众期待",
+      "表达自由"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77665,
+      "title": "女皇的新画像",
+      "summary": "女皇请旅行者从朋友和民众那里了解自己的画像应是什么模样，并由恰伊卡安排绘制。剧团带来「春之女皇」，几名执行官呈上威严的版本，恰伊卡则带来妖精们希望亲近女皇的画像。女皇最终让三幅画各得其所，不再限定民众如何描绘自己。",
+      "turning_point": "女皇认识到三幅不同的画像都回应了真实的民众期待，因而改变只选一幅标准画像的计划。",
+      "outcome": "三幅画像获指定陈列地点，民众作画不再受单一形象限制。",
+      "section_ids": [
+        "77665-c00-s01",
+        "77665-c00-s02",
+        "77665-c00-s03",
+        "77665-c00-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "女皇接受了臣子的建议，决定为自己制作一幅新的画像。但她仍有所顾虑，似乎是在思考画板之外的事…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77665-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "女皇委托旅行者寻找画像形象",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "旅行者",
+        "派蒙",
+        "恰伊卡"
+      ],
+      "summary": "女皇告诉旅行者，民间制作和收藏她的画像将获许可，她需要先准备参考形象。由于画像会左右民众对她的印象，她请旅行者从自己的朋友入手寻找答案，不采用可能由官僚机构代答的公开问卷。恰伊卡代写邀请信并安排画材和画师，随后等待各方完成画像。",
+      "motivation": "女皇希望通过民众真实的期待决定画像的呈现方式。",
+      "outcome": "剧团、执行官及恰伊卡的家乡分别准备提出画像方案。",
+      "keywords": [
+        "标准画像",
+        "民间意见",
+        "邀请信"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7766501,
+          "title": "前往至冬宫",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77665-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "剧团描绘温暖的春之女皇",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "两天后",
+      "locations": [
+        "科洛列夫茨基剧团"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "阿罗夏",
+        "沃雅妮莎",
+        "奥黛塔",
+        "画师"
+      ],
+      "summary": "旅行者前往剧团查收阿罗夏等人委托绘制的画像。画师将女皇置于花草繁盛的春景中，阿罗夏希望村民把画挂在家中时会感到温暖。沃雅妮莎觉得这位「春之女皇」美丽，奥黛塔也认为这一答案值得转达。",
+      "motivation": "阿罗夏等人以村民的生活感受回答女皇应如何被看见。",
+      "outcome": "旅行者收下「春之女皇」，准备呈给女皇。",
+      "keywords": [
+        "春之女皇",
+        "剧团",
+        "村民"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7766502,
+          "title": "前往科洛列夫茨基剧团",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77665-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "执行官呈上威严的君主画像",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "两天后",
+      "locations": [
+        "火炬书行"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "「木偶」",
+        "「仆人」",
+        "「公鸡」",
+        "「富人」"
+      ],
+      "summary": "旅行者在火炬书行发现普契涅拉与潘塔罗涅也加入了桑多涅、阿蕾奇诺的画像方案。四人呈上冷酷而严肃的女皇形象，认为威严能震慑敌对势力，阿蕾奇诺尤为强调当下至冬需要有威慑力的领袖。潘塔罗涅另提议将发行权收归国有以补贴国库。",
+      "motivation": "执行官们希望画像体现治理和守护至冬所需的威望。",
+      "outcome": "旅行者获得第二幅与春景方案形成对照的画像。",
+      "keywords": [
+        "执行官",
+        "威严",
+        "威慑力"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7766504,
+          "title": "前往火炬书行",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77665-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "女皇采纳三幅画像并开放创作",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "收集画像后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "恰伊卡",
+        "旅行者",
+        "派蒙",
+        "沃雅妮莎"
+      ],
+      "summary": "恰伊卡带来家乡妖精构想的可爱画像，解释他们希望更亲近女皇。女皇衡量村民、政务体系与妖精的不同视角后，决定将三幅画分别悬于科洛列夫茨基剧团、格鲁波夫厅堂和极星区长街。她认为自己不应限制民众看见哪一面，因而也不再限制人们如何作画；沃雅妮莎另希望旅行者日后讲述成为特使的经历。",
+      "motivation": "女皇希望回应不同群体的期待，恰伊卡则传达妖精们的亲近愿望。",
+      "outcome": "三幅画都成为参考，民众可以自由描绘女皇。",
+      "keywords": [
+        "妖精",
+        "三幅画像",
+        "自由作画"
+      ],
+      "source_step_keys": [
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7766505,
+          "title": "查看恰伊卡准备的画像",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7766503,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-09-24T02:57:08.889Z",
+    "generator": "Codex collaboration subagent",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

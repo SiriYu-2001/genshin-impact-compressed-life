@@ -1,0 +1,172 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 77669,
+    "slug": "77669_the-tsaritsas-chess-game-i",
+    "title": "女皇的棋局·其一",
+    "chapter_num": "",
+    "premise": "女皇虽已与旅行者合作，仍想了解这位来自世界之外的旅人，于是请其一起推演一盘棋局。",
+    "central_conflict": "女皇眼前的残局里白方兵力悬殊、前途黯淡；旅行者却从棋子的行动与意志中看见逻辑推演之外的胜机。",
+    "summary": "女皇请旅行者来到至冬宫，表示想借一盘残局了解其看待世界的方式。她拿出第一代魔女J约安娜·伊万诺夫娜赠送的象棋；故人曾希望她有朝一日能从无尽的棋局中抽身，让这副棋只作收藏。女皇说明自己数百年来仍在研究残局，并展示白方棋子稀少、失去王后，黑方王后逼近的局面。旅行者执黑方王后前进，女皇以白方国王作诱饵引开主教，再靠其余棋子包围黑方王后。女皇认为自己的解法至此而止，旅行者却认为白方仍可能取胜，因为那些看似逃窜的棋子都在以意志完成有意义的行动。女皇由此增进了对旅行者的了解，将其擢升为「枢密顾问」，预告日后会交付更重要的事。",
+    "resolution": "棋局没有给出最终胜负，女皇认可旅行者看重意志的判断，提升其顾问职权。",
+    "themes": [
+      "棋局隐喻",
+      "意志",
+      "故人祝愿",
+      "相互了解"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77669,
+      "title": "女皇的棋局·其一",
+      "summary": "女皇以故人所赠的象棋残局试探旅行者对世界和困境的看法。她讲述约安娜希望自己终能从漫长的棋局中抽身，再示范白方如何牺牲国王的安全以包围黑方王后。旅行者认为白方的每步行动都含有取胜的意志，不能只凭棋面劣势断言失败。女皇据此认可其判断，授予更高的「枢密顾问」职衔。",
+      "turning_point": "旅行者把女皇认为已经推演到尽头的残局，看作仍能由棋子的意志继续争胜的局面。",
+      "outcome": "旅行者获擢升为「枢密顾问」，女皇表示以后有更重要的事要交付。",
+      "section_ids": [
+        "77669-c00-s01",
+        "77669-c00-s02",
+        "77669-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "女皇邀请你进行一次对弈，并将此当作了解你的手段。不过，与其说这是一次对弈，不如说这是一次长谈…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77669-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "女皇借故人赠棋了解旅行者",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "已达成合作后，时间未明确",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "旅行者",
+        "派蒙",
+        "恰伊卡"
+      ],
+      "summary": "女皇说虽已与旅行者合作，仍想了解其对世界的看法，遂邀其推演残局。她拿出约安娜·伊万诺夫娜赠送的象棋，回忆故人盼她有一天能从无尽棋局中抽身，让棋只作陈设。女皇说自己数百年来仍未摆脱眼前的棋局。",
+      "motivation": "女皇希望从对弈中了解旅行者，也借棋表达自己长期面对的困局。",
+      "outcome": "两人开始以象棋残局讨论各自如何看待险境。",
+      "keywords": [
+        "约安娜·伊万诺夫娜",
+        "象棋",
+        "故人"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7766902,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77669-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "白方以国王为饵围住黑方王后",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "推演残局时",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "女皇展示白方失去王后、棋子较少，而黑方王后和主教正逼近的残局，并让旅行者操纵黑方王后前进。她以白方国王为诱饵引开黑方主教，再用其余棋子包围黑方王后。尽管白方扳回一步，黑方国王仍未受威胁，女皇认为自己的解法已经到此为止。",
+      "motivation": "女皇通过险境中的棋路观察旅行者如何思考与行动。",
+      "outcome": "局面显示白方尚有战果，但最终胜负仍未确定。",
+      "keywords": [
+        "残局",
+        "王后",
+        "围攻"
+      ],
+      "source_step_keys": [
+        "1",
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7766902,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "0",
+          "id": 7766901,
+          "title": "前往至冬宫",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77669-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "旅行者以意志解释白方胜机",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "残局推演结束时",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "旅行者",
+        "派蒙",
+        "恰伊卡"
+      ],
+      "summary": "旅行者认为白方国王的诱敌与其余棋子的每一步都促成了围攻，黑方王后才会误判对方只是在逃窜。旅行者由此相信白方仍有胜机，强调意志也能左右棋局。女皇认可其面对强敌与绝境的经历足以支撑这种判断，随即擢升其为「枢密顾问」，预告将交付更重要的事。",
+      "motivation": "旅行者要说明弱势一方为何仍能继续争胜，女皇要判断其本色。",
+      "outcome": "女皇增进对旅行者的了解，并提升其职权。",
+      "keywords": [
+        "意志",
+        "枢密顾问",
+        "胜机"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7766901,
+          "title": "前往至冬宫",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-09-24T02:57:09.385Z",
+    "generator": "Codex collaboration subagent",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

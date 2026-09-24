@@ -1,0 +1,177 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 77667,
+    "slug": "77667_a-gift-for-the-children",
+    "title": "送给孩子们的礼物",
+    "chapter_num": "",
+    "premise": "女皇想知道至冬的孩子喜欢什么礼物，请旅行者隐去委托者身份调查，以得到真实回答。",
+    "central_conflict": "孩子们喜欢的「吞吞鲸」因物资短缺而停产，普通家庭买不起海外进口品；女皇必须将了解喜好转化为可负担的供给。",
+    "summary": "女皇请旅行者调查孩子们最喜欢的礼物，并要求不要透露问题出自她，以免受赐者只会表达感激。旅行者和派蒙前往海屑镇询问自称玩具商人的达达利亚，他又向托克和冬妮娅了解喜好。孩子们偏爱能动、可爱、可作伙伴的玩具，尤其是「吞吞鲸」。达达利亚说至冬的玩具因物资短缺早已停产，需要两天才能通过特殊渠道取得样品。两天后众人在至冬宫展示样品，女皇得知这种玩具原本便宜且适合孩子们一起玩，如今进口价格却超出普通家庭承受能力。她命恰伊卡评估成本后拨款重启生产线，并将孩子们的笑容视为至冬应有的颜面。",
+    "resolution": "女皇下令评估成本并为恢复「吞吞鲸」生产安排资金；生产和赠送尚未在原文中实际完成。",
+    "themes": [
+      "儿童愿望",
+      "物资短缺",
+      "公共支出",
+      "君主责任"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77667,
+      "title": "送给孩子们的礼物",
+      "summary": "女皇不愿让受赐者的客套遮蔽真实喜好，派旅行者私下调查孩子们想要的礼物。达达利亚的弟妹推荐「吞吞鲸」，但样品需通过特殊渠道取得，因为至冬玩具生产早已因物资短缺中断。女皇在两天后看到样品与价格困境，决定评估并拨款重启生产。",
+      "turning_point": "达达利亚说明原本廉价的玩具已经停产，普通家庭难以承担进口价格。",
+      "outcome": "恰伊卡接到评估成本并安排恢复生产资金的口谕。",
+      "section_ids": [
+        "77667-c00-s01",
+        "77667-c00-s02",
+        "77667-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "至冬的孩子们最喜欢什么样的礼物？女皇也会思考这个问题，而她需要你帮忙寻找答案…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77667-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "女皇请旅行者暗中调查礼物",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "旅行者",
+        "派蒙",
+        "恰伊卡"
+      ],
+      "summary": "女皇询问至冬孩子最喜欢什么礼物，旅行者和派蒙意识到需要实地调查。她要求隐去自己的身份，因为受赐者常常只会感恩，无法让她看出礼物是否真正受欢迎。派蒙想到去海屑镇寻找熟悉玩具的人。",
+      "motivation": "女皇想通过孩子们的喜好了解民众，又需要避免身份影响答案。",
+      "outcome": "旅行者决定去海屑镇寻找线索。",
+      "keywords": [
+        "礼物",
+        "匿名调查",
+        "孩子"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7766701,
+          "title": "前往至冬宫",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77667-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "达达利亚找到孩子们喜欢的玩具",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "调查当天",
+      "locations": [
+        "海屑镇"
+      ],
+      "characters": [
+        "旅行者",
+        "派蒙",
+        "「公子」",
+        "托克",
+        "冬妮娅"
+      ],
+      "summary": "旅行者和派蒙在海屑镇向达达利亚询问玩具，达达利亚请托克和冬妮娅说出孩子们的喜好。两人提到能动、可爱、适合做伙伴的「吞吞鲸」，邻家的孩子也想借来玩。达达利亚解释玩具因物资短缺已在至冬停产，需用特殊渠道花两天取得样品。",
+      "motivation": "旅行者要取得不受女皇身份影响的儿童意见，达达利亚愿意帮助朋友。",
+      "outcome": "调查锁定「吞吞鲸」，众人约定两天后查看样品。",
+      "keywords": [
+        "海屑镇",
+        "吞吞鲸",
+        "停产"
+      ],
+      "source_step_keys": [
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7766702,
+          "title": "前往海屑镇",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7766704,
+          "title": "等待到两天后",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77667-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "女皇决定资助吞吞鲸恢复生产",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "两天后",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "旅行者",
+        "派蒙",
+        "「公子」",
+        "托克",
+        "冬妮娅",
+        "恰伊卡"
+      ],
+      "summary": "达达利亚带着弟妹和「吞吞鲸」样品来到至冬宫，女皇也到场查看。她得知玩具原本便宜、能供孩子们一起玩，但停产后普通家庭买不起海外货，便命恰伊卡评估成本后拨款重启生产线。她表示愿把开支用在更有意义的地方，认为孩子们的笑容才是冰之国应有的颜面，也不再纠结自己的情感是否受到天理影响。",
+      "motivation": "女皇不愿让物资短缺夺走孩子们本可拥有的童年乐趣。",
+      "outcome": "恢复生产的评估和拨款获下令，孩子们当面向女皇致谢。",
+      "keywords": [
+        "吞吞鲸",
+        "生产线",
+        "孩子们的笑容"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7766703,
+          "title": "返回至冬宫",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-09-24T02:57:09.137Z",
+    "generator": "Codex collaboration subagent",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

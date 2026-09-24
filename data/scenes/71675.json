@@ -1,0 +1,169 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 71675,
+    "slug": "71675_little-figure-exorcism",
+    "title": "小小藤人驱邪术",
+    "chapter_num": "",
+    "premise": "蓝颖在美食街展示模仿族姐蓝砚手艺编出的驱邪藤人，希望得到旅行者和派蒙的评价。",
+    "central_conflict": "蓝颖担心自己的手艺不及蓝砚，而小邪气团又会危害普通人、分散方士处理强大邪祟的精力。",
+    "summary": "在美食街，蓝颖因觉得自己的编织手艺远逊于族姐蓝砚而缺乏自信，瑶露劝她寻找自己的风格。旅行者和派蒙称赞蓝颖以蓝砚形象编成的驱邪藤人，瑶露进一步说明藤人内有可收集、封存邪气的机关核心。蓝颖解释，小邪气团会使人患病，方士又忙于对付更强的邪祟，于是她向蓝砚学艺，和她一起制作能吸收仙力、处理零散邪气的藤人。曾受邪气致病的瑶露得到蓝颖帮助后，带她来美食街按成本价推广藤人。蓝颖把藤人赠给蓝砚的朋友，瑶露说明蓝家还会向使用藤人驱散邪气的人支付报酬，旅行者与派蒙准备试用。",
+    "resolution": "蓝颖的作品得到肯定，驱邪藤人也交到旅行者与派蒙手中；两人准备寻找小邪气团，验证它的功效。",
+    "themes": [
+      "传承与创新",
+      "自信",
+      "驱邪助人",
+      "方士与民众协作"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 71675,
+      "title": "小小藤人驱邪术",
+      "summary": "蓝颖向旅行者和派蒙展示自己编出的驱邪藤人，在担心不及蓝砚的同时获得他们与瑶露的肯定。她说明藤人能借机关核心封存零散邪气，意在替忙于对付强敌的方士分担工作，也帮助受到小邪气侵扰的人。曾被她救助的瑶露协助推广，蓝颖将藤人赠予旅行者，并告知使用者可领取蓝家提供的报酬。",
+      "turning_point": "藤人从被评价的手工作品，变成帮助民众处理小邪气团的实用工具。",
+      "outcome": "旅行者与派蒙得到驱邪藤人，决定试着用它处理小邪气团。",
+      "section_ids": [
+        "71675-c00-s01",
+        "71675-c00-s02",
+        "71675-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "一位将蓝砚称作「姐姐」的女孩似乎制作出了不同寻常的藤人，正在美食街上进行推广…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "71675-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "蓝颖展示亲手编成的藤人",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "美食街"
+      ],
+      "characters": [
+        "蓝颖",
+        "瑶露",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "在美食街，蓝颖因自己的编织手艺不如族姐蓝砚而沮丧，瑶露劝她不必照搬蓝砚的风格。旅行者与派蒙得知两人的亲属关系，看到蓝颖以蓝砚形象编成的驱邪藤人，并肯定它的外观和做工。",
+      "motivation": "蓝颖想请蓝砚的朋友评价自己向族姐学习后编出的作品。",
+      "outcome": "蓝颖获得鼓励，瑶露开始介绍藤人的实际本领。",
+      "keywords": [
+        "蓝颖",
+        "蓝砚",
+        "驱邪藤人",
+        "编织手艺"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7167501,
+          "title": "参与蓝颖和瑶露的讨论",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71675-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "藤人代方士清理零散邪气",
+      "narrative_role": "revelation",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "美食街"
+      ],
+      "characters": [
+        "蓝颖",
+        "瑶露",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "瑶露说明藤人内部装有奇门术法的机关核心，可以收集并封存邪气；蓝颖补充它只能处理较弱、零散的小邪气团。由于这类邪气会使人患病，而方士常忙于对付更强的邪祟，蓝颖便向蓝砚学习，与她一起做出能吸收仙力、处理小邪气的藤人。瑶露曾受小邪气侵扰而生病，得到蓝颖帮助后恢复，遂带她来美食街按成本价推广藤人。",
+      "motivation": "蓝颖希望减轻方士负担，并让普通人免受零散邪气侵害；瑶露希望更多人用上帮助过自己的藤人。",
+      "outcome": "旅行者与派蒙明白藤人的用途及推广缘由。",
+      "keywords": [
+        "机关核心",
+        "小邪气团",
+        "仙力",
+        "瑶露"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7167501,
+          "title": "参与蓝颖和瑶露的讨论",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "71675-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "旅行者获赠藤人准备试用",
+      "narrative_role": "transition",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "美食街"
+      ],
+      "characters": [
+        "蓝颖",
+        "瑶露",
+        "旅行者",
+        "派蒙"
+      ],
+      "summary": "旅行者表示有意得到驱邪藤人，蓝颖因他们是蓝砚的朋友而免费赠送。瑶露说蓝家会给使用藤人驱散邪气的人支付报酬，并请他们处理小邪气团后前来领取。旅行者与派蒙因此决定试用藤人。",
+      "motivation": "旅行者与派蒙想尝试帮助清理小邪气团；蓝颖与瑶露希望藤人发挥作用。",
+      "outcome": "旅行者与派蒙获得藤人，后续行动指向清理小邪气团。",
+      "keywords": [
+        "赠送",
+        "报酬",
+        "试用",
+        "驱邪藤人"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7167501,
+          "title": "参与蓝颖和瑶露的讨论",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-09-24T02:57:08.149Z",
+    "generator": "Codex collaboration subagent",
+    "model": "gpt-6-sol",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

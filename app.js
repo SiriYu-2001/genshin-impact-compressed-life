@@ -231,26 +231,33 @@ function renderMetrics(bundle) {
 function renderContinuity(sceneId) {
   const card = document.querySelector('#continuity-card')
   const note = document.querySelector('#scene-resolution-note')
-  const continuation = state.links[String(sceneId)]?.continuation ?? []
-  card.hidden = continuation.length === 0
+  const links = state.links[String(sceneId)] ?? {}
+  const previous = links.previous ?? []
+  const continuation = links.continuation ?? []
+  const relationships = [
+    ...previous.map((relationship) => ({ relationship, isPrevious: true })),
+    ...continuation.map((relationship) => ({ relationship, isPrevious: false })),
+  ]
+  card.hidden = relationships.length === 0
   note.hidden = continuation.length === 0
-  if (continuation.length === 0) {
+  if (relationships.length === 0) {
     replaceChildren('#continuity-list')
     return
   }
 
   const fragment = document.createDocumentFragment()
-  for (const relationship of continuation) {
+  for (const { relationship, isPrevious } of relationships) {
     const followup = { ...(state.linkNodes[String(relationship.scene_id)] ?? {}), ...relationship }
     const item = element('article', 'continuity-item')
     const header = element('div', 'continuity-item-head')
     const copy = element('div', 'continuity-title')
-    copy.append(element('span', '', followup.distance === 1 ? '直接承接' : `后续第 ${followup.distance} 篇`))
+    copy.append(element('span', '', isPrevious ? '前篇回顾' : (followup.distance === 1 ? '直接承接' : `后续第 ${followup.distance} 篇`)))
     copy.append(element('h4', '', followup.full_title || followup.title))
-    const relation = element('span', `continuity-relation confidence-${followup.confidence}`, followup.relation_label)
+    const relationLabel = isPrevious ? followup.relation_label.replace('同系列后篇', '同系列前篇') : followup.relation_label
+    const relation = element('span', `continuity-relation confidence-${followup.confidence}`, relationLabel)
     header.append(copy, relation)
     item.append(header, element('p', '', followup.resolution))
-    const button = element('button', 'continuity-link', '查看这篇剧情 →')
+    const button = element('button', 'continuity-link', isPrevious ? '← 查看前篇剧情' : '查看这篇剧情 →')
     button.type = 'button'
     button.addEventListener('click', () => selectScene(followup.scene_id))
     item.append(button)
