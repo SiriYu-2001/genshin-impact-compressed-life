@@ -1,0 +1,94 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 77321,
+    "slug": "77321_the-kind-soul-who-brings-bread",
+    "title": "送面包的好心人",
+    "chapter_num": "",
+    "premise": "旅人与派蒙接受商人奥布勒诺的送货委托。",
+    "central_conflict": "珍珠价格与所谓水妖眼泪的来历受到质疑，但买主有自己的判断。",
+    "summary": "旅人与派蒙受奥布勒诺委托，将珍珠送到钓鱼的奥特温手中。普鲁斯坚认为商人的货物价格虚高，劝奥特温退货。奥特温表示这是给妻子的礼物，认为珍珠品质不错，也相信它的故事。奥特温收下珍珠，将包装盒送给旅人并继续钓鱼。",
+    "resolution": "送货完成，奥特温准备为珍珠另订包装后送给妻子。",
+    "themes": [
+      "礼物",
+      "价值",
+      "判断"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77321,
+      "title": "送面包的好心人",
+      "summary": "旅人与派蒙替奥布勒诺送珍珠给奥特温。面对普鲁斯坚对价格和来历的质疑，奥特温仍决定收下，作为送给妻子的礼物。",
+      "turning_point": "奥特温不接受退货建议，坚持留下珍珠。",
+      "outcome": "珍珠交到买主手中，旅人得到包装盒。",
+      "section_ids": [
+        "77321-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "车站内，一位鬼鬼祟祟的商人拉住了我们…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77321-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "旅人送珍珠给钓鱼的买主",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "车站附近",
+        "地点未明确"
+      ],
+      "characters": [
+        "奥布勒诺",
+        "奥特温",
+        "普鲁斯坚",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "时间未明确，旅人和派蒙受商人奥布勒诺委托，向正在钓鱼的奥特温送去珍珠。普鲁斯坚认为珍珠价格虚高，要带他退货；奥特温则坚持珍珠品质不错，相信它是水妖的眼泪，打算将其作为礼物送给喜欢珠宝和故事的妻子。",
+      "motivation": "完成送货委托，并确认买主对珍珠的态度",
+      "outcome": "奥特温收下珍珠，将原包装盒送给旅人，继续钓鱼。",
+      "keywords": [
+        "珍珠",
+        "送货",
+        "礼物"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7732101,
+          "title": "与鬼鬼祟祟的商人对话",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7732103,
+          "title": "将珍珠送到货主手中",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:27.000Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,1592 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 1705,
+    "slug": "1705_a-yesterday-sent-from-beyond",
+    "title": "寄自彼岸的昨日",
+    "chapter_num": "第七章 第六幕",
+    "premise": "圣土化席卷提瓦特，各国必须完成僭续试炼，为世界争取生机。旅人协助各地应灾并见证试炼。",
+    "central_conflict": "各国以各自的理念回应天理的试炼，却发现暂停圣土化并不意味着世界获救。",
+    "summary": "七国在圣土化与魔物灾情中合作，旅人先后见证各地试炼。蒙德、稻妻、须弥与纳塔分别以自由、永恒、智慧与战争回应试炼，至冬女皇也以慈爱治愈瘟疫并质问法涅斯。试炼完成后，圣土化暂时停止，七国代表抵达天空岛神之座。诺迦法揭示42天后仍将重置文明，原神将被保留为引导下一轮文明的工具。各国拒绝这一安排并决意反抗，同时寻找失踪的火神之心。",
+    "resolution": "七国共同面对42天后的毁灭期限，火神之心仍是关键未解问题。",
+    "themes": [
+      "团结",
+      "自由",
+      "文明",
+      "反抗",
+      "生命"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 7023,
+      "title": "僭越者的试炼",
+      "summary": "圣土化引发遍及提瓦特的魔物灾情，旅人按七国共享情报前往各地见证试炼，并返回至冬交流。米提亚等人一边推进武器研究，一边得到友人的鼓励。回溯中，女皇查明瘟疫源于被释放的妖精怨念，以慈爱权能救治并质问法涅斯的试炼。各国试炼完成后，圣土化暂停，女皇邀旅人前往光芒汇聚之处。",
+      "turning_point": "瘟疫得到解除，至冬试炼完成",
+      "outcome": "众人准备与各国代表会合",
+      "section_ids": [
+        "1705-c00-s01",
+        "1705-c00-s02",
+        "1705-c00-s03",
+        "1705-c00-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在璃月的率先尝试后，你们掌握了足够的有关「僭续试炼」的信息。这或许是停下「圣土化」的唯一手段，必须马上行动…",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 7029,
+      "title": "风和自由",
+      "summary": "蒙德备战并商议自由的试炼，温迪与旅人侦察雪山丘丘人，发现地脉逸散的亡国之声引起它们的共鸣。蒙德人认为风是祝福，法尔伽准备乘风入钉，温迪最终带着他们的答案先行。温迪向光之镜阐述自由与牺牲，并完成试炼；蒙德随后继续应对魔物。",
+      "turning_point": "温迪完成试炼",
+      "outcome": "蒙德获得希望但未解除所有威胁",
+      "section_ids": [
+        "1705-c01-s01",
+        "1705-c01-s02",
+        "1705-c01-s03",
+        "1705-c01-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "你决定前往蒙德，在协助当地人对抗圣土化的同时，了解「僭续试炼」的情况吧。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": 7025,
+      "title": "雷和永恒",
+      "summary": "稻妻应对圣土化扩散，影决定解放被封印的原始雷元素力，以证明永恒的转变。希诺宁与那维莱特帮助改造将军人偶，影在清籁岛收容雷鸟之力并期待日后和解。她独赴鹤观，以结合自身及原始雷力的一刀完成试炼，众人继续应灾。",
+      "turning_point": "影具备前往清籁岛的条件",
+      "outcome": "试炼符文消失，稻妻继续处理灾情",
+      "section_ids": [
+        "1705-c02-s01",
+        "1705-c02-s02",
+        "1705-c02-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_02.json",
+      "source_description": "你决定前往稻妻，在协助当地人对抗圣土化的同时，了解「僭续试炼」的情况吧。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": 7026,
+      "title": "草和智慧",
+      "summary": "纳西妲与旅人调查判罚之钉附近的神秘声音，借阿如计算出进入梦境的线索。梦境推演过去应对正机之神和阿佩普的不同抉择，纳西妲最终以生命为目的、智慧的本质是分歧来回应试炼。旅人另遇光之镜的异常，众人醒来后发现试炼符号消失。",
+      "turning_point": "梦境路径通向试炼核心",
+      "outcome": "须弥试炼完成，光之镜的异常留下疑问",
+      "section_ids": [
+        "1705-c03-s01",
+        "1705-c03-s02",
+        "1705-c03-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_03.json",
+      "source_description": "你决定前往须弥，在协助当地人对抗圣土化的同时，了解「僭续试炼」的情况吧。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 4,
+      "chapter_id": 7027,
+      "title": "火和战争",
+      "summary": "夜神受到圣土化影响，离开纳塔的人们因庇护中断而失忆。茜特菈莉与玛薇卡借六大部族凝聚的意志打开短暂通道，玛薇卡驾车进入夜神之国，连接圣火救援夜神。她以战争中的牺牲、古名与创造回应试炼，归来记录时发现有关原神的信息。",
+      "turning_point": "夜神不再孤立，战争试炼完成",
+      "outcome": "有关原神的发现成为后续线索",
+      "section_ids": [
+        "1705-c04-s01",
+        "1705-c04-s02",
+        "1705-c04-s03",
+        "1705-c04-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_04.json",
+      "source_description": "你决定前往纳塔，在协助当地人对抗圣土化的同时，了解「僭续试炼」的情况吧。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 5,
+      "chapter_id": 7028,
+      "title": "叩响终幕之门",
+      "summary": "七国代表在沉玉谷会合并进入天空岛神之座，听取诺迦法的通告。试炼虽暂停圣土化，文明仍将在42天后重置，原神则会被保留为引导下一轮文明的工具。代表们拒绝提议，决定联合反抗并寻找失踪的火神之心。",
+      "turning_point": "重置期限与原神的命运被揭露",
+      "outcome": "七国以42天为期限共同面对危机",
+      "section_ids": [
+        "1705-c05-s01",
+        "1705-c05-s02",
+        "1705-c05-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_05.json",
+      "source_description": "判罚之钉射出的光芒交汇在一起，降落在了沉玉谷的某处，这仿佛是某种邀请。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "1705-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "七国应对灾情并选择试炼",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "圣土化扩散期间",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "瓦列里"
+      ],
+      "summary": "瓦列里说明圣土化引发魔物潮，各国正调配资源并共享情报。旅人依照联合战线情报选择国度，见证各地试炼后返回更新情报。",
+      "motivation": "缓解各地危机并推进试炼",
+      "outcome": "各国试炼得以按所选顺序推进",
+      "keywords": [
+        "圣土化",
+        "战线情报",
+        "试炼"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 702301,
+          "title": "向瓦列里了解提瓦特各处的情况",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 702302,
+          "title": "选择一个国度作为目的地",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 702303,
+          "title": "前往选择的国度，见证试炼经过",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 702305,
+          "title": "选择下一个将要前往的国度",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 702306,
+          "title": "前往选择的国度，见证试炼经过",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 702307,
+          "title": "回到至冬宫分享与更新情报",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1705-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "友人探望米提亚并互相鼓励",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "数场试炼进行期间",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "米提亚",
+        "诺伊",
+        "沃雅妮莎",
+        "奥黛塔",
+        "阿罗夏",
+        "瓦列里"
+      ],
+      "summary": "旅人得知至冬降下金雪，瘟疫消失，第三个符号也随之消失。剧团友人探望承受研究压力的米提亚，诺伊参与技术研讨；众人以舞台合作互相鼓励，随后旅人继续前往其他国度。",
+      "motivation": "分工攻克试炼并支持武器研究",
+      "outcome": "米提亚获得鼓励，旅人继续见证试炼",
+      "keywords": [
+        "金雪",
+        "合作",
+        "研究"
+      ],
+      "source_step_keys": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 702308,
+          "title": "与同伴们交谈",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 702309,
+          "title": "选择下一个将要前往的国度",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 702310,
+          "title": "前往选择的国度，见证试炼经过",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 702312,
+          "title": "选择下一个将要前往的国度",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 702313,
+          "title": "前往选择的国度，见证试炼经过",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 702314,
+          "title": "再度返回至冬宫",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1705-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "女皇查明瘟疫源自妖精怨念",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "至冬试炼完成前",
+      "locations": [
+        "至冬宫",
+        "隔离处"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "「丑角」",
+        "诺伊"
+      ],
+      "summary": "回溯中，女皇与丑角得知诺伊怀疑瘟疫源于黄金国遗留物，并一同探访病患。诺伊发现圣土化释放了冰封的古代妖精怨念，女皇以能化解诅咒的「慈爱」权能治疗；她在试炼中指责法涅斯先施加痛苦再要求治愈，将受限制的爱当作审判。",
+      "motivation": "救治病患并回应慈爱的试炼",
+      "outcome": "瘟疫得到解除，至冬试炼完成",
+      "keywords": [
+        "妖精怨念",
+        "慈爱",
+        "法涅斯"
+      ],
+      "source_step_keys": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "12",
+          "id": 702315,
+          "title": "得知女皇与诺伊的会面",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 702317,
+          "title": "得知女皇一行人去探望病患",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 702318,
+          "title": "知晓女皇的权能",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 702319,
+          "title": "知晓女皇如何解决试炼",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 702320,
+          "title": "知晓女皇如何解决试炼",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1705-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "试炼完成后众人赴光芒汇聚处",
+      "narrative_role": "transition",
+      "importance": 3,
+      "when": "各国试炼完成后",
+      "locations": [
+        "至冬"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "安娜丝塔夏"
+      ],
+      "summary": "判罚之钉的光汇聚，至冬的圣土化暂停扩散。女皇认为沉睡的天理不会亲自交流，并邀旅人前往光芒汇聚之处。",
+      "motivation": "确认试炼结果并了解后续通告",
+      "outcome": "众人准备与各国代表会合",
+      "keywords": [
+        "光柱",
+        "圣土化暂停"
+      ],
+      "source_step_keys": [
+        "17",
+        "18",
+        "19"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "17",
+          "id": 702321,
+          "title": "回到至冬",
+          "is_hidden": false
+        },
+        {
+          "key": "18",
+          "id": 702323,
+          "title": "见证试炼引起的结果",
+          "is_hidden": false
+        },
+        {
+          "key": "19",
+          "id": 702324,
+          "title": "与女皇交谈",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1705-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "蒙德备灾并商议自由的答案",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "圣土化扩散期间",
+      "locations": [
+        "蒙德城",
+        "西风骑士团"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "凯亚",
+        "琴",
+        "法尔伽",
+        "温迪",
+        "迪卢克",
+        "艾莉丝",
+        "尼可",
+        "安柏"
+      ],
+      "summary": "凯亚说明骑士团正在应对魔物并准备疏散，寒天之钉的紊乱风声令市民不安。骑士团商议如何以自由为答案进入钉内，温迪希望蒙德人先作答；安柏报告雪山丘丘人集结，温迪与旅人前去侦察。",
+      "motivation": "保护民众并寻找试炼入口",
+      "outcome": "众人分头研究答案与调查丘丘人",
+      "keywords": [
+        "自由",
+        "备灾",
+        "雪山"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 702913,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 702901,
+          "title": "前往蒙德城",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 702915,
+          "title": "前往骑士团",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 702902,
+          "title": "前往骑士团",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1705-c01-s02",
+      "chapter_index": 1,
+      "order": 2,
+      "title": "风中亡国之声触动丘丘人",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "侦察期间",
+      "locations": [
+        "龙脊雪山"
+      ],
+      "characters": [
+        "温迪",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "众人发现丘丘人的工事朝向雪山，风中传来沙尔·芬德尼尔覆灭时的哀号。温迪认为地脉信息逸散唤起丘丘人毁灭家园的共鸣，并坦言受规则约束的自由本身也是诅咒，因而相信蒙德人更适合回答。",
+      "motivation": "辨明丘丘人的威胁并理解自由",
+      "outcome": "蒙德城不受丘丘人进攻，温迪等待民众的答案",
+      "keywords": [
+        "亡国",
+        "丘丘人",
+        "自由"
+      ],
+      "source_step_keys": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 702903,
+          "title": "赶赴龙脊雪山",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 702904,
+          "title": "靠近行为异常的丘丘人",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 702905,
+          "title": "飞向空中侦察",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 702906,
+          "title": "观察丘丘人的行为，收集情报",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 702916,
+          "title": "返回骑士团分享侦察结果",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1705-c01-s03",
+      "chapter_index": 1,
+      "order": 3,
+      "title": "温迪带着蒙德人的祝福入钉",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "侦察归来后",
+      "locations": [
+        "西风骑士团",
+        "龙脊雪山",
+        "寒天之钉"
+      ],
+      "characters": [
+        "法尔伽",
+        "温迪",
+        "琴",
+        "迪卢克",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "法尔伽等人以风为祝福，决定乘风进入寒天之钉，温迪同行并在法尔伽理解下先行。温迪向光之镜说明真正的自由在蒙德萌芽，也需要部分人的牺牲，并将祝福留给众人。",
+      "motivation": "以蒙德人和神共同的理解回应自由",
+      "outcome": "温迪完成试炼",
+      "keywords": [
+        "风",
+        "祝福",
+        "自由"
+      ],
+      "source_step_keys": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "9",
+          "id": 702907,
+          "title": "返回骑士团分享侦察结果",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 702908,
+          "title": "前往龙脊雪山",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 702909,
+          "title": "随风飞行",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 702917,
+          "title": "感受风的指引，继续向上",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 702918,
+          "title": "感受风的指引，继续向上",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 702919,
+          "title": "感受风的指引，继续向上",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 702910,
+          "title": "进入寒天之钉",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 702911,
+          "title": "完成「僭续试炼」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1705-c01-s04",
+      "chapter_index": 1,
+      "order": 4,
+      "title": "试炼完成后蒙德继续应灾",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "试炼完成后",
+      "locations": [
+        "龙脊雪山"
+      ],
+      "characters": [
+        "温迪",
+        "法尔伽",
+        "琴",
+        "迪卢克",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "温迪返回众人身边，确认试炼顺利。魔物仍在涌现，蒙德继续应灾，旅人则准备前往其他地方。",
+      "motivation": "维持防线并援助其他国度",
+      "outcome": "蒙德获得希望但未解除所有威胁",
+      "keywords": [
+        "试炼",
+        "魔物"
+      ],
+      "source_step_keys": [
+        "17"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "17",
+          "id": 702912,
+          "title": "回到众人的身边",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1705-c02-s01",
+      "chapter_index": 2,
+      "order": 1,
+      "title": "稻妻备灾并寻找永恒的证物",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "圣土化扩散期间",
+      "locations": [
+        "稻妻城",
+        "天守阁"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "神里绫华",
+        "神里绫人",
+        "八重神子",
+        "珊瑚宫心海",
+        "影"
+      ],
+      "summary": "圣土化从鹤观扩散至清籁岛，稻妻各方协作备灾，并探讨改变后的永恒。影解释圣土化松动了她对原始雷元素力的封印，决定释放雷鸟之力作为永恒转变的证物，并暂以将军人偶收容。",
+      "motivation": "应对圣土化并证明永恒的转变",
+      "outcome": "影提出让尚未孵化的新雷龙获得回应机会",
+      "keywords": [
+        "永恒",
+        "雷鸟",
+        "封印"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 702506,
+          "title": "前往稻妻城",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 702501,
+          "title": "前往天守阁",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 702502,
+          "title": "与雷电影交谈",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1705-c02-s02",
+      "chapter_index": 2,
+      "order": 2,
+      "title": "跨国协作改造雷电将军人偶",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "前往清籁岛前",
+      "locations": [
+        "天守阁",
+        "木漏茶室"
+      ],
+      "characters": [
+        "影",
+        "希诺宁",
+        "那维莱特",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "影请希诺宁改造人偶、那维莱特协助原始元素力测试，旅人休息并等待结果。改造通过高于理论峰值的稳定测试，两位援手随后分别休息和返回枫丹。",
+      "motivation": "安全容纳原始雷元素力",
+      "outcome": "影具备前往清籁岛的条件",
+      "keywords": [
+        "人偶改造",
+        "跨国协作"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 702503,
+          "title": "与意料之外的客人交谈",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 702504,
+          "title": "前往木漏茶室休息",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 702505,
+          "title": "前往天守阁了解研究进展",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1705-c02-s03",
+      "chapter_index": 2,
+      "order": 3,
+      "title": "影收容雷鸟之力并完成试炼",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "改造完成后",
+      "locations": [
+        "清籁岛",
+        "天云峠",
+        "鹤观",
+        "天守阁"
+      ],
+      "characters": [
+        "影",
+        "九条裟罗",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "影与旅人清除魔物，在天云峠面对充满怨恨的原始雷元素力并将其吸纳。她在一心净土与雷鸟交战，认为达成和解仍需漫长努力；随后独赴鹤观，以兼具自身与原始雷力的一刀完成试炼，回天守阁告知众人继续应灾。",
+      "motivation": "为雷龙的未来争取可能并应答永恒",
+      "outcome": "试炼符文消失，稻妻继续处理灾情",
+      "keywords": [
+        "雷龙",
+        "和解",
+        "永恒"
+      ],
+      "source_step_keys": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 702507,
+          "title": "出发前往清籁岛",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 702508,
+          "title": "消灭因圣土化而产生的魔物",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 702509,
+          "title": "与影交谈",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 702512,
+          "title": "利用相位之门，前往天云峠最高处",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 702518,
+          "title": "利用相位之门，前往天云峠最高处",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 702520,
+          "title": "利用相位之门，前往天云峠最高处",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 702513,
+          "title": "尝试与蠢蠢欲动的雷龙王沟通",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 702510,
+          "title": "对抗源源不绝的敌袭",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 702511,
+          "title": "暂时令原始雷元素力平静下来",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 702514,
+          "title": "完成「僭续试炼」",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 702515,
+          "title": "返回天守阁",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1705-c03-s01",
+      "chapter_index": 3,
+      "order": 1,
+      "title": "须弥安置民众并调查神秘声音",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "圣土化扩散期间",
+      "locations": [
+        "须弥城",
+        "净善宫",
+        "判罚之钉附近"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "纳西妲",
+        "提纳里",
+        "妮露",
+        "图特",
+        "纳菲斯"
+      ],
+      "summary": "须弥准备避难，纳西妲听到近似语言的特殊声音。她与旅人靠近沙漠判罚之钉并记录振动，图特发现其底层与阿如技术相似，众人决定借阿如计算解密。",
+      "motivation": "找到试炼线索并应对灾情",
+      "outcome": "声音被转化为可供研究的密文",
+      "keywords": [
+        "密文",
+        "阿如",
+        "避难"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 702601,
+          "title": "前往须弥城",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 702615,
+          "title": "去净善宫见纳西妲",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 702611,
+          "title": "去净善宫见纳西妲",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 702602,
+          "title": "与纳西妲同去判罚之钉的附近",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 702629,
+          "title": "将声音的线索带回须弥城",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1705-c03-s02",
+      "chapter_index": 3,
+      "order": 2,
+      "title": "梦境推演过去的智慧抉择",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "解密声音后",
+      "locations": [
+        "梦境"
+      ],
+      "characters": [
+        "纳西妲",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "阿如将密文解为「梦」，纳西妲在外维持梦境并以替身引导旅人。众人在梦中推演正机之神和阿佩普相关的其他选择，重温团结民众的智慧与珍视生命的判断，并向判罚之钉前进。",
+      "motivation": "破解智慧试炼并进入判罚之钉",
+      "outcome": "梦境路径通向试炼核心",
+      "keywords": [
+        "梦境",
+        "智慧",
+        "抉择"
+      ],
+      "source_step_keys": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 702603,
+          "title": "前去使用「阿如」的力量",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 702604,
+          "title": "进入梦境",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 702630,
+          "title": "进入梦境",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 702612,
+          "title": "与纳西妲的替身交谈，整理现状",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 702617,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 702616,
+          "title": "尝试靠近判罚之钉",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 702619,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 702621,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 702628,
+          "title": "调查碎片，获取线索并行动",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 702605,
+          "title": "选择正确的碎片并填入空缺中",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 702624,
+          "title": "选择正确的碎片并填入空缺中",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 702606,
+          "title": "观察新的空间",
+          "is_hidden": false
+        },
+        {
+          "key": "17",
+          "id": 702623,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "18",
+          "id": 702625,
+          "title": "将碎片填入正确的空缺中",
+          "is_hidden": false
+        },
+        {
+          "key": "19",
+          "id": 702631,
+          "title": "将碎片填入正确的空缺中",
+          "is_hidden": false
+        },
+        {
+          "key": "20",
+          "id": 702618,
+          "title": "与纳西妲交谈",
+          "is_hidden": false
+        },
+        {
+          "key": "21",
+          "id": 702607,
+          "title": "利用火神之心，尝试抑制污染的扩散",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1705-c03-s03",
+      "chapter_index": 3,
+      "order": 3,
+      "title": "纳西妲以分歧诠释智慧",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "抵达判罚之钉内部时",
+      "locations": [
+        "判罚之钉内部"
+      ],
+      "characters": [
+        "纳西妲",
+        "旅人",
+        "派蒙",
+        "「光之镜」"
+      ],
+      "summary": "纳西妲向光之镜说明生命是目的、智慧是手段，并以分歧诠释智慧。旅人与派蒙在另一处遇到因预期外目标而出错的光之镜；纳西妲结束梦境后众人醒来，试炼符号消失。",
+      "motivation": "回应智慧的命题并确认同伴安全",
+      "outcome": "须弥试炼完成，光之镜的异常留下疑问",
+      "keywords": [
+        "智慧",
+        "分歧",
+        "光之镜"
+      ],
+      "source_step_keys": [
+        "22",
+        "23"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "22",
+          "id": 702609,
+          "title": "与「光之镜」交谈",
+          "is_hidden": false
+        },
+        {
+          "key": "23",
+          "id": 702610,
+          "title": "与纳西妲交谈",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1705-c04-s01",
+      "chapter_index": 4,
+      "order": 1,
+      "title": "纳塔失去夜神庇护",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "圣土化扩散期间",
+      "locations": [
+        "圣火竞技场",
+        "话事处"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "芙宁娜",
+        "伊涅芙",
+        "卡齐娜",
+        "玛薇卡"
+      ],
+      "summary": "芙宁娜与伊涅芙护送在外失忆的纳塔人返乡，症状随归乡缓解。玛薇卡认为圣土化困住夜神并切断庇护，决定与旅人拜访茜特菈莉寻找进入夜神之国的办法。",
+      "motivation": "恢复庇护并救援夜神",
+      "outcome": "众人转向萨满寻求通道",
+      "keywords": [
+        "失忆",
+        "夜神",
+        "圣土化"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 702705,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 702701,
+          "title": "前往圣火竞技场",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 702720,
+          "title": "前往「话事处」",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 702702,
+          "title": "前往「话事处」",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 702721,
+          "title": "去拜访茜特菈莉",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1705-c04-s02",
+      "chapter_index": 4,
+      "order": 2,
+      "title": "六大部族凝聚意志开启通道",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "试炼准备期间",
+      "locations": [
+        "烟谜主",
+        "纳塔各部族"
+      ],
+      "characters": [
+        "玛薇卡",
+        "茜特菈莉",
+        "旅人",
+        "派蒙",
+        "纳塔各部族"
+      ],
+      "summary": "茜特菈莉发现凭个人精神力无法建立稳定通道，玛薇卡遂提出汇聚六大部族意志，驾驰轮车穿过仅能维持156秒的通道。旅人可以选择任一部族参与仪式，各地友人与外来访客也参与准备，玛薇卡冒险出发。",
+      "motivation": "在夜神无法建立连接时主动营救",
+      "outcome": "集体意志为玛薇卡创造短暂通道",
+      "keywords": [
+        "仪式",
+        "部族",
+        "驰轮车"
+      ],
+      "source_step_keys": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 702703,
+          "title": "去拜访茜特菈莉",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 702722,
+          "title": "选择希望留下并参与仪式的部族",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 702711,
+          "title": "前往任意部族的曜石图腾柱",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 702712,
+          "title": "前往任意部族的曜石图腾柱",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 702713,
+          "title": "前往任意部族的曜石图腾柱",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 702714,
+          "title": "前往任意部族的曜石图腾柱",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 702715,
+          "title": "前往任意部族的曜石图腾柱",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 702716,
+          "title": "前往任意部族的曜石图腾柱",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 702704,
+          "title": "前往任意部族的曜石图腾柱",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 702718,
+          "title": "准备启动驰轮车",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 702719,
+          "title": "在时限内抵达终点",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 702724,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "17",
+          "id": 702706,
+          "title": "在时限内抵达终点",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1705-c04-s03",
+      "chapter_index": 4,
+      "order": 3,
+      "title": "玛薇卡救援夜神并回应战争",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "仪式开始后",
+      "locations": [
+        "夜神之国",
+        "判罚之钉内部"
+      ],
+      "characters": [
+        "玛薇卡",
+        "夜神",
+        "「光之镜」"
+      ],
+      "summary": "玛薇卡抵达被侵蚀的夜神之国，以圣火连接夜神，暂时驱散圣土化影响。她向光之镜讲述战争中的牺牲与古名传承，表示纳塔在失去中仍创造文明，要求天理作出抉择。",
+      "motivation": "救援夜神并为纳塔争取未来",
+      "outcome": "夜神不再孤立，战争试炼完成",
+      "keywords": [
+        "夜神",
+        "古名",
+        "战争"
+      ],
+      "source_step_keys": [
+        "18",
+        "19",
+        "20"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "18",
+          "id": 702707,
+          "title": "寻找夜神",
+          "is_hidden": false
+        },
+        {
+          "key": "19",
+          "id": 702708,
+          "title": "完成「僭续试炼」",
+          "is_hidden": false
+        },
+        {
+          "key": "20",
+          "id": 702709,
+          "title": "完成「僭续试炼」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1705-c04-s04",
+      "chapter_index": 4,
+      "order": 4,
+      "title": "火神记录试炼时发现原神信息",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "试炼完成后",
+      "locations": [
+        "圣火竞技场"
+      ],
+      "characters": [
+        "玛薇卡",
+        "旅人",
+        "派蒙",
+        "伊安珊",
+        "瓦雷莎"
+      ],
+      "summary": "玛薇卡归来受到欢迎，试炼符号消失。她将经过记入圣火时发现圣土化影响了记录，并看到了有关「原神」的信息；沃陆之邦亦是旅人可参与仪式的选择之一。",
+      "motivation": "保存火神传承的知识",
+      "outcome": "有关原神的发现成为后续线索",
+      "keywords": [
+        "圣火",
+        "原神"
+      ],
+      "source_step_keys": [
+        "21",
+        "22",
+        "23"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "21",
+          "id": 702710,
+          "title": "返回圣火竞技场",
+          "is_hidden": false
+        },
+        {
+          "key": "22",
+          "id": 702723,
+          "title": "将试炼的信息记入圣火",
+          "is_hidden": false
+        },
+        {
+          "key": "23",
+          "id": 702717,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1705-c05-s01",
+      "chapter_index": 5,
+      "order": 1,
+      "title": "七国代表进入天空岛神之座",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "试炼完成后",
+      "locations": [
+        "沉玉谷",
+        "天空岛"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "安娜丝塔夏",
+        "温迪",
+        "影",
+        "纳西妲",
+        "玛薇卡",
+        "凝光",
+        "芙宁娜"
+      ],
+      "summary": "七国代表在光芒汇聚的沉玉谷会合，芙宁娜代替担忧龙族身份引发防御的那维莱特出席。圣土化只是暂停，众人穿过门扉进入天空岛。",
+      "motivation": "了解天理的通告并争取逆转圣土化",
+      "outcome": "代表抵达神之座",
+      "keywords": [
+        "七国",
+        "天空岛"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 702801,
+          "title": "前往光芒汇聚之地",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 702802,
+          "title": "穿过门扉",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1705-c05-s02",
+      "chapter_index": 5,
+      "order": 2,
+      "title": "诺迦法揭示重置与原神真相",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "进入神之座后",
+      "locations": [
+        "神之座"
+      ],
+      "characters": [
+        "「诺迦法」",
+        "旅人",
+        "派蒙",
+        "七国代表"
+      ],
+      "summary": "统合演算阵列「诺迦法」称试炼只暂停了重置，文明仍将在42天后毁灭，各国可选原神作为下一轮文明的命运向量。它展示温妮莎的存放处，称人类文明为系统进步的薪柴；代表们拒绝这种将生命化为工具的安排。",
+      "motivation": "说明预设程序及所谓奖励",
+      "outcome": "重置期限与原神的命运被揭露",
+      "keywords": [
+        "重置",
+        "原神",
+        "42天"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 702803,
+          "title": "与「诺迦法」交谈",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1705-c05-s03",
+      "chapter_index": 5,
+      "order": 3,
+      "title": "各国决定反抗并寻找火神之心",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "离开神之座后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "七国代表",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "众人理解圣火中原神传说与薪柴的关联，拒绝牺牲当下文明，决意共同反抗。火神之心仍下落不明，芙宁娜提议合力寻找；旅人也因此理解亲人对失去故乡的感受。",
+      "motivation": "守护现存世界并争取反抗的手段",
+      "outcome": "七国以42天为期限共同面对危机",
+      "keywords": [
+        "反抗",
+        "火神之心",
+        "故乡"
+      ],
+      "source_step_keys": [
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 702804,
+          "title": "离开神之座，讨论现状",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:25.256Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

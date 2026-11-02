@@ -1,0 +1,85 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 70137,
+    "slug": "70137_born-toward-the-flame",
+    "title": "向火而生",
+    "chapter_num": "",
+    "premise": "纳塔与远道而来的伙伴共同应对地脉衍出。",
+    "central_conflict": "局部灾情得到控制，但判罚之钉仍使圣土化构成威胁。",
+    "summary": "众人解决当地地脉衍出，赛索斯与茜特菈莉认为灾情和夜神之国遭受的破坏将逐渐缓和。玛薇卡感谢各国支援，指出判罚之钉仍使圣土化构成威胁，同时鼓励众人庆祝胜利并守护眼前安宁。",
+    "resolution": "局部灾情缓和，各方继续守护安宁。",
+    "themes": [
+      "援助",
+      "圣土化"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70137,
+      "title": "向火而生",
+      "summary": "众人解决当地地脉衍出，赛索斯与茜特菈莉认为灾情和夜神之国遭受的破坏将逐渐缓和。玛薇卡感谢各国支援，指出判罚之钉仍使圣土化构成威胁，同时鼓励众人庆祝胜利并守护眼前安宁。",
+      "turning_point": "原文未明确",
+      "outcome": "局部灾情缓和，各方继续守护安宁",
+      "section_ids": [
+        "70137-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "悼念并未让众人停下脚步，反而使每一位幸存者更清楚自己为何而战。\\n他们以逝者之名继续前行，让仍在燃烧的火焰，照亮尚未抵达的明日。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70137-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "纳塔在各国支援下缓解灾情",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "玛薇卡",
+        "赛索斯",
+        "茜特菈莉",
+        "伊涅芙",
+        "芙宁娜",
+        "旅人"
+      ],
+      "summary": "众人解决当地地脉衍出，赛索斯与茜特菈莉认为灾情和夜神之国遭受的破坏将逐渐缓和。玛薇卡感谢各国支援，指出判罚之钉仍使圣土化构成威胁，同时鼓励众人庆祝胜利并守护眼前安宁。",
+      "motivation": "控制灾害并保护民众",
+      "outcome": "局部灾情缓和，各方继续守护安宁",
+      "keywords": [
+        "援助",
+        "圣土化"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7013701,
+          "title": "向火而生",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:26.148Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

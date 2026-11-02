@@ -1,0 +1,86 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 70135,
+    "slug": "70135_a-wall-of-ships",
+    "title": "百舸为垒",
+    "chapter_num": "",
+    "premise": "枫丹船只接收来自各地的避难者和伤员。",
+    "central_conflict": "避难者人数超出预期，船上空间、医疗与物资承受压力。",
+    "summary": "枫丹众人在维恩歌莱号上接收并分诊各地避难者，船只同时承担临时避难所的职责。莱欧斯利安排床位优先照顾需要医护的伤员，并要求梅洛彼得堡补充物资、照看老人和孩子。",
+    "resolution": "船上人员继续安置和补给避难者。",
+    "themes": [
+      "避难",
+      "医疗"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70135,
+      "title": "百舸为垒",
+      "summary": "枫丹众人在维恩歌莱号上接收并分诊各地避难者，船只同时承担临时避难所的职责。莱欧斯利安排床位优先照顾需要医护的伤员，并要求梅洛彼得堡补充物资、照看老人和孩子。",
+      "turning_point": "原文未明确",
+      "outcome": "船上人员继续安置和补给避难者",
+      "section_ids": [
+        "70135-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "在灾厄尚未正面逼临之时，枫丹成为了各地转运与安置的中枢。\\n船只、医护与后方据点共同构成浮动防线，使这片尚得喘息的水国成为承接众国伤痛与希望的港湾。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70135-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "维恩歌莱号接收伤员与避难者",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "嘉维娜",
+        "戈尔珊",
+        "阿桂",
+        "希格雯",
+        "艾梅莉埃",
+        "克洛琳德",
+        "莱欧斯利"
+      ],
+      "summary": "枫丹众人在维恩歌莱号上接收并分诊各地避难者，船只同时承担临时避难所的职责。莱欧斯利安排床位优先照顾需要医护的伤员，并要求梅洛彼得堡补充物资、照看老人和孩子。",
+      "motivation": "救治伤员并安全转运民众",
+      "outcome": "船上人员继续安置和补给避难者",
+      "keywords": [
+        "避难",
+        "医疗"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7013501,
+          "title": "百舸为垒",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:26.036Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

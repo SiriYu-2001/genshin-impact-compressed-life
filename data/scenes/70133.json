@@ -1,0 +1,85 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 70133,
+    "slug": "70133_thunder-purges-all-spite",
+    "title": "雷祓百怨",
+    "chapter_num": "",
+    "premise": "圣土化破坏稻妻的封印，地脉中的积怨出现。",
+    "central_conflict": "只要圣土化持续，积怨便可能再度出现，需要不断祓除。",
+    "summary": "稻妻众人共同举行祓禊，平息地脉中的积怨。心海指出圣土化破坏了诸多封印，久岐忍表示在试炼解决前，需要不断祓除再度出现的浊祟。",
+    "resolution": "这次祓禊完成，众人准备继续应对。",
+    "themes": [
+      "祓禊",
+      "圣土化"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70133,
+      "title": "雷祓百怨",
+      "summary": "稻妻众人共同举行祓禊，平息地脉中的积怨。心海指出圣土化破坏了诸多封印，久岐忍表示在试炼解决前，需要不断祓除再度出现的浊祟。",
+      "turning_point": "原文未明确",
+      "outcome": "这次祓禊完成，众人准备继续应对",
+      "section_ids": [
+        "70133-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "「圣土化」侵扰之下，旧日封印松动，地脉中的怨秽再度浮现。\\n在鸣神庇护与众人齐心的祓禊仪式中，以雷霆肃秽、以愿力镇灾，将不断回返的恶祟一次次祓除。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70133-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "众人合力祓除地脉积怨",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "八重神子",
+        "久岐忍",
+        "荒泷一斗",
+        "珊瑚宫心海",
+        "五郎",
+        "神里绫华"
+      ],
+      "summary": "稻妻众人共同举行祓禊，平息地脉中的积怨。心海指出圣土化破坏了诸多封印，久岐忍表示在试炼解决前，需要不断祓除再度出现的浊祟。",
+      "motivation": "保护民众免受积怨侵扰",
+      "outcome": "这次祓禊完成，众人准备继续应对",
+      "keywords": [
+        "祓禊",
+        "圣土化"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7013301,
+          "title": "雷祓百怨",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:25.918Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

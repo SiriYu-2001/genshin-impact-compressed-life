@@ -1,0 +1,837 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 1704,
+    "slug": "1704_hour-of-ruin",
+    "title": "坏灭肇始之时",
+    "chapter_num": "第七章 第五幕",
+    "premise": "判罚之钉异动，女皇与旅人等人调查威胁至冬的灾害。众人必须寻找制止圣土化的方法。",
+    "central_conflict": "圣土化威胁重置提瓦特，而停止它的条件最初无人知晓。各国还须跨越历史纠葛开展合作。",
+    "summary": "旅人与派蒙在贝洛沃迪协助冬契军抵御魔物，发现消解万物的区域正在扩散。至冬认出灾害为圣土化，邀请艾莉丝与尼可协助。众人在空之神殿借光之镜得知加速期限为三十天，停止重置需要完成六个僭续试炼。女皇召集各国领袖，众人面对旧怨及不同立场，仍为保护人民同意合作。会议期间璃月率先完成试炼，闲云传来进入天钉并证明契约有效的方法。各方随即告别，准备各自完成剩余五个试炼。",
+    "resolution": "璃月的成功为各国提供了试炼方法，璃月和枫丹也承诺协助。其余五个试炼仍待完成。",
+    "themes": [
+      "世界存续",
+      "跨国合作",
+      "契约",
+      "希望"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 7030,
+      "title": "如同消融的积雪",
+      "summary": "判罚之钉异动后，旅人与派蒙前往贝洛沃迪支援薇斯纳，发现能消解万物的灾害与魔物正在扩散。女皇一方认出这是圣土化，在现有对策受限的情况下邀请魔女会协助。艾莉丝指出圣土化是若娜瓦的报复，尼可推测她多半擅自行动，并带众人前往空之神殿寻找答案。",
+      "turning_point": "前线灾害被认定为足以重置世界的圣土化。",
+      "outcome": "艾莉丝借小右带众人前往空之神殿。",
+      "section_ids": [
+        "1704-c00-s01",
+        "1704-c00-s02",
+        "1704-c00-s03",
+        "1704-c00-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "判罚之钉出现异动，似乎在预示着新的危机到来…去找女皇商议对策吧。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 7031,
+      "title": "迈向未来的一步",
+      "summary": "众人在光之镜得知提瓦特距离圣土化加速仅剩三十天，停止它需要完成六个尚不明朗的僭续试炼。女皇召集各国领袖，众人面对旧怨达成合作，并交换各自的知识。璃月率先完成试炼并传来方法，其余国家准备分头行动。",
+      "turning_point": "璃月完成试炼，使众人得知证明神圣规划有效的方法。",
+      "outcome": "各国离开至冬，着手完成剩余五个试炼。",
+      "section_ids": [
+        "1704-c01-s01",
+        "1704-c01-s02",
+        "1704-c01-s03",
+        "1704-c01-s04",
+        "1704-c01-s05",
+        "1704-c01-s06",
+        "1704-c01-s07"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "艾莉丝与尼可抵达至冬，带来了更多关于圣土化的信息。但如何令其停下，还需要进一步研究和调查…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "1704-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "天钉异动促使众人赶赴前线",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "判罚之钉异动后",
+      "locations": [
+        "至冬堡",
+        "雪桦车站",
+        "新基捷城",
+        "贝洛沃迪"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "安娜丝塔夏",
+        "「丑角」",
+        "「木偶」",
+        "「富人」",
+        "温斯泽"
+      ],
+      "summary": "旅人与派蒙将薇斯纳的报告带往至冬堡，女皇与执行官已注意到判罚之钉异常，怀疑与若娜瓦有关。光柱增强后，两人经雪桦车站、新基捷城前往贝洛沃迪，温斯泽告知前线出现魔物和消解万物的区域，撤离列车已待命。",
+      "motivation": "调查天钉变化并支援前线",
+      "outcome": "旅人与派蒙抵达前线，准备协助冬契军。",
+      "keywords": [
+        "判罚之钉",
+        "贝洛沃迪",
+        "冬契军"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 703001,
+          "title": "前往至冬堡",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 703002,
+          "title": "前往至冬堡",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 703003,
+          "title": "前往雪桦车站",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 703017,
+          "title": "前往新基捷城",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 703011,
+          "title": "在运输局总部补给",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 703014,
+          "title": "在运输局总部补给",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 703004,
+          "title": "在运输局总部补给",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 703015,
+          "title": "乘坐火车前往贝洛沃迪",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 703006,
+          "title": "乘坐火车前往贝洛沃迪",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1704-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "冬契军抵御魔物并报告灾情",
+      "narrative_role": "conflict",
+      "importance": 5,
+      "when": "抵达前线后",
+      "locations": [
+        "贝洛沃迪"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "薇斯纳"
+      ],
+      "summary": "旅人与派蒙协助薇斯纳击败涌出的魔物。薇斯纳说明光柱变粗并出现符号后，消解生灵的区域开始扩散，魔物也不断出现；她已呼叫增援，并请两人将画片与报告交给女皇。",
+      "motivation": "阻止魔物突破防线并寻求解决灾害的办法",
+      "outcome": "前线暂时稳住，灾情被带回至冬宫。",
+      "keywords": [
+        "魔物",
+        "灾害扩散",
+        "报告"
+      ],
+      "source_step_keys": [
+        "9",
+        "10",
+        "11"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "9",
+          "id": 703005,
+          "title": "到前线查看情况",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 703007,
+          "title": "击败涌出的魔物",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 703008,
+          "title": "与薇斯纳对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1704-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "女皇寻求魔女会协助",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "收到前线报告后",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "旅人",
+        "派蒙",
+        "「丑角」",
+        "「木偶」",
+        "「富人」",
+        "米提亚",
+        "「仆人」"
+      ],
+      "summary": "女皇一方将灾害辨认为圣土化，即判罚之钉将万物重置为原初光界力状态的惩戒，推测若娜瓦濒死时将其激活。槲寄生计划仍需至少两个月，转化装置能源不足，破坏天钉又风险极高；众人遂通过已故魔女约安娜的关系邀请艾莉丝，并调动能源加快实验。",
+      "motivation": "寻找制止圣土化的可行方法",
+      "outcome": "魔女会受邀，同时至冬继续监测前线并推进实验。",
+      "keywords": [
+        "圣土化",
+        "槲寄生计划",
+        "魔女会"
+      ],
+      "source_step_keys": [
+        "12",
+        "13"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "12",
+          "id": 703010,
+          "title": "将情报告知女皇",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 703012,
+          "title": "返回至冬宫",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1704-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "艾莉丝带众人前往空之神殿",
+      "narrative_role": "transition",
+      "importance": 4,
+      "when": "艾莉丝与尼可抵达后",
+      "locations": [
+        "至冬宫",
+        "贝洛沃迪车站"
+      ],
+      "characters": [
+        "艾莉丝",
+        "尼可",
+        "安娜丝塔夏",
+        "旅人",
+        "派蒙",
+        "小右"
+      ],
+      "summary": "艾莉丝指出这场波及多国的圣土化是若娜瓦的报复；尼可说明天理正在沉睡，推测若娜瓦多半自作主张。艾莉丝透露寻觅者受伊斯塔露之命不得介入至冬与天理的冲突，于是借助小右引众人前往阿斯莫代的空之神殿寻求答案；与此同时贝洛沃迪车站的具体情况未明。",
+      "motivation": "在避免牵连伊斯塔露的情况下提供帮助",
+      "outcome": "众人转赴空之神殿。",
+      "keywords": [
+        "寻觅者",
+        "伊斯塔露",
+        "空之神殿"
+      ],
+      "source_step_keys": [
+        "14",
+        "15"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "14",
+          "id": 703009,
+          "title": "与众人交谈",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 703013,
+          "title": "与此同时，贝洛沃迪车站…",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1704-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "光之镜揭示重置期限",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "抵达空之神殿后",
+      "locations": [
+        "空之神殿",
+        "神秘空间"
+      ],
+      "characters": [
+        "艾莉丝",
+        "尼可",
+        "安娜丝塔夏",
+        "旅人",
+        "派蒙",
+        "小右",
+        "「光之镜」"
+      ],
+      "summary": "艾莉丝借阿斯莫代的身份操作天理所造的光之镜，查询圣土化。终端称死之执政见证、地原胚质引发的重置将清除生命痕迹，距加速仅剩三十天；停止方法需要特定文字，众人因此寻找符文。",
+      "motivation": "查明圣土化的性质及停止办法",
+      "outcome": "众人开始收集访问所需符文。",
+      "keywords": [
+        "光之镜",
+        "地原胚质",
+        "三十天"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 703101,
+          "title": "前往空之神殿",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 703102,
+          "title": "与尼可、艾莉丝对话",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 703136,
+          "title": "前往神秘空间",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 703104,
+          "title": "前往神秘空间",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 703128,
+          "title": "向尼可寻求指引",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 703103,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 703121,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 703122,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 703123,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 703124,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1704-c01-s02",
+      "chapter_index": 1,
+      "order": 2,
+      "title": "旅人的愿望开启试炼线索",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "收集符文后",
+      "locations": [
+        "空之神殿",
+        "神秘空间"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "艾莉丝",
+        "尼可",
+        "安娜丝塔夏",
+        "「光之镜」"
+      ],
+      "summary": "众人收集六枚符印后通过权限审核，旅人说明希望守护旅途中认识的朋友与世界，派蒙也表达不愿世界毁灭。光之镜认可理由，却只显示尚有六个僭续试炼，没有解释内容；尼可嘱托女皇守护至冬，女皇重申自己的誓言。",
+      "motivation": "为停止圣土化提供理由并寻找操作方法",
+      "outcome": "六个试炼成为新的调查方向。",
+      "keywords": [
+        "六枚符印",
+        "愿望",
+        "僭续试炼"
+      ],
+      "source_step_keys": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "10",
+          "id": 703126,
+          "title": "寻找并收集符文",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 703129,
+          "title": "寻找并收集符文",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 703130,
+          "title": "寻找并收集符文",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 703131,
+          "title": "寻找并收集符文",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 703132,
+          "title": "寻找并收集符文",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 703133,
+          "title": "寻找并收集符文",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 703134,
+          "title": "寻找并收集符文",
+          "is_hidden": false
+        },
+        {
+          "key": "17",
+          "id": 703137,
+          "title": "与光之镜对话",
+          "is_hidden": false
+        },
+        {
+          "key": "18",
+          "id": 703105,
+          "title": "与光之镜对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1704-c01-s03",
+      "chapter_index": 1,
+      "order": 3,
+      "title": "女皇邀请各国商议试炼",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "返回至冬宫后",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "艾莉丝",
+        "尼可",
+        "安娜丝塔夏",
+        "「丑角」",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "艾莉丝与尼可告别，艾莉丝关切女皇数百年的辛劳。获悉神殿经过后，「丑角」认为六个试炼与天钉数量相同，可能需要各国配合；女皇决定邀请各国领袖商议。",
+      "motivation": "应对全球危机并查明试炼",
+      "outcome": "各国领袖受邀前来至冬。",
+      "keywords": [
+        "告别",
+        "六个试炼",
+        "各国合作"
+      ],
+      "source_step_keys": [
+        "19",
+        "20"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "19",
+          "id": 703111,
+          "title": "返回至冬宫",
+          "is_hidden": false
+        },
+        {
+          "key": "20",
+          "id": 703138,
+          "title": "离开至冬宫",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1704-c01-s04",
+      "chapter_index": 1,
+      "order": 4,
+      "title": "各国随行者等待会议",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "几天后",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "「公子」",
+        "九条裟罗",
+        "夜兰",
+        "「仆人」",
+        "提纳里",
+        "赛诺",
+        "安柏",
+        "夏洛蒂",
+        "五郎",
+        "北斗",
+        "塔利雅",
+        "玛拉妮",
+        "希格雯",
+        "恰斯卡"
+      ],
+      "summary": "各国代表抵达至冬宫，达达利亚表示领袖之间的气氛并不友好。旅人与派蒙接触各国随行者，听到他们对过去纷争、全球危机及合作的忧虑和期待，须弥方面也提及永恒绿洲与判罚之钉的线索。",
+      "motivation": "等待领袖商议并了解各方处境",
+      "outcome": "各国随行人员共同等待会议结果。",
+      "keywords": [
+        "各国代表",
+        "旧怨",
+        "合作"
+      ],
+      "source_step_keys": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "21",
+          "id": 703112,
+          "title": "等待到几天后",
+          "is_hidden": false
+        },
+        {
+          "key": "22",
+          "id": 703106,
+          "title": "前往至冬宫",
+          "is_hidden": false
+        },
+        {
+          "key": "23",
+          "id": 703113,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "24",
+          "id": 703114,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "25",
+          "id": 703115,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "26",
+          "id": 703116,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "27",
+          "id": 703117,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "28",
+          "id": 703118,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "29",
+          "id": 703119,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "30",
+          "id": 703120,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "31",
+          "id": 703107,
+          "title": "与众人交谈",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1704-c01-s05",
+      "chapter_index": 1,
+      "order": 5,
+      "title": "各国领袖跨越分歧合作",
+      "narrative_role": "conflict",
+      "importance": 5,
+      "when": "领袖会议期间",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "「丑角」",
+        "凝光",
+        "纳西妲",
+        "玛薇卡",
+        "影",
+        "珊瑚宫心海",
+        "温迪",
+        "法尔伽",
+        "那维莱特",
+        "兹白"
+      ],
+      "summary": "各国领袖先讨论愚人众收集神之心引发的外交争端，安娜丝塔夏对受波及者道歉，但坚持开启计划的选择。面对共同灾难，与会者同意合作；那维莱特虽不原谅神对龙族的僭越，仍为保护枫丹民众加入当前行动。",
+      "motivation": "在旧怨和不同立场中寻求应对圣土化的共同方案",
+      "outcome": "各方开始交换圣土化及试炼情报。",
+      "keywords": [
+        "外交争端",
+        "道歉",
+        "共同目标"
+      ],
+      "source_step_keys": [
+        "32"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "32",
+          "id": 703108,
+          "title": "等待会议结果",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1704-c01-s06",
+      "chapter_index": 1,
+      "order": 6,
+      "title": "众人讨论试炼与圣土化",
+      "narrative_role": "investigation",
+      "importance": 5,
+      "when": "领袖会议期间",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "「丑角」",
+        "纳西妲",
+        "玛薇卡",
+        "影",
+        "珊瑚宫心海",
+        "温迪",
+        "那维莱特",
+        "五郎",
+        "北斗"
+      ],
+      "summary": "「丑角」说明火神之心下落不明，暂无法依靠对天理的清算解决危机；心海介绍珊瑚王虫能逆转圣土化，但数量不足。各国讨论六个试炼并争相承担首次尝试，女皇提出由至冬负责；会外五郎表达忧虑，北斗予以鼓励。",
+      "motivation": "寻找试炼入口及减缓灾害的途径",
+      "outcome": "会议尚未选定尝试国家时，璃月出现进展。",
+      "keywords": [
+        "珊瑚王虫",
+        "火神之心",
+        "试炼"
+      ],
+      "source_step_keys": [
+        "32",
+        "33"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "32",
+          "id": 703108,
+          "title": "等待会议结果",
+          "is_hidden": false
+        },
+        {
+          "key": "33",
+          "id": 703109,
+          "title": "等待会议结果",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "1704-c01-s07",
+      "chapter_index": 1,
+      "order": 7,
+      "title": "璃月完成试炼指明道路",
+      "narrative_role": "resolution",
+      "importance": 5,
+      "when": "会议结束时",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "闲云",
+        "温迪",
+        "安娜丝塔夏",
+        "「丑角」",
+        "纳西妲",
+        "法尔伽",
+        "凝光",
+        "那维莱特"
+      ],
+      "summary": "天钉上的一个符号消失，闲云借温迪的风传来璃月已完成试炼的消息：一位神秘仙人以摩拉为媒介进入天钉，证明契约仍有效。各方由此得知无罪者须向天理证明神圣规划仍然有效，决定各自完成剩余五个试炼；璃月、枫丹与愚人众承诺给予协助。",
+      "motivation": "利用璃月的成功经验解决各国试炼",
+      "outcome": "各国代表告别，分头应对剩余试炼。",
+      "keywords": [
+        "璃月",
+        "契约",
+        "五个试炼"
+      ],
+      "source_step_keys": [
+        "34"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "34",
+          "id": 703110,
+          "title": "会议结束",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:25.190Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

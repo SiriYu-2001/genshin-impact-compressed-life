@@ -1,0 +1,86 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 70131,
+    "slug": "70131_firm-as-the-bedrock",
+    "title": "安如磐石",
+    "chapter_num": "",
+    "premise": "圣土化初期的混乱平息后，璃月筹划救援与对外援助。",
+    "central_conflict": "本篇没有明确的对立冲突，主要交代璃月恢复秩序及应对提瓦特危局。",
+    "summary": "璃月众人安排港口卸货、物资分发和伤员救治，准备讨论对外援助。凝光与兹白从至冬归来，众人谈及璃月试炼已被一位神秘仙人借摩拉化解，凝光与兹白仍强调凡人共同应对危局的努力。",
+    "resolution": "璃月初步恢复秩序，众人继续面对提瓦特的危局。",
+    "themes": [
+      "物资",
+      "试炼"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70131,
+      "title": "安如磐石",
+      "summary": "璃月众人安排港口卸货、物资分发和伤员救治，准备讨论对外援助。凝光与兹白从至冬归来，众人谈及璃月试炼已被一位神秘仙人借摩拉化解，凝光与兹白仍强调凡人共同应对危局的努力。",
+      "turning_point": "原文未明确",
+      "outcome": "璃月初步恢复秩序，众人继续面对提瓦特的危局",
+      "section_ids": [
+        "70131-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "位于雪国的会议结束后不久，港口之外，舟楫如织，千岩军、七星与仙家已共同稳住了璃月最初的乱局。\\n秩序恢复之后，璃月并未止步于自保，转而将人力与物力送往更远的前线…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70131-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "璃月恢复秩序并筹备援助",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "百闻",
+        "百晓",
+        "甘雨",
+        "百识",
+        "刻晴",
+        "凝光",
+        "兹白"
+      ],
+      "summary": "璃月众人安排港口卸货、物资分发和伤员救治，准备讨论对外援助。凝光与兹白从至冬归来，众人谈及璃月试炼已被一位神秘仙人借摩拉化解，凝光与兹白仍强调凡人共同应对危局的努力。",
+      "motivation": "稳定璃月并支援各地",
+      "outcome": "璃月初步恢复秩序，众人继续面对提瓦特的危局",
+      "keywords": [
+        "物资",
+        "试炼"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7013101,
+          "title": "安如磐石",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:25.793Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

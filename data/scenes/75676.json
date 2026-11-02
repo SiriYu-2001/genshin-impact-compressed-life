@@ -1,0 +1,83 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 75676,
+    "slug": "75676_stress-b-gone-gaming",
+    "title": "解压游艺玩耍中",
+    "chapter_num": "",
+    "premise": "瑞希开发解压游艺与助眠果饮，食梦貘员工接手运营。",
+    "central_conflict": "果饮让梦貘长时间沉睡，员工们需代瑞希测试并运营游艺。",
+    "summary": "瑞希为受伤部族战士开发解压游艺和助眠果饮，果饮却让梦貘陷入长时间睡眠。柴葉紫和百日白白音代为运营、测试游艺，邀请旅人与派蒙试玩并帮助发现问题。",
+    "resolution": "旅人与派蒙准备试玩，果饮计划暂时中止。",
+    "themes": [
+      "游艺",
+      "助眠果饮"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 75676,
+      "title": "解压游艺玩耍中",
+      "summary": "瑞希为受伤部族战士开发解压游艺和助眠果饮，果饮却让梦貘陷入长时间睡眠。柴葉紫和百日白白音代为运营、测试游艺，邀请旅人与派蒙试玩并帮助发现问题。",
+      "turning_point": "原文未明确",
+      "outcome": "旅人与派蒙准备试玩，果饮计划暂时中止",
+      "section_ids": [
+        "75676-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "听说「秋沙钱汤」的两位食梦貘员工出现在了悠悠度假村，去看看她们在忙什么吧…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "75676-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "食梦貘员工邀请旅人试玩游艺",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "柴葉紫",
+        "百日白白音",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "瑞希为受伤部族战士开发解压游艺和助眠果饮，果饮却让梦貘陷入长时间睡眠。柴葉紫和百日白白音代为运营、测试游艺，邀请旅人与派蒙试玩并帮助发现问题。",
+      "motivation": "照顾伤者并测试游艺",
+      "outcome": "旅人与派蒙准备试玩，果饮计划暂时中止",
+      "keywords": [
+        "游艺",
+        "助眠果饮"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7567601,
+          "title": "与食梦貘员工们对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:26.277Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

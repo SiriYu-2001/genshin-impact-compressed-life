@@ -1,0 +1,84 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 70134,
+    "slug": "70134_from-trees-to-a-forest",
+    "title": "聚木成林",
+    "chapter_num": "",
+    "premise": "须弥众人研究地脉异常，准备组织全境救援和对外支援。",
+    "central_conflict": "圣土化引发的灾害仍在，须弥需要协调研究、救援和战斗。",
+    "summary": "赛诺等人研究地脉衍生物，发现沙漠样本比雨林样本更躁动。通讯准备完成后，赛诺代草神和大贤者统筹战况、研究、搜救与剿灭魔物，并派队伍支援纳塔，虚空系统持续覆盖须弥全境。",
+    "resolution": "须弥行动开始，研究成果将同步各国。",
+    "themes": [
+      "研究",
+      "虚空通讯"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70134,
+      "title": "聚木成林",
+      "summary": "赛诺等人研究地脉衍生物，发现沙漠样本比雨林样本更躁动。通讯准备完成后，赛诺代草神和大贤者统筹战况、研究、搜救与剿灭魔物，并派队伍支援纳塔，虚空系统持续覆盖须弥全境。",
+      "turning_point": "原文未明确",
+      "outcome": "须弥行动开始，研究成果将同步各国",
+      "section_ids": [
+        "70134-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "智慧宫中，研究、调度、搜救与讨伐同步展开；雨林与沙漠的力量也在同一张战线上重新汇流。\\n面对失序的地脉与不断扩大的灾变，须弥选择以知识统筹战局，也以行动回应危机。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70134-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "须弥统筹救援与异常研究",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "赛诺",
+        "提纳里",
+        "赛索斯",
+        "卡维",
+        "艾尔海森"
+      ],
+      "summary": "赛诺等人研究地脉衍生物，发现沙漠样本比雨林样本更躁动。通讯准备完成后，赛诺代草神和大贤者统筹战况、研究、搜救与剿灭魔物，并派队伍支援纳塔，虚空系统持续覆盖须弥全境。",
+      "motivation": "协调各方应对异常与灾情",
+      "outcome": "须弥行动开始，研究成果将同步各国",
+      "keywords": [
+        "研究",
+        "虚空通讯"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7013401,
+          "title": "聚木成林",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:25.978Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

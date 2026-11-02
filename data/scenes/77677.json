@@ -1,0 +1,184 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 77677,
+    "slug": "77677_a-lovely-oasis-holiday",
+    "title": "绿洲旁的美丽假日",
+    "chapter_num": "",
+    "premise": "旅人遇到休假期间前来帮助老友的米提亚。酿酒厂附近土质恶化，影响生产。",
+    "central_conflict": "米提亚借来的土壤改善仪器需要多人操作，附近地震落石也威胁果树。",
+    "summary": "米提亚带旅人参观矮灵夫妇经营的酿酒厂，回忆童年交往并介绍晶矿与果树共生的景象。众人清理地震落石，获得可供珠宝工匠收购的结晶。旅人协助激活监测装置，米提亚整理数据并请维修工安装处理炉。设备架设完毕后，米提亚留下照看。",
+    "resolution": "设备完成架设，米提亚暂留酒厂观察。",
+    "themes": [
+      "友情",
+      "土壤",
+      "协作"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77677,
+      "title": "绿洲旁的美丽假日",
+      "summary": "米提亚带旅人参观矮灵夫妇经营的酿酒厂，回忆童年交往并介绍晶矿与果树共生的景象。众人清理地震落石，获得可供珠宝工匠收购的结晶。旅人协助激活监测装置，米提亚整理数据并请维修工安装处理炉。设备架设完毕后，米提亚留下照看。",
+      "turning_point": "仪器架设完毕，后续运行有人照看",
+      "outcome": "设备完成架设，米提亚暂留酒厂观察。",
+      "section_ids": [
+        "77677-c00-s01",
+        "77677-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "人们对特普洛绿洲的印象大都是美景与农作物。鲜少有人知道，那里还有着附近最好的酿酒厂。有空去坐坐吧，说不定会遇到朋友。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77677-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "旧友相聚并清理果园落石",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "米提亚休假期间",
+      "locations": [
+        "酿酒厂",
+        "果树林"
+      ],
+      "characters": [
+        "米提亚",
+        "旅人",
+        "派蒙",
+        "塞泽娜",
+        "乌尔金"
+      ],
+      "summary": "米提亚应矮灵老友夫妇之邀，帮助土质恶化的酿酒厂，并带旅人参观果树林。众人清除地震落石，米提亚赠予旅人和派蒙生成的结晶，提及新基捷城有工匠收购。",
+      "motivation": "保护作物并了解土质问题",
+      "outcome": "果园落石得到清理，众人准备操作土壤改善仪器",
+      "keywords": [
+        "酿酒厂",
+        "落石",
+        "结晶"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7767702,
+          "title": "与米提亚对话",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7767703,
+          "title": "跟随米提亚",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7767711,
+          "title": "清理岩块",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7767704,
+          "title": "清理岩块",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7767705,
+          "title": "与米提亚对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77677-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "监测数据并安装土壤改善设备",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "清理落石后",
+      "locations": [
+        "麦田",
+        "酿酒厂"
+      ],
+      "characters": [
+        "米提亚",
+        "旅人",
+        "派蒙",
+        "加洛夫"
+      ],
+      "summary": "旅人帮助激活并稳定监测装置，米提亚整理数据并设置总控参数。维修工加洛夫协助安装处理炉，米提亚决定暂留照看尚未完全自动化的仪器。",
+      "motivation": "改善酒厂土壤质量",
+      "outcome": "仪器架设完毕，后续运行有人照看",
+      "keywords": [
+        "监测",
+        "土壤",
+        "仪器"
+      ],
+      "source_step_keys": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "5",
+          "id": 7767706,
+          "title": "前往麦田",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7767709,
+          "title": "激活监测装置",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7767710,
+          "title": "激活监测装置",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7767707,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7767708,
+          "title": "与米提亚对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:27.123Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

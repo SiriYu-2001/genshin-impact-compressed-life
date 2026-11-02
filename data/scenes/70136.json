@@ -1,0 +1,86 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 70136,
+    "slug": "70136_embers-never-fade",
+    "title": "余烬不熄",
+    "chapter_num": "",
+    "premise": "玛薇卡与同伴缅怀归者，并准备继续前行。",
+    "central_conflict": "本篇没有明确的对立冲突，主要表达对逝者的追念和守护的决心。",
+    "summary": "玛薇卡与同伴依次祝愿归者安眠、名字长存，生者继续守护并走完他们的路。玛薇卡随后带领众人出发。",
+    "resolution": "众人继续前行。",
+    "themes": [
+      "纪念",
+      "守护"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70136,
+      "title": "余烬不熄",
+      "summary": "玛薇卡与同伴依次祝愿归者安眠、名字长存，生者继续守护并走完他们的路。玛薇卡随后带领众人出发。",
+      "turning_point": "原文未明确",
+      "outcome": "众人继续前行",
+      "section_ids": [
+        "70136-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "灾难大规模爆发之际，身处灾厄最炽烈的前线，残垣、伤亡与牺牲在纳塔已不罕见…\\n在与逝者告别之后，生者再度踏上战场——只要火种尚存，这片土地便不会停止反抗。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70136-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "纳塔众人缅怀逝者继续前行",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "玛薇卡",
+        "茜特菈莉",
+        "基尼奇",
+        "玛拉妮",
+        "伊安珊",
+        "恰斯卡",
+        "卡齐娜"
+      ],
+      "summary": "玛薇卡与同伴依次祝愿归者安眠、名字长存，生者继续守护并走完他们的路。玛薇卡随后带领众人出发。",
+      "motivation": "铭记逝者并坚持守护",
+      "outcome": "众人继续前行",
+      "keywords": [
+        "纪念",
+        "守护"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7013601,
+          "title": "余烬不熄",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:26.094Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

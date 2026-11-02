@@ -1,0 +1,365 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 77226,
+    "slug": "77226_beasts-in-a-cage",
+    "title": "笼兽困斗",
+    "chapter_num": "",
+    "premise": "德罗金的罪行得到核实，他携影域发生装置逃往贝洛沃迪港。调查者赶去追捕。",
+    "central_conflict": "追捕队必须制服利用影域与匪帮逃跑的德罗金，同时避免港口居民受害。",
+    "summary": "达妮卡、瓦列里与同伴梳理私酒团伙和索科夫命案的经过，追踪逃亡的运输局局长德罗金。港口追捕遭匪帮阻拦，众人分头控制影域并疏散居民。德罗金逃往码头后被达妮卡设伏制服，匪帮也被控制。两天后女皇嘉奖众人，至冬宫介入调查苏古亚诺一事。达妮卡随后揭出「富人」操纵奖券的布局，以及「公鸡」清除德罗金威胁的意图。",
+    "resolution": "德罗金被捕，案件取得结果；苏古亚诺的事仍在调查。众人准备庆祝。",
+    "themes": [
+      "正义",
+      "追捕",
+      "权力布局",
+      "亲情"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77226,
+      "title": "笼兽困斗",
+      "summary": "调查者追踪德罗金，查明私酒团伙及索科夫命案的关联，并在港口分头制服嫌犯与匪帮。女皇嘉奖参与者并追查苏古亚诺的事，达妮卡则揭出「富人」和「公鸡」在案件背后的布局。",
+      "turning_point": "达妮卡在德罗金自以为脱身的码头将他制服。",
+      "outcome": "德罗金被捕，案件相关人员获得嘉奖，苏古亚诺一事继续调查。",
+      "section_ids": [
+        "77226-c00-s01",
+        "77226-c00-s02",
+        "77226-c00-s03",
+        "77226-c00-s04",
+        "77226-c00-s05"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "一段时间后，案件有了进展…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77226-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "调查者确认德罗金逃往港口",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "案件取得进展后",
+      "locations": [
+        "皇家轨道运输局",
+        "列车"
+      ],
+      "characters": [
+        "达妮卡",
+        "瓦列里",
+        "斯塔拉诺夫",
+        "米提亚",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "达妮卡与瓦列里核实德罗金的罪行，并追踪影域装置残留，发现他可能从贝洛沃迪港水路逃走。众人乘专车出发，途中梳理私酒团伙：索科夫联系生产者与德罗金，中奖后欲退出，达妮卡推断德罗金杀害他并伪造意外。",
+      "motivation": "阻止嫌犯逃离并查清案件",
+      "outcome": "追捕队抵达贝洛沃迪港。",
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "keywords": [
+        "私酒",
+        "索科夫",
+        "德罗金"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7722601,
+          "title": "等待案件进展的讯息…",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7722602,
+          "title": "前往皇家轨道运输局",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7722617,
+          "title": "乘坐专车前往贝洛沃迪港",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7722603,
+          "title": "乘坐专车前往贝洛沃迪港",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77226-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "追捕队分头控制港口危机",
+      "narrative_role": "conflict",
+      "importance": 4,
+      "when": "抵达贝洛沃迪港后",
+      "locations": [
+        "贝洛沃迪港",
+        "大桥"
+      ],
+      "characters": [
+        "达妮卡",
+        "瓦列里",
+        "米提亚",
+        "斯塔拉诺夫",
+        "赫雷诺夫",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "线人报告德罗金前往桥下，追捕队赶去时遭匪帮阻拦，瓦列里与米提亚留下应战。德罗金逃入扩大的影域，达妮卡安排疏散并在外策应，旅人与斯塔拉诺夫、苏古亚诺的弟弟赫雷诺夫进入追捕。",
+      "motivation": "抓捕德罗金并保护港口居民",
+      "outcome": "队伍分工进入影域与控制外部局势。",
+      "source_step_keys": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "keywords": [
+        "影域",
+        "匪帮",
+        "疏散"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 7722604,
+          "title": "与达妮卡对话",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7722613,
+          "title": "与线人会合",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7722620,
+          "title": "追击德罗金",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7722605,
+          "title": "追击德罗金",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7722616,
+          "title": "击败匪帮打手",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7722606,
+          "title": "击败匪帮打手",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 7722607,
+          "title": "与达妮卡对话",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 7722608,
+          "title": "追击德罗金",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 7722609,
+          "title": "追击德罗金",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77226-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "达妮卡在码头制服德罗金",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "进入影域追捕期间",
+      "locations": [
+        "影域",
+        "贝洛沃迪港"
+      ],
+      "characters": [
+        "德罗金",
+        "斯塔拉诺夫",
+        "赫雷诺夫",
+        "旅人",
+        "派蒙",
+        "达妮卡",
+        "瓦列里",
+        "米提亚"
+      ],
+      "summary": "斯塔拉诺夫追上德罗金，但同伙出现，众人须保卫列车，德罗金趁机继续逃跑。达妮卡在他以为安全的码头设伏将其制服，瓦列里一方也控制了匪帮打手。",
+      "motivation": "完成追捕并阻止同伙接应",
+      "outcome": "德罗金被捕，达妮卡返回至冬宫复命。",
+      "source_step_keys": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "keywords": [
+        "抓捕",
+        "码头",
+        "匪帮"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "13",
+          "id": 7722614,
+          "title": "与德罗金对话",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 7722615,
+          "title": "保卫列车",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 7722619,
+          "title": "追击德罗金",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 7722610,
+          "title": "追击德罗金",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77226-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "女皇嘉奖调查者并重查旧案",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "两天后",
+      "locations": [
+        "皇家轨道运输局"
+      ],
+      "characters": [
+        "达妮卡",
+        "「富人」",
+        "斯塔拉诺夫",
+        "瓦列里",
+        "米提亚",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "达妮卡传达女皇的敕令与奖赏，表示至冬宫已介入苏古亚诺一事并向其家属发放抚恤金。「富人」到场审验德罗金的资金链；众人庆祝时，斯塔拉诺夫透露自己的女儿是旅人在挪德卡莱结识的涅朵奇卡，并希望为她准备签名。",
+      "motivation": "表彰维护正义者并处理案件后续",
+      "outcome": "参与者获得奖赏，斯塔拉诺夫准备与朋友们继续叙谈。",
+      "source_step_keys": [
+        "17",
+        "18"
+      ],
+      "keywords": [
+        "奖赏",
+        "苏古亚诺",
+        "涅朵奇卡"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "17",
+          "id": 7722611,
+          "title": "等待至两天后…",
+          "is_hidden": false
+        },
+        {
+          "key": "18",
+          "id": 7722612,
+          "title": "前往皇家轨道运输局",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77226-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "达妮卡揭出奖券背后的布局",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "嘉奖之后",
+      "locations": [
+        "皇家轨道运输局"
+      ],
+      "characters": [
+        "达妮卡",
+        "「富人」",
+        "「公鸡」"
+      ],
+      "summary": "达妮卡私下指出「富人」曾操纵奖券令索科夫中奖，以撬动德罗金的案子，「富人」承认这是秘密。她推测此举也与「富人」偿还「公鸡」在外交事务上的人情有关；两位执行官的对话表明「公鸡」希望隐蔽处理德罗金对妖精一族的威胁。",
+      "motivation": "清除德罗金及匪帮带来的威胁",
+      "outcome": "案件背后的权力布局得到揭示。",
+      "source_step_keys": [
+        "18"
+      ],
+      "keywords": [
+        "奖券",
+        "「富人」",
+        "「公鸡」"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "18",
+          "id": 7722612,
+          "title": "前往皇家轨道运输局",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:26.513Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

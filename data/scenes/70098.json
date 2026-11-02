@@ -1,0 +1,88 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 70098,
+    "slug": "70098_banners-of-the-northwind",
+    "title": "朔风扬旌",
+    "chapter_num": "",
+    "premise": "大批魔物正向蒙德逼近，骑士团集结迎战。",
+    "central_conflict": "蒙德众人必须抵御数量众多的来袭魔物。",
+    "summary": "蒙德众人发现大批魔物接近，霍夫曼通报敌情，米卡清点敌军，诺艾尔提醒准备元素对策。法尔伽与洛恩加入战斗，法尔伽下令西风骑士团全体冲锋。",
+    "resolution": "骑士团向魔物发起冲锋。",
+    "themes": [
+      "魔物",
+      "西风骑士团"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70098,
+      "title": "朔风扬旌",
+      "summary": "蒙德众人发现大批魔物接近，霍夫曼通报敌情，米卡清点敌军，诺艾尔提醒准备元素对策。法尔伽与洛恩加入战斗，法尔伽下令西风骑士团全体冲锋。",
+      "turning_point": "原文未明确",
+      "outcome": "骑士团向魔物发起冲锋",
+      "section_ids": [
+        "70098-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "圣土化的灾难刚兴起时，魔物如潮，直逼蒙德城下。\\n而在远征军凯旋之后，蒙德的军力也久违地以全盛之姿，再度立于城门之前…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70098-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "蒙德迎战来袭魔物",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "霍夫曼",
+        "米卡",
+        "诺艾尔",
+        "凯亚",
+        "迪卢克",
+        "琴",
+        "洛恩",
+        "法尔伽",
+        "西蒙·佩奇"
+      ],
+      "summary": "蒙德众人发现大批魔物接近，霍夫曼通报敌情，米卡清点敌军，诺艾尔提醒准备元素对策。法尔伽与洛恩加入战斗，法尔伽下令西风骑士团全体冲锋。",
+      "motivation": "抵御逼近的魔物",
+      "outcome": "骑士团向魔物发起冲锋",
+      "keywords": [
+        "魔物",
+        "西风骑士团"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7009801,
+          "title": "朔风扬旌",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:25.732Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

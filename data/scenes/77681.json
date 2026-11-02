@@ -1,0 +1,159 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 77681,
+    "slug": "77681_potatoes-hot-soup-and-snowfields",
+    "title": "土豆，热汤，雪原…",
+    "chapter_num": "",
+    "premise": "女皇希望掌握民众真实的饮食状况，委托旅人与派蒙抽样。",
+    "central_conflict": "粮食投机与虚假账目损害民众餐桌，商家也可能应付检查。",
+    "summary": "女皇说明粮食投机与调查人员勾结的问题，达妮卡请初次参加检查的旅人抽样。旅人与派蒙从老庭院餐厅和列车总站选取红菜汤、熏肠与罐罐焖肉。女皇确认品质与既有调查相符，命令持续监管，并让涉事贪腐投机者去荒地种菜。",
+    "resolution": "抽样得到核实，粮食监管继续。",
+    "themes": [
+      "民生",
+      "粮食",
+      "监管"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77681,
+      "title": "土豆，热汤，雪原…",
+      "summary": "女皇说明粮食投机与调查人员勾结的问题，达妮卡请初次参加检查的旅人抽样。旅人与派蒙从老庭院餐厅和列车总站选取红菜汤、熏肠与罐罐焖肉。女皇确认品质与既有调查相符，命令持续监管，并让涉事贪腐投机者去荒地种菜。",
+      "turning_point": "女皇获得抽样结果并处置涉事者",
+      "outcome": "抽样得到核实，粮食监管继续。",
+      "section_ids": [
+        "77681-c00-s01",
+        "77681-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "女皇有一个新的任务要交给你去完成，似乎与至冬民众的饮食有关…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77681-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "女皇委托抽查民间餐食",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "达妮卡",
+        "旅人",
+        "派蒙",
+        "恰伊卡"
+      ],
+      "summary": "女皇指出粮食投机者囤积牟利，调查专员也与其勾结。为取得未经商家特别修饰的餐食品质，她委托旅人与派蒙抽样，达妮卡继续调查。",
+      "motivation": "掌握民众真实饮食并防止投机",
+      "outcome": "旅人和派蒙决定到餐馆及车站调查",
+      "keywords": [
+        "粮食",
+        "抽查",
+        "民生"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7768101,
+          "title": "前往至冬宫",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77681-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "旅人选取餐食并呈交女皇",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "接受委托后",
+      "locations": [
+        "老庭院餐厅",
+        "列车总站",
+        "至冬宫"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "布图琳娜",
+        "伊莉雅娜",
+        "恰伊卡",
+        "安娜丝塔夏",
+        "达妮卡"
+      ],
+      "summary": "旅人在餐馆选购红菜汤与熏肠，又从列车餐厅选取罐罐焖肉，带回至冬宫说明做法。达妮卡确认品质、食材渠道与价格无异常，女皇命令继续监管，并将投机贪腐者送去特普洛附近荒地种菜。",
+      "motivation": "用常见餐品核对民间饮食品质",
+      "outcome": "女皇获得抽样结果并处置涉事者",
+      "keywords": [
+        "红菜汤",
+        "熏肠",
+        "罐罐焖肉"
+      ],
+      "source_step_keys": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7768102,
+          "title": "前往老庭院餐馆",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7768103,
+          "title": "前往列车总站",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7768106,
+          "title": "返回至冬宫",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7768104,
+          "title": "向恰伊卡提交料理",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7768107,
+          "title": "回答女皇的提问",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:27.236Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,843 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 10279,
+    "slug": "10279_ancient-streets-where-sorrows-linger",
+    "title": "遗留悲响的旧街",
+    "chapter_num": "晶流与石箱的古歌谣 第三章",
+    "premise": "旅人与派蒙追踪萨杜诺娃与失踪的斯露德，进入被影域笼罩的旧基捷城。",
+    "central_conflict": "烁晶之人持续转化晶矿，以求开启山中的通道。",
+    "summary": "旅人在旧城读到实验者的手记，并从萨杜诺娃口中听到排斥人类的复仇主张。二人见到斯露德被带走，解开门扉后遭遇烁晶之人，交战后继续追赶。旅人击败拒绝屈服的萨杜诺娃，循山中道路到达山顶。通道即将打开，二人尝试破坏通道。",
+    "resolution": "旅人抵达山顶通道，继续阻止烁晶之人。",
+    "themes": [
+      "晶灾",
+      "妖精与人类",
+      "救援"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77135,
+      "title": "遗鳞与灾厄之晶的空城",
+      "summary": "旅人与派蒙进入被影域笼罩的旧基捷城，发现实验者手记记载其与阿克西妮娅谋划针对阿尔维斯，以及通过转化晶矿聚集力量。萨杜诺娃宣称要驱逐人类和异族，随后与二人交战。二人目睹斯露德被萨杜诺娃带走，解开通道后遭遇烁晶之人。对方称正用转化晶矿的力量打开山中通道，双方交战后它离去，旅人继续追赶。旅人与派蒙在山内战胜萨杜诺娃，她拒绝向人类屈服。二人查阅遗留手记并继续向山顶进发，发现通道即将开启，试图将其破坏。",
+      "turning_point": "旅人与派蒙在山内战胜萨杜诺娃，她拒绝向人类屈服。",
+      "outcome": "二人抵达通道并尝试破坏",
+      "section_ids": [
+        "10279-c00-s01",
+        "10279-c00-s02",
+        "10279-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "到达了旧基捷城，或许前方就是萨杜诺娃的大本营，虽然不知道她究竟为了什么绑架了斯露德，但只要抓住了她，或许就能得知真相。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 77140,
+      "title": "曾抵挡黑流的城垣",
+      "summary": "旅人与派蒙探索副城，击败守卫与增援，沿城墙前往高处。二人将荧光束流对准大门，使一侧门扉激活。",
+      "turning_point": "旅人与派蒙探索副城，击败守卫与增援，沿城墙前往高处。",
+      "outcome": "一侧门扉被激活",
+      "section_ids": [
+        "10279-c01-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "为了打开旧基捷城中心的巨大门扉，必须得操控古城两侧的光线照射到大门上才行，去左边的高墙上，或许有打开门扉的机关的线索。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": 77141,
+      "title": "曾观望疆场的高塔",
+      "summary": "旅人与派蒙清除台座附近的臻冰，安装灯晶并探索高楼，接通光路。荧光束流被对准大门，为继续深入开辟道路。",
+      "turning_point": "旅人与派蒙清除台座附近的臻冰，安装灯晶并探索高楼，接通光路。",
+      "outcome": "高塔一侧光路接通",
+      "section_ids": [
+        "10279-c02-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_02.json",
+      "source_description": "为了打开旧基捷城中心的巨大门扉，必须得操控古城两侧的光线照射到大门上才行，去右侧的高楼上，或许有打开门扉的机关的线索。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "10279-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "旧城手记透露晶矿转化计划",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "萨杜诺娃"
+      ],
+      "summary": "旅人与派蒙进入被影域笼罩的旧基捷城，发现实验者手记记载其与阿克西妮娅谋划针对阿尔维斯，以及通过转化晶矿聚集力量。萨杜诺娃宣称要驱逐人类和异族，随后与二人交战。",
+      "motivation": "调查晶灾源头",
+      "outcome": "众人继续寻找斯露德",
+      "keywords": [
+        "手记",
+        "影域"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7713508,
+          "title": "向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7713566,
+          "title": "向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7713533,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7713550,
+          "title": "向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7713568,
+          "title": "向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7713534,
+          "title": "向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7713516,
+          "title": "获取枪械配件蓝图",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7713530,
+          "title": "击败出现的敌人",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7713501,
+          "title": "继续向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7713502,
+          "title": "继续向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 7713503,
+          "title": "跃入洞穴",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 7713504,
+          "title": "探索洞穴下的区域",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 7713505,
+          "title": "调查神秘的装置",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 7713506,
+          "title": "令装置完成充能",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 7713507,
+          "title": "击败出现的强敌",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 7713509,
+          "title": "获取新的枪械蓝图",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 7713561,
+          "title": "获取新的枪械蓝图",
+          "is_hidden": false
+        },
+        {
+          "key": "17",
+          "id": 7713546,
+          "title": "离开区域",
+          "is_hidden": false
+        },
+        {
+          "key": "18",
+          "id": 7713510,
+          "title": "继续向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "19",
+          "id": 7713511,
+          "title": "继续向前探索",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10279-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "烁晶之人现身并与旅人交战",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "烁晶之人",
+        "萨杜诺娃"
+      ],
+      "summary": "二人目睹斯露德被萨杜诺娃带走，解开通道后遭遇烁晶之人。对方称正用转化晶矿的力量打开山中通道，双方交战后它离去，旅人继续追赶。",
+      "motivation": "营救斯露德并阻止晶矿转化",
+      "outcome": "烁晶之人前往山顶通道",
+      "keywords": [
+        "晶矿",
+        "通道"
+      ],
+      "source_step_keys": [
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "20",
+          "id": 7713512,
+          "title": "看到斯露德的行踪",
+          "is_hidden": false
+        },
+        {
+          "key": "21",
+          "id": 7713513,
+          "title": "寻找打开门扉的办法",
+          "is_hidden": false
+        },
+        {
+          "key": "22",
+          "id": 7713514,
+          "title": "通过门扉",
+          "is_hidden": false
+        },
+        {
+          "key": "23",
+          "id": 7713547,
+          "title": "继续前进",
+          "is_hidden": false
+        },
+        {
+          "key": "24",
+          "id": 7713549,
+          "title": "找到登上高处的道路",
+          "is_hidden": false
+        },
+        {
+          "key": "25",
+          "id": 7713515,
+          "title": "找到登上高处的道路",
+          "is_hidden": false
+        },
+        {
+          "key": "26",
+          "id": 7713517,
+          "title": "靠近眼前的建筑",
+          "is_hidden": false
+        },
+        {
+          "key": "27",
+          "id": 7713518,
+          "title": "与神秘人对峙",
+          "is_hidden": false
+        },
+        {
+          "key": "28",
+          "id": 7713558,
+          "title": "击退烁晶之人",
+          "is_hidden": false
+        },
+        {
+          "key": "29",
+          "id": 7713519,
+          "title": "击退烁晶之人",
+          "is_hidden": false
+        },
+        {
+          "key": "30",
+          "id": 7713520,
+          "title": "击退烁晶之人",
+          "is_hidden": false
+        },
+        {
+          "key": "31",
+          "id": 7713559,
+          "title": "击退烁晶之人",
+          "is_hidden": false
+        },
+        {
+          "key": "32",
+          "id": 7713521,
+          "title": "击退烁晶之人",
+          "is_hidden": false
+        },
+        {
+          "key": "33",
+          "id": 7713522,
+          "title": "击退烁晶之人",
+          "is_hidden": false
+        },
+        {
+          "key": "34",
+          "id": 7713551,
+          "title": "向烁晶之人离开的方向前进",
+          "is_hidden": false
+        },
+        {
+          "key": "35",
+          "id": 7713552,
+          "title": "向烁晶之人离开的方向前进",
+          "is_hidden": false
+        },
+        {
+          "key": "36",
+          "id": 7713532,
+          "title": "向烁晶之人离开的方向前进",
+          "is_hidden": false
+        },
+        {
+          "key": "37",
+          "id": 7713553,
+          "title": "向烁晶之人离开的方向前进",
+          "is_hidden": false
+        },
+        {
+          "key": "38",
+          "id": 7713523,
+          "title": "向烁晶之人离开的方向前进",
+          "is_hidden": false
+        },
+        {
+          "key": "39",
+          "id": 7713524,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10279-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "战胜萨杜诺娃并追向山顶",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "萨杜诺娃"
+      ],
+      "summary": "旅人与派蒙在山内战胜萨杜诺娃，她拒绝向人类屈服。二人查阅遗留手记并继续向山顶进发，发现通道即将开启，试图将其破坏。",
+      "motivation": "阻止烁晶之人进入山中秘藏",
+      "outcome": "二人抵达通道并尝试破坏",
+      "keywords": [
+        "山顶",
+        "手记"
+      ],
+      "source_step_keys": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54",
+        "55",
+        "56",
+        "57",
+        "58",
+        "59",
+        "60",
+        "61",
+        "62",
+        "63",
+        "64",
+        "65",
+        "66",
+        "67"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "40",
+          "id": 7713525,
+          "title": "继续向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "41",
+          "id": 7713555,
+          "title": "利用「荧光的束流」激活装置",
+          "is_hidden": false
+        },
+        {
+          "key": "42",
+          "id": 7713544,
+          "title": "继续向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "43",
+          "id": 7713556,
+          "title": "继续向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "44",
+          "id": 7713526,
+          "title": "击败出现的敌人",
+          "is_hidden": false
+        },
+        {
+          "key": "45",
+          "id": 7713527,
+          "title": "激活窟壁上的装置",
+          "is_hidden": false
+        },
+        {
+          "key": "46",
+          "id": 7713528,
+          "title": "继续向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "47",
+          "id": 7713557,
+          "title": "寻找继续向前的方法",
+          "is_hidden": false
+        },
+        {
+          "key": "48",
+          "id": 7713529,
+          "title": "继续向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "49",
+          "id": 7713545,
+          "title": "与萨杜诺娃对峙",
+          "is_hidden": false
+        },
+        {
+          "key": "50",
+          "id": 7713563,
+          "title": "战胜萨杜诺娃",
+          "is_hidden": false
+        },
+        {
+          "key": "51",
+          "id": 7713535,
+          "title": "战胜萨杜诺娃",
+          "is_hidden": false
+        },
+        {
+          "key": "52",
+          "id": 7713567,
+          "title": "与萨杜诺娃对话",
+          "is_hidden": false
+        },
+        {
+          "key": "53",
+          "id": 7713543,
+          "title": "查看此地遗留的信息",
+          "is_hidden": false
+        },
+        {
+          "key": "54",
+          "id": 7713531,
+          "title": "激活剩余的装置",
+          "is_hidden": false
+        },
+        {
+          "key": "55",
+          "id": 7713554,
+          "title": "找到离开此处的办法",
+          "is_hidden": false
+        },
+        {
+          "key": "56",
+          "id": 7713536,
+          "title": "找到离开此处的办法",
+          "is_hidden": false
+        },
+        {
+          "key": "57",
+          "id": 7713564,
+          "title": "寻找前往高处的道路",
+          "is_hidden": false
+        },
+        {
+          "key": "58",
+          "id": 7713537,
+          "title": "寻找前往高处的道路",
+          "is_hidden": false
+        },
+        {
+          "key": "59",
+          "id": 7713538,
+          "title": "离开洞窟",
+          "is_hidden": false
+        },
+        {
+          "key": "60",
+          "id": 7713539,
+          "title": "眺望山顶",
+          "is_hidden": false
+        },
+        {
+          "key": "61",
+          "id": 7713540,
+          "title": "继续向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "62",
+          "id": 7713562,
+          "title": "继续向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "63",
+          "id": 7713560,
+          "title": "破坏厄生晶核以前进",
+          "is_hidden": false
+        },
+        {
+          "key": "64",
+          "id": 7713565,
+          "title": "继续向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "65",
+          "id": 7713541,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        },
+        {
+          "key": "66",
+          "id": 7713542,
+          "title": "破坏如镜的「通道」",
+          "is_hidden": false
+        },
+        {
+          "key": "67",
+          "id": 7713548,
+          "title": "破坏如镜的「通道」",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10279-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "激活城垣一侧的光路",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "旅人与派蒙探索副城，击败守卫与增援，沿城墙前往高处。二人将荧光束流对准大门，使一侧门扉激活。",
+      "motivation": "打开通往深处的大门",
+      "outcome": "一侧门扉被激活",
+      "keywords": [
+        "城垣",
+        "光路"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7714007,
+          "title": "进入门扉一侧的副城",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7714002,
+          "title": "击败速射机炮后的敌人",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7714003,
+          "title": "击败增援的敌人",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7714008,
+          "title": "沿着城墙前往高处",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7714009,
+          "title": "沿着城墙前往高处",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7714005,
+          "title": "寻找打开门扉的办法",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7714006,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7714004,
+          "title": "将「荧光束流」对准大门",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10279-c02-s01",
+      "chapter_index": 2,
+      "order": 1,
+      "title": "连通高塔一侧的光路",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "旅人与派蒙清除台座附近的臻冰，安装灯晶并探索高楼，接通光路。荧光束流被对准大门，为继续深入开辟道路。",
+      "motivation": "打开大门的另一侧",
+      "outcome": "高塔一侧光路接通",
+      "keywords": [
+        "高塔",
+        "光路"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7714102,
+          "title": "靠近探索",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7714108,
+          "title": "拆除聚光台座周围的臻冰",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7714103,
+          "title": "安装荧光灯晶",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7714105,
+          "title": "顺光路方向进行调查",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7714106,
+          "title": "进入高楼",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7714107,
+          "title": "连通光路",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7714104,
+          "title": "继续向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7714109,
+          "title": "继续向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7714110,
+          "title": "继续向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7714101,
+          "title": "寻找打开门扉的办法",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 7714114,
+          "title": "与派蒙对话",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 7714111,
+          "title": "将「荧光束流」对准大门",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:25.487Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

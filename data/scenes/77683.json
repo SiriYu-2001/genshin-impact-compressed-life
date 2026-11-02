@@ -1,0 +1,161 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 77683,
+    "slug": "77683_arms-and-seals",
+    "title": "军械与印章",
+    "chapter_num": "",
+    "premise": "军械宫上报轻量型陆巡舰民用测试，女皇请旅人随行巡查。",
+    "central_conflict": "军械官拖延测试，所谓民用计划背后隐藏军火走私。",
+    "summary": "米提亚坚持重新测试陆巡舰，女皇指定旅人主持。测试后冬契军拘捕试图逃跑的普什卡斯科夫，证据显示其借虚假民用计划掩盖向武装组织出售军械。瓦列里说明如何让报告获准上呈，女皇命令继续追查涉案人员。",
+    "resolution": "军械官被拘，冬契军与揭发者继续调查。",
+    "themes": [
+      "军械",
+      "调查",
+      "证据"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77683,
+      "title": "军械与印章",
+      "summary": "米提亚坚持重新测试陆巡舰，女皇指定旅人主持。测试后冬契军拘捕试图逃跑的普什卡斯科夫，证据显示其借虚假民用计划掩盖向武装组织出售军械。瓦列里说明如何让报告获准上呈，女皇命令继续追查涉案人员。",
+      "turning_point": "军械官落网，相关调查继续",
+      "outcome": "军械官被拘，冬契军与揭发者继续调查。",
+      "section_ids": [
+        "77683-c00-s01",
+        "77683-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "一路走来，你早已见识过许多愚人众使用的武器科技，而这也正与此次的任务有关…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77683-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "女皇亲赴军械宫安排测试",
+      "narrative_role": "investigation",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "至冬宫",
+        "军械宫",
+        "测试场地"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "米提亚",
+        "瓦列里",
+        "普什卡斯科夫",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "米提亚要求测试拟转民用的轻量型陆巡舰，普什卡斯科夫却以执行官繁忙为由拖延。女皇带旅人巡查并指定其主持测试，旅人关停受测陆巡舰。",
+      "motivation": "验证军械转民用的安全性",
+      "outcome": "测试取得调查所需依据",
+      "keywords": [
+        "陆巡舰",
+        "测试",
+        "军械宫"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7768301,
+          "title": "前往至冬宫",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7768302,
+          "title": "陪同女皇前往军械宫",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7768307,
+          "title": "前往测试场地",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7768303,
+          "title": "关停「轻量」型陆巡舰",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77683-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "走私计划败露并继续追查",
+      "narrative_role": "revelation",
+      "importance": 3,
+      "when": "测试后",
+      "locations": [
+        "军械宫"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "达妮卡",
+        "薇斯纳",
+        "米提亚",
+        "瓦列里",
+        "普什卡斯科夫",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "冬契军拘捕试图逃跑的普什卡斯科夫，达妮卡查明所谓民用计划旨在掩盖向妖精帮派等出售军械。瓦列里说明将报告夹入一摞文件取得印章的办法，女皇命冬契军继续追查，也要求米提亚与瓦列里参与。",
+      "motivation": "取得证据并追查走私网络",
+      "outcome": "军械官落网，相关调查继续",
+      "keywords": [
+        "走私",
+        "证据",
+        "调查"
+      ],
+      "source_step_keys": [
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 7768304,
+          "title": "向女皇汇报测试结果",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7768305,
+          "title": "与米提亚和瓦列里对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:27.347Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

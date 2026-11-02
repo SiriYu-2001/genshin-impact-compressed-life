@@ -1,0 +1,130 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 77686,
+    "slug": "77686_the-tsaritsas-chess-game-ii",
+    "title": "女皇的棋局·其二",
+    "chapter_num": "",
+    "premise": "女皇加封旅人为一等勋爵、实任枢密顾问，并邀其研究残局。",
+    "central_conflict": "白方陷入迫移，规则改变后也需应对黑方可能的反制。",
+    "summary": "派蒙执白、旅人执黑，试走多种棋子都无法摆脱危险。女皇解释迫移并允许白方先行，旅人与派蒙以王后打开局面。女皇指出黑方也可能破规，下次增加白方不得损失棋子的约束，双方约定再战。",
+    "resolution": "新规则下的棋局留待下次，女皇愿再留时间对弈。",
+    "themes": [
+      "棋局",
+      "规则",
+      "抉择"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77686,
+      "title": "女皇的棋局·其二",
+      "summary": "派蒙执白、旅人执黑，试走多种棋子都无法摆脱危险。女皇解释迫移并允许白方先行，旅人与派蒙以王后打开局面。女皇指出黑方也可能破规，下次增加白方不得损失棋子的约束，双方约定再战。",
+      "turning_point": "新约束下的对局留待以后",
+      "outcome": "新规则下的棋局留待下次，女皇愿再留时间对弈。",
+      "section_ids": [
+        "77686-c00-s01",
+        "77686-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "女皇再次邀请你陪她分析一个残局…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77686-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "受封后共同分析迫移残局",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "受封当日",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "女皇加封旅人为一等勋爵及实任枢密顾问，随后请旅人与派蒙分析残局。多种走法都令执白的派蒙陷入困境，女皇指出白方处于必须走棋却越走越差的迫移。",
+      "motivation": "分析困局并寻找转机",
+      "outcome": "众人决定尝试改变先后手",
+      "keywords": [
+        "受封",
+        "残局",
+        "迫移"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7768601,
+          "title": "前往至冬宫",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7768602,
+          "title": "陪同女皇分析残局",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77686-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "改变先手并约定新的棋局",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "分析残局时",
+      "locations": [
+        "至冬宫"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "女皇允许白方先行，旅人与派蒙运用王后打开局面。她提醒对手也可能打破规则，提出下次白方先行但不得损失任何棋子，双方约定日后再战。",
+      "motivation": "检验破局机会及对手的反制",
+      "outcome": "新约束下的对局留待以后",
+      "keywords": [
+        "先手",
+        "破规",
+        "再战"
+      ],
+      "source_step_keys": [
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7768602,
+          "title": "陪同女皇分析残局",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:27.531Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 77278,
+    "slug": "77278_winner-takes-all",
+    "title": "胜者为王",
+    "chapter_num": "",
+    "premise": "阿斯穆德与法茜薇卡在桥上因礼让问题争执，堵住了去路。",
+    "central_conflict": "双方对礼仪与胜负的理解不同，而霜精加入猜拳后又暴露了比赛的公平问题。",
+    "summary": "派蒙提议用猜拳解决过桥争执，法茜薇卡胜出。霜精随后挑战她，却因为只能出拳而连续落败，引发对公平与尊重的争论。旅人与法茜薇卡比试获胜，促使她同意等霜精找到公平方法再赛。次日霜精用牌子克服限制，击败两位妖精和路人，众人提议授予它拳王称号。霜精坚持先挑战旅人，最终旅人获胜并得到称号。",
+    "resolution": "霜精获得公平比赛的机会，旅人成为新基捷城的拳王。阿斯穆德与法茜薇卡仍继续争论。",
+    "themes": [
+      "公平",
+      "礼仪",
+      "胜负",
+      "尊重"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77278,
+      "title": "胜者为王",
+      "summary": "两名妖精为过桥礼仪争执，旅人和派蒙以猜拳调解，却发现霜精只能出拳导致比试不公平。霜精次日以牌子解决限制并连战连胜，最终与旅人争夺拳王称号。",
+      "turning_point": "霜精找到用牌子出剪刀和布的方法。",
+      "outcome": "旅人击败霜精并获得拳王称号，两位妖精仍有争执。",
+      "section_ids": [
+        "77278-c00-s01",
+        "77278-c00-s02",
+        "77278-c00-s03"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "两个妖精在桥上发生了争执，如果放任他们争吵下去，后果不堪设想。也许，得找个办法调和他们的矛盾…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77278-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "过桥之争以猜拳暂时解决",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "新基捷城的桥"
+      ],
+      "characters": [
+        "阿斯穆德",
+        "法茜薇卡",
+        "旅人",
+        "派蒙",
+        "路过的霜精"
+      ],
+      "summary": "阿斯穆德要求法茜薇卡依旧礼让老人，法茜薇卡坚持先上桥者先行，两人争执阻塞桥道。派蒙提议用猜拳决定，霜精担任裁判；法茜薇卡获胜，阿斯穆德须让路。",
+      "motivation": "解决双方对让路规则的分歧",
+      "outcome": "两人以猜拳暂时结束过桥争执。",
+      "keywords": [
+        "让路",
+        "猜拳",
+        "礼仪"
+      ],
+      "source_step_keys": [
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "1",
+          "id": 7727801,
+          "title": "与争执的妖精交谈",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7727802,
+          "title": "为争执的妖精评理",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77278-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "旅人争取霜精公平比试",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "过桥比试后",
+      "locations": [
+        "新基捷城的桥"
+      ],
+      "characters": [
+        "法茜薇卡",
+        "阿斯穆德",
+        "路过的霜精",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "霜精挑战法茜薇卡，却因只能出拳连连落败；法茜薇卡认为规则内取胜即为尊重对手，阿斯穆德则指责她欺凌弱小。旅人对公平提出异议并赢得与法茜薇卡的猜拳，她承诺等霜精找到出剪刀和布的方法后再比试。",
+      "motivation": "让霜精有公平选择并回应双方争论",
+      "outcome": "双方约定次日再比。",
+      "keywords": [
+        "霜精",
+        "公平",
+        "承诺"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7727808,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7727801,
+          "title": "与争执的妖精交谈",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7727802,
+          "title": "为争执的妖精评理",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77278-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "霜精用牌子挑战拳王称号",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "次日",
+      "locations": [
+        "新基捷城的桥"
+      ],
+      "characters": [
+        "路过的霜精",
+        "法茜薇卡",
+        "阿斯穆德",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "霜精用牌子解决出拳限制，在重新比试中击败法茜薇卡、阿斯穆德与路人，众人提议授予它拳王称号。它坚持先挑战曾帮助自己的旅人；旅人获胜后得到称号，而阿斯穆德和法茜薇卡仍在拌嘴。",
+      "motivation": "兑现公平比试的约定并决定拳王称号",
+      "outcome": "旅人获称拳王，妖精间的争执仍延续。",
+      "keywords": [
+        "牌子",
+        "拳王",
+        "再赛"
+      ],
+      "source_step_keys": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7727803,
+          "title": "见证二人的比试",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7727804,
+          "title": "在猜拳比赛中战胜法茜薇卡",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7727805,
+          "title": "等待至次日",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7727806,
+          "title": "回到桥边查看情况",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7727807,
+          "title": "在猜拳比赛中战胜霜精",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:26.818Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

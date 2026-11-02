@@ -1,0 +1,632 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 10278,
+    "slug": "10278_first-let-the-earth-open-its-maw",
+    "title": "先使大地张开裂口",
+    "chapter_num": "晶流与石箱的古歌谣 第二章",
+    "premise": "新基捷城再次遭地震，斯露德被萨杜诺娃带走，晶灾蔓延至雪原。",
+    "central_conflict": "众人必须阻止厄生晶矿生长，并追踪萨杜诺娃和斯露德。",
+    "summary": "格林接管紧急救灾，科什金与矿工在雪原搭建克什尼克之炬，协助旅人进入影域破坏晶核。两处核心被击破后，雪原晶矿大致消除，众人判断灾害源头可能在旧基捷城。旅人与派蒙受托继续追查，并在途中遭遇萨杜诺娃。她称影域中的晶核能够持续驱动转化并汲取力量，随后以生长的晶矿阻拦二人。二人逃出裂谷，继续前往旧城。",
+    "resolution": "雪原的晶灾得到控制，旅人与派蒙继续追踪萨杜诺娃和斯露德。",
+    "themes": [
+      "晶灾",
+      "救援",
+      "追踪"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77145,
+      "title": "穿越星贯之谷",
+      "summary": "旅人与派蒙在废弃车站遭遇萨杜诺娃，她称将厄生晶核放进影域可维持晶矿生长并汲取力量。她使晶矿生长阻拦二人，二人逃出裂谷，抵达旧基捷城附近。",
+      "turning_point": "原文未明确",
+      "outcome": "二人避开晶矿并继续前往旧城",
+      "section_ids": [
+        "10278-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "穿过雪原，就离旧基捷城更近一步…斯露德殿下和萨杜诺娃或许就在前方？",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 1,
+      "chapter_id": 77146,
+      "title": "往日亦是风雪之日",
+      "summary": "皮亚特金向旅人讲述科什金推荐的人类矿工遭指控并被逐出城的往事。新一轮地震后，萨杜诺娃带走斯露德；格林以钦差身份组织救灾，矿工们在雪原搭建克什尼克之炬，协助旅人寻找并破坏影域中的晶核。雪原晶矿大致消除后，科什金请求二人前往旧基捷城寻找斯露德。",
+      "turning_point": "原文未明确",
+      "outcome": "搜查队清理雪原并将旧城调查托付给旅人",
+      "section_ids": [
+        "10278-c01-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_01.json",
+      "source_description": "地下河的瀑布恢复了以往的样貌，矿区虽然完全恢复还要点时间，但好消息是并没有人因此受到严重的伤害。或许一切都能就此回到正轨，还是…？",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 2,
+      "chapter_id": 77192,
+      "title": "沉入塔中的阴影",
+      "summary": "矿工启动临时克什尼克之炬并持续供应晶矿，旅人与派蒙进入塔内影域，清除敌人后在塔顶破坏厄生晶核。部分晶矿消失，科什金依据生长走势判断另一条裂谷可能还有核心。",
+      "turning_point": "原文未明确",
+      "outcome": "第一处晶核被击破，搜查转向另一条裂谷",
+      "section_ids": [
+        "10278-c02-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_02.json",
+      "source_description": "根据搜查队的队员们给出的线索，此处留有影域的痕迹，想必其中一定有厄生晶核，想办法找到厄生晶核并把它解决掉吧。",
+      "is_hidden": false
+    },
+    {
+      "chapter_index": 3,
+      "chapter_id": 77205,
+      "title": "沉入谷底的阴影",
+      "summary": "矿工搭建克什尼克之炬驱散冰雾，确认谷底影域的位置。旅人与派蒙进入废弃列车探索，击败守卫影域的强敌并破坏厄生晶核。",
+      "turning_point": "原文未明确",
+      "outcome": "第二处晶核被破坏",
+      "section_ids": [
+        "10278-c03-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_03.json",
+      "source_description": "根据搜查队的队员们给出的线索，此处也有影域的痕迹，想必其中一定有剩下的厄生晶核，想办法找到厄生晶核并把它解决掉吧，这样雪原上大部分的厄生晶矿也能被处理掉了。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "10278-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "穿越裂谷摆脱萨杜诺娃",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "萨杜诺娃"
+      ],
+      "summary": "旅人与派蒙在废弃车站遭遇萨杜诺娃，她称将厄生晶核放进影域可维持晶矿生长并汲取力量。她使晶矿生长阻拦二人，二人逃出裂谷，抵达旧基捷城附近。",
+      "motivation": "追寻萨杜诺娃与斯露德",
+      "outcome": "二人避开晶矿并继续前往旧城",
+      "keywords": [
+        "裂谷",
+        "晶核"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7714512,
+          "title": "继续向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7714501,
+          "title": "调查废弃的车站",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7714508,
+          "title": "厄生晶矿生长",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7714517,
+          "title": "厄生晶矿生长",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7714516,
+          "title": "逃离厄生晶矿",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7714518,
+          "title": "追上萨杜诺娃",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7714519,
+          "title": "回到岸上",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7714520,
+          "title": "寻找离开洞穴的路",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7714502,
+          "title": "寻找离开洞穴的路",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7714527,
+          "title": "寻找离开洞穴的路",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 7714503,
+          "title": "厄生晶矿再次生长",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 7714509,
+          "title": "厄生晶矿再次生长",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 7714526,
+          "title": "逃离洞穴",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 7714521,
+          "title": "离开峡谷",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 7714505,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 7714531,
+          "title": "抵达旧基捷城",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10278-c01-s01",
+      "chapter_index": 1,
+      "order": 1,
+      "title": "地震后组织雪原调查",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "皮亚特金",
+        "科什金",
+        "格林",
+        "旅人",
+        "派蒙",
+        "恰罗杰娃",
+        "卢宁"
+      ],
+      "summary": "皮亚特金向旅人讲述科什金推荐的人类矿工遭指控并被逐出城的往事。新一轮地震后，萨杜诺娃带走斯露德；格林以钦差身份组织救灾，矿工们在雪原搭建克什尼克之炬，协助旅人寻找并破坏影域中的晶核。雪原晶矿大致消除后，科什金请求二人前往旧基捷城寻找斯露德。",
+      "motivation": "控制晶灾并寻找斯露德",
+      "outcome": "搜查队清理雪原并将旧城调查托付给旅人",
+      "keywords": [
+        "救灾",
+        "旧基捷城"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7714601,
+          "title": "与皮亚特金对话",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7714603,
+          "title": "前往酒馆",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7714604,
+          "title": "与格林、科什金对话",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7714615,
+          "title": "前往冰原",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7714605,
+          "title": "前往冰原",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7714607,
+          "title": "和皮亚特金对话",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7714608,
+          "title": "继续向前探索",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7714609,
+          "title": "清理沿途的岩块以前进",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7714612,
+          "title": "与科什金对话",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7714610,
+          "title": "寻找影域的痕迹",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 7714613,
+          "title": "和恰罗杰娃对话",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 7714606,
+          "title": "解决裂谷之中的厄生晶核",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 7714611,
+          "title": "寻找影域的痕迹",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 7714614,
+          "title": "和皮亚特金对话",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 7714617,
+          "title": "解决裂谷之中的厄生晶核",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 7714618,
+          "title": "与皮亚特金、科什金对话",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 7714619,
+          "title": "前往高处进行观察",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10278-c02-s01",
+      "chapter_index": 2,
+      "order": 1,
+      "title": "进入塔中影域击碎晶核",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "皮亚特金",
+        "科什金",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "矿工启动临时克什尼克之炬并持续供应晶矿，旅人与派蒙进入塔内影域，清除敌人后在塔顶破坏厄生晶核。部分晶矿消失，科什金依据生长走势判断另一条裂谷可能还有核心。",
+      "motivation": "清除雪原上的厄生晶矿",
+      "outcome": "第一处晶核被击破，搜查转向另一条裂谷",
+      "keywords": [
+        "影域",
+        "晶核"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7719201,
+          "title": "启动临时的克什尼克之炬",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7719215,
+          "title": "寻找聚光台座",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7719202,
+          "title": "破坏造成阻碍的厄生晶矿",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7719213,
+          "title": "接近影域",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7719204,
+          "title": "继续前进",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7719216,
+          "title": "清除塔里的敌人",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7719205,
+          "title": "登上塔顶",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7719206,
+          "title": "清除升降梯周围的敌人",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7719207,
+          "title": "寻找通往高处的道路",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7719211,
+          "title": "寻找通往高处的道路",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 7719212,
+          "title": "破坏造成阻碍的厄生晶矿",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 7719208,
+          "title": "继续登上塔顶",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 7719209,
+          "title": "解决阻拦的强敌",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 7719210,
+          "title": "乘坐升降梯前往塔顶",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 7719217,
+          "title": "破坏厄生晶核",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 7719214,
+          "title": "与等候的科什金对话",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 7719203,
+          "title": "(test)废弃",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "10278-c03-s01",
+      "chapter_index": 3,
+      "order": 1,
+      "title": "深入谷底破坏第二处晶核",
+      "narrative_role": "development",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "皮亚特金",
+        "科什金",
+        "恰罗杰娃",
+        "卢宁",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "矿工搭建克什尼克之炬驱散冰雾，确认谷底影域的位置。旅人与派蒙进入废弃列车探索，击败守卫影域的强敌并破坏厄生晶核。",
+      "motivation": "阻止雪原晶矿继续转化",
+      "outcome": "第二处晶核被破坏",
+      "keywords": [
+        "裂谷",
+        "晶核"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7720501,
+          "title": "启动临时的克什尼克之炬",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7720505,
+          "title": "前往谷底进行调查",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7720506,
+          "title": "寻找进入废弃列车的办法",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7720507,
+          "title": "想办法进入列车",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7720509,
+          "title": "继续探索",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7720508,
+          "title": "继续探索",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7720502,
+          "title": "继续探索",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7720503,
+          "title": "击杀守护影域的强敌",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7720504,
+          "title": "破坏厄生晶核",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:25.413Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

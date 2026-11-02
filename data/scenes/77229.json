@@ -1,0 +1,117 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 77229,
+    "slug": "77229_curious-lights",
+    "title": "灯光奇异",
+    "chapter_num": "",
+    "premise": "古迪发现疑似灯语，并联想到晶矿被劫的传闻。",
+    "central_conflict": "旅人与派蒙需要追查失窃晶矿的去向，盗窃者身份尚不明朗。",
+    "summary": "老矿工古迪听闻晶矿被劫后，怀疑规律闪烁的灯光是一种指向特列轨道的信号。旅人与派蒙循轨道和掉落晶石找到被盗晶矿，通知皇家轨道运输局警探收回货物，盗窃者身份仍不明。",
+    "resolution": "晶矿被收回，盗窃者尚未查明。",
+    "themes": [
+      "灯语",
+      "晶矿"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77229,
+      "title": "灯光奇异",
+      "summary": "老矿工古迪听闻晶矿被劫后，怀疑规律闪烁的灯光是一种指向特列轨道的信号。旅人与派蒙循轨道和掉落晶石找到被盗晶矿，通知皇家轨道运输局警探收回货物，盗窃者身份仍不明。",
+      "turning_point": "原文未明确",
+      "outcome": "晶矿被收回，盗窃者尚未查明",
+      "section_ids": [
+        "77229-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "矿工发现某处的灯光闪烁似乎符合某种规律，这是否又和最近克什尼克晶矿被人劫走的案件有关呢…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77229-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "追踪闪烁灯光发现被劫晶矿",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "古迪",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "老矿工古迪听闻晶矿被劫后，怀疑规律闪烁的灯光是一种指向特列轨道的信号。旅人与派蒙循轨道和掉落晶石找到被盗晶矿，通知皇家轨道运输局警探收回货物，盗窃者身份仍不明。",
+      "motivation": "调查疑似信号和晶矿失窃",
+      "outcome": "晶矿被收回，盗窃者尚未查明",
+      "keywords": [
+        "灯语",
+        "晶矿"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7722901,
+          "title": "与老矿工对话",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7722902,
+          "title": "前往特列轨道",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7722903,
+          "title": "沿着轨道进行调查",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7722904,
+          "title": "顺掉落的晶石向前",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7722905,
+          "title": "顺掉落的晶石向前",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7722906,
+          "title": "顺掉落的晶石向前",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:26.635Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 77684,
+    "slug": "77684_financial-plans",
+    "title": "财务方案",
+    "chapter_num": "",
+    "premise": "女皇带旅人到北国银行核算财务。",
+    "central_conflict": "国库紧张，潘塔罗涅提出以女皇形象售卖套娃补足收入。",
+    "summary": "潘塔罗涅提议授权女皇形象制作套娃，并请旅人设计涂装。女皇批准方案，旅人可选择威严或慈爱的风格。女皇随后解释领导者须作出判断、信任受托者并包容其行动。",
+    "resolution": "套娃准备上市，潘塔罗涅负责后续安排。",
+    "themes": [
+      "财政",
+      "判断",
+      "信任"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77684,
+      "title": "财务方案",
+      "summary": "潘塔罗涅提议授权女皇形象制作套娃，并请旅人设计涂装。女皇批准方案，旅人可选择威严或慈爱的风格。女皇随后解释领导者须作出判断、信任受托者并包容其行动。",
+      "turning_point": "套娃进入后续发行准备",
+      "outcome": "套娃准备上市，潘塔罗涅负责后续安排。",
+      "section_ids": [
+        "77684-c00-s01",
+        "77684-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "说到财务上的事，派蒙的理解就是偷偷把摩拉存进小金库…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77684-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "银行提出女皇套娃财政方案",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "至冬宫",
+        "北国银行总部"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "「富人」",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "潘塔罗涅说明国库紧张，提议授权女皇形象制作套娃，与其他财政方案共同补足税款缺口。他请旅人设计涂装，女皇同意并交由他安排。",
+      "motivation": "增加商业收入以纾解财政压力",
+      "outcome": "女皇批准套娃方案",
+      "keywords": [
+        "财政",
+        "套娃",
+        "授权"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7768401,
+          "title": "前往至冬宫",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7768402,
+          "title": "前往北国银行总部",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77684-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "旅人设计套娃并学习委任判断",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "方案获批后",
+      "locations": [
+        "北国银行总部"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "「富人」",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "旅人可选择威严或慈爱的女皇形象，潘塔罗涅准备安排上市。女皇强调判断之后要信任被委任者并包容其行动，鼓励顾问调整心态。",
+      "motivation": "完成设计并理解如何承担决策",
+      "outcome": "套娃进入后续发行准备",
+      "keywords": [
+        "设计",
+        "判断",
+        "信任"
+      ],
+      "source_step_keys": [
+        "2"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7768403,
+          "title": "与「富人」商议财务方案",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:27.406Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

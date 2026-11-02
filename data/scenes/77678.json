@@ -1,0 +1,86 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 77678,
+    "slug": "77678_the-afterglow-of-a-holiday",
+    "title": "假日的余韵",
+    "chapter_num": "",
+    "premise": "酒厂启用土壤改善设备后，米提亚与旅人等待效果。",
+    "central_conflict": "土质和作物产量需要逐步恢复。",
+    "summary": "乌尔金告知米提亚土质明显回升，酒厂也更换了农药和营养剂。塞泽娜准备食物饮品招待众人，朋友们分享喜悦。米提亚决定多陪伴两位老人，也欢迎旅人再来。",
+    "resolution": "土质好转，众人相约继续往来。",
+    "themes": [
+      "友情",
+      "恢复",
+      "款待"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77678,
+      "title": "假日的余韵",
+      "summary": "乌尔金告知米提亚土质明显回升，酒厂也更换了农药和营养剂。塞泽娜准备食物饮品招待众人，朋友们分享喜悦。米提亚决定多陪伴两位老人，也欢迎旅人再来。",
+      "turning_point": "土壤恢复有望，朋友们分享喜悦",
+      "outcome": "土质好转，众人相约继续往来。",
+      "section_ids": [
+        "77678-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "假期总有结束时，假日期间遇见的朋友却会长久地留存在生活中。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77678-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "土质好转后友人分享款待",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "设备启用后",
+      "locations": [
+        "酿酒厂院子"
+      ],
+      "characters": [
+        "米提亚",
+        "旅人",
+        "派蒙",
+        "塞泽娜",
+        "乌尔金"
+      ],
+      "summary": "乌尔金报告土质明显改善，酒厂更换农药和营养剂以期恢复产量。塞泽娜在院中款待众人，米提亚决定继续陪伴老人并欢迎旅人再访。",
+      "motivation": "庆祝努力见效并维系友情",
+      "outcome": "土壤恢复有望，朋友们分享喜悦",
+      "keywords": [
+        "土质",
+        "款待",
+        "友情"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7767801,
+          "title": "与米提亚对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:27.180Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

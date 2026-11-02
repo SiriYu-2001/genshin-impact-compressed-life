@@ -1,0 +1,142 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 77682,
+    "slug": "77682_the-army-that-stares-down-winter",
+    "title": "直面凛冬的军阵",
+    "chapter_num": "",
+    "premise": "女皇委托旅人代为检阅冬契军。",
+    "central_conflict": "冬契军要在没有女皇亲自指挥时验证战术，旅人也须接受实力考验。",
+    "summary": "薇斯纳邀请旅人以战斗方式检阅，雅洛维娅接过现场指挥。冬契军轮番牵制，薇斯纳准备在耗尽敌人体力后出手，但演练未使用拼命战术。女皇认可新阵型，薇斯纳认可旅人可在紧急情况下接任指挥，旅人也被安排陪同训练。",
+    "resolution": "冬契军获得赏赐并继续训练，旅人成为紧急情况下的司令候补。",
+    "themes": [
+      "军队",
+      "责任",
+      "战术"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77682,
+      "title": "直面凛冬的军阵",
+      "summary": "薇斯纳邀请旅人以战斗方式检阅，雅洛维娅接过现场指挥。冬契军轮番牵制，薇斯纳准备在耗尽敌人体力后出手，但演练未使用拼命战术。女皇认可新阵型，薇斯纳认可旅人可在紧急情况下接任指挥，旅人也被安排陪同训练。",
+      "turning_point": "冬契军获赏，旅人成为司令候补",
+      "outcome": "冬契军获得赏赐并继续训练，旅人成为紧急情况下的司令候补。",
+      "section_ids": [
+        "77682-c00-s01",
+        "77682-c00-s02"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "这次的任务似乎与薇斯纳有关，你和派蒙都怀疑会是恶作剧…",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77682-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "女皇安排旅人检阅冬契军",
+      "narrative_role": "setup",
+      "importance": 3,
+      "when": "定期检阅时",
+      "locations": [
+        "至冬宫",
+        "冬契军总部"
+      ],
+      "characters": [
+        "安娜丝塔夏",
+        "薇斯纳",
+        "旅人",
+        "派蒙",
+        "雅洛维娅"
+      ],
+      "summary": "薇斯纳先向旅人突袭试剑，被女皇责令领罚。女皇委托旅人以实战检阅冬契军，这次由雅洛维娅指挥，薇斯纳也准备了新战术。",
+      "motivation": "检验训练成果与旅人的实力",
+      "outcome": "双方准备在冬契军总部交手",
+      "keywords": [
+        "检阅",
+        "指挥",
+        "实战"
+      ],
+      "source_step_keys": [
+        "0",
+        "1"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7768201,
+          "title": "前往至冬宫",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7768202,
+          "title": "前往「冬契军」总部",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77682-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "轮番牵制战术通过实战检验",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "检阅期间",
+      "locations": [
+        "冬契军总部"
+      ],
+      "characters": [
+        "旅人",
+        "薇斯纳",
+        "雅洛维娅",
+        "安娜丝塔夏",
+        "派蒙"
+      ],
+      "summary": "冬契军纪律严整地轮换攻守，意在消耗强敌后由薇斯纳出手，并保留致命战术。女皇赞许阵型，薇斯纳认可旅人紧急接任的能力，女皇安排双方继续训练。",
+      "motivation": "检验军队应对强敌与应急指挥的能力",
+      "outcome": "冬契军获赏，旅人成为司令候补",
+      "keywords": [
+        "牵制",
+        "司令候补",
+        "训练"
+      ],
+      "source_step_keys": [
+        "2",
+        "3"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "2",
+          "id": 7768203,
+          "title": "与「冬契军」对战",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7768204,
+          "title": "汇报检阅成果",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:27.286Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

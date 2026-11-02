@@ -1,0 +1,88 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 70132,
+    "slug": "70132_a-toast-to-tomorrow",
+    "title": "敬向明日",
+    "chapter_num": "",
+    "premise": "各国伙伴在死兆星号上庆祝共同守护的片刻安宁。",
+    "central_conflict": "本篇没有明确的对立冲突，主要呈现众人庆祝合作并筹备后续协防。",
+    "summary": "众人在死兆星号上庆祝合作取得的成果，并为旅人与共同守护的希望举杯。魔物和判罚之钉的威胁仍在，琴与凝光准备商谈后续协防与联络，钟离提及最后的契约。",
+    "resolution": "众人珍惜片刻安宁，准备继续合作。",
+    "themes": [
+      "庆功宴",
+      "协防"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70132,
+      "title": "敬向明日",
+      "summary": "众人在死兆星号上庆祝合作取得的成果，并为旅人与共同守护的希望举杯。魔物和判罚之钉的威胁仍在，琴与凝光准备商谈后续协防与联络，钟离提及最后的契约。",
+      "turning_point": "原文未明确",
+      "outcome": "众人珍惜片刻安宁，准备继续合作",
+      "section_ids": [
+        "70132-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "死兆星号的甲板上，来自不同国度的人们共举同一杯酒，也共敬同一个尚未到来的明天。\\n庆功并非终点，而是为了彼此确认：希望仍在，同行之人亦在。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70132-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "各国伙伴在船上庆祝与筹划",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "法尔伽",
+        "北斗",
+        "派蒙",
+        "八重神子",
+        "凝光",
+        "甘雨",
+        "琴",
+        "旅人",
+        "钟离"
+      ],
+      "summary": "众人在死兆星号上庆祝合作取得的成果，并为旅人与共同守护的希望举杯。魔物和判罚之钉的威胁仍在，琴与凝光准备商谈后续协防与联络，钟离提及最后的契约。",
+      "motivation": "纪念共同努力并筹备后续协防",
+      "outcome": "众人珍惜片刻安宁，准备继续合作",
+      "keywords": [
+        "庆功宴",
+        "协防"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7013201,
+          "title": "敬向明日",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:25.857Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

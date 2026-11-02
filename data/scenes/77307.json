@@ -1,0 +1,264 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 77307,
+    "slug": "77307_for-a-sweeter-future",
+    "title": "为了更甜美的未来",
+    "chapter_num": "",
+    "premise": "旅人为梅斯特温寻找晶萤，途中遇到各自持有或涉及晶萤的人和霜精。",
+    "central_conflict": "旅人需要通过回答问题和比试等方式取得晶萤。",
+    "summary": "旅人回答切尔特科夫关于霜仙花花语的问题，获得孩子的晶萤。旅人还帮助怕虫的布乔诺夫，并参与霜精提出的赛跑。跑赢「哭哭脸」后，旅人获得晶萤，两只霜精也不再争吵。梅斯特温表示有了晶萤，花儿终于开放，并给予旅人报酬。",
+    "resolution": "梅斯特温继续照料开放的花朵。",
+    "themes": [
+      "帮助",
+      "信守诺言",
+      "公平",
+      "花朵"
+    ],
+    "context_ref_ids": []
+  },
+  "sections": [
+    {
+      "id": "77307-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "答对花语获得孩子的晶萤",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "寻找晶萤期间",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅人",
+        "切尔特科夫"
+      ],
+      "summary": "时间与地点未明确，旅人向切尔特科夫请求晶萤，孩子要求以回答问题交换。旅人答出霜仙花的花语是永不消逝的希望，切尔特科夫遵守诺言交出晶萤；其他回答则不能获得晶萤。",
+      "motivation": "为梅斯特温寻找晶萤",
+      "outcome": "旅人答对后获得晶萤。",
+      "keywords": [
+        "晶萤",
+        "霜仙花",
+        "花语"
+      ],
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "7",
+        "8",
+        "9",
+        "11"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7730707,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7730701,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7730705,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7730709,
+          "title": "为梅斯特温寻找晶萤",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7730708,
+          "title": "为梅斯特温寻找晶萤",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7730702,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "11",
+          "id": 7730703,
+          "title": "与梅斯特温对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77307-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "旅人帮助怕虫的布乔诺夫",
+      "narrative_role": "development",
+      "importance": 2,
+      "when": "寻找晶萤期间",
+      "locations": [
+        "花园"
+      ],
+      "characters": [
+        "旅人",
+        "布乔诺夫"
+      ],
+      "summary": "时间未明确，布乔诺夫在花园执勤时因怕虫而束手无策，旅人帮助了他。他感谢旅人，并打算考虑调岗以减少遇到虫子的机会。",
+      "motivation": "帮助受虫子困扰的布乔诺夫",
+      "outcome": "布乔诺夫继续执勤。",
+      "keywords": [
+        "花园",
+        "虫子",
+        "帮助"
+      ],
+      "source_step_keys": [
+        "3",
+        "6"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "3",
+          "id": 7730711,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "6",
+          "id": 7730704,
+          "title": "为梅斯特温寻找晶萤",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77307-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "赛跑解决霜精的晶萤争执",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "寻找晶萤期间",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "佐兰",
+        "「星星眼」",
+        "「哭哭脸」"
+      ],
+      "summary": "时间与地点未明确，「星星眼」和「哭哭脸」为共同抓到的晶萤争吵，旅人请求参与比赛。两只霜精同意以跑赢「哭哭脸」为条件交出晶萤；旅人获胜后，霜精不再为归属争吵。",
+      "motivation": "获取晶萤并公平解决霜精的争执",
+      "outcome": "旅人获得晶萤，两只霜精恢复高兴。",
+      "keywords": [
+        "霜精",
+        "赛跑",
+        "晶萤"
+      ],
+      "source_step_keys": [
+        "4",
+        "5",
+        "10"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "4",
+          "id": 7730712,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7730714,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 7730710,
+          "title": "",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77307-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "梅斯特温照料盛开的花",
+      "narrative_role": "resolution",
+      "importance": 3,
+      "when": "收集晶萤后",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "梅斯特温",
+        "旅人"
+      ],
+      "summary": "收集晶萤后，旅人与梅斯特温交谈，地点未明确。梅斯特温说有了晶萤花终于肯开，向旅人支付报酬后继续照料花朵。",
+      "motivation": "帮助花朵开放",
+      "outcome": "花儿开放，梅斯特温继续照料。",
+      "keywords": [
+        "花朵",
+        "晶萤",
+        "报酬"
+      ],
+      "source_step_keys": [
+        "11"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "11",
+          "id": 7730703,
+          "title": "与梅斯特温对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77307,
+      "title": "为了更甜美的未来",
+      "summary": "旅人为梅斯特温寻找晶萤，通过回答花语问题和与霜精赛跑取得晶萤，期间也帮助了怕虫的布乔诺夫。梅斯特温说花朵因此开放，给旅人报酬后继续照料。",
+      "turning_point": "旅人跑赢「哭哭脸」，解决两只霜精对晶萤归属的争执。",
+      "outcome": "梅斯特温的花开放，旅人获得报酬。",
+      "section_ids": [
+        "77307-c00-s01",
+        "77307-c00-s02",
+        "77307-c00-s03",
+        "77307-c00-s04"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "",
+      "is_hidden": false
+    }
+  ],
+  "generated": {
+    "at": "2026-11-02T06:32:26.939Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

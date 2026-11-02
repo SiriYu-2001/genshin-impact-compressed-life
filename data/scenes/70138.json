@@ -1,0 +1,84 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 70138,
+    "slug": "70138_companions-on-the-frost-road",
+    "title": "霜路同行",
+    "chapter_num": "",
+    "premise": "至冬民众向受灾较轻的挪德卡莱撤离。",
+    "central_conflict": "撤离途中运力紧张，需要霜月之子与愚人众合作护送民众。",
+    "summary": "霜月之子与愚人众合作将至冬伤员和民众护送至受灾较轻的挪德卡莱，并为老人孩子调配载具。菈乌玛向奈芙尔解释各地局势相互关联，双方在危机下发挥所长协助撤离。",
+    "resolution": "撤离与物资护送继续进行。",
+    "themes": [
+      "撤离",
+      "合作"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 70138,
+      "title": "霜路同行",
+      "summary": "霜月之子与愚人众合作将至冬伤员和民众护送至受灾较轻的挪德卡莱，并为老人孩子调配载具。菈乌玛向奈芙尔解释各地局势相互关联，双方在危机下发挥所长协助撤离。",
+      "turning_point": "原文未明确",
+      "outcome": "撤离与物资护送继续进行",
+      "section_ids": [
+        "70138-c00-s01"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "面对不断扩大的圣土化威胁，人们各自做出了改变。\\n旧日立场并未真正消失，但分歧被终需让位于更现实的选择——朋友与敌人，终究由形势决定，而此刻，他们必须同行。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "70138-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "霜月之子与愚人众协作撤离",
+      "narrative_role": "development",
+      "importance": 3,
+      "when": "时间未明确",
+      "locations": [
+        "地点未明确"
+      ],
+      "characters": [
+        "采什拉沃",
+        "诺瓦柯什卡",
+        "布古赫瓦尔",
+        "奈芙尔",
+        "菈乌玛"
+      ],
+      "summary": "霜月之子与愚人众合作将至冬伤员和民众护送至受灾较轻的挪德卡莱，并为老人孩子调配载具。菈乌玛向奈芙尔解释各地局势相互关联，双方在危机下发挥所长协助撤离。",
+      "motivation": "保护民众并避免灾情波及更广",
+      "outcome": "撤离与物资护送继续进行",
+      "keywords": [
+        "撤离",
+        "合作"
+      ],
+      "source_step_keys": [
+        "0"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7013801,
+          "title": "霜路同行",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:26.207Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "schema_version": "compressed-life-summary-v1",
+  "scene": {
+    "scene_id": 77241,
+    "slug": "77241_beneath-dust-and-snow",
+    "title": "覆于尘与雪",
+    "chapter_num": "",
+    "premise": "达妮卡奉命调查运输局，怀疑局长德罗金与匪帮勾结，却缺乏决定性证据。",
+    "central_conflict": "德罗金谨慎掩盖罪行，调查者必须追踪秘密联络并还原索科夫的死亡。",
+    "summary": "达妮卡请旅人与派蒙协助调查索科夫看似意外的落水案。众人破译密信、勘查接头地点，并从烧焦的纸屑推测嫌疑人转用报刊传信。至冬宫人员排查报纸后找到死者最后的接头地点，达妮卡在南港检出血迹和纤维。她据此推演伪装落水的手法，并要求德罗金摘下手套验证伤口。德罗金启动影域装置逃走，达妮卡继续组织追捕与整肃运输局。",
+    "resolution": "德罗金的犯罪动机、下落与其他涉案者仍待查明。风雪中的德罗金尚未放弃。",
+    "themes": [
+      "调查",
+      "腐败",
+      "伪装",
+      "追捕"
+    ],
+    "context_ref_ids": []
+  },
+  "chapters": [
+    {
+      "chapter_index": 0,
+      "chapter_id": 77241,
+      "title": "覆于尘与雪",
+      "summary": "达妮卡与旅人追查德罗金，通过密信、报刊和现场残留还原索科夫落水案的疑点。面对查验伤口的要求，德罗金借影域装置逃走，运输局的整肃和对其下落的追查仍在继续。",
+      "turning_point": "南港残留的血迹和纤维使达妮卡推断落水案是伪装。",
+      "outcome": "德罗金逃走，调查者继续追查其下落、动机和腐败同伙。",
+      "section_ids": [
+        "77241-c00-s01",
+        "77241-c00-s02",
+        "77241-c00-s03",
+        "77241-c00-s04",
+        "77241-c00-s05",
+        "77241-c00-s06"
+      ],
+      "context_ref_ids": [],
+      "source_file": "chapter_00.json",
+      "source_description": "运输局的职权在历史的更迭中曾数度扩张，如同一头巨兽，或是一座行宫，每时每刻都有组织在坏死，有灰尘在累积…如今正亟待「清理」。",
+      "is_hidden": false
+    }
+  ],
+  "sections": [
+    {
+      "id": "77241-c00-s01",
+      "chapter_index": 0,
+      "order": 1,
+      "title": "达妮卡请求协助调查运输局",
+      "narrative_role": "setup",
+      "importance": 4,
+      "when": "时间未明确",
+      "locations": [
+        "皇家轨道运输局"
+      ],
+      "characters": [
+        "达妮卡",
+        "德罗金",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "达妮卡调查运输局时受到局长德罗金周旋，索科夫落水案的卷宗尤其可疑。她向旅人和派蒙说明至冬宫怀疑德罗金勾结匪帮，但其功绩和谨慎使调查缺乏决定性证据，于是请两人协助追查索科夫的秘密联络。",
+      "motivation": "收集足以查明腐败的证据",
+      "outcome": "众人开始破译指向贝洛沃迪港接头地点的密信。",
+      "source_step_keys": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "keywords": [
+        "运输局",
+        "索科夫",
+        "密信"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "0",
+          "id": 7724101,
+          "title": "",
+          "is_hidden": false
+        },
+        {
+          "key": "1",
+          "id": 7724119,
+          "title": "前往运输局",
+          "is_hidden": false
+        },
+        {
+          "key": "2",
+          "id": 7724113,
+          "title": "与达妮卡「叙旧」",
+          "is_hidden": false
+        },
+        {
+          "key": "3",
+          "id": 7724118,
+          "title": "破译线索",
+          "is_hidden": false
+        },
+        {
+          "key": "4",
+          "id": 7724102,
+          "title": "与达妮卡对话",
+          "is_hidden": false
+        },
+        {
+          "key": "5",
+          "id": 7724114,
+          "title": "与达妮卡对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77241-c00-s02",
+      "chapter_index": 0,
+      "order": 2,
+      "title": "接头地点的纸屑指向报刊",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "破译密信后",
+      "locations": [
+        "贝洛沃迪港",
+        "皇家轨道运输局"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "达妮卡",
+        "德罗金"
+      ],
+      "summary": "旅人在可疑地点发现被清扫的地面和烧焦纸屑，并带回记录。达妮卡结合多种报纸残片推测嫌疑人改用报刊传递暗号，决定筛查刊物；她同时解释需以确凿证据查清德罗金及其腐化的缘由。",
+      "motivation": "验证接头地点并寻找新的联络方式",
+      "outcome": "调查转向报纸暗号。",
+      "source_step_keys": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "keywords": [
+        "清扫痕迹",
+        "纸屑",
+        "报刊"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "6",
+          "id": 7724103,
+          "title": "前往可疑的地点",
+          "is_hidden": false
+        },
+        {
+          "key": "7",
+          "id": 7724104,
+          "title": "调查可疑的地点",
+          "is_hidden": false
+        },
+        {
+          "key": "8",
+          "id": 7724105,
+          "title": "返回运输局",
+          "is_hidden": false
+        },
+        {
+          "key": "9",
+          "id": 7724106,
+          "title": "破译线索",
+          "is_hidden": false
+        },
+        {
+          "key": "10",
+          "id": 7724117,
+          "title": "与达妮卡对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77241-c00-s03",
+      "chapter_index": 0,
+      "order": 3,
+      "title": "排查报刊找到最后接头处",
+      "narrative_role": "investigation",
+      "importance": 4,
+      "when": "验证报纸暗号期间",
+      "locations": [
+        "贝洛沃迪港",
+        "皇家轨道运输局"
+      ],
+      "characters": [
+        "旅人",
+        "派蒙",
+        "达妮卡"
+      ],
+      "summary": "旅人与派蒙在另一可疑地点发现清理痕迹并击败魔物，验证了报刊传信的推测。达妮卡调动至冬宫下属逐份排查，找到索科夫死前两天刊出的密文，并与旅人一同前往其指向的地点。",
+      "motivation": "定位死者生前最后的会面地点",
+      "outcome": "众人锁定南港。",
+      "source_step_keys": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "keywords": [
+        "报刊",
+        "密文",
+        "接头"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "11",
+          "id": 7724107,
+          "title": "前往可疑的地点",
+          "is_hidden": false
+        },
+        {
+          "key": "12",
+          "id": 7724122,
+          "title": "击败突然冒出的魔物",
+          "is_hidden": false
+        },
+        {
+          "key": "13",
+          "id": 7724116,
+          "title": "击败突然冒出的魔物",
+          "is_hidden": false
+        },
+        {
+          "key": "14",
+          "id": 7724108,
+          "title": "返回运输局",
+          "is_hidden": false
+        },
+        {
+          "key": "15",
+          "id": 7724109,
+          "title": "破译线索",
+          "is_hidden": false
+        },
+        {
+          "key": "16",
+          "id": 7724110,
+          "title": "与达妮卡对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77241-c00-s04",
+      "chapter_index": 0,
+      "order": 4,
+      "title": "现场痕迹揭开落水案疑点",
+      "narrative_role": "revelation",
+      "importance": 5,
+      "when": "抵达南港后",
+      "locations": [
+        "南港"
+      ],
+      "characters": [
+        "达妮卡",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "达妮卡在被清理的南港现场检出血迹、疑似死者头发及绳索纤维，推断这里才是索科夫死亡的第一现场。她认为目击者看到的落水者与后来浮起的尸体可能并非一人，并决定当面质问德罗金。",
+      "motivation": "还原索科夫的死亡经过",
+      "outcome": "达妮卡前去寻找德罗金身上的最后证据。",
+      "source_step_keys": [
+        "17"
+      ],
+      "keywords": [
+        "血迹",
+        "纤维",
+        "第一现场"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "17",
+          "id": 7724111,
+          "title": "前往南港",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77241-c00-s05",
+      "chapter_index": 0,
+      "order": 5,
+      "title": "德罗金借影域逃离追查",
+      "narrative_role": "climax",
+      "importance": 5,
+      "when": "南港调查后",
+      "locations": [
+        "新基捷城下方"
+      ],
+      "characters": [
+        "达妮卡",
+        "德罗金",
+        "旅人",
+        "派蒙"
+      ],
+      "summary": "达妮卡结合德罗金的变装和泅渡经历，推演凶手事先沉尸、伪装落水并割绳使尸体浮起，可能割伤自己的手以制造血迹。她要求德罗金摘下手套查验伤口时，他启动藏好的影域发生装置逃走；达妮卡随即组织追查。",
+      "motivation": "以现场痕迹和嫌犯伤口突破伪装",
+      "outcome": "德罗金逃入影域，抓捕未能完成。",
+      "source_step_keys": [
+        "18"
+      ],
+      "keywords": [
+        "伪装落水",
+        "伤口",
+        "影域"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "18",
+          "id": 7724112,
+          "title": "返回新基捷城下方",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    },
+    {
+      "id": "77241-c00-s06",
+      "chapter_index": 0,
+      "order": 6,
+      "title": "运输局整肃与追捕继续",
+      "narrative_role": "resolution",
+      "importance": 4,
+      "when": "德罗金逃走后",
+      "locations": [
+        "皇家轨道运输局",
+        "地点未明确"
+      ],
+      "characters": [
+        "达妮卡",
+        "旅人",
+        "派蒙",
+        "德罗金"
+      ],
+      "summary": "旅人再访运输局时，达妮卡表示仍在搜集德罗金及其他腐败者的证据，并整肃运输局。索科夫之死的动机和德罗金的下落仍不明；另一处风雪中，德罗金尚在挣扎。",
+      "motivation": "追捕逃犯并清理运输局的腐败",
+      "outcome": "案件留下动机、同伙与逃犯下落等后续调查。",
+      "source_step_keys": [
+        "19"
+      ],
+      "keywords": [
+        "整肃",
+        "逃亡",
+        "未解动机"
+      ],
+      "context_ref_ids": [],
+      "source_steps": [
+        {
+          "key": "19",
+          "id": 7724115,
+          "title": "返回运输局与达妮卡对话",
+          "is_hidden": false
+        }
+      ],
+      "is_hidden": false
+    }
+  ],
+  "context_refs": [],
+  "generated": {
+    "at": "2026-11-02T06:32:26.697Z",
+    "generator": "Codex subagent",
+    "model": "gpt-6.1-terra",
+    "reasoning_effort": "high",
+    "prompt": "prompts/scene-summary-codex.zh.md"
+  }
+}
